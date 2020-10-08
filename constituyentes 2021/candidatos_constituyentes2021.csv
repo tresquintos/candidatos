@@ -21,9 +21,9 @@
 20,Coquimbo,4,5,Matias Orellana Cuellar,Unidad Constituyente,PS,interno
 21,Coquimbo,4,5,Patricio Rubio Aguirre,Unidad Constituyente,PS,interno
 22,Coquimbo,4,5,Alfredo Chaparro Uribe,Unidad Constituyente,PS,interno
-23,Valparaíso,5,6,Alejandra Toledo Figueroa,Frente Amplio,RD,interno
+23,Valparaíso,5,6,Alejandra Toledo,Frente Amplio,RD,interno
 24,Valparaíso,5,6,Ignacio Walker,Unidad Constituyente,DC,La Segunda 4 de septiembre
-25,Valparaíso,5,6,Carmen Obreque Sanchez,Unidad Constituyente,PS,interno
+25,Valparaíso,5,6,Carmen Obreque,Unidad Constituyente,PS,interno
 26,Valparaíso,5,6,Roberto Santa Cruz,Unidad Constituyente,PS,interno
 27,Valparaíso,5,6,Alfaro Diaz Sandoval,Unidad Constituyente,PS,interno
 28,Valparaíso,5,6,Jorge Morales Farias,Unidad Constituyente,PS,interno
@@ -33,7 +33,7 @@
 32,Valparaíso,5,7,Agustín Squella,Frente Amplio,PL,interno
 33,Valparaíso,5,7,Gloria Maira Vargas,Frente Amplio,RD,interno
 34,Valparaíso,5,7,Maria Oyarzun Solis,Frente Amplio,RD,interno
-35,Valparaíso,5,7,Paula Gutierrez Huenchileo,Unidad Constituyente,PS,interno
+35,Valparaíso,5,7,Paula Gutierrez,Unidad Constituyente,PS,interno
 36,Metropolitana,5.5,8,Ignacio Miranda Osorio,Frente Amplio,RD,interno
 37,Metropolitana,5.5,8,Maga Miranda Diz,Frente Amplio,RD,interno
 38,Metropolitana,5.5,8,Matias Mena Arriola,Frente Amplio,RD,interno
@@ -43,13 +43,13 @@
 42,Metropolitana,5.5,8,Camilo Lagos,Unidad Constituyente,PRO,La Segunda 4 de septiembre
 43,Metropolitana,5.5,8,Johnny Carrasco,Unidad Constituyente,PS,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional
 44,Metropolitana,5.5,8,Victor Saavedra Cortes,Unidad Constituyente,PS,interno
-45,Metropolitana,5.5,8,Oscar Sandoval Navarrete,Unidad Constituyente,PS,interno
+45,Metropolitana,5.5,8,Oscar Sandoval,Unidad Constituyente,PS,interno
 46,Metropolitana,5.5,8,Pedro Blaset Castro,Unidad Constituyente,PS,interno
 47,Metropolitana,5.5,8,Cindy Solis Ibarra,Unidad Constituyente,PS,interno
 48,Metropolitana,5.5,9,Karla Rubilar,Chile Vamos,RN,La Segunda 29 de septiembre
 49,Metropolitana,5.5,9,Camila Gonzalez Mora,Frente Amplio,RD,interno
 50,Metropolitana,5.5,9,Jorge Maldonado,Frente Amplio,RD,interno
-51,Metropolitana,5.5,9,Marcela Sandoval Osorio,Frente Amplio,RD,interno
+51,Metropolitana,5.5,9,Marcela Sandoval,Frente Amplio,RD,interno
 52,Metropolitana,5.5,9,Gaston Fuentealba,Unidad Constituyente,PS,interno
 53,Metropolitana,5.5,9,Nicolas Godoy Fuentes,Unidad Constituyente,PS,interno
 54,Metropolitana,5.5,9,Roberto Santa Cruz,Unidad Constituyente,PS,interno
@@ -62,9 +62,9 @@
 61,Metropolitana,5.5,10,Daniel Stingo,Frente Amplio,Ind,interno
 62,Metropolitana,5.5,10,Patricio Fernández,Frente Amplio,PL,https://twitter.com/VonKlugermann/status/1313495991044255747
 63,Metropolitana,5.5,10,Giovanna Roa,Frente Amplio,RD,La Segunda 4 de septiembre
-64,Metropolitana,5.5,10,Carlos Benítez Gajardo,Frente Amplio,RD,interno
+64,Metropolitana,5.5,10,Carlos Benítez,Frente Amplio,RD,interno
 65,Metropolitana,5.5,10,Cynthia Barria Leon,Frente Amplio,RD,interno
-66,Metropolitana,5.5,10,Estefania Andagur Soto,Frente Amplio,RD,interno
+66,Metropolitana,5.5,10,Estefania Andagur,Frente Amplio,RD,interno
 67,Metropolitana,5.5,10,Jose Ferrero Mariano,Frente Amplio,RD,interno
 68,Metropolitana,5.5,10,Matias Silva Allende,Frente Amplio,RD,interno
 69,Metropolitana,5.5,10,Paula Poblete Maureira,Frente Amplio,RD,interno
@@ -78,7 +78,7 @@
 77,Metropolitana,5.5,10,Laura Albornoz,Unidad Constituyente,DC,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional
 78,Metropolitana,5.5,10,Jorge Canales,Unidad Constituyente,DC,interno
 79,Metropolitana,5.5,10,Lucía López,Unidad Constituyente,PPD,https://twitter.com/lucialopezchile/status/1301990633406713857
-80,Metropolitana,5.5,10,Claudio Burgos Bobadilla,Unidad Constituyente,PS,interno
+80,Metropolitana,5.5,10,Claudio Burgos,Unidad Constituyente,PS,interno
 81,Metropolitana,5.5,10,Georgina Cortes Araya,Unidad Constituyente,PS,interno
 82,Metropolitana,5.5,10,Catalina Lagos Tschorne,Unidad Constituyente,PS,interno
 83,Metropolitana,5.5,10,Servando Omerovich,Unidad Constituyente,PS,interno
@@ -89,14 +89,14 @@
 88,Metropolitana,5.5,10,Matias Salazar Zegers,Unidad Constituyente,PS,interno
 89,Metropolitana,5.5,10,Raul Diaz Navarro,Unidad Constituyente,PS,interno
 90,Metropolitana,5.5,10,Carolina Garrido Silva,Unidad Constituyente,PS,interno
-91,Metropolitana,5.5,10,Esteban Vergara Edwards,Unidad Constituyente,PS,interno
+91,Metropolitana,5.5,10,Esteban Vergara,Unidad Constituyente,PS,interno
 92,Metropolitana,5.5,10,Maria Veglia Quintana,Unidad Constituyente,PS,interno
-93,Metropolitana,5.5,10,Nicolas Godoy Fuentes,Unidad Constituyente,PS,interno
-94,Metropolitana,5.5,10,Ricardo Montero Allende,Unidad Constituyente,PS,interno
+93,Metropolitana,5.5,10,Nicolas Godoy,Unidad Constituyente,PS,interno
+94,Metropolitana,5.5,10,Ricardo Montero,Unidad Constituyente,PS,interno
 95,Metropolitana,5.5,10,Roberto Santa Cruz,Unidad Constituyente,PS,interno
 96,Metropolitana,5.5,10,David Rojas Lizama,Unidad Constituyente,PS,interno
-97,Metropolitana,5.5,10,Hector Aranguiz Salazar,Unidad Constituyente,PS,interno
-98,Metropolitana,5.5,10,Santiago Mansilla Perez,Unidad Constituyente,PS,interno
+97,Metropolitana,5.5,10,Hector Aranguiz,Unidad Constituyente,PS,interno
+98,Metropolitana,5.5,10,Santiago Mansilla,Unidad Constituyente,PS,interno
 99,Metropolitana,5.5,10,Gutenberg Martínez,,,La Segunda 4 de septiembre
 100,Metropolitana,5.5,11,Raphael Bergoeing,Chile Vamos,Evopoli,interno
 101,Metropolitana,5.5,11,Fernando Atria,Frente Amplio,Ind,La Segunda 4 de septiembre
