@@ -29,10 +29,10 @@
 28,Valparaíso,5,6,Jorge Morales Farias,Unidad Constituyente,PS,interno
 29,Valparaíso,5,6,Sergio Olivares Palma,Unidad Constituyente,PS,interno
 30,Valparaíso,5,7,Arturo Squella,Chile Vamos,UDI,La Segunda 29 de septiembre
-31,Valparaíso,5,7,Agustín Squella,Frente Amplio,PL,interno
-32,Valparaíso,5,7,Gloria Maira Vargas,Frente Amplio,RD,interno
-33,Valparaíso,5,7,Maria Oyarzun Solis,Frente Amplio,RD,interno
-34,Valparaíso,5,7,Jaime Bassa,Frente Amplio,Ind,interno
+31,Valparaíso,5,7,Jaime Bassa,Frente Amplio,Ind,interno
+32,Valparaíso,5,7,Agustín Squella,Frente Amplio,PL,interno
+33,Valparaíso,5,7,Gloria Maira Vargas,Frente Amplio,RD,interno
+34,Valparaíso,5,7,Maria Oyarzun Solis,Frente Amplio,RD,interno
 35,Valparaíso,5,7,Paula Gutierrez Huenchileo,Unidad Constituyente,PS,interno
 36,Metropolitana,5.5,8,Ignacio Miranda Osorio,Frente Amplio,RD,interno
 37,Metropolitana,5.5,8,Maga Miranda Diz,Frente Amplio,RD,interno
@@ -99,10 +99,10 @@
 98,Metropolitana,5.5,10,Santiago Mansilla Perez,Unidad Constituyente,PS,interno
 99,Metropolitana,5.5,10,Gutenberg Martínez,,,La Segunda 4 de septiembre
 100,Metropolitana,5.5,11,Raphael Bergoeing,Chile Vamos,Evopoli,interno
-101,Metropolitana,5.5,11,Carolina Perez Dattari,Frente Amplio,RD,interno
-102,Metropolitana,5.5,11,Ignacio Cruz Torres,Frente Amplio,RD,interno
-103,Metropolitana,5.5,11,Gloria Maira Vargas,Frente Amplio,RD,interno
-104,Metropolitana,5.5,11,Fernando Atria,Frente Amplio,Ind,La Segunda 4 de septiembre
+101,Metropolitana,5.5,11,Fernando Atria,Frente Amplio,Ind,La Segunda 4 de septiembre
+102,Metropolitana,5.5,11,Carolina Perez Dattari,Frente Amplio,RD,interno
+103,Metropolitana,5.5,11,Ignacio Cruz Torres,Frente Amplio,RD,interno
+104,Metropolitana,5.5,11,Gloria Maira Vargas,Frente Amplio,RD,interno
 105,Metropolitana,5.5,11,Elisa Walker,Unidad Constituyente,DC,interno
 106,Metropolitana,5.5,11,Soledad Alvear,Unidad Constituyente,DC,https://www.chvnoticias.cl/nacional/plebiscito-2020-nombres-candidatos-convencion-constituyente_20200907/
 107,Metropolitana,5.5,11,Paulina Soriano Fuenzalida,Unidad Constituyente,PS,interno
@@ -207,11 +207,11 @@
 206,s/i,s/i,s/i,Klaus Schmidt-Hebbel,Chile Vamos,Evopoli,La Segunda 29 de septiembre
 207,s/i,s/i,s/i,Gloria Hutt,Chile Vamos,Evopoli,La Segunda 29 de septiembre
 208,s/i,s/i,s/i,Gonzalo Blumel,Chile Vamos,Evopoli,La Segunda 29 de septiembre
-209,s/i,s/i,s/i,Beatriz Hevia,Chile Vamos,PREP,La Segunda 29 de septiembre
-210,s/i,s/i,s/i,José Carlos Meza,Chile Vamos,PREP,La Segunda 29 de septiembre
-211,s/i,s/i,s/i,Víctor Melinao,Chile Vamos,PREP,La Segunda 29 de septiembre
-212,s/i,s/i,s/i,Jorge Barrera,Chile Vamos,PREP,La Segunda 29 de septiembre
-213,s/i,s/i,s/i,José Ferrada,Chile Vamos,PRI,La Segunda 29 de septiembre
+209,s/i,s/i,s/i,José Ferrada,Chile Vamos,PRI,La Segunda 29 de septiembre
+210,s/i,s/i,s/i,Beatriz Hevia,Chile Vamos,Republicano,La Segunda 29 de septiembre
+211,s/i,s/i,s/i,José Carlos Meza,Chile Vamos,Republicano,La Segunda 29 de septiembre
+212,s/i,s/i,s/i,Víctor Melinao,Chile Vamos,Republicano,La Segunda 29 de septiembre
+213,s/i,s/i,s/i,Jorge Barrera,Chile Vamos,Republicano,La Segunda 29 de septiembre
 214,s/i,s/i,s/i,Graciela Ortúzar,Chile Vamos,RN,La Segunda 29 de septiembre
 215,s/i,s/i,s/i,Katherine Martorell,Chile Vamos,RN,La Segunda 29 de septiembre
 216,s/i,s/i,s/i,Baldo Prokurica,Chile Vamos,RN,La Segunda 29 de septiembre
@@ -255,8 +255,8 @@
 254,s/i,s/i,s/i,Lautaro Carmona,Unidad para el Cambio,PC,La Segunda 4 de septiembre
 255,s/i,s/i,s/i,Rosa Vilches,,Ind,https://twitter.com/NoNeutrales/status/1311763217346113540
 256,s/i,s/i,s/i,Alejandra Sepúlveda,,Ind,https://twitter.com/NoNeutrales/status/1311763217346113540
-257,s/i,s/i,s/i,Valentina Maltés,,PH,La Segunda 4 de septiembre
-258,s/i,s/i,s/i,Zarko Luksic,,Ind,La Segunda 4 de septiembre
+257,s/i,s/i,s/i,Zarko Luksic,,Ind,La Segunda 4 de septiembre
+258,s/i,s/i,s/i,Valentina Maltés,,PH,La Segunda 4 de septiembre
 259,s/i,s/i,s/i,Felipe Sandoval,,,La Segunda 4 de septiembre
 260,s/i,s/i,s/i,Luis Mesina,,,La Segunda 4 de septiembre
 261,s/i,s/i,s/i,Ana María Gazmuri,,,La Segunda 4 de septiembre
