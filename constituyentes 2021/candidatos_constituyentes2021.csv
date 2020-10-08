@@ -1,11 +1,11 @@
 ﻿id,región,region2,distrito,nombre,lista,partido,fuente
 1,Arica,0.5,1,Rosa Cortez Contreras,Unidad Constituyente,PS,interno
-2,Tarapaca,1,2,Julio Ruiz Fernandez,Unidad Constituyente,PS,interno
+2,Tarapaca,1,2,Julio Ruiz Fernández,Unidad Constituyente,PS,interno
 3,Antofagasta,2,3,Felipe Ward,Chile Vamos,UDI,La Segunda 29 de septiembre
 4,Antofagasta,2,3,Cristián Cuevas,Frente Amplio,CS,https://twitter.com/TitoAed0/status/1313486749457408006
 5,Antofagasta,2,3,Catalina Cortés Godoy,Frente Amplio,RD,interno
 6,Antofagasta,2,3,Dario Espinoza Pizarro,Frente Amplio,RD,interno
-7,Antofagasta,2,3,Llankiray Diaz Diaz,Frente Amplio,RD,interno
+7,Antofagasta,2,3,Llankiray Díaz Díaz,Frente Amplio,RD,interno
 8,Antofagasta,2,3,Lorena Cisternas Mondaca,Frente Amplio,RD,interno
 9,Antofagasta,2,3,Romina Ávalos Vergara,Frente Amplio,RD,interno
 10,Antofagasta,2,3,Aurora Williams,Unidad Constituyente,PR,La Segunda 4 de septiembre
@@ -64,7 +64,7 @@
 63,Metropolitana,5.5,10,Giovanna Roa,Frente Amplio,RD,La Segunda 4 de septiembre
 64,Metropolitana,5.5,10,Carlos Benítez,Frente Amplio,RD,interno
 65,Metropolitana,5.5,10,Cynthia Barría Leon,Frente Amplio,RD,interno
-66,Metropolitana,5.5,10,Estefania Andagur,Frente Amplio,RD,interno
+66,Metropolitana,5.5,10,Estefanía Andagur,Frente Amplio,RD,interno
 67,Metropolitana,5.5,10,José Ferrero Mariano,Frente Amplio,RD,interno
 68,Metropolitana,5.5,10,Matías Silva Allende,Frente Amplio,RD,interno
 69,Metropolitana,5.5,10,Paula Poblete Maureira,Frente Amplio,RD,interno
@@ -115,7 +115,7 @@
 114,Metropolitana,5.5,11,Roberto Santa Cruz,Unidad Constituyente,PS,interno
 115,Metropolitana,5.5,11,Juan Cantuarias,Unidad Constituyente,PS,interno
 116,Metropolitana,5.5,11,Roberto Amaro Castillo,Unidad Constituyente,PS,interno
-117,Metropolitana,5.5,11,Laura Echeverria Correa,Unidad Constituyente,PS,interno
+117,Metropolitana,5.5,11,Laura Echeverría Correa,Unidad Constituyente,PS,interno
 118,Metropolitana,5.5,11,Juan Enrique Pi,,,interno
 119,Metropolitana,5.5,11,Mariana Aylwin,,,interno
 120,Metropolitana,5.5,11,Mario Waissbluth,,,https://twitter.com/EduardodeAguirr/status/1313537087682097152
@@ -143,7 +143,7 @@
 142,Metropolitana,5.5,14,Paz Gajardo Daneri,Frente Amplio,RD,interno
 143,Metropolitana,5.5,14,Ana Martínez Chamorro,Frente Amplio,RD,interno
 144,Metropolitana,5.5,14,Denise Pascal,Unidad Constituyente,PS,La Segunda 4 de septiembre
-145,Metropolitana,5.5,14,Christian Segovia Cabello,Unidad Constituyente,PS,interno
+145,Metropolitana,5.5,14,Christián Segovia Cabello,Unidad Constituyente,PS,interno
 146,Metropolitana,5.5,14,José Vásquez Silva,Unidad Constituyente,PS,interno
 147,Metropolitana,5.5,14,Fabiola Freire Aguilar,Unidad Constituyente,PS,interno
 148,Metropolitana,5.5,14,Manuel Covarrubias Donoso,Unidad Constituyente,PS,interno
@@ -180,7 +180,7 @@
 179,Bío-Bío,8,20,Iván Pérez Muñoz,Unidad Constituyente,PS,interno
 180,Bío-Bío,8,20,José Silva Inostroza,Unidad Constituyente,PS,interno
 181,Bío-Bío,8,20,Domingo Ramos,Unidad Constituyente,PS,interno
-182,Bío-Bío,8,20,Andres Smith Bustos,Unidad Constituyente,PS,interno
+182,Bío-Bío,8,20,Andrés Smith Bustos,Unidad Constituyente,PS,interno
 183,Bío-Bío,8,20,Alejandro Ugarte,Unidad Constituyente,PS,interno
 184,Bío-Bío,8,20,María Viveros Ovando,Unidad Constituyente,PS,interno
 185,Bío-Bío,8,21,Camilo Escalona,Unidad Constituyente,PS,https://www.chvnoticias.cl/nacional/plebiscito-2020-nombres-candidatos-convencion-constituyente_20200907/
@@ -193,7 +193,7 @@
 192,Los Lagos,10,25,Daniela Carvacho,Frente Amplio,RD,interno
 193,Los Lagos,10,25,Pedro Glatz Brahm,Frente Amplio,RD,interno
 194,Los Lagos,10,26,Esteban Vielma,Frente Amplio,RD,interno
-195,Los Lagos,10,26,Freddy Calderon,Frente Amplio,RD,interno
+195,Los Lagos,10,26,Freddy Calderón,Frente Amplio,RD,interno
 196,Los Lagos,10,26,Rodrigo Díaz Choque,Frente Amplio,RD,interno
 197,Los Lagos,10,26,Álvaro Seguel Solis,Unidad Constituyente,PS,interno
 198,Los Lagos,10,26,Julio Alvarez Pinto,Unidad Constituyente,PS,interno
