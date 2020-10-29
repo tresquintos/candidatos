@@ -1,15 +1,15 @@
 ﻿id,region,región,nombre,Lista,partido,sexo
 15,1,Arica,Jorge Díaz,Unidad Constituyente,DC,0
 16,1,Arica,Jacqueline Castillo,Unidad Constituyente,PR,1
-76,2,Tarapacá,Juan Carlos Carvallo,Frente Amplio,Comunes,0
-79,2,Tarapacá,Jose Carvajal,Frente Amplio,Comunes,0
-77,2,Tarapacá,Norma Cordova,Unidad Constituyente,DC,1
-78,2,Tarapacá,Felipe Rojas,Chile Vamos,EVO,0
-80,2,Tarapacá,Marco Pérez,Unidad Constituyente,Ind,0
-84,2,Tarapacá,Roxana Vigueras,Frente Amplio,PL,1
-81,2,Tarapacá,Rubén Berríos,Unidad Constituyente,PS,0
-82,2,Tarapacá,Espartago Ferrari,Chile Vamos,RN,0
-83,2,Tarapacá,Jorge Fistonic,Chile Vamos,UDI,0
+77,2,Tarapacá,Juan Carlos Carvallo,Frente Amplio,Comunes,0
+78,2,Tarapacá,Norma Cordova,Unidad Constituyente,DC,1
+79,2,Tarapacá,Felipe Rojas,Chile Vamos,EVO,0
+80,2,Tarapacá,Jose Carvajal,Frente Amplio,Comunes,0
+81,2,Tarapacá,Marco Pérez,Unidad Constituyente,Ind,0
+82,2,Tarapacá,Rubén Berríos,Unidad Constituyente,PS,0
+83,2,Tarapacá,Espartago Ferrari,Chile Vamos,RN,0
+84,2,Tarapacá,Jorge Fistonic,Chile Vamos,UDI,0
+85,2,Tarapacá,Roxana Vigueras,Frente Amplio,PL,1
 1,3,Antofagasta,Arturo Molina,Unidad Constituyente,DC,0
 2,3,Antofagasta,Sacha Razmilic,Chile Vamos,EVO,0
 3,3,Antofagasta,Eslayne Portilla,Chile Vamos,Ind,0
@@ -28,11 +28,11 @@
 40,5,Coquimbo,Rodrigo Bravo,Unidad Constituyente,Ind,0
 41,5,Coquimbo,Adriana Peñafiel,Chile Vamos,RN,1
 42,5,Coquimbo,Marco Sulantay,Chile Vamos,UDI,0
-85,6,Valparaíso,Nataly Campusano,Frente Amplio,Convergencia Social,1
-86,6,Valparaíso,Cristián Mella,Unidad Constituyente,DC,0
-87,6,Valparaíso,Aldo Valle,Unidad Constituyente,Ind,0
-88,6,Valparaíso,Rodrigo Mundaca,Frente Amplio,Ind,0
-89,6,Valparaíso,Juan García,Frente Amplio,PL,0
+86,6,Valparaíso,Nataly Campusano,Frente Amplio,Convergencia Social,1
+87,6,Valparaíso,Cristián Mella,Unidad Constituyente,DC,0
+88,6,Valparaíso,Aldo Valle,Unidad Constituyente,Ind,0
+89,6,Valparaíso,Rodrigo Mundaca,Frente Amplio,Ind,0
+90,6,Valparaíso,Juan García,Frente Amplio,PL,0
 67,7,O´Higgins,Juan Carlos Latorre,Unidad Constituyente,DC,0
 68,7,O´Higgins,Fernando Verdugo,Unidad Constituyente,PR,0
 69,7,O´Higgins,Pablo Silva,Unidad Constituyente,PS,0
@@ -43,22 +43,22 @@
 62,8,Maule,George Bordachar,Chile Vamos,RN,0
 63,8,Maule,César Muñoz,Chile Vamos,UDI,0
 31,9,Bío Bío,Eric Aedo,Unidad Constituyente,DC,0
-36,9,Bío Bío,Mayerlin Suárez,Ecologistas e independientes,PEV,1
-37,9,Bío Bío,Ximena Larenas,Ecologistas e independientes,PEV,1
 32,9,Bío Bío,César Arriagada,Unidad Constituyente,PPD,0
 33,9,Bío Bío,Juan Sebastián Reyes,Unidad Constituyente,PR,0
 34,9,Bío Bío,Jonatan Díaz,Unidad Constituyente,PRO,0
 35,9,Bío Bío,Enrique Inostroza,Unidad Constituyente,PS,0
+36,9,Bío Bío,Mayerlin Suárez,Ecologistas e independientes,PEV,1
+37,9,Bío Bío,Ximena Larenas,Ecologistas e independientes,PEV,1
 64,9.5,Ñuble,Herex Fuentes,Unidad Constituyente,DC,0
 65,9.5,Ñuble,Cristián Ortíz,Unidad Constituyente,PR,0
 66,9.5,Ñuble,Óscar Crisóstomo,Unidad Constituyente,PS,0
 8,10,Araucanía,Eduardo Vicencio,Unidad Constituyente,DC,0
-13,10,Araucanía,Mauricio Breit,Ecologistas e independientes,Ind,0
-14,10,Araucanía,Luis Levi,Ecologistas e independientes,Ind,0
-11,10,Araucanía,Maria Irribarra,Ecologistas e independientes,PEV,1
-12,10,Araucanía,Ivan Rojas,Ecologistas e independientes,PEV,0
 9,10,Araucanía,Eugenio Tuma,Unidad Constituyente,PPD,0
 10,10,Araucanía,Nora Barrientos,Unidad Constituyente,PS,1
+11,10,Araucanía,Maria Irribarra,Ecologistas e independientes,PEV,1
+12,10,Araucanía,Ivan Rojas,Ecologistas e independientes,PEV,0
+13,10,Araucanía,Mauricio Breit,Ecologistas e independientes,Ind,0
+14,10,Araucanía,Luis Levi,Ecologistas e independientes,Ind,0
 49,11,Los Ríos,Exequiel Silva,Unidad Constituyente,DC,0
 50,11,Los Ríos,Margot Cárdenas,Chile Vamos,EVO,1
 51,11,Los Ríos,Eduardo Holck,Chile Vamos,Ind,0
@@ -66,17 +66,17 @@
 53,11,Los Ríos,Eduardo Rosas,Unidad Constituyente,PR,0
 54,11,Los Ríos,Luis Cuvertino,Unidad Constituyente,PS,0
 55,11,Los Ríos,María José Gatica,Chile Vamos,RN,1
-47,12,Los Lagos,Pamela Leal,Frente Amplio,Comunes,1
 43,12,Los Lagos,Patricio Vallespin,Unidad Constituyente,DC,0
 44,12,Los Lagos,Leonardo de la Prida,Unidad Constituyente,Ind,0
 45,12,Los Lagos,Nofal Abud,Unidad Constituyente,PR,0
 46,12,Los Lagos,Francisco Reyes,Unidad Constituyente,PS,0
+47,12,Los Lagos,Pamela Leal,Frente Amplio,Comunes,1
 48,12,Los Lagos,Jaime Sáez,Frente Amplio,RD,0
 23,13,Aysén,Felipe Klein,Unidad Constituyente,DC,0
 24,13,Aysén,Orlando Baesler ,Chile Vamos,Ind,0
-27,13,Aysén,Luis Cortés,Unidad Constituyente,Ind,0
 25,13,Aysén,Humberto Marín,Unidad Constituyente,PPD,0
 26,13,Aysén,Gustavo Villarroel,Unidad Constituyente,PR,0
+27,13,Aysén,Luis Cortés,Unidad Constituyente,Ind,0
 28,13,Aysén,Andrea Macías,Unidad Constituyente,PS,1
 29,13,Aysén,Raúl Rudolphi,Chile Vamos,RN,0
 30,13,Aysén,Oscar Catalán,Chile Vamos,UDI,0
@@ -84,7 +84,8 @@
 57,14,Magallanes,Jorge Flies,Unidad Constituyente,Ind,0
 70,15,Metropolitana,Karina Oliva,Frente Amplio,Comunes,1
 71,15,Metropolitana,Claudio Orrego,Unidad Constituyente,DC,0
-75,15,Metropolitana,María José Cumplido,Frente Amplio,PL,1
 72,15,Metropolitana,Helia Molina,Unidad Constituyente,PPD,1
 73,15,Metropolitana,Álvaro Erazo,Unidad Constituyente,PS,0
 74,15,Metropolitana,Sebastián Depolo,Frente Amplio,RD,0
+75,15,Metropolitana,María José Cumplido,Frente Amplio,PL,1
+76,15,Metropolitana,Claudia Pascual,Unidad para el Cambio,PC,0
