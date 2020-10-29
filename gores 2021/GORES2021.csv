@@ -1,6 +1,6 @@
 ﻿id,region,región,nombre,Lista,partido,sexo
-15,1,Arica y Parinacota,Jorge Díaz,Unidad Constituyente,DC,0
-16,1,Arica y Parinacota,Jacqueline Castillo,Unidad Constituyente,PR,1
+15,1,Arica,Jorge Díaz,Unidad Constituyente,DC,0
+16,1,Arica,Jacqueline Castillo,Unidad Constituyente,PR,1
 76,2,Tarapacá,Juan Carlos Carvallo,Frente Amplio,Comunes,0
 79,2,Tarapacá,Jose Carvajal,Frente Amplio,Comunes,0
 77,2,Tarapacá,Norma Cordova,Unidad Constituyente,DC,1
@@ -43,8 +43,8 @@
 62,8,Maule,George Bordachar,Chile Vamos,RN,0
 63,8,Maule,César Muñoz,Chile Vamos,UDI,0
 31,9,Bío Bío,Eric Aedo,Unidad Constituyente,DC,0
-36,9,Chiguayante,Mayerlin Suárez,Ecologistas e independientes,PEV,1
-37,9,Chiguayante,Ximena Larenas,Ecologistas e independientes,PEV,1
+36,9,Bío Bío,Mayerlin Suárez,Ecologistas e independientes,PEV,1
+37,9,Bío Bío,Ximena Larenas,Ecologistas e independientes,PEV,1
 32,9,Bío Bío,César Arriagada,Unidad Constituyente,PPD,0
 33,9,Bío Bío,Juan Sebastián Reyes,Unidad Constituyente,PR,0
 34,9,Bío Bío,Jonatan Díaz,Unidad Constituyente,PRO,0
@@ -82,9 +82,9 @@
 30,13,Aysén,Oscar Catalán,Chile Vamos,UDI,0
 56,14,Magallanes,Juan Francisco Miranda,Unidad Constituyente,DC,0
 57,14,Magallanes,Jorge Flies,Unidad Constituyente,Ind,0
-70,15,RM,Karina Oliva,Frente Amplio,Comunes,1
-71,15,RM,Claudio Orrego,Unidad Constituyente,DC,0
-75,15,RM,María José Cumplido,Frente Amplio,PL,1
-72,15,RM,Helia Molina,Unidad Constituyente,PPD,1
-73,15,RM,Álvaro Erazo,Unidad Constituyente,PS,0
-74,15,RM,Sebastián Depolo,Frente Amplio,RD,0
+70,15,Metropolitana,Karina Oliva,Frente Amplio,Comunes,1
+71,15,Metropolitana,Claudio Orrego,Unidad Constituyente,DC,0
+75,15,Metropolitana,María José Cumplido,Frente Amplio,PL,1
+72,15,Metropolitana,Helia Molina,Unidad Constituyente,PPD,1
+73,15,Metropolitana,Álvaro Erazo,Unidad Constituyente,PS,0
+74,15,Metropolitana,Sebastián Depolo,Frente Amplio,RD,0
