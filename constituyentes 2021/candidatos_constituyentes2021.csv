@@ -57,7 +57,6 @@
 388,Valparaíso,5,6,Miguel Botto,Miguel Botto,No Neutrales,Ind,Ind,No Neutrales,30-11-2020,,,0
 48,Valparaíso,5,7,Constanza Valdés,Constanza Valdés,Frente Amplio,Comunes,Comunes,La Segunda,29-10-2020,.,.,1
 49,Valparaíso,5,7,Jaime Bassa,Jaime Bassa,Frente Amplio,Ind,Ind,Interno,.,.,.,0
-50,Valparaíso,5,7,Agustín Squella,Agustín Squella,Frente Amplio,PL,PL,Interno,.,.,.,0
 51,Valparaíso,5,7,Paula Gutiérrez,Paula Gutiérrez,Unidad Constituyente,PS,PS,Interno,.,.,.,1
 52,Valparaíso,5,7,María Oyarzún Solis,María Oyarzún Solis,Frente Amplio,RD,RD,Interno,.,.,.,1
 53,Valparaíso,5,7,Arturo Squella,Arturo Squella,Chile Vamos,UDI,UDI,La Segunda,29-09-2020,.,.,0
@@ -68,6 +67,7 @@
 57,Valparaíso,5,999,Francisca Desbordes,Francisca Desbordes,Chile Vamos,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
 58,Valparaíso,5,999,Carlos Ominami,Carlos Ominami,Unidad Constituyente,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 59,Valparaíso,5,999,Jeanette Vega,Jeanette Vega,Unidad Constituyente,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+50,Valparaíso,5,7,Agustín Squella,Agustín Squella,Partido Liberal,PL,PL,Interno,.,.,.,0
 61,Metropolitana,5.5,8,Rodrigo Rettig,Rodrigo Rettig,Unidad Constituyente,CIU,CIU,Interno,.,.,.,0
 62,Metropolitana,5.5,8,Doris González,Doris González,Frente Amplio,Comunes,Comunes,La Segunda,29-10-2020,.,.,1
 63,Metropolitana,5.5,8,Luis Sierra,Luis Sierra,Frente Amplio,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
@@ -139,6 +139,7 @@
 124,Metropolitana,5.5,10,Carlos Benítez,Carlos Benítez,Frente Amplio,RD,RD,Interno,.,.,.,0
 125,Metropolitana,5.5,10,Paula Poblete,Paula Poblete,Frente Amplio,RD,RD,Interno,.,.,.,1
 126,Metropolitana,5.5,10,Jorge Schaulsohn,Jorge Schaulsohn,Independiente,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2029,.,0
+192,Metropolitana,5.5,10,José Murillo,José Murillo,No Neutrales,Ind,Ind,No Neutrales,,,,0
 323,Metropolitana,5.5,10,Jorge Baradit,Jorge Baradit,Unidad Constituyente,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2031,https://www.theclinic.cl/2020/09/03/jorge-baradit-lo-he-pensado-muchisimo-y-tengo-todo-el-interes-de-ser-candidato-a-la-convencion-constituyente/,0
 324,Metropolitana,5.5,10,Patricia Politzer,Patricia Politzer,No Neutrales,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2032,https://twitter.com/patriciapolitz/status/1326913275829882881,1
 351,Metropolitana,5.5,10,Pablo Morris,Pablo Morris Keller,No Neutrales,Ind,Ind,No Neutrales,13-11-2020,,,0
@@ -162,13 +163,9 @@
 144,Metropolitana,5.5,11,Pablo González,Pablo González,Chile Vamos,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,0
 145,Metropolitana,5.5,11,Karin Ebensperger,Karin Ebensperger,Chile Vamos,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
 146,Metropolitana,5.5,11,Juan Enrique Pi,Juan Enrique Pi,Unidad Constituyente,Ind,Ind,Interno,.,.,.,0
-147,Metropolitana,5.5,11,Mario Waissbluth,Mario Waissbluth,,,,Twitter,.,https://twitter.com/EduardodeAguirr/status/1313537087682097152,.,0
-148,Metropolitana,5.5,11,Marta Lagos,Marta Lagos,,,,Twitter,.,https://twitter.com/mmlagoscc/status/1313553356816896001,.,1
-149,Metropolitana,5.5,11,Henry Boys,Henry Boys,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2030,https://twitter.com/realHenryBoys/status/1320531241452666885,0
 150,Metropolitana,5.5,11,Claudia Hasbún,Claudia Hasbún,Frente Amplio,CS,CS,DM Facebook,,,,1
 151,Metropolitana,5.5,11,Marcelo Ferrari,Marcelo Ferrari,Frente Amplio,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 189,Metropolitana,5.5,11,Juan Pablo Larenas,Juan Pablo Larenas,No Neutrales,Ind,Ind,No Neutrales,,,,0
-319,Metropolitana,5.5,11,Giovanna Grandón,Giovanna Grandón,del Pueblo,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,https://www.t13.cl/noticia/nacional/tia-pikachu-ano-del-estallido-social-me-quiero-postular-constituyente,1
 321,Metropolitana,5.5,11,Verónica Undurraga,Verónica Undurraga,No Neutrales,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2026,https://www.independientesnoneutrales.cl/candidaturas/,1
 352,Metropolitana,5.5,11,Felipe Vera,Felipe Vera Peñaloza,No Neutrales,Ind,Ind,No Neutrales,13-11-2020,.,.,0
 353,Metropolitana,5.5,11,Pablo Carrasco,Pablo Carrasco Villablanca,No Neutrales,Ind,Ind,No Neutrales,13-11-2020,,,0
@@ -189,6 +186,7 @@
 165,Metropolitana,5.5,12,Julio Pizarro Saavedra,Julio Pizarro Saavedra,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 166,Metropolitana,5.5,12,Patricio Espinoza,Patricio Espinoza,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 167,Metropolitana,5.5,12,Margarita Portuguez,Margarita Portuguez,Frente Amplio,RD,RD,Interno,.,.,.,1
+319,Metropolitana,5.5,12,Giovanna Grandón,Giovanna Grandón,del Pueblo,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,https://www.t13.cl/noticia/nacional/tia-pikachu-ano-del-estallido-social-me-quiero-postular-constituyente,1
 383,Metropolitana,5.5,12,Juan José Martín,Juan José Martín,Independiente,Ind,Ind,Interno,25-11-2020,https://www.instagram.com/juanjo.constituyente/,.,0
 390,Metropolitana,5.5,12,Paola Romero,Paola Romero,No Neutrales,Ind,Ind,No Neutrales,30-11-2020,,,1
 398,Metropolitana,5.5,12,Iona Rothfeld,Iona Rothfeld,No Neutrales,Ind,Ind,Publimetro,02-12-2020,https://www.publimetro.cl/cl/grafico-chile/2020/12/02/iona-rothfeld-futbolista-constituyente.html,.,1
@@ -220,20 +218,24 @@
 94,Metropolitana,5.5,999,Roberto Santa Cruz,Roberto Santa Cruz,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 190,Metropolitana,5.5,999,Alejandra Sepúlveda,Alejandra Sepúlveda,No Neutrales,Ind,Ind,Twitter,.,https://twitter.com/NoNeutrales/status/1311763217346113540,.,1
 191,Metropolitana,5.5,999,Ernesto Garrat,Ernesto Garrat,No Neutrales,Ind,Ind,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2024,.,0
-192,Metropolitana,5.5,10,José Murillo,José Murillo,No Neutrales,Ind,Ind,No Neutrales,,,,0
 344,Metropolitana,5.5,999,Arturo Zúñiga,Arturo Zúñiga Jory,Chile Vamos,UDI,UDI,La Tercera,04-11-2020,https://www.latercera.com/nacional/noticia/arturo-zuniga-jory-exsubsecretario-de-redes-asistenciales-me-han-solicitado-ser-candidato-en-algunas-de-las-elecciones-que-vienen/GHYB5PYP65AFRKIMG7UUTIZCJ4/,https://www.cnnchile.com/pais/arturo-zuniga-candidatura-parlamentario-constituyente-udi_20201104/,0
+362,Metropolitana,5.5,999,Paola Berlín,Paola Berlín,Chile Vamos,Ind,Ind,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 378,Metropolitana,5.5,999,Duilio de Lapeyra,Duilio de Lapeyra,Levanta Chile,Ind,Ind,DF,18-11-2020,https://www.df.cl/noticias/df-lab/innovacion-y-startups/emprendedores-lanzan-referente-ciudadano-y-presentan-candidaturas-a/2020-11-17/195011.html,.,0
 389,Metropolitana,5.5,999,Gabriel Gurovich,Gabriel Gurovich,No Neutrales,Ind,Ind,No Neutrales,30-11-2020,,,0
+402,Metropolitana,5.5,10,Juan José Balsa,Juan José Balsa,,,,Interno,05-12-2020,,,1
+147,Metropolitana,5.5,11,Mario Waissbluth,Mario Waissbluth,,,,Twitter,.,https://twitter.com/EduardodeAguirr/status/1313537087682097152,.,0
+148,Metropolitana,5.5,11,Marta Lagos,Marta Lagos,,,,Twitter,.,https://twitter.com/mmlagoscc/status/1313553356816896001,.,1
+149,Metropolitana,5.5,11,Henry Boys,Henry Boys,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2030,https://twitter.com/realHenryBoys/status/1320531241452666885,0
 194,O'Higgins,6,15,Diego Rivera,Diego Rivera,Frente Amplio,RD,RD,Interno,.,.,.,0
 195,O'Higgins,6,15,Ana Martínez,Ana Martínez,Frente Amplio,RD,RD,Interno,.,.,.,1
 196,O'Higgins,6,15,Marta Molina,Marta Molina,Unidad para el Cambio,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
 197,O'Higgins,6,16,Jaime Silva Aguilera,Jaime Silva Aguilera,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 198,O'Higgins,6,16,César Silva Caroca,César Silva Caroca,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 199,O'Higgins,6,16,Juan P. Arriaza Zalá,Juan P. Arriaza Zalá,Frente Amplio,RD,RD,Interno,.,.,.,0
-200,O'Higgins,6,16,Jorge Errázuriz,Jorge Errázuriz,,,,La Segunda,29-09-2020,.,.,0
 382,O'Higgins,6,16,Iancu Cordescu,Iancu Cordescu,Independiente,Ind,Ind,Twitter,24-11-2020,https://twitter.com/ICordescu/status/1328725624136077312,.,0
 399,O'Higgins,6,16,Ricardo Neumann,Ricardo Neumann,Chile Vamos,Ind,Ind,Interno,02-12-2020,https://www.instagram.com/richineumann/,.,0
 380,O'Higgins,6,999,Sandra Cabezas,Sandra Cabezas,Levanta Chile,Ind,Ind,DF,18-11-2020,https://www.df.cl/noticias/df-lab/innovacion-y-startups/emprendedores-lanzan-referente-ciudadano-y-presentan-candidaturas-a/2020-11-17/195011.html,.,1
+200,O'Higgins,6,16,Jorge Errázuriz,Jorge Errázuriz,,,,La Segunda,29-09-2020,.,.,0
 201,Maule,7,17,Sergio Aguiló,Sergio Aguiló,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 202,Maule,7,17,Fabián Farías,Fabián Farías,Frente Amplio,RD,RD,Interno,.,.,.,0
 203,Maule,7,17,Eliana Adams,Eliana Adams,Frente Amplio,CS,CS,DM twitter,03-11-2020,,,1
@@ -280,6 +282,7 @@
 230,Los Ríos,9.5,24,Sandra Cheuquepan,Sandra Cheuquepan,Frente Amplio,RD,RD,Interno,.,.,.,1
 231,Los Ríos,9.5,24,Augusto Grob,Augusto Grob,Chile Vamos,RN,RN,Regional,29-10-2020,https://www.noticiaslosrios.cl/2020/10/29/rn-entrega-apoyo-a-augusto-grob-como-candidato-para-integrar-convencion-constituyente/,.,0
 232,Los Ríos,9.5,24,Egón Montecinos,Egón Montecinos,Unidad Constituyente,PRO,PRO,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+400,Los Lagos,10,26,Rosabetty Muñoz,Rosabetty Muñoz,Partido Liberal,PL,PL,DM twitter,03-12-2020,https://twitter.com/abernales/status/1334476970000871424,.,1
 233,Los Lagos,10,25,Daniela Carvacho,Daniela Carvacho,Frente Amplio,RD,RD,Interno,.,.,.,1
 234,Los Lagos,10,25,Pedro Glatz Brahm,Pedro Glatz Brahm,Frente Amplio,RD,RD,Interno,.,.,.,0
 397,Los Lagos,10,25,Juan Carlos Claret,Juan Carlos Claret,No Neutrales,Ind,Ind,No Neutrales,30-11-2020,,,0
@@ -288,12 +291,16 @@
 237,Los Lagos,10,26,Ian Cataldo Muñoz,Ian Cataldo Muñoz,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 238,Los Lagos,10,26,Jorge Millaquen,Jorge Millaquen,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 239,Los Lagos,10,26,Esteban Vielma,Esteban Vielma,Frente Amplio,RD,RD,Interno,.,.,.,0
-400,Los Lagos,10,26,Rosabetty Muñoz,Rosabetty Muñoz,Frente Amplio,PL,PL,DM twitter,03-12-2020,https://twitter.com/abernales/status/1334476970000871424,.,1
 376,Los Lagos,10,999,Gloria Risco,Gloria Risco,Levanta Chile,Ind,Ind,DF,18-11-2020,https://www.df.cl/noticias/df-lab/innovacion-y-startups/emprendedores-lanzan-referente-ciudadano-y-presentan-candidaturas-a/2020-11-17/195011.html,.,1
 240,Aysén,11,27,Almendra Silva,Almendra Silva,Unidad Constituyente,DC,DC,Interno,.,.,.,1
 241,Aysén,11,27,Irina Morend,Irina Morend,No Neutrales,Ind,Ind,No Neutrales,,,,1
 242,Magallanes,12,28,Luis Navarro,Luis Navarro,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 243,Magallanes,12,28,Mario Pascual,Mario Pascual,Unidad Constituyente,PS,PS,Interno,.,.,.,0
+263,s/i,s/i,999,Zarko Luksic,Zarko Luksic,Independiente,Ind,Ind,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+266,s/i,s/i,999,Valentina Maltés,Valentina Maltés,Partido Humanista,PH,PH,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
+329,s/i,s/i,999,Francisca Solar,Francisca Solar,Partido Liberal,PL,PL,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+330,s/i,s/i,999,José Sanfuentes,José Sanfuentes,Partido Liberal,PL,PL,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+285,s/i,s/i,999,Beatriz Hevia,Beatriz Hevia,Partido Republicano,REP,Republicano,La Segunda,29-09-2020,.,.,1
 244,s/i,s/i,999,Juan J. Santa Cruz,Juan J. Santa Cruz,Unidad Constituyente,CIU,CIU,La Segunda,29-09-2020,.,.,0
 245,s/i,s/i,999,Ricardo Greene,Ricardo Greene,Frente Amplio,CS,CS,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2023,.,0
 246,s/i,s/i,999,Ricardo Hormazábal,Ricardo Hormazábal,Unidad Constituyente,DC,DC,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
@@ -313,10 +320,10 @@
 260,s/i,s/i,999,Nicolás Núñez,Nicolás Núñez,Unidad para el Cambio,FRVS,FRVS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
 261,s/i,s/i,999,Adriana Barrientos,Adriana Barrientos,Unidad para el Cambio,FRVS,FRVS,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2022,https://www.t13.cl/noticia/plebiscito-2020/tendencias/adriana-barrientos-apruebo-plebiscito-ser-constituyente-06-10-2020,1
 262,s/i,s/i,999,Manuel A. Garretón,Manuel A. Garretón,Frente Amplio,Ind,Ind,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-263,s/i,s/i,999,Zarko Luksic,Zarko Luksic,,Ind,Ind,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+286,s/i,s/i,999,José Carlos Meza,José Carlos Meza,Partido Republicano,REP,Republicano,La Segunda,29-09-2020,.,.,0
 264,s/i,s/i,999,Lorena Pizarro,Lorena Pizarro,Unidad para el Cambio,PC,PC,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
 265,s/i,s/i,999,Lautaro Carmona,Lautaro Carmona,Unidad para el Cambio,PC,PC,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-266,s/i,s/i,999,Valentina Maltés,Valentina Maltés,,PH,PH,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
+287,s/i,s/i,999,Víctor Melinao,Víctor Melinao,Partido Republicano,REP,Republicano,La Segunda,29-09-2020,.,.,0
 267,s/i,s/i,999,Paola Tapia,Paola Tapia,Unidad Constituyente,PPD,PPD,T13,21-09-2020,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional,.,1
 268,s/i,s/i,999,Sofía Prats,Sofía Prats,Unidad Constituyente,PPD,PPD,T13,21-09-2020,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional,.,1
 269,s/i,s/i,999,Marta Maurás,Marta Maurás,Unidad Constituyente,PPD,PPD,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
@@ -335,10 +342,7 @@
 282,s/i,s/i,999,Clemira Pacheco,Clemira Pacheco,Unidad Constituyente,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
 283,s/i,s/i,999,Paula Nerváez,Paula Nerváez,Unidad Constituyente,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
 284,s/i,s/i,999,Carmen Andrade,Carmen Andrade,Unidad Constituyente,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
-285,s/i,s/i,999,Beatriz Hevia,Beatriz Hevia,,REP,Republicano,La Segunda,29-09-2020,.,.,1
-286,s/i,s/i,999,José Carlos Meza,José Carlos Meza,,REP,Republicano,La Segunda,29-09-2020,.,.,0
-287,s/i,s/i,999,Víctor Melinao,Víctor Melinao,,REP,Republicano,La Segunda,29-09-2020,.,.,0
-288,s/i,s/i,999,Jorge Barrera,Jorge Barrera,,REP,Republicano,La Segunda,29-09-2020,.,.,0
+288,s/i,s/i,999,Jorge Barrera,Jorge Barrera,Partido Republicano,REP,Republicano,La Segunda,29-09-2020,.,.,0
 289,s/i,s/i,999,Katherine Martorell,Katherine Martorell,Chile Vamos,RN,RN,La Segunda,29-09-2020,.,.,1
 290,s/i,s/i,999,Baldo Prokurica,Baldo Prokurica,Chile Vamos,RN,RN,La Segunda,29-09-2020,.,.,0
 291,s/i,s/i,999,Gastón Gómez,Gastón Gómez,Chile Vamos,RN,RN,La Segunda,29-09-2020,.,.,0
@@ -370,12 +374,10 @@
 318,s/i,s/i,999,Nelsón Bravo,Nelsón Bravo,,,,La Segunda,29-09-2020,.,.,0
 320,s/i,s/i,999,Ana Tijoux,Ana Tijoux,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2021,.,1
 322,s/i,s/i,999,Bernardo de la Maza,Bernardo de la Maza,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2027,.,0
-325,s/i,s/i,999,Rafael Harvey,Rafael Harvey,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2033,https://twitter.com/RafaelHarvey3/status/1320849500110467078,0
-326,s/i,s/i,999,Clemente Pérez,Clemente Pérez,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2034,https://twitter.com/ClementePerezE/status/1321069765029466117,0
 327,s/i,s/i,999,Andrés Hidalgo,Andrés Hidalgo,Frente Amplio,,,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 328,s/i,s/i,999,Leandro Paredes,Leandro Paredes,Frente Amplio,,,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-329,s/i,s/i,999,Francisca Solar,Francisca Solar,Frente Amplio,PL,PL,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-330,s/i,s/i,999,José Sanfuentes,José Sanfuentes,Frente Amplio,PL,PL,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+325,s/i,s/i,999,Rafael Harvey,Rafael Harvey,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2033,https://twitter.com/RafaelHarvey3/status/1320849500110467078,0
+326,s/i,s/i,999,Clemente Pérez,Clemente Pérez,,,,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2034,https://twitter.com/ClementePerezE/status/1321069765029466117,0
 331,s/i,s/i,999,Gonzalo Bacigalupe,Gonzalo Bacigalupe,Unidad para el Cambio,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 332,s/i,s/i,999,Manuel Jacques,Manuel Jacques,Unidad para el Cambio,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 333,s/i,s/i,999,Nelsón Caucoto,Nelsón Caucoto,Unidad para el Cambio,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
@@ -395,10 +397,8 @@
 359,s/i,s/i,999,Fernanda Pinochet,Fernanda Pinochet,Chile Vamos,Evopoli,Evopoli,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 360,s/i,s/i,999,Carolina Zamar,Carolina Zamar,Chile Vamos,Evopoli,Evopoli,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 361,s/i,s/i,999,Claudia González,Claudia González,Chile Vamos,Evopoli,Evopoli,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
-362,s/i,s/i,999,Paula Berlín,Paula Berlín,Chile Vamos,Ind,Ind,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 363,s/i,s/i,999,Josefina Navarro,Josefina Navarro,Chile Vamos,Ind,Ind,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 364,s/i,s/i,999,Rocío Cantuarias,Rocío Cantuarias,Chile Vamos,Ind,Ind,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 365,s/i,s/i,999,Magdalena Barriga,Magdalena Barriga,Chile Vamos,Ind,Ind,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
 366,s/i,s/i,999,Macarena Currín,Macarena Currín,Chile Vamos,Ind,Ind,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
-,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
