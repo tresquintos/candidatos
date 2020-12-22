@@ -1,0 +1,114 @@
+﻿id,región,region2,comuna,nombre,lista,partido,tipo,sexo
+72,Tarapacá,1,Pica,,Unidad Constituyente,PR,no legales,
+74,Antofagasta,2,Antofagasta,ROBERTO CARLOS SOTO ALBALLAY,Chile Vamos,UDI,legales,0
+75,Atacama,3,Vallenar,PEDRO PABLO OGALDE MENESES,Chile Vamos,IND,legales,0
+76,Atacama,3,Copiapo,MAXIMILIANO ALBERTO BARRIONUEVO GARCIA,Chile Vamos,IND,legales,0
+77,Atacama,3,Iquique,DANIELA CECILIA SOLARI VEGA,Chile Vamos,IND,legales,1
+52,Atacama,3,Vallenar,Karina Zárate,Independiente,IND,no legales,1
+4,Atacama,3,Chañaral,Margarita Flores,Unidad Constituyente,PR,no legales,1
+71,Atacama,3,Alto del Carmen,,Unidad Constituyente,PR,no legales,
+78,Coquimbo,4,Coquimbo,PEDRO ANTONIO CASTILLO CASTILLO,Chile Vamos,UDI,legales,0
+27,Coquimbo,4,Ovalle,Wladimir Pleticosic,Unidad Constituyente,DC,no legales,0
+79,Valparaíso,5,Con Con,JORGE ANTONIO VALDOVINOS GOMEZ,Chile Vamos,IND,legales,0
+81,Valparaíso,5,Santo Domingo,DINO PAOLO LOTITO FLORES,Chile Vamos,RN,legales,0
+82,Valparaíso,5,Valparaíso,CARLOS EDUARDO BANNEN GONZALEZ,Chile Vamos,UDI,legales,0
+85,Valparaíso,5,Panquehue,MARGARITA ANDREA VELEZ MALGUE,Chile Vamos,UDI,legales,1
+80,Valparaíso,5,Quilpué,VALERIA ANDREA MELIPILLAN FIGUEROA,Frente Amplio,CS,legales,1
+86,Valparaíso,5,Putaendo,VERONICA ALEJANDRA BARRERA ALFARO,Frente Amplio,CS,legales,1
+83,Valparaíso,5,Villa Alemana,CRISTIAN ALEJANDRO LUNA SALINAS,Frente Amplio,IND,legales,0
+84,Valparaíso,5,Viña del Mar,MACARENA CAROLINA RIPAMONTI SERRANO,Frente Amplio,RD,legales,1
+3,Valparaíso,5,Catemu,Felipe González,Unidad Constituyente,DC,no legales,0
+12,Valparaíso,5,La Calera,Eduardo Martínez,Unidad Constituyente,DC,no legales,0
+24,Valparaíso,5,Nogales,Ricardo Aliaga,Unidad Constituyente,DC,no legales,0
+26,Valparaíso,5,Olmué,Alejandro Collao,Unidad Constituyente,DC,no legales,0
+28,Valparaíso,5,Panquehue,Gonzalo Vergara,Unidad Constituyente,DC,no legales,0
+37,Valparaíso,5,Quillota,Mauricio Ávila,Unidad Constituyente,DC,no legales,0
+38,Valparaíso,5,Quilpué,Christian Cárdenas,Unidad Constituyente,DC,no legales,0
+43,Valparaíso,5,San Antonio,Jorge Jorquera,Unidad Constituyente,DC,no legales,0
+53,Valparaíso,5,Valparaíso,Marcelo Barraza,Unidad Constituyente,DC,no legales,0
+55,Valparaíso,5,Villa Alemana,Heinrich Wittig,Unidad Constituyente,PR,no legales,0
+54,Valparaíso,5,Villa Alegre,Carla Manosalva,Unidad Constituyente,PR,no legales,1
+8,Valparaíso,5,El Tabo,Alfonso Muñoz,Unidad Constituyente,PS,no legales,0
+44,Valparaíso,5,San Esteban,Julio Contreras,Unidad Constituyente,PS,no legales,0
+14,Valparaíso,5,La Cruz,Filomena Navia,Unidad Constituyente,PS,no legales,1
+45,Valparaíso,5,San Felipe,Carmen Castillo,Unidad Constituyente,PS,no legales,1
+97,Metropolitana,5.5,Vitacura,CAMILA MERINO CATALAN,Chile Vamos,EVO,legales,1
+87,Metropolitana,5.5,Cerrillos,ALEJANDRO ISIDORO ALMENDARES CALDERON,Chile Vamos,IND,legales,0
+95,Metropolitana,5.5,Til Til,EVA VARGAS ABURTO,Chile Vamos,IND,legales,1
+89,Metropolitana,5.5,Lo Barnechea,JUAN CRISTOBAL LIRA IBAÑEZ,Chile Vamos,UDI,legales,0
+93,Metropolitana,5.5,Quinta Normal,FELIPE MORA MORGADO,Chile Vamos,UDI,legales,0
+98,Metropolitana,5.5,Paine,RODRIGO CONTRERAS GUTIERREZ,Chile Vamos,UDI,legales,0
+88,Metropolitana,5.5,La Cisterna,PATRICIA ACEVEDO GONZALEZ,Chile Vamos,UDI,legales,1
+90,Metropolitana,5.5,Maipú,VIVIANA SOLEDAD DELGADO RIQUELME,Ecologistas,IND,legales,1
+92,Metropolitana,5.5,Quinta Normal,JUAN PABLO SANHUEZA TORTELLA,Frente Amplio,Comunes,legales,0
+94,Metropolitana,5.5,San Miguel,ERIKA PAULINA MARTINEZ OSORIO,Frente Amplio,IND,legales,1
+91,Metropolitana,5.5,Maipú,TOMAS VODANOVIC ESCUDERO,Frente Amplio,RD,legales,0
+96,Metropolitana,5.5,Til Til,LUIS ANDRES VALENZUELA CRUZAT,Frente Amplio,RD,legales,0
+32,Metropolitana,5.5,Providencia,Verónica Pardo,Independiente,IND,no legales,1
+6,Metropolitana,5.5,Conchalí,Alejandro Vargas,Unidad Constituyente,DC,no legales,0
+18,Metropolitana,5.5,Lampa,Carlos Escobar,Unidad Constituyente,DC,no legales,0
+20,Metropolitana,5.5,Lo Espejo,Carlos Gardel,Unidad Constituyente,DC,no legales,0
+23,Metropolitana,5.5,Melipilla,Juan González,Unidad Constituyente,DC,no legales,0
+15,Metropolitana,5.5,La Reina,Sara Campos,Unidad Constituyente,DC,no legales,1
+31,Metropolitana,5.5,Pirque,Jaime Escudero,Unidad Constituyente,IND,no legales,0
+13,Metropolitana,5.5,La Cisterna,Orlando Morales,Unidad Constituyente,PPD,no legales,0
+1,Metropolitana,5.5,Buin,,Unidad Constituyente,PPD,no legales,
+70,Metropolitana,5.5,Til Til,,Unidad Constituyente,PPD,no legales,
+48,Metropolitana,5.5,San Miguel,David Navarro,Unidad Constituyente,PR,no legales,0
+67,Metropolitana,5.5,San José de Maipo,,Unidad Constituyente,PR,no legales,
+33,Metropolitana,5.5,Pudahuel,Mónica Sánchez,Unidad Constituyente,PRO,no legales,1
+61,Metropolitana,5.5,Padre Hurtado,,Unidad Constituyente,PS,no legales,
+99,O'Higgins,6,Coltauco,FELIX ANDRES SANCHEZ VERGARA,Chile Vamos,RN,legales,0
+100,O'Higgins,6,Machalí,HECTOR LABBE VALENZUELA,Chile Vamos,UDI,legales,0
+101,O'Higgins,6,Navidad,GONZALO ALBERTO ORTEGA PRIETO,Chile Vamos,UDI,legales,0
+102,O'Higgins,6,Requinoa,MARIA VICTORIA CAVIERES PAIVA,Chile Vamos,UDI,legales,1
+21,O'Higgins,6,Lolol,José Díaz,Unidad Constituyente,DC,no legales,0
+40,O'Higgins,6,Quinta de Tilcoco,Heli Carrasco,Unidad Constituyente,DC,no legales,0
+47,O'Higgins,6,San Francisco de Mostazal,Verónica Arroyo,Unidad Constituyente,DC,no legales,1
+29,O'Higgins,6,Paredones,,Unidad Constituyente,PPD,no legales,
+46,O'Higgins,6,San Fernando,Luis Orellana,Unidad Constituyente,PR,no legales,0
+104,Maule,7,San Javier,WILLIAMS VALENZUELA VILLALOBOS,Chile Vamos,EVO,legales,0
+103,Maule,7,Curicó,MACARENA PONS PORCILE,Chile Vamos,IND,legales,1
+19,Maule,7,Linares,Waldo Alfaro,Unidad Constituyente,DC,no legales,0
+10,Maule,7,Hualañé,Carolina Muñoz,Unidad Constituyente,DC,no legales,1
+30,Maule,7,Pelarco,,Unidad Constituyente,PPD,no legales,
+59,Maule,7,Cauquenes,Domingo Leiva,Unidad Constituyente,PS,no legales,0
+105,Ñuble,7.5,Chillán Viejo,RODRIGO ANTONIO ARZOLA HELO,Chile Vamos,IND,legales,0
+57,Ñuble,7.5,Quillón,Miguel Peña,Unidad Constituyente,DC,no legales,0
+5,Ñuble,7.5,Chillán,Camilo Benavente,Unidad Constituyente,PPD,no legales,0
+60,Ñuble,7.5,Ñiquén,Pablo Jiménez,Unidad Constituyente,PS,no legales,0
+107,Bío-Bío,8,San Pedro de la Paz,JUAN PABLO SPOERER BRITO,Chile Vamos,EVO,legales,0
+106,Bío-Bío,8,Chiguayante, XIMENA MARTINA LARENAS HENRIQUEZ,Ecologistas,IND,legales,1
+36,Bío-Bío,8,Quilaco,Pablo Urrutia,Unidad Constituyente,DC,no legales,0
+50,Bío-Bío,8,Santa Juana,Jocsan Sanhueza,Unidad Constituyente,DC,no legales,0
+56,Bío-Bío,8,Yumbel,Yolanda Romero,Unidad Constituyente,DC,no legales,1
+7,Bío-Bío,8,Curanilahue,Juan Fonseca,Unidad Constituyente,PPD,no legales,0
+11,Bío-Bío,8,Hualpén,Miguel Rivera,Unidad Constituyente,PPD,no legales,0
+17,Bío-Bío,8,Laja,María Isabel Araneda,Unidad Constituyente,PR,no legales,1
+62,Bío-Bío,8,Arauco,,Unidad Constituyente,PS,no legales,
+63,Bío-Bío,8,Tucapel,,Unidad Constituyente,PS,no legales,
+65,Bío-Bío,8,Lota,,Unidad Constituyente,PS,no legales,
+108,Araucanía,9,Lonquimay,JOSE GUIDO BARRIA OYARZUN,Chile Vamos,IND,legales,0
+110,Araucanía,9,Temuco,DANIEL SCHMIDT MC LACHLAN,Chile Vamos,IND,legales,0
+109,Araucanía,9,Padre las Casas,RAUL ROBERTO HENRIQUEZ BURGOS,Chile Vamos,RN,legales,0
+111,Araucanía,9,Temuco,JESSICA ALEJANDRA MENDEZ CANAVES,Ecologistas,PEV,legales,1
+9,Araucanía,9,Freire,Luis Arias,Unidad Constituyente,DC,no legales,0
+25,Araucanía,9,Nueva Imperial ,César Sepúlveda,Unidad Constituyente,DC,no legales,0
+2,Araucanía,9,Carahue,,Unidad Constituyente,PPD,no legales,
+68,Araucanía,9,Angol,,Unidad Constituyente,PR,no legales,
+69,Araucanía,9,Melipeuco,,Unidad Constituyente,PR,no legales,
+66,Araucanía,9,Lumaco,,Unidad Constituyente,PS,no legales,
+112,Los Ríos,9.5,Corral,JESICA BARRIENTOS DURAN,Chile Vamos,EVO,legales,1
+51,Los Ríos,9.5,Valdivia,Gonzalo Espinoza,Unidad Constituyente,DC,no legales,0
+22,Los Ríos,9.5,Mariquina,,Unidad Constituyente,PPD,no legales,
+41,Los Ríos,9.5,Ranco,Andrés Reinoso,Unidad Constituyente,PS,no legales,0
+64,Los Ríos,9.5,La Unión,,Unidad Constituyente,PS,no legales,
+39,Los Lagos,10,Quinchao,Sergio Agüero,Unidad Constituyente,PS,no legales,0
+58,Los Lagos,10,Calbuco,Marco Silva,Unidad Constituyente,DC,no legales,0
+73,Los Lagos,10,Puerto Octay,,Unidad Constituyente,PR,no legales,
+34,Los Lagos,10,Puqueldón,Rodrigo Ojeda,Unidad Constituyente,PRO,no legales,0
+35,Los Lagos,10,Puyehue,Renato Uribe,Unidad Constituyente,PS,no legales,0
+49,Los Lagos,10,San Pablo,Elías Huanquilen,Unidad Constituyente,PS,no legales,0
+42,Los Lagos,10,Río Negro,Claudia Pailalef,Unidad Constituyente,PS,no legales,1
+113,Aysén,11,Coyhaique,EUGENIO ALEJANDRO CANALES CANALES,Chile Vamos,IND,legales,0
+16,Aysén,11,Lago Verde,Claudia Valdés,Unidad Constituyente,PR,no legales,1
