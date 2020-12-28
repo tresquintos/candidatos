@@ -1,7 +1,8 @@
 ﻿id,región,region2,distrito,nombre,nombre_largo,lista,partido,partido_largo,fuente,fecha,link,link2,sexo
 1,Arica,0.5,1,Gastón Padilla,Gastón Padilla,Chile Vamos,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+797,Arica,0.5,1,Edwin Briceño,Edwin Briceño,No Neutrales,IND,IND,,,,,0
 4,Arica,0.5,1,Rosa Vilches,Rosa Vilches,No Neutrales,IND,IND,No Neutrales,.,https://twitter.com/NoNeutrales/status/1311763217346113540,.,1
-623,Arica,0.5,1,Will Zuchel,Will Zuchel,No Neutrales,IND,IND,No Neutrales,21-12-2020,.,,0
+623,Arica,0.5,1,Willy Zuchel,Will Zuchel,No Neutrales,IND,IND,No Neutrales,21-12-2020,.,,0
 3,Arica,0.5,1,Orlando Heredia,Orlando Heredia,Unidad Constituyente,PPD,PPD,Interno,31-10-2020,.,.,0
 488,Arica,0.5,1,Enzo Varens,Enzo Varens,Unidad Constituyente,PS,PS,DM Twitter,15-12-2020,https://www.aricaldia.cl/el-socialista-cristian-perez-es-proclamado-como-candidato-a-alcalde-de-arica/,.,0
 487,Arica,0.5,1,Hortencia Hidalgo,Hortencia Hidalgo,Unidad Constituyente,PS,PS,DM Twitter,15-12-2020,https://www.aricaldia.cl/el-socialista-cristian-perez-es-proclamado-como-candidato-a-alcalde-de-arica/,.,1
@@ -117,6 +118,7 @@
 529,Valparaíso,5,6,Rocío Veas,Rocío Veas,No Neutrales,IND,IND,No Neutrales,17-12-2020,https://twitter.com/NoNeutrales/status/1339692849600765953/photo/2,.,1
 39,Valparaíso,5,6,Ignacio Walker,Ignacio Walker,Unidad Constituyente,DC,DC,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
 58,Valparaíso,5,6,Carlos Ominami,Carlos Ominami,Unidad Constituyente,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+804,Valparaíso,5,6,Marisel Martínez,Marisel Martínez,Unidad Constituyente,PPD,PPD,DM twitter,28-12-2020,.,.,1
 56,Valparaíso,5,6,Nicolás Gatica Jarru,Nicolás Gatica Jarru,Unidad Constituyente,PPD,PPD,Interno,31-10-2020,.,.,0
 55,Valparaíso,5,6,Ximena Rivillo,Ximena Rivillo,Unidad Constituyente,PPD,PPD,Interno,31-10-2020,.,.,1
 42,Valparaíso,5,6,Alfaro Díaz Sandoval,Alfaro Díaz Sandoval,Unidad Constituyente,PS,PS,Interno,.,.,.,0
@@ -152,8 +154,12 @@
 772,Valparaíso,5,7,Danixa Becerra,Danixa Becerra,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,1
 773,Valparaíso,5,7,Francisca Ayala,Francisca Ayala,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,1
 54,Valparaíso,5,7,Bárbara Lara,Bárbara Lara,No Neutrales,IND,IND,Twitter,29-10-2020,https://twitter.com/barbaritalaram/status/1321898244096565248,.,1
+800,Valparaíso,5,7,Carolina Torrejón,Carolina Torrejón,No Neutrales,IND,IND,No Neutrales,,,,1
+798,Valparaíso,5,7,Cecilia Echeñique,Cecilia Echeñique,No Neutrales,IND,IND,No Neutrales,,,,1
 470,Valparaíso,5,7,Guruprakash Cornejo,Guruprakash Cornejo,No Neutrales,IND,IND,No Neutrales,14-12-2020,https://twitter.com/NoNeutrales/status/1338605183035568129/photo/1,.,0
 327,Valparaíso,5,7,Patricio Young,Patricio Young Moreau,No Neutrales,IND,IND,No Neutrales,13-11-2020,,,0
+799,Valparaíso,5,7,Rodrigo Reyes,Rodrigo Reyes,No Neutrales,IND,IND,No Neutrales,,,,0
+801,Valparaíso,5,7,Sofía Bustos,Sofía Bustos,No Neutrales,IND,IND,No Neutrales,,,,1
 446,Valparaíso,5,7,Hotuiti Teao,Hotuiti Teao,Rapa Nui,IND,IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
 504,Valparaíso,5,7,Valeria Pakarati,Valeria Pakarati,Rapa Nui,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
 430,Valparaíso,5,7,Aldo Cornejo,Aldo Cornejo,Unidad Constituyente,DC,DC,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
@@ -678,7 +684,9 @@
 214,Los Ríos,9.5,24,Sandra Cheuquepan,Sandra Cheuquepan,Frente Amplio,RD,RD,Interno,.,.,.,1
 785,Los Ríos,9.5,24,María A. Fernández,María A. Fernández,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,1
 786,Los Ríos,9.5,24,Santiago Guarda,Santiago Guarda,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
+803,Los Ríos,9.5,24,Claudio Faunes,Claudio Faunes,No Neutrales,IND,IND,No Neutrales,,,,0
 542,Los Ríos,9.5,24,José Escaida,José Escaida,No Neutrales,IND,IND,No Neutrales,17-12-2020,https://twitter.com/NoNeutrales/status/1339644418148712448,.,0
+802,Los Ríos,9.5,24,Ximena Sabat,Ximena Sabat,No Neutrales,IND,IND,No Neutrales,,,,1
 216,Los Ríos,9.5,24,Egón Montecinos,Egón Montecinos,Unidad Constituyente,PRO,PRO,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 281,Los Lagos,10,25,Felipe de Mussy,Felipe de Mussy,Chile Vamos,UDI,UDI,La Segunda,29-09-2020,.,.,0
 795,Los Lagos,10,25,Victoria Arriagada,Victoria Arriagada,Coordinadora Feminista 8M,IND,IND,Coordinadora Feminista 8M,27-12-2020,http://cf8m.cl/candidaturas-constituyentes/nuestras-pre-candidatas/,.,1
@@ -692,7 +700,7 @@
 374,Los Lagos,10,25,Juan Carlos Claret,Juan Carlos Claret,No Neutrales,IND,IND,No Neutrales,30-11-2020,,,0
 612,Los Lagos,10,26,Diego Vallejos,Diego Vallejos,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,0
 223,Los Lagos,10,26,Esteban Vielma,Esteban Vielma,Frente Amplio,RD,RD,Interno,.,.,.,0
-788,Los Lagos,10,26,Carlos Von Der,Carlos Von Der,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
+788,Los Lagos,10,26,Carlos Marsh,Carlos Marsh,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
 789,Los Lagos,10,26,Marcos Emilfork,Marcos Emilfork,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
 543,Los Lagos,10,26,Carola Cardenas,Carola Cardenas,No Neutrales,IND,IND,No Neutrales,17-12-2020,https://twitter.com/NoNeutrales/status/1339644418148712448,.,1
 408,Los Lagos,10,26,Gaspar Domínguez,Gaspar Domínguez,No Neutrales,IND,IND,Twitter,12-12-2020,https://twitter.com/NoNeutrales/status/1337744259814883329,.,0
