@@ -1,5 +1,6 @@
 ﻿id,región,region2,distrito,nombre,nombre_largo,lista,partido,partido_largo,fuente,fecha,link,link2,sexo
 1,Arica,0.5,1,Gastón Padilla,Gastón Padilla,Chile Vamos,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+1310,Arica,0.5,1,Rodrigo Díaz,Rodrigo Díaz,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
 1116,Arica,0.5,1,Andrea Pérez,Andrea Pérez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1120,Arica,0.5,1,Celso Taucare,Celso Taucare,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1118,Arica,0.5,1,Eduardo Leal,Eduardo Leal,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
@@ -79,6 +80,7 @@
 494,Atacama,3,4,Brenda Gutierrez,Brenda Gutierrez,Changos,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
 493,Atacama,3,4,Felipe Rivera Marín,Felipe Rivera Marín,Changos,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
 578,Atacama,3,4,Rodrigo Pérez Lisicic,Rodrigo Pérez Lisicic,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,0
+1311,Atacama,3,4,Rolando Quevedo,Rolando Quevedo,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
 22,Atacama,3,4,Mariana Cruz,Mariana Cruz,Frente Amplio,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
 20,Atacama,3,4,Patricio Pinto Castro,Patricio Pinto Castro,Frente Amplio,RD,RD,Interno,.,.,.,0
 1154,Atacama,3,4,Claudia Panes,Claudia Panes,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
@@ -101,6 +103,7 @@
 985,Coquimbo,4,5,Jorge Grandón,Jorge Grandón,Comunidad por la Dignidad,IND,IND,Twitter,30-12-2020,https://twitter.com/JGrandonM,.,0
 580,Coquimbo,4,5,Consuelo Infante,Consuelo Infante,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,1
 579,Coquimbo,4,5,Diego Figueroa,Diego Figueroa,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,0
+1312,Coquimbo,4,5,Claudio Quiroga,Claudio Quiroga,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
 30,Coquimbo,4,5,María Teresa Araya,María Teresa Araya,Frente Amplio,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
 29,Coquimbo,4,5,Cedric Steinlen,Cedric Steinlen Cuevas,Frente Amplio,RD,RD,Interno,.,.,.,0
 1162,Coquimbo,4,5,Agueda Rojas,Agueda Rojas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
@@ -156,6 +159,7 @@
 57,Valparaíso,5,6,Francisca Desbordes,Francisca Desbordes,Chile Vamos,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
 441,Valparaíso,5,6,Ricardo Ibáñez,Ricardo Ibáñez,Chile Vamos,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
 581,Valparaíso,5,6,Hugo Clobares,Hugo Clobares,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,0
+1313,Valparaíso,5,6,Matías Gazmuri,Matías Gazmuri,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
 47,Valparaíso,5,6,Patricia Mix,Patricia Mix,Frente Amplio,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
 38,Valparaíso,5,6,Bárbara Astudillo,Bárbara Astudillo,Frente Amplio,CS,CS,DM twitter,.,.,.,1
 37,Valparaíso,5,6,Joan Zuñiga,Joan Zuñiga,Frente Amplio,CS,CS,DM twitter,03-11-2020,,,0
@@ -245,13 +249,14 @@
 1113,Valparaíso,5,7,Edmundo Eluchans,Edmundo Eluchans,Chile Vamos,UDI,UDI,Twitter,03-01-2021,https://twitter.com/Sergioespana/status/1345726607391137792,.,0
 277,Valparaíso,5,7,Virginia Reginato,Virginia Reginato,Chile Vamos,UDI,UDI,La Segunda,29-09-2020,.,.,1
 388,Valparaíso,5,7,Juan Pablo Rodríguez,Juan Pablo Rodríguez,Chile Vamos,UDI-IND,UDI-IND,Interno,10-12-2020,.,.,0
-1097,Valparaíso,5,7,Corina Neira,Corina Neira,Comunidad por la Dignidad,,IND,Twitter,03-01-2021,https://twitter.com/contodxs/status/1345538888429928448/photo/1,.,1
+1097,Valparaíso,5,7,Corina Neira,Corina Neira,Comunidad por la Dignidad,IND,IND,Twitter,03-01-2021,https://twitter.com/contodxs/status/1345538888429928448/photo/1,.,1
 787,Valparaíso,5,7,Natalia Corrales,Natalia Corrales,Coordinadora Feminista 8M,IND,IND,Coordinadora Feminista 8M,27-12-2020,http://cf8m.cl/candidaturas-constituyentes/nuestras-pre-candidatas/,.,1
 610,Valparaíso,5,7,Eduardo Tironi,Eduardo Tironi,Creadores de Arte y Cultura,IND,IND,Fortín,11-12-2020,https://www.fortinmapocho.cl/2020/12/11/silvio-caiozzi-rosario-salas-y-arturo-duclos-encabezan-lista-para-representar-al-arte-y-la-cultura/,.,0
 609,Valparaíso,5,7,Rosario Salas,Rosario Salas,Creadores de Arte y Cultura,IND,IND,Fortín,11-12-2020,https://www.fortinmapocho.cl/2020/12/11/silvio-caiozzi-rosario-salas-y-arturo-duclos-encabezan-lista-para-representar-al-arte-y-la-cultura/,.,1
 582,Valparaíso,5,7,Camila Zárate,Camila Zárate,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,1
 583,Valparaíso,5,7,Sonia Cáceres,Sonia Cáceres,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,1
 48,Valparaíso,5,7,Constanza Valdés,Constanza Valdés,Frente Amplio,COM,COM,La Segunda,29-10-2020,.,.,1
+1314,Valparaíso,5,7,Raúl Devia,Raúl Devia,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
 49,Valparaíso,5,7,Jaime Bassa,Jaime Bassa,Frente Amplio,CS-IND,CS-IND,Interno,.,https://www.eldesconcierto.cl/nacional/2020/12/03/jaime-bassa-oficializa-candidatura-a-constituyente-con-cupo-de-cs-y-amplio-apoyo-ciudadano-en-valparaiso.html,.,0
 52,Valparaíso,5,7,María Oyarzún Solis,María Oyarzún Solis,Frente Amplio,RD,RD,Interno,.,.,.,1
 1026,Valparaíso,5,7,Álvaro Encalada,Álvaro Encalada,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,0
@@ -755,7 +760,8 @@
 967,Metropolitana,5.5,13,Marcela Sarmiento,Marcela Sarmiento,Comunidad por la Dignidad,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454532194070528,https://twitter.com/contodxs/status/1345572232643403784/photo/1,1
 344,Metropolitana,5.5,13,Fabio Marabolí,Fabio Marabolí Sandoval,del Pueblo,IND,IND,La lista del Pueblo,17-11-2020,http://lalistadelpueblo.cl/#!/-rodrigo-rojas-vade/,.,0
 343,Metropolitana,5.5,13,Rodrigo Rojas,Rodrigo Rojas Vade,del Pueblo,IND,IND,La lista del Pueblo,17-11-2020,http://lalistadelpueblo.cl/#!/-rodrigo-rojas-vade/,.,0
-152,Metropolitana,5.5,13,Haydee Oberreuter,Haydee Oberreuter,Frente Amplio,COM,COM,La Segunda,29-10-2020,.,.,1
+1315,Metropolitana,5.5,13,Libertad Méndez,Libertad Méndez,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
+152,Metropolitana,5.5,13,Haydee Oberreuter,Haydee Oberreuter,Frente Amplio,COM-IND,COM-IND,La Segunda,29-10-2020,.,.,1
 159,Metropolitana,5.5,13,Jaime Fuentes,Jaime Fuentes,Frente Amplio,CS,CS,DM twitter,03-01-2020,,,0
 972,Metropolitana,5.5,13,Natalia Aravena,Natalia Aravena,Frente Amplio,CS-IND,CS-IND,CNN,30-12-2020,https://www.cnnchile.com/pais/natalia-aravena-victima-trauma-ocular-candidata-constituyente_20201227/,.,1
 157,Metropolitana,5.5,13,Daniel Andrade,Daniel Andrade,Frente Amplio,RD,RD,Interno,.,.,.,0
@@ -869,6 +875,7 @@
 168,Metropolitana,5.5,14,Yonild Navarro,Yonild Navarro Ruiz,Unidad Constituyente,PS,PS,Interno,.,.,.,1
 179,O'Higgins,6,15,Marta Molina,Marta Molina,Chile Digno,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
 563,O'Higgins,6,15,Dionisio de la Cersa,Dionisio de la Cersa,Chile Vamos,EVO,EVO,Instagram,18-12-2020,https://www.dionisiodelacerda.com/,.,0
+1316,O'Higgins,6,15,Adriana Bastías,Adriana Bastías,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
 1069,O'Higgins,6,15,Nolberto Zúñiga,Nolberto Zúñiga,Frente Amplio,CS,CS,Instagram,02-01-2021,www.instagram.com/ftconvergenciasocial,.,1
 178,O'Higgins,6,15,Anita Martínez,Anita Martínez,Frente Amplio,RD,RD,Interno,.,.,.,1
 715,O'Higgins,6,15,Alvin Saldaña,Alvin Saldaña,Independiente,IND,IND,SERVEL,22-12-2020,,,0
@@ -949,6 +956,7 @@
 575,Bío-Bío,8,20,Javier Guerrero,Javier Guerrero,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
 574,Bío-Bío,8,20,Valentina Torres,Valentina Torres,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
 407,Bío-Bío,8,20,María José Gormaz,María José Gormaz,Ecologistas Verdes,PEV-IND,PEV-IND,Twitter,01-12-2020,https://twitter.com/MariaJoseGormaz/status/1333925279404863496,.,1
+1317,Bío-Bío,8,20,Eduardo Pacheco,Eduardo Pacheco,Frente Amplio,COM-IND,COM-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,https://twitter.com/Edopacheco,0
 766,Bío-Bío,8,20,Juan Fernández,Juan Fernández Curapil,Frente Amplio,CS,CS,Interno,.,.,.,0
 204,Bío-Bío,8,20,Amaya Alvez Marín,Amaya Alvez Marín,Frente Amplio,RD,RD,Interno,.,.,.,1
 802,Bío-Bío,8,20,Alejandra Pozo,Alejandra Pozo,Independiente,IND,IND,SERVEL,29-12-2020,.,.,1
@@ -1141,6 +1149,8 @@
 210,Araucanía,9,23,Pedro Cayuqueo,Pedro Cayuqueo,Unidad Constituyente,PS-IND,PS-IND,Twitter,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,https://twitter.com/pcayuqueo/status/1317514380339195907,0
 213,Los Ríos,9.5,24,Augusto Grob,Augusto Grob,Chile Vamos,RN,RN,Regional,29-10-2020,https://www.noticiaslosrios.cl/2020/10/29/rn-entrega-apoyo-a-augusto-grob-como-candidato-para-integrar-convencion-constituyente/,.,0
 408,Los Ríos,9.5,24,Vicente Gómez,Vicente Gómez,Ecologistas Verdes,PEV-IND,PEV-IND,Twitter,03-11-2020,https://twitter.com/Valdivicho/status/1323742305535275012,.,0
+304,Los Ríos,9.5,24,Leandro Paredes,Leandro Paredes,Frente Amplio,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,0
+1318,Los Ríos,9.5,24,Daniella Millanca,Daniella Millanca,Frente Amplio,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
 212,Los Ríos,9.5,24,Sandra Cheuquepan,Sandra Cheuquepan,Frente Amplio,RD,RD,Interno,.,.,.,1
 781,Los Ríos,9.5,24,María A. Fernández,María A. Fernández,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,1
 782,Los Ríos,9.5,24,Santiago Guarda,Santiago Guarda,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
@@ -1151,6 +1161,7 @@
 278,Los Lagos,10,25,Felipe de Mussy,Felipe de Mussy,Chile Vamos,UDI,UDI,La Segunda,29-09-2020,.,.,0
 907,Los Lagos,10,25,Elisa Neira,Elisa Neira,Comunidad por la Dignidad,IND,IND,SERVEL,29-12-2020,https://twitter.com/NadyaTorres/status/1345463463691366402/photo/1,.,1
 791,Los Lagos,10,25,Victoria Arriagada,Victoria Arriagada,Coordinadora Feminista 8M,IND,IND,Coordinadora Feminista 8M,27-12-2020,http://cf8m.cl/candidaturas-constituyentes/nuestras-pre-candidatas/,.,1
+1319,Los Lagos,10,25,Pamela Mancilla,Pamela Mancilla,Frente Amplio,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
 215,Los Lagos,10,25,Daniela Carvacho,Daniela Carvacho,Frente Amplio,RD,RD,Interno,.,.,.,1
 216,Los Lagos,10,25,Pedro Glatz Brahm,Pedro Glatz Brahm,Frente Amplio,RD,RD,Interno,.,.,.,0
 901,Los Lagos,10,25,Adrián Olmedo,Adrián Olmedo,Independiente,IND,IND,SERVEL,29-12-2020,.,.,0
@@ -1196,6 +1207,7 @@
 637,Los Lagos,10,25,Jorge Contreras,Jorge Contreras,No Neutrales,IND,IND,No Neutrales,21-12-2020,,,0
 371,Los Lagos,10,25,Juan Carlos Claret,Juan Carlos Claret,No Neutrales,IND,IND,No Neutrales,30-11-2020,,,0
 608,Los Lagos,10,26,Diego Vallejos,Diego Vallejos,del Pueblo,IND,IND,Lista del Pueblo,,https://lalistadelpueblo.cl/?fbclid=IwAR3sXEcN9bugUKnDt9VvR4AX26-a9M_NdIKWNKXZDBHSitvrs5ULLsUHxpA#!/-candidatos-zona-norte/?ancla=Zona+Norte+Chico,.,0
+1320,Los Lagos,10,26,Pamela Espinoza,Pamela Espinoza,Frente Amplio,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
 221,Los Lagos,10,26,Esteban Vielma,Esteban Vielma,Frente Amplio,RD,RD,Interno,.,.,.,0
 784,Los Lagos,10,26,Carlos Marsh,Carlos Marsh,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
 785,Los Lagos,10,26,Marcos Emilfork,Marcos Emilfork,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
@@ -1267,10 +1279,10 @@
 282,s/i,s/i,999,Lucas Palacios,Lucas Palacios,Chile Vamos,UDI,UDI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 1114,Metropolitana,5.5,999,María Luisa Cordero,María Luisa Cordero,Chile Vamos,UDI-IND,UDI-IND,Twitter,03-01-2021,https://twitter.com/Sergioespana/status/1345726607391137792,.,1
 496,s/i,s/i,999,José Domingo Rojas,José Domingo Rojas,Diaguita,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
+1321,Metropolitana,5.5,999,Gabriela Farías,Gabriela Farías,Frente Amplio,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
 227,s/i,s/i,999,Ricardo Greene,Ricardo Greene,Frente Amplio,CS,CS,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2023,.,0
 320,s/i,s/i,999,Loreto Aravena,Loreto Aravena,Frente Amplio,FC,Fuerza Común,CHV,10-11-2020,https://www.chvnoticias.cl/show/loreto-aravena-frente-amplio-constituyente_20201110/,.,1
 244,s/i,s/i,999,Manuel A. Garretón,Manuel A. Garretón,Frente Amplio,IND,IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-304,s/i,s/i,999,Leandro Paredes,Leandro Paredes,Frente Amplio,,,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 943,s/i,s/i,999,Francisca Linconao,Francisca Linconao,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,https://www.cnnchile.com/pais/machi-linconao-constituyente-comunidad-me-lo-esta-pidiendo_20201115/,1
 947,s/i,s/i,999,Gustavo Quilaqueo,Gustavo Quilaqueo,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,0
 1111,s/i,s/i,999,Hugo Marivil,Hugo Marivil,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
