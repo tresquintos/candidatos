@@ -1,10 +1,10 @@
 ﻿id,región,region2,distrito,nombre,nombre_largo,lista,partido,partido_largo,fuente,fecha,link,link2,sexo
 1,Arica,0.5,1,Gastón Padilla,Gastón Padilla,Chile Vamos,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 1307,Arica,0.5,1,Rodrigo Díaz,Rodrigo Díaz,Frente Amplio,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
-1113,Arica,0.5,1,Andrea Pérez,Andrea Pérez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1113,Arica,0.5,1,Andrea Pérez,Andrea Pérez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1117,Arica,0.5,1,Celso Taucare,Celso Taucare,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1115,Arica,0.5,1,Eduardo Leal,Eduardo Leal,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1114,Arica,0.5,1,Francisca Tarque,Francisca Tarque,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1114,Arica,0.5,1,Francisca Tarque,Francisca Tarque,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1118,Arica,0.5,1,Herem Araya,Herem Araya,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1116,Arica,0.5,1,Jader Muñoz,Jader Muñoz,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1119,Arica,0.5,1,Leonardo Rojas,Leonardo Rojas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
@@ -471,12 +471,12 @@
 1259,Metropolitana,5.5,9,Humberto del Pozo,Humberto del Pozo,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1263,Metropolitana,5.5,9,Jonathan Klee,Jonathan Klee,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1245,Metropolitana,5.5,9,Macarena Pacheco,Macarena Pacheco,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1250,Metropolitana,5.5,9,Mariel San Martin,Mariel San Martin,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1250,Metropolitana,5.5,9,Mariel San Martin,Mariel San Martin,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1244,Metropolitana,5.5,9,Nancy Vilches,Nancy Vilches,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1265,Metropolitana,5.5,9,Patricio Gómez,Patricio Gómez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1253,Metropolitana,5.5,9,Patricio Pacheco,Patricio Pacheco,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1254,Metropolitana,5.5,9,Raúl Aguayo,Raúl Aguayo,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1251,Metropolitana,5.5,9,Rocio Macari,Rocio Macari,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1251,Metropolitana,5.5,9,Rocio Macari,Rocio Macari,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 671,Metropolitana,5.5,9,Rodolfo Fischer,Rodolfo Fischer,FYFVotaFeliz,IND,IND,SERVEL,22-12-2020,,,0
 1264,Metropolitana,5.5,9,Rodrigo Illanes,Rodrigo Illanes,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1261,Metropolitana,5.5,9,Sergio Alegria,Sergio Alegria,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
@@ -562,43 +562,43 @@
 106,Metropolitana,5.5,10,Fernando Atria,Fernando Atria,Frente Amplio,RD-IND,RD-IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
 1305,Metropolitana,5.5,10,Alex Osorio B.,Alex Osorio B.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1282,Metropolitana,5.5,10,Alexis Vásquez M.,Alexis Vásquez M.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1296,Metropolitana,5.5,10,Andrés Gálvez,Andrés Gálvez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1299,Metropolitana,5.5,10,Aracely Salcedo,Aracely Salcedo,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1295,Metropolitana,5.5,10,Aracely Zapata,Aracely Zapata,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1292,Metropolitana,5.5,10,Arnoldo Martínez,Arnoldo Martínez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1269,Metropolitana,5.5,10,Bárbara Castillo A.,Bárbara Castillo A.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1270,Metropolitana,5.5,10,Carlos Cabezas,Carlos Cabezas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1275,Metropolitana,5.5,10,Carolina Elgueta,Carolina Elgueta,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1298,Metropolitana,5.5,10,Daniel Cortez,Daniel Cortez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1268,Metropolitana,5.5,10,Epiro San Martín,Epiro San Martín,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1296,Metropolitana,5.5,10,Andrés Gálvez,Andrés Gálvez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1299,Metropolitana,5.5,10,Aracely Salcedo,Aracely Salcedo,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1295,Metropolitana,5.5,10,Aracely Zapata,Aracely Zapata,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1292,Metropolitana,5.5,10,Arnoldo Martínez,Arnoldo Martínez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1269,Metropolitana,5.5,10,Bárbara Castillo A.,Bárbara Castillo A.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1270,Metropolitana,5.5,10,Carlos Cabezas,Carlos Cabezas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1275,Metropolitana,5.5,10,Carolina Elgueta,Carolina Elgueta,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1298,Metropolitana,5.5,10,Daniel Cortez,Daniel Cortez,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1268,Metropolitana,5.5,10,Epiro San Martín,Epiro San Martín,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1276,Metropolitana,5.5,10,Fidel Allende,Fidel Allende,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1300,Metropolitana,5.5,10,Franco Herrera,Franco Herrera,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1283,Metropolitana,5.5,10,Germán Leguina,Germán Leguina,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1266,Metropolitana,5.5,10,Gino Lorenzini,Gino Lorenzini,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1285,Metropolitana,5.5,10,Hernán Fontecilla,Hernán Fontecilla,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1287,Metropolitana,5.5,10,Hugo Lavado,Hugo Lavado,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1277,Metropolitana,5.5,10,Jaime Cruz H.,Jaime Cruz H.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1291,Metropolitana,5.5,10,Jeanine Astete,Jeanine Astete,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1274,Metropolitana,5.5,10,Joshua Hoppe,Joshua Hoppe,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1303,Metropolitana,5.5,10,Liliana Cejas,Liliana Cejas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1266,Metropolitana,5.5,10,Gino Lorenzini,Gino Lorenzini,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1285,Metropolitana,5.5,10,Hernán Fontecilla,Hernán Fontecilla,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1287,Metropolitana,5.5,10,Hugo Lavado,Hugo Lavado,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1277,Metropolitana,5.5,10,Jaime Cruz H.,Jaime Cruz H.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1291,Metropolitana,5.5,10,Jeanine Astete,Jeanine Astete,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1274,Metropolitana,5.5,10,Joshua Hoppe,Joshua Hoppe,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1303,Metropolitana,5.5,10,Liliana Cejas,Liliana Cejas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1304,Metropolitana,5.5,10,Luis Muñoz B.,Luis Muñoz B.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1272,Metropolitana,5.5,10,Luis Pérez B.,Luis Pérez B.,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1293,Metropolitana,5.5,10,Marcela Parra,Marcela Parra,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1293,Metropolitana,5.5,10,Marcela Parra,Marcela Parra,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1281,Metropolitana,5.5,10,Marco Fernández,Marco Fernández,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1289,Metropolitana,5.5,10,Margarita Peña,Margarita Peña,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
-1286,Metropolitana,5.5,10,Mariela Cancino,Mariela Cancino,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1286,Metropolitana,5.5,10,Mariela Cancino,Mariela Cancino,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1290,Metropolitana,5.5,10,Mónica Sagredo,Mónica Sagredo,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1280,Metropolitana,5.5,10,Pablo Astudillo,Pablo Astudillo,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1267,Metropolitana,5.5,10,Paola Walker,Paola Walker,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1297,Metropolitana,5.5,10,Patricia Rubilar,Patricia Rubilar,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1294,Metropolitana,5.5,10,Patricio Villarroel,Patricio Villarroel,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1267,Metropolitana,5.5,10,Paola Walker,Paola Walker,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1297,Metropolitana,5.5,10,Patricia Rubilar,Patricia Rubilar,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1294,Metropolitana,5.5,10,Patricio Villarroel,Patricio Villarroel,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1284,Metropolitana,5.5,10,Ricardo Vidal,Ricardo Vidal,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1288,Metropolitana,5.5,10,Sara Abarca,Sara Abarca,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1279,Metropolitana,5.5,10,Sebastián Arenas,Sebastián Arenas,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1301,Metropolitana,5.5,10,Sebastián Garrido,Sebastián Garrido,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1301,Metropolitana,5.5,10,Sebastián Garrido,Sebastián Garrido,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1273,Metropolitana,5.5,10,Sebastián González,Sebastián González,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1278,Metropolitana,5.5,10,Sylvia Hernández,Sylvia Hernández,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1271,Metropolitana,5.5,10,Valeria Proaño,Valeria Proaño,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1278,Metropolitana,5.5,10,Sylvia Hernández,Sylvia Hernández,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
+1271,Metropolitana,5.5,10,Valeria Proaño,Valeria Proaño,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1302,Metropolitana,5.5,10,Virginia Villalobos,Virginia Villalobos,FYFVotaFeliz,IND,IND,fyfvotafeliz,04-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1097,Metropolitana,5.5,10,Alonso Rivera,Alonso Rivera,Independiente,IND,IND,,03-01-2021,.,.,0
 551,Metropolitana,5.5,10,Camilo Parada,Camilo Parada,Independiente,IND,IND,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
@@ -987,7 +987,7 @@
 769,O'Higgins,6,15,Alfredo Aránguiz,Alfredo Aránguiz,Levanta Chile,IND,IND,Levanta Chile,27-12-2020,https://levantachile.cl/candidatos/,.,0
 354,O'Higgins,6,15,Sandra Cabezas,Sandra Cabezas,Levanta Chile,IND,IND,DF,18-11-2020,https://www.df.cl/noticias/df-lab/innovacion-y-startups/emprendedores-lanzan-referente-ciudadano-y-presentan-candidaturas-a/2020-11-17/195011.html,https://levantachile.cl/?page_id=1076,1
 181,O'Higgins,6,16,Juan P. Arriaza Zalá,Juan P. Arriaza Zalá,Frente Amplio,RD,RD,Interno,.,.,.,0
-1369,O'Higgins,6,16,Angelina Cornejo,Angelina Cornejo,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1369,O'Higgins,6,16,Angelina Cornejo,Angelina Cornejo,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1370,O'Higgins,6,16,Aranza Campos,Aranza Campos,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1371,O'Higgins,6,16,Carlos Becerra,Carlos Becerra,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1372,O'Higgins,6,16,Carlos Donoso,Carlos Donoso,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
@@ -1221,7 +1221,7 @@
 195,Bío-Bío,8,20,Narciso Cortés,Narciso Cortés,Unidad Constituyente,PS,PS,Interno,.,.,.,0
 233,Bío-Bío,8,21,Ítalo Zunino,Ítalo Zunino,Chile Vamos,EVO,EVO,La Segunda,29-09-2020,.,.,0
 1391,Bío-Bío,8,21,Abelardo Muñoz,Abelardo Muñoz,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
-1392,Bío-Bío,8,21,Christel Uribe,Christel Uribe,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
+1392,Bío-Bío,8,21,Christel Uribe,Christel Uribe,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
 1393,Bío-Bío,8,21,Erwin fMedina,Erwin fMedina,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1394,Bío-Bío,8,21,Fernando Carrasco,Fernando Carrasco,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,0
 1500,Bío-Bío,8,21,Leticia Berrocal,Leticia Berrocal,FYFVotaFeliz,IND,IND,fyfvotafeliz,05-01-2021,https://www.fyfvotafeliz.cl/candidatos/,.,1
@@ -1346,7 +1346,7 @@
 1081,Los Lagos,10,25,Álvaro Vargas,Álvaro Vargas,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,0
 1090,Los Lagos,10,25,Beatriz Bahamondes,Beatriz Bahamondes,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,1
 1071,Los Lagos,10,25,Juan Carlos Poblete,Juan Carlos Poblete,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,0
-1087,Los Lagos,10,25,Meri Fuentealba,Meri Fuentealba,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,0
+1087,Los Lagos,10,25,Meri Fuentealba,Meri Fuentealba,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,1
 1072,Los Lagos,10,25,Myriam Rojas,Myriam Rojas,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,1
 1070,Los Lagos,10,25,Pamela Mellado,Pamela Mellado,FYFVotaFeliz,IND,IND,SERVEL,02-01-2021,.,.,1
 898,Los Lagos,10,25,Adrián Olmedo,Adrián Olmedo,Independiente,IND,IND,SERVEL,29-12-2020,.,.,0
