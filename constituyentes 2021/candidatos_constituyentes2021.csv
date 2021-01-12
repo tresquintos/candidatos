@@ -12,8 +12,8 @@
 11,Tarapacá,1,2,Juan Marroquín,Juan Marroquín,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
 12,Tarapacá,1,2,Melisa Ostojic,Melisa Ostojic,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
 13,Tarapacá,1,2,Julio Ruiz Fernández,Julio Ruiz Fernández,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-14,Tarapacá,1,2,Jorge Muñoz,Jorge Muñoz,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-15,Tarapacá,1,2,Myrta Dubost,Myrta Dubost,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,1
+14,Tarapacá,1,2,Jorge Muñoz,Jorge Muñoz,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+15,Tarapacá,1,2,Myrta Dubost,Myrta Dubost,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,1
 16,Antofagasta,2,3,Romina Ávalos,Romina Ávalos,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
 17,Antofagasta,2,3,Sergio Cubillos,Sergio Cubillos,Atacameño,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
 18,Antofagasta,2,3,Iván Ivanovic,Iván Ivanovic,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
@@ -31,456 +31,455 @@
 30,Antofagasta,2,3,Jacqueline Santander,Jacqueline Santander,Lista del Apruebo,PS,PS,Interno,.,.,.,1
 31,Antofagasta,2,3,Miguel Urrelo,Miguel Urrelo,Quechua,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
 32,Antofagasta,2,3,Samuel Yupanqui,Samuel Yupanqui,Quechua,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-34,Atacama,3,4,Rolando Quevedo,Rolando Quevedo,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
-35,Atacama,3,4,Mariana Cruz,Mariana Cruz,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-36,Atacama,3,4,Patricio Pinto Castro,Patricio Pinto Castro,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-37,Atacama,3,4,Brenda Gutierrez,Brenda Gutierrez,Changos,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
-38,Atacama,3,4,Felipe Rivera Marín,Felipe Rivera Marín,Changos,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-39,Atacama,3,4,Claudia Panes,Claudia Panes,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-40,Atacama,3,4,Leandro Ledezma,Leandro Ledezma,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-41,Atacama,3,4,María T. Rivera,María T. Rivera,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-42,Atacama,3,4,Osvaldo Tello,Osvaldo Tello,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-43,Atacama,3,4,Raúl Córdova,Raúl Córdova,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-44,Atacama,3,4,Ricardo Ibáñez,Ricardo Ibáñez,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-45,Atacama,3,4,Catalina Jones,Catalina Jones,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-46,Atacama,3,4,Octavio Meneses,Octavio Meneses,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
-47,Atacama,3,4,Verónica Peña,Verónica Peña,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
-48,Atacama,3,4,Alberto Robles,Alberto Robles,Lista del Apruebo,PR,PR,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-49,Atacama,3,4,Eduardo Herrera,Eduardo Herrera,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-50,Coquimbo,4,5,Claudio Quiroga,Claudio Quiroga,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
-51,Coquimbo,4,5,María Teresa Araya,María Teresa Araya,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-52,Coquimbo,4,5,Cedric Steinlen,Cedric Steinlen Cuevas,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-53,Coquimbo,4,5,Sonia Neyra,Sonia Neyra,Colla,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
-54,Coquimbo,4,5,Alex Cortes,Alex Cortes,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
-55,Coquimbo,4,5,Consuelo Infante,Consuelo Infante,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
-56,Coquimbo,4,5,Daniel Bravo,Daniel Bravo,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
-57,Coquimbo,4,5,Diego Figueroa,Diego Figueroa,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
-58,Coquimbo,4,5,Ivanna Olivares,Ivanna Olivares,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
-59,Coquimbo,4,5,Leonardo Pasten,Leonardo Pasten,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
-60,Coquimbo,4,5,Maria Infante,Maria Infante,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
-61,Coquimbo,4,5,Nancy Duman,Nancy Duman,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
-62,Coquimbo,4,5,Carolina Henríquez,Carolina Henríquez,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-63,Coquimbo,4,5,Pedro Barraza,Pedro Barraza,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-64,Coquimbo,4,5,Alejandra Díaz,Alejandra Díaz,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
-65,Coquimbo,4,5,Christian Álvarez,Christian Álvarez,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
-66,Coquimbo,4,5,Felipe Barraza,Felipe Barraza Araya,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
-67,Coquimbo,4,5,María Rojas Pinto,María Rojas Pinto,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
-68,Coquimbo,4,5,Alfredo Chaparro,Alfredo Chaparro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-69,Coquimbo,4,5,Francisco Jiménez,Francisco Jiménez Vega,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-70,Coquimbo,4,5,Gonzalo Cortés,Gonzalo Cortés,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-71,Coquimbo,4,5,Jaime Castillo Aliaga,Jaime Castillo Aliaga,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-72,Coquimbo,4,5,Matías Orellana,Matías Orellana Cuellar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-73,Coquimbo,4,5,Patricio Rubio,Patricio Rubio Aguirre,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-74,Coquimbo,4,5,Solercio Rojas,Solercio Rojas,Vamos por Chile,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-75,Valparaíso,5,6,Matías Gazmuri,Matías Gazmuri,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
-76,Valparaíso,5,6,Patricia Mix,Patricia Mix,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-77,Valparaíso,5,6,Bárbara Astudillo,Bárbara Astudillo,Apruebo Dignidad,CS,CS,DM twitter,.,.,.,1
-78,Valparaíso,5,6,Joan Zuñiga,Joan Zuñiga,Apruebo Dignidad,CS,CS,DM twitter,03-11-2020,,,0
-79,Valparaíso,5,6,Mariela Serey,Mariela Serey,Apruebo Dignidad,CS-IND,CS-IND,El Desconcierto,19-12-2020,https://www.eldesconcierto.cl/nacional/2020/12/19/profesora-y-activista-mariela-serey-lanza-su-candidatura-a-constituyente-por-la-region-de-valparaiso.html,.,1
-80,Valparaíso,5,6,Alejandra Toledo,Alejandra Toledo,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-81,Valparaíso,5,6,Alejandro Godoy,Alejandro Godoy,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-82,Valparaíso,5,6,Carlos Alarcon,Carlos Alarcon,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-83,Valparaíso,5,6,Carmen Aguilera,Carmen Aguilera,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-84,Valparaíso,5,6,Eliam Chávez,Eliam Chávez,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-85,Valparaíso,5,6,Gloria Morales,Gloria Morales,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-86,Valparaíso,5,6,Gonzalo Araya,Gonzalo Araya,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-87,Valparaíso,5,6,Katherine Alarcón,Katherine Alarcón,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-88,Valparaíso,5,6,Nancy Camus,Nancy Camus,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-89,Valparaíso,5,6,Rodolfo Marcone,Rodolfo Marcone,Lista del Apruebo,CIU,CIU,Twitter,05-01-2021,https://twitter.com/rodolfomarcone/status/1346410916783525889,.,0
-90,Valparaíso,5,6,Jorge Correa Sutil,Jorge Correa Sutil,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-91,Valparaíso,5,6,Waleska Castillo,Waleska Castillo,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-92,Valparaíso,5,6,Carlos Ominami,Carlos Ominami,Lista del Apruebo,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-93,Valparaíso,5,6,Marisel Martínez,Marisel Martínez,Lista del Apruebo,PPD,PPD,DM twitter,28-12-2020,.,.,1
-94,Valparaíso,5,6,Nicolás Gatica Jarru,Nicolás Gatica Jarru,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
-95,Valparaíso,5,6,Ximena Rivillo,Ximena Rivillo,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
-96,Valparaíso,5,6,Alfaro Díaz Sandoval,Alfaro Díaz Sandoval,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-97,Valparaíso,5,6,Carmen Obreque,Carmen Obreque,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-98,Valparaíso,5,6,Jorge Morales Farías,Jorge Morales Farías,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-99,Valparaíso,5,6,Sergio Olivares,Sergio Olivares Palma,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-100,Valparaíso,5,6,Claudio Gómez,Claudio Gómez,Lista del Apruebo,PS-IND,PS-IND,DM twitter,.,.,.,0
-101,Valparaíso,5,6,Antonio Barchiesi,Antonio Barchiesi,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-102,Valparaíso,5,6,María de los Ángeles López,María de los Ángeles López,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,1
-103,Valparaíso,5,6,Carolina Contreras,Carolina Contreras,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
-104,Valparaíso,5,6,Diego Salvatierra,Diego Salvatierra,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-105,Valparaíso,5,6,Felipe Ossa,Felipe Ossa,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-106,Valparaíso,5,6,Gerard Oliger,Gerard Oliger,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-107,Valparaíso,5,6,Ítalo de Blasis,Ítalo de Blasis,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-108,Valparaíso,5,6,Ítalo Gorziglia,Ítalo Gorziglia,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-109,Valparaíso,5,6,Jorge Ortíz,Jorge Ortíz,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-110,Valparaíso,5,6,José Valenzuela,José Valenzuela,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-111,Valparaíso,5,6,Luz Poblete,Luz Poblete,Vamos por Chile,EVO,EVO,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
-112,Valparaíso,5,6,Moisés Pinilla,Moisés Pinilla,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-113,Valparaíso,5,6,Nashla Manzur,Nashla Manzur,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
-114,Valparaíso,5,6,Ramón Jara,Ramón Jara,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-115,Valparaíso,5,6,Samira Chahuán,Samira Chahuán,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
-116,Valparaíso,5,6,Yarelia Castañeda,Yarelia Castañeda,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
-117,Valparaíso,5,6,Francisca Desbordes,Francisca Desbordes,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
-118,Valparaíso,5,6,Ricardo Ibáñez,Ricardo Ibáñez,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-119,Valparaíso,5,7,Constanza Valdés,Constanza Valdés,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
-120,Valparaíso,5,7,Raúl Devia,Raúl Devia,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
-121,Valparaíso,5,7,Jaime Bassa,Jaime Bassa,Apruebo Dignidad,CS-IND,CS-IND,Interno,.,https://www.eldesconcierto.cl/nacional/2020/12/03/jaime-bassa-oficializa-candidatura-a-constituyente-con-cupo-de-cs-y-amplio-apoyo-ciudadano-en-valparaiso.html,.,0
-122,Valparaíso,5,7,María Oyarzún Solis,María Oyarzún Solis,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-123,Valparaíso,5,7,Bernardita Arqueros,Bernardita Arqueros,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-124,Valparaíso,5,7,Carla Allendes,Carla Allendes,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-125,Valparaíso,5,7,Cecilia Lizama,Cecilia Lizama,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-126,Valparaíso,5,7,Johan Pizarro,Johan Pizarro,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-127,Valparaíso,5,7,Luis Rojas,Luis Rojas,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-128,Valparaíso,5,7,María del Carmen Palominos,María del Carmen Palominos,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-129,Valparaíso,5,7,Ricardo Bonilla,Ricardo Bonilla,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-130,Valparaíso,5,7,Sebastián Olavarría,Sebastián Olavarría,Felices Sin Partidos,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-131,Valparaíso,5,7,Paz Anstasiadis,Paz Anstasiadis,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-132,Valparaíso,5,7,Agustín Squella,Agustín Squella,Lista del Apruebo,PL-IND,PL-IND,Interno,.,.,.,0
-133,Valparaíso,5,7,Paola Tapia,Paola Tapia,Lista del Apruebo,PPD,PPD,T13,21-09-2020,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional,.,1
-134,Valparaíso,5,7,Paula Gutiérrez,Paula Gutiérrez,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-135,Valparaíso,5,7,Tamaru Huke,Tamaru Huke,Rapa Nui,IND,IND,Emol,06-01-2021,.,.,0
-136,Valparaíso,5,7,Tiare Aguilera,Tiare Aguilera,Rapa Nui,IND,IND,Emol,06-01-2021,.,.,1
-137,Valparaíso,5,7,Valeria Pakarati,Valeria Pakarati,Rapa Nui,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
-138,Valparaíso,5,7,Alejandro Cea,Alejandro Cea,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-139,Valparaíso,5,7,Alejandro Zapico,Alejandro Zapico,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-140,Valparaíso,5,7,Andrés Weinstein,Andrés Weinstein,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-141,Valparaíso,5,7,Fernanda Pinochet,Fernanda Pinochet,Vamos por Chile,EVO,EVO,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
-142,Valparaíso,5,7,Gian Chiappini,Gian Chiappini,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-143,Valparaíso,5,7,Pastora Valderrama,Pastora Valderrama,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
-144,Valparaíso,5,7,Rodrigo Gómez,Rodrigo Gómez,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-145,Valparaíso,5,7,Tarek Giacaman,Tarek Giacaman,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
-146,Valparaíso,5,7,Jorge Arancibia,Jorge Arancibia,Vamos por Chile,RN,RN,Interno,10-12-2020,.,.,0
-147,Valparaíso,5,7,Raúl Celis,Raúl Celis,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-148,Valparaíso,5,7,Ruggero Cozzi,Ruggero Cozzi,Vamos por Chile,RN,RN,Interno,10-12-2020,.,.,0
-149,Valparaíso,5,7,Tania Córdova,Tania Córdova,Vamos por Chile,RN,RN,DM Twitter,14-12-2020,.,.,1
-150,Valparaíso,5,7,Arturo Squella,Arturo Squella,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,0
-151,Valparaíso,5,7,Juan Pablo Rodríguez,Juan Pablo Rodríguez,Vamos por Chile,UDI-IND,UDI-IND,Interno,10-12-2020,.,.,0
-152,Metropolitana,5.5,8,Andrés Hidalgo,Andrés Hidalgo,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,0
-153,Metropolitana,5.5,8,Doris González,Doris González,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
-154,Metropolitana,5.5,8,Eduardo Acuña,Eduardo Acuña,Apruebo Dignidad,COM,COM,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-155,Metropolitana,5.5,8,Luis Sierra,Luis Sierra,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-156,Metropolitana,5.5,8,Matías Goyenechea,Matías Goyenechea,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-157,Metropolitana,5.5,8,Ricardo Camargo,Ricardo Camargo,Apruebo Dignidad,CS,CS,DM twitter,.,.,.,0
-158,Metropolitana,5.5,8,Tatiana Urrutia,Tatiana Urrutia Herrera,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-159,Metropolitana,5.5,8,Daniel Stingo,Daniel Stingo,Apruebo Dignidad,RD-IND,RD-IND,Interno,29-10-2020,https://www.publimetro.cl/cl/noticias/2020/10/29/daniel-stingo-constituyente.html,.,0
-160,Metropolitana,5.5,8,Rodrigo Rettig,Rodrigo Rettig,Lista del Apruebo,CIU,CIU,Interno,.,.,.,0
-161,Metropolitana,5.5,8,Cecilia Valdés,Cecilia Valdés,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-162,Metropolitana,5.5,8,Rodrigo Logan,Rodrigo Logan,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-163,Metropolitana,5.5,8,Jeanette Vega,Jeanette Vega,Lista del Apruebo,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-164,Metropolitana,5.5,8,Bessy Gallardo,Bessy Gallardo,Lista del Apruebo,PRO-IND,PRO-IND,DM twitter,12-12-2020,.,.,1
-165,Metropolitana,5.5,8,Miguel Echeverría,Miguel Echeverría,Lista del Apruebo,PRO-IND,PRO-IND,DM twitter,12-12-2020,.,.,0
-166,Metropolitana,5.5,8,Ramón Kong,Ramón Yuc Liong Kong González,Lista del Apruebo,PRO-IND,PRO-IND,DM twitter,12-12-2020,.,.,0
-167,Metropolitana,5.5,8,Cindy Solis Ibarra,Cindy Solis Ibarra,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-168,Metropolitana,5.5,8,Johnny Carrasco,Johnny Carrasco,Lista del Apruebo,PS,PS,T13,21-09-2020,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional,.,0
-169,Metropolitana,5.5,8,Óscar Sandoval,Óscar Sandoval,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-170,Metropolitana,5.5,8,Pedro Blaset Castro,Pedro Blaset Castro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-171,Metropolitana,5.5,8,Víctor Saavedra,Víctor Saavedra Cortes,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-172,Metropolitana,5.5,8,Alihuen Antileo,Alihuen Antileo,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,0
-173,Metropolitana,5.5,8,Elisa Loncon,Elisa Loncon Antileo,Mapuche,IND,IND,Twitter,12-12-2020,https://twitter.com/ElisaLoncon/status/1337103658090115073,.,1
-174,Metropolitana,5.5,8,Frank Almendares,Frank Almendares,Vamos por Chile,RN-IND,RN-IND,Twitter,08-12-2020,https://twitter.com/Claudio_Lohse/status/1336475890532945921,.,0
-175,Metropolitana,5.5,8,Verónica Campino,Verónica Campino,Vamos por Chile,RN-IND,RN-IND,Twitter,08-12-2020,https://twitter.com/Claudio_Lohse/status/1336475890532945921,.,1
-176,Metropolitana,5.5,8,Francisco Moreno,Francisco Moreno,Vamos por Chile,UDI,UDI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.cnnchile.com/pais/francisco-moreno-sobrino-jaime-guzman-renuncia-hacienda-postula-constituyente_20201121/,0
-177,Metropolitana,5.5,8,Macarena Bravo,Macarena Bravo,Vamos por Chile,UDI-IND,UDI-IND,DM Twitter,08-01-2021,.,.,1
-178,Metropolitana,5.5,9,Gonzalo Rubio,Gonzalo Rubio,Apruebo Dignidad,COM,COM,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-179,Metropolitana,5.5,9,Juan Pablo Sanhueza,Juan Pablo Sanhueza,Apruebo Dignidad,COM,COM,DM twitter,.,.,.,0
-180,Metropolitana,5.5,9,Carolina Guerra,Carolina Guerra,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-181,Metropolitana,5.5,9,Luis Jaqui,Luis Jaqui,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-182,Metropolitana,5.5,9,Rodrigo Mallea,Rodrigo Mallea,Apruebo Dignidad,CS,CS,DM twitter,30-10-2020,.,.,0
-183,Metropolitana,5.5,9,Rodrigo Pérez,Rodrigo Pérez,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-184,Metropolitana,5.5,9,Ulises Castillo,Ulises Castillo,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-185,Metropolitana,5.5,9,Bárbara Sepúlveda,Bárbara Sepúlveda,Apruebo Dignidad,PC,PC,DM twitter,.,.,.,1
-186,Metropolitana,5.5,9,Juan Andrés Lagos,Juan Andrés Lagos,Apruebo Dignidad,PC,PC,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-187,Metropolitana,5.5,9,Luz Vidal Huiriqueo,Luz Vidal Huiriqueo,Apruebo Dignidad,RD-IND,RD-IND,Twitter,06-11-2020,https://twitter.com/CatalinaPerezS/status/1324811452625178624,https://twitter.com/MaiteOrsini/status/1328372455606464517/photo/2,1
-188,Metropolitana,5.5,9,Andrés Lillo,Andrés Alejandro Lillo Allain,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-189,Metropolitana,5.5,9,Domingo Guerrero,Domingo Arturo Guerrero Cortés,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-190,Metropolitana,5.5,9,Eduardo Magaña,Eduardo Antonio Magaña Silva,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-191,Metropolitana,5.5,9,Macarena Pacheco,Macarena del Carmen Pacheco Osorio,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-192,Metropolitana,5.5,9,Mariel San Martin,Mariel Magdalena San Martin Iturriaga,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-193,Metropolitana,5.5,9,Rocío Macari,Rocío del Pilar Macari Rojos,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-194,Metropolitana,5.5,9,Roxana Azocar,Roxana Azocar,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-195,Metropolitana,5.5,9,Jorge Cash,Jorge Cash,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-196,Metropolitana,5.5,9,Gastón Fuentealba,Gastón Fuentealba,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-197,Metropolitana,5.5,9,Ricardo Azócar,Ricardo Azócar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-198,Metropolitana,5.5,9,Rodrigo Valladares ,Rodrigo Valladares ,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-199,Metropolitana,5.5,9,Macarena Venegas,Macarena Venegas,Vamos por Chile,EVO-IND,EVO-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
-200,Metropolitana,5.5,9,Graciela Ortúzar,Graciela Ortúzar,Vamos por Chile,RN,RN,La Segunda,29-09-2020,.,.,1
-202,Metropolitana,5.5,9,Claudia Nogueira,Claudia Nogueira,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,1
-206,Metropolitana,5.5,10,Carlos Ruiz,Carlos Ruiz,Apruebo Dignidad,COM,COM,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-213,Metropolitana,5.5,10,Emilia Schneider,Emilia Schneider,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
-204,Metropolitana,5.5,10,Antonia Orellana,Antonia Orellana,Apruebo Dignidad,CS,CS,Twitter,15-12-2020,https://twitter.com/la_convergencia/status/1338851577369669634,.,1
-228,Metropolitana,5.5,10,Pablo Selles,Pablo Selles,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-203,Metropolitana,5.5,10,Adriana Barrientos,Adriana Barrientos,Apruebo Dignidad,FRVS-IND,FRVS-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2022,https://www.t13.cl/noticia/plebiscito-2020/tendencias/adriana-barrientos-apruebo-plebiscito-ser-constituyente-06-10-2020,1
-486,Metropolitana,5.5,10,Luis Mesina,Comunidad por la Dignidad,Apruebo Dignidad,IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0,0
-487,Metropolitana,5.5,10,Rafael Harvey,Comunidad por la Dignidad,Apruebo Dignidad,IND,T13,27-10-2020,https://twitter.com/RafaelHarvey3,https://twitter.com/RafaelHarvey3/status/1320849500110467078,0,0
-211,Metropolitana,5.5,10,Daniel Fica,Daniel Fica,Apruebo Dignidad,PC,PC,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
-226,Metropolitana,5.5,10,Natalí Jarpa,Natalí Jarpa,Apruebo Dignidad,PC,PC,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
-215,Metropolitana,5.5,10,Giovanna Roa,Giovanna Roa,Apruebo Dignidad,RD,RD,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
-214,Metropolitana,5.5,10,Fernando Atria,Fernando Atria,Apruebo Dignidad,RD-IND,RD-IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-217,Metropolitana,5.5,10,Ignacia Gómez,Ignacia Gómez,Lista del Apruebo,CIU,CIU,Interno,.,.,.,1
-210,Metropolitana,5.5,10,Cristóbal Bellolio,Cristóbal Bellolio,Lista del Apruebo,CIU-IND,CIU-IND,Interno,.,.,.,0
-222,Metropolitana,5.5,10,Laura Albornoz,Laura Albornoz,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-230,Metropolitana,5.5,10,Patricio Zapata,Patricio Zapata,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-224,Metropolitana,5.5,10,Lucía López,Lucía López,Lista del Apruebo,PPD,PPD,T13,21-09-2020,https://twitter.com/lucialopezchile/status/1301990633406713857,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,1
-218,Metropolitana,5.5,10,Jaime Parada,Jaime Parada,Lista del Apruebo,PPD-IND,PPD-IND,Twitter,30-12-2020,https://twitter.com/JParadaHoyl/status/1344346346304794630,.,0
-207,Metropolitana,5.5,10,Catalina Lagos,Catalina Lagos,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-219,Metropolitana,5.5,10,Jorge Baradit,Jorge Baradit,Lista del Apruebo,PS-IND,PS-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2031,https://www.theclinic.cl/2020/09/03/jorge-baradit-lo-he-pensado-muchisimo-y-tengo-todo-el-interes-de-ser-candidato-a-la-convencion-constituyente/,0
-216,Metropolitana,5.5,10,Gonzalo Blumel,Gonzalo Blumel,Vamos por Chile,EVO,EVO,La Segunda,29-09-2020,.,.,0
-232,Metropolitana,5.5,10,Raúl Alcaíno,Raúl Alcaíno,Vamos por Chile,EVO,EVO,Twitter,.,https://twitter.com/Censelio/status/1310968357135544321,.,0
-208,Metropolitana,5.5,10,Cecilia Pérez,Cecilia Pérez,Vamos por Chile,RN,RN,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,1
-209,Metropolitana,5.5,10,Cristián Monckeberg,Cristián Monckeberg,Vamos por Chile,RN,RN,La Tercera,06-01-2021,https://www.latercera.com/politica/noticia/monckeberg-y-walker-dejan-gabinete-para-ser-candidatos-a-constituyentes/K56ZY5MIX5FSTGC6AUA4777XCU/,.,0
-220,Metropolitana,5.5,10,José Tomás Bulnes,José Tomás Bulnes,Vamos por Chile,RN,RN,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
-223,Metropolitana,5.5,10,Leopoldo Ramírez,Leopoldo Ramírez,Vamos por Chile,RN,RN,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
-227,Metropolitana,5.5,10,Pablo Millas,Pablo Millas,Vamos por Chile,RN,RN,La Segunda,21-12-2020,,,0
-221,Metropolitana,5.5,10,Juan José Balsa,Juan José Balsa,Vamos por Chile,RN-IND,RN-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-229,Metropolitana,5.5,10,Pablo Valderrama,Pablo Valderrama,Vamos por Chile,RN-IND,RN-IND,La Segunda,21-12-2020,,,0
-205,Metropolitana,5.5,10,Arturo Zúñiga,Arturo Zúñiga Jory,Vamos por Chile,UDI,UDI,La Tercera,04-11-2020,https://www.latercera.com/nacional/noticia/arturo-zuniga-jory-exsubsecretario-de-redes-asistenciales-me-han-solicitado-ser-candidato-en-algunas-de-las-elecciones-que-vienen/GHYB5PYP65AFRKIMG7UUTIZCJ4/,https://www.cnnchile.com/pais/arturo-zuniga-candidatura-parlamentario-constituyente-udi_20201104/,0
-212,Metropolitana,5.5,10,Diego Riveaux,Diego Riveaux,Vamos por Chile,UDI,UDI,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
-225,Metropolitana,5.5,10,Macarena Letelier,Macarena Letelier,Vamos por Chile,UDI-IND,UDI-IND,La Segunda,21-12-2020,,,1
-231,Metropolitana,5.5,10,Paulina Lobos,Paulina Lobos,Vamos por Chile,UDI-IND,UDI-IND,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
-233,Metropolitana,5.5,11,Javiera Toro,Javiera Toro,Apruebo Dignidad,COM,COM,Interno,10-12-2020,.,.,1
-234,Metropolitana,5.5,11,Claudia Hasbún,Claudia Hasbún,Apruebo Dignidad,CS,CS,DM Facebook,,,,1
-235,Metropolitana,5.5,11,Constanza Schönhaut,Constanza Schönhaut,Apruebo Dignidad,CS,CS,DM twitter,30-10-2020,.,.,1
-236,Metropolitana,5.5,11,Marcelo Ferrari,Marcelo Ferrari,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-237,Metropolitana,5.5,11,Carolina Pérez ,Carolina Perez Dattari,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-238,Metropolitana,5.5,11,Clemente Pérez,Clemente Pérez,Independientes por Chile,IND,IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2034,https://twitter.com/ClementePerezE/status/1321069765029466117,0
-239,Metropolitana,5.5,11,Cristina Bastidas,Cristina Bastidas,Independientes por Chile,IND,IND,SERVEL,22-12-2020,,,1
-240,Metropolitana,5.5,11,Manuel Inostroza,Manuel Inostroza,Independientes por Chile,IND,IND,SERVEL,15-12-2020,.,.,0
-241,Metropolitana,5.5,11,Mariana Aylwin,Mariana Aylwin,Independientes por Chile,IND,IND,DM twitter,27-10-2020,https://www.cnnchile.com/pais/mariana-aylwin-postulara-constituyente-evopoli-alianza_20201027/,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,1
-242,Metropolitana,5.5,11,Pilar Peña,Pilar Peña,Independientes por Chile,IND,IND,SERVEL,15-12-2020,.,.,0
-243,Metropolitana,5.5,11,Tomás Recart,Tomás Recart,Independientes por Chile,IND,IND,DM Twitter,14-12-2020,.,.,0
-244,Metropolitana,5.5,11,Paola Berlín,Paola Berlín,Lista del Apruebo,CIU-IND,CIU-IND,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
-245,Metropolitana,5.5,11,Elisa Walker,Elisa Walker,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-246,Metropolitana,5.5,11,Juan Enrique Pi,Juan Enrique Pi,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-247,Metropolitana,5.5,11,José Sanfuentes,José Sanfuentes,Lista del Apruebo,PL,PL,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
-248,Metropolitana,5.5,11,María José Cumplido,María José Cumplido,Lista del Apruebo,PL-IND,PL-IND,Interno,10-01-2021,.,.,0
-249,Metropolitana,5.5,11,Patricio Fernández,Patricio Fernández,Lista del Apruebo,PL-IND,PL-IND,Interno,10-01-2021,.,.,0
-250,Metropolitana,5.5,11,Alfredo Riquelme,Alfredo Riquelme,Lista del Apruebo,PPD,PPD,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
-251,Metropolitana,5.5,11,José Tomás Peralta,José Tomás Peralta,Lista del Apruebo,PPD,PPD,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
-252,Metropolitana,5.5,11,Sara Larraín,Sara Larraín,Lista del Apruebo,PPD,PPD,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,1
-253,Metropolitana,5.5,11,Eliel Hasson,Eliel Hasson,Lista del Apruebo,PPD-IND,PPD-IND,Twitter,20-12-2020,.,.,0
-254,Metropolitana,5.5,11,Antonia Matus,Antonia Matus,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-255,Metropolitana,5.5,11,Juan Cantuarias,Juan Cantuarias,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-256,Metropolitana,5.5,11,Laura Echeverría,Laura Echeverría,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-257,Metropolitana,5.5,11,Luis Acevedo,Luis Acevedo,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-258,Metropolitana,5.5,11,Maite Desconvieres,Maite Desconvieres,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-259,Metropolitana,5.5,11,Paulina Soriano,Paulina Soriano,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-260,Metropolitana,5.5,11,Roberto Amaro,Roberto Amaro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-261,Metropolitana,5.5,11,Pauline Kantor,Pauline Kantor,Vamos por Chile,EVO,EVO,La Segunda,29-09-2020,.,.,1
-262,Metropolitana,5.5,11,Rodrigo Durán,Rodrigo Durán,Vamos por Chile,PRI,PRI,La Segunda,29-09-2020,.,.,0
-263,Metropolitana,5.5,11,Andrés Carey,Andrés Carey,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-264,Metropolitana,5.5,11,Cecil Chellew,Cecil Chellew,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,1
-265,Metropolitana,5.5,11,Fernando Agüero,Fernando Agüero,Vamos por Chile,RN,RN,La Segunda,21-12-2020,https://twitter.com/patriciosainzr/status/1341191343759126528,.,0
-266,Metropolitana,5.5,11,Gastón Gómez,Gastón Gómez,Vamos por Chile,RN,RN,La Segunda,29-09-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-267,Metropolitana,5.5,11,Gonzalo Infante,Gonzalo Infante,Vamos por Chile,RN,RN,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
-268,Metropolitana,5.5,11,Juan José Ossa,Juan José Ossa,Vamos por Chile,RN,RN,La Segunda,29-09-2020,https://cooperativa.cl/noticias/cultura/literatura/jorge-baradit-afirmo-que-quiere-ser-candidato-a-la-convencion/2020-09-04/171315.html,.,0
-269,Metropolitana,5.5,11,Karin Ebensperger,Karin Ebensperger,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
-270,Metropolitana,5.5,11,Marcela Díaz,Marcela Díaz,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
-271,Metropolitana,5.5,11,María Ignacia Cruzat,María Ignacia Cruzat,Vamos por Chile,RN,RN,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,1
-272,Metropolitana,5.5,11,Pablo González,Pablo González,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,0
-273,Metropolitana,5.5,11,Víctor Avilés,Víctor Avilés,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-274,Metropolitana,5.5,11,Bernardo Fontaine,Bernardo Fontaine,Vamos por Chile,RN-IND,RN-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-275,Metropolitana,5.5,11,Henry Boys,Henry Boys,Vamos por Chile,RN-IND,RN-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2030,https://twitter.com/realHenryBoys/status/1320531241452666885,0
-276,Metropolitana,5.5,11,Juan Cristóbal Gumucio,Juan Cristóbal Gumucio,Vamos por Chile,RN-IND,RN-IND,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
-277,Metropolitana,5.5,11,Arturo Fermandois,Arturo Fermandois,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-278,Metropolitana,5.5,11,Isabel Plá,Isabel Plá,Vamos por Chile,UDI,UDI,La Segunda,21-12-2020,https://twitter.com/patriciosainzr/status/1341191343759126528,.,1
-279,Metropolitana,5.5,11,Marcela Cubillos,Marcela Cubillos,Vamos por Chile,UDI-IND,UDI-IND,Twitter,03-01-2021,https://twitter.com/Sergioespana/status/1345726607391137792,.,1
-280,Metropolitana,5.5,12,Víctor Orellana,Víctor Orellana,Apruebo Dignidad,COM,COM,DM twitter,30-10-2020,.,.,0
-281,Metropolitana,5.5,12,Camila Arenas,Camila Arenas,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-282,Metropolitana,5.5,12,Manuel Jacques,Manuel Jacques,Apruebo Dignidad,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-283,Metropolitana,5.5,12,Ana María Gazmuri,Ana María Gazmuri,Apruebo Dignidad,FRVS-IND,FRVS-IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,https://www.cnnchile.com/pais/frvs-cupos-candidaturas-constituyentes-independientes_20201108/,1
-286,Metropolitana,5.5,12,Beatriz Sánchez,Beatriz Sánchez,Apruebo Dignidad,RD,RD,,,,,1
-284,Metropolitana,5.5,12,Margarita Portuguez,Margarita Portuguez,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-285,Metropolitana,5.5,12,Marcela Mella,Marcela Mella,Apruebo Dignidad,RD-IND,RD-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
-287,Metropolitana,5.5,12,Isabel Ñanco,Isabel del Carmen Ñanco Huichalaf,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-288,Metropolitana,5.5,12,Juan P. Huitraiqueo,Juan Pablo Huitraiqueo Canio,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-289,Metropolitana,5.5,12,Karla Jara,Karla Verónica Jara Valdivia,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-290,Metropolitana,5.5,12,Luis Ponce,Luis Alberto Ponce Durán,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-291,Metropolitana,5.5,12,Náyade Moraga,Náyade Andrea Moraga Maldonado,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-292,Metropolitana,5.5,12,Nolberto Acevedo,Nolberto Andrés Acevedo Villarroel,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-293,Metropolitana,5.5,12,Paola Contreras,Paola Andrea Contreras Leal,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-294,Metropolitana,5.5,12,Pía Castelli,Pía Castelli,Lista del Apruebo,PPD,PPD,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,1
-295,Metropolitana,5.5,12,Lautaro Millaleo,Lautaro Millaleo,Lista del Apruebo,PPD-IND,PPD-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
-296,Metropolitana,5.5,12,Camila Bustamante,Camila Bustamante,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-297,Metropolitana,5.5,12,Camilo Riquelme,Camilo Riquelme,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-298,Metropolitana,5.5,12,Carmen Andrade,Carmen Andrade,Lista del Apruebo,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
-299,Metropolitana,5.5,12,Francisca Figueroa,Francisca Figueroa,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-300,Metropolitana,5.5,12,Julio Pizarro Saavedra,Julio Pizarro Saavedra,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-301,Metropolitana,5.5,12,Luis Bustamante,Luis Bustamante,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-302,Metropolitana,5.5,12,Matías Salazar,Matías Salazar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-303,Metropolitana,5.5,12,Pascal Merino,Pascal Merino,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-304,Metropolitana,5.5,12,Patricio Espinoza,Patricio Espinoza,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-305,Metropolitana,5.5,12,Romanina Morales ,Romanina Morales ,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-306,Metropolitana,5.5,12,Víctor Díaz Escobar,Víctor Díaz Escobar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-307,Metropolitana,5.5,12,Camilo Pereira,Camilo Pereira,Mapuche,IND,IND,No Neutrales,14-12-2020,https://twitter.com/NoNeutrales/status/1338605183035568129/photo/1,.,0
-308,Metropolitana,5.5,12,Diego Berríos,Diego Berríos,Vamos por Chile,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-309,Metropolitana,5.5,12,Bernardita Paul,Bernardita Paul,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,1
-310,Metropolitana,5.5,12,Eugenio Aguiló,Eugenio Aguiló,Vamos por Chile,RN,RN,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
-311,Metropolitana,5.5,12,Manuel J. Ossandón,Manuel J. Ossandón,Vamos por Chile,RN,RN,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
-312,Metropolitana,5.5,12,Marcelo Zunino,Marcelo Zunino,Vamos por Chile,RN,RN,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
-313,Metropolitana,5.5,13,Libertad Méndez,Libertad Méndez,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
-314,Metropolitana,5.5,13,Haydee Oberreuter,Haydee Oberreuter,Apruebo Dignidad,COM-IND,COM-IND,La Segunda,29-10-2020,.,.,1
-315,Metropolitana,5.5,13,Jaime Fuentes,Jaime Fuentes,Apruebo Dignidad,CS,CS,DM twitter,03-01-2020,,,0
-316,Metropolitana,5.5,13,Natalia Aravena,Natalia Aravena,Apruebo Dignidad,CS-IND,CS-IND,CNN,30-12-2020,https://www.cnnchile.com/pais/natalia-aravena-victima-trauma-ocular-candidata-constituyente_20201227/,.,1
-317,Metropolitana,5.5,13,Daniel Andrade,Daniel Andrade,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-318,Metropolitana,5.5,13,Rodolfo Seguel,Rodolfo Seguel,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-319,Metropolitana,5.5,13,Jorge Insunza,Jorge Insunza,Lista del Apruebo,PPD,PPD,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
-320,Metropolitana,5.5,13,Christian Pizarro,Christian Pizarro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-321,Metropolitana,5.5,13,Eduardo Muñoz,Eduardo Muñoz,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-322,Metropolitana,5.5,13,Fabián Leiva Leiva,Fabián Leiva Leiva,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-323,Metropolitana,5.5,13,Manuel Coña Pirul,Manuel Coña Pirul,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-324,Metropolitana,5.5,13,Luis Alejandro Silva,Luis Alejandro Silva,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-325,Metropolitana,5.5,13,Matías Poblete,Matías Poblete,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-326,Metropolitana,5.5,14,Sebastián Aylwin,Sebastián Aylwin,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,,0
-327,Metropolitana,5.5,14,Marcelino Romero ,Marcelino Romero ,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-328,Metropolitana,5.5,14,Paz Gajardo Daneri,Paz Gajardo Daneri,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-329,Metropolitana,5.5,14,Claudia Leiva,Claudia Leiva,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-330,Metropolitana,5.5,14,Claudio Farías,Claudio Farías,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-331,Metropolitana,5.5,14,Constanza Toro,Constanza Toro,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-332,Metropolitana,5.5,14,Luis Patricio Valdés,Luis Patricio Valdés,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-333,Metropolitana,5.5,14,Ramiro Iturra,Ramiro Iturra,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-334,Metropolitana,5.5,14,Teresa Armijo,Teresa Armijo,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-335,Metropolitana,5.5,14,Camila Briceño,Camila Briceño,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-336,Metropolitana,5.5,14,Liliana González,Liliana González,Lista del Apruebo,PR-IND,PR-IND,Interno,05-01-2021,.,.,1
-337,Metropolitana,5.5,14,Renato Garín,Renato Garín,Lista del Apruebo,PR-IND,PR-IND,CHV,03-11-2020,https://www.chvnoticias.cl/nacional/renato-garin-cede-comision-economia-candidato-constituyente_20201103/,https://www.cnnchile.com/pais/renato-garin-candidato-constituyente-partido-radical_20201226/,0
-338,Metropolitana,5.5,14,Christián Segovia,Christián Segovia,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-339,Metropolitana,5.5,14,Denise Pascal,Denise Pascal,Lista del Apruebo,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
-340,Metropolitana,5.5,14,Fabiola Freire,Fabiola Freire Aguilar,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-341,Metropolitana,5.5,14,José Vásquez Silva,José Vásquez Silva,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-342,Metropolitana,5.5,14,Manuel Covarrubias,Manuel Covarrubias,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-343,Metropolitana,5.5,14,Raul Godoy Rosas,Raul Godoy Rosas,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-344,Metropolitana,5.5,14,Yonild Navarro,Yonild Navarro Ruiz,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-345,Metropolitana,5.5,14,Cristóbal Orrego,Cristóbal Orrego,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-346,O'Higgins,6,15,Adriana Bastías,Adriana Bastías,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
-347,O'Higgins,6,15,Nolberto Zúñiga,Nolberto Zúñiga,Apruebo Dignidad,CS,CS,Instagram,02-01-2021,www.instagram.com/ftconvergenciasocial,.,1
-348,O'Higgins,6,15,Marta Molina,Marta Molina,Apruebo Dignidad,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-349,O'Higgins,6,15,Anita Martínez,Anita Martínez,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-350,O'Higgins,6,15,Javiera Saldaña,Javiera Saldaña,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-351,O'Higgins,6,15,Mario Quijada,Mario Quijada,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-352,O'Higgins,6,15,Dionisio de la Cersa,Dionisio de la Cersa,Vamos por Chile,EVO,EVO,Instagram,18-12-2020,https://www.dionisiodelacerda.com/,.,0
-353,O'Higgins,6,16,Juan P. Arriaza Zalá,Juan P. Arriaza Zalá,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-354,O'Higgins,6,16,Jessika Espina,Jessika Espina,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-355,O'Higgins,6,16,César Silva Caroca,César Silva Caroca,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-356,O'Higgins,6,16,Jaime Silva Aguilera,Jaime Silva Aguilera,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-357,Maule,7,17,Eliana Adams,Eliana Adams,Apruebo Dignidad,CS,CS,DM twitter,03-11-2020,,,1
-358,Maule,7,17,Roberto Celedón,Roberto Celedón,Apruebo Dignidad,FRVS-IND,FRVS-IND,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.cnnchile.com/pais/frvs-cupos-candidaturas-constituyentes-independientes_20201108/,0
-359,Maule,7,17,Fabián Farís,Fabián Farís,Apruebo Dignidad,RD,RD,Dínamo,21-12-2020,https://www.eldinamo.cl/politica/2020/12/18/rd-candidatos-constituyentes-daniel-stingo/?fbclid=IwAR3RMAgdUmuDo4uBwflVhmd7QmY-BjdqS8wVkuwpxY3MkQluSqskXB4mD-s,.,0
-360,Maule,7,17,Cristian Viera,Cristian Viera,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-361,Maule,7,17,Susana Zamorano,Susana Zamorano,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-362,Maule,7,17,Sergio Aguiló,Sergio Aguiló,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-363,Maule,7,17,Sergio Correa,Sergio Correa,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-364,Maule,7,17,Ignacio Tarud,Ignacio Tarud,Vamos por Chile,EVO,EVO,Instagram,18-12-2020,https://www.instagram.com/ignaciotarud/?hl=es-la,.,0
-365,Maule,7,18,Juan José Saldías,Juan José Saldías,Apruebo Dignidad,CS,CS,DM twitter,03-11-2020,,,0
-366,Maule,7,18,María Soledad Medel,María Soledad Medel,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-367,Maule,7,18,Ricardo Montero,Ricardo Montero,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-368,Maule,7,18,Rodrigo Medina,Rodrigo Medina,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-369,Maule,7,18,Denisse Mewes,Denisse Mewes,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,1
-370,Maule,7,18,Juan Ariztía,Juan Ariztía,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-371,Maule,7,18,Enrique Ojeda,Enrique Ojeda,Vamos por Chile,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
-372,Ñuble,7.5,19,Rocio Hizmeri,Rocio Hizmeri,Apruebo Dignidad,PC,PC,DM Twitter,02-01-2021,.,.,1
-373,Ñuble,7.5,19,Cristina Martin,Cristina Martin,Apruebo Dignidad,RD,RD,DM Twitter,02-01-2021,.,.,1
-374,Ñuble,7.5,19,Iván Paul,Iván Paul,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-375,Ñuble,7.5,19,Felipe Harboe,Felipe Harboe,Lista del Apruebo,PPD,PPD,DM Twitter,02-01-2021,.,.,0
-376,Ñuble,7.5,19,César Rodríguez,César Rodríguez,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-377,Ñuble,7.5,19,Felipe Aylwin,Felipe Aylwin Lagos,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-378,Ñuble,7.5,19,Gonzalo Guajardo,Gonzalo Guajardo,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-379,Ñuble,7.5,19,Oliver Cisterna,Oliver Cisterna,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-380,Ñuble,7.5,19,Margarita Letelier,Margarita Letelier,Vamos por Chile,UDI,UDI,DM Twitter,06-01-2021,.,.,1
-381,Ñuble,7.5,19,Martín Arrau,Martín Arrau,Vamos por Chile,UDI,UDI,DM Twitter,06-01-2021,.,.,0
-382,Bío-Bío,8,20,Eduardo Pacheco,Eduardo Pacheco,Apruebo Dignidad,COM-IND,COM-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,https://twitter.com/Edopacheco,0
-383,Bío-Bío,8,20,Juan Fernández,Juan Fernández Curapil,Apruebo Dignidad,CS,CS,Interno,.,.,.,0
-384,Bío-Bío,8,20,Amaya Alvez Marín,Amaya Alvez Marín,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-385,Bío-Bío,8,20,Carla Lara Gallardo,Carla Lara Gallardo,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
-386,Bío-Bío,8,20,Fernando Sepúlveda,Fernando Sepúlveda,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
-387,Bío-Bío,8,20,Francisco Vera,Francisco Vera,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
-388,Bío-Bío,8,20,Javier Guerrero,Javier Guerrero,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
-389,Bío-Bío,8,20,Valentina Torres,Valentina Torres,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
-390,Bío-Bío,8,20,Valentina Torres,Valentina Torres,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
-391,Bío-Bío,8,20,María José Gormaz,María José Gormaz,Ecologistas Verdes,PEV-IND,PEV-IND,Twitter,01-12-2020,https://twitter.com/MariaJoseGormaz/status/1333925279404863496,.,1
-392,Bío-Bío,8,20,Alejandro Trigo,Alejandro Trigo,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-393,Bío-Bío,8,20,Ana Burgos,Ana Burgos,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-394,Bío-Bío,8,20,Boris Flores,Boris Flores,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-395,Bío-Bío,8,20,Juan Pablo Rojas,Juan Pablo Rojas,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-396,Bío-Bío,8,20,Luis Moraga,Luis Moraga,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-397,Bío-Bío,8,20,Martina Oppliger,Martina Oppliger,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-398,Bío-Bío,8,20,Patricia Riquelme,Patricia Riquelme,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-399,Bío-Bío,8,20,Verónica Núñez,Verónica Núñez,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-400,Bío-Bío,8,20,Fabiola Troncoso,Fabiola Troncoso,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-401,Bío-Bío,8,20,Nicolás Hauri,Nicolás Hauri,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-402,Bío-Bío,8,20,Lautaro Benítez,Lautaro Benítez,Lista del Apruebo,PPD,PPD,DM twitter,08-12-2020,.,.,0
-403,Bío-Bío,8,20,María Angélica Fuentes,María Angélica Fuentes,Lista del Apruebo,PPD,PPD,DM twitter,08-12-2020,.,.,1
-404,Bío-Bío,8,20,Ruth Olate,Ruth Olate Moreno,Lista del Apruebo,PRO-IND,PRO-IND,Interno,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
-405,Bío-Bío,8,20,Alejandro Ugarte,Alejandro Ugarte,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-406,Bío-Bío,8,20,Andrés Smith,Andrés Smith,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-407,Bío-Bío,8,20,Clemira Pacheco,Clemira Pacheco,Lista del Apruebo,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
-408,Bío-Bío,8,20,Domingo Ramos,Domingo Ramos,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-409,Bío-Bío,8,20,Enrique Inostroza,Enrique Inostroza,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-410,Bío-Bío,8,20,Fah Bastías Macias,Fah Bastías Macias,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-411,Bío-Bío,8,20,Iván Pérez Muñoz,Iván Pérez Muñoz,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-412,Bío-Bío,8,20,José Silva Inostroza,José Silva Inostroza,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-413,Bío-Bío,8,20,María Viveros,María Viveros,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-414,Bío-Bío,8,20,Narciso Cortés,Narciso Cortés,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-415,Bío-Bío,8,20,Luciano Silva,Luciano Silva,Vamos por Chile,RN,RN,Interno,.,.,.,0
-416,Bío-Bío,8,20,Natalia Rojas,Natalia Rojas,Vamos por Chile,RN,RN,Interno,.,.,.,1
-417,Bío-Bío,8,20,Robert Contreras,Robert Contreras,Vamos por Chile,RN,RN,Interno,.,.,.,0
-418,Bío-Bío,8,20,Yanina Contreras,Yanina Contreras,Vamos por Chile,RN,RN,Interno,.,.,.,1
-419,Bío-Bío,8,21,Gerson Valdebenito Moya,Gerson Valdebenito,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-420,Bío-Bío,8,21,Abelardo Muñoz Barnachea,Abelardo Muñoz,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-421,Bío-Bío,8,21,Christel Uribe Kuncar,Christel Uribe,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-422,Bío-Bío,8,21,Leticia Berrocal Guillibrand,Leticia Berrocal,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-423,Bío-Bío,8,21,Lorena Urra Arévalo,Lorena Urra,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
-424,Bío-Bío,8,21,Luis Vásquez,Luis Vásquez,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
-425,Bío-Bío,8,21,Marcelo Urrutia,Marcelo Urrutia,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-426,Bío-Bío,8,21,Norka Flores,Norka Flores,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-427,Bío-Bío,8,21,Camilo Escalona,Camilo Escalona,Lista del Apruebo,PS,PS,CHV,07-09-2020,https://www.chvnoticias.cl/nacional/plebiscito-2020-nombres-candidatos-convencion-constituyente_20200907/,.,0
-428,Bío-Bío,8,21,Juan Canales,Juan Canales,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-429,Bío-Bío,8,21,Adolfo Millabur,Adolfo Millabur,Mapuche,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-430,Bío-Bío,8,21,Natividad Llanquileo,Natividad Llanquileo Pilquiman,Mapuche,IND,IND,Universal,11-11-2020,https://www.radiodelmar.cl/2020/11/el-nombre-de-natividad-llanquileo-que-comienza-a-irrumpir-con-fuerza-para-la-constituyente-en-chile/,https://eluniversal.cl/contenido/17630/natividad-llanquileo-que-comienza-a-irrumpir-con-fuerza-para-la-constituyente-en,1
-431,Bío-Bío,8,21,Ítalo Zunino,Ítalo Zunino,Vamos por Chile,EVO,EVO,La Segunda,29-09-2020,.,.,0
-432,Araucanía,9,22,Fuad Chahin,Fuad Chahin,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-433,Araucanía,9,22,Waleska Morales,Waleska Morales,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-434,Araucanía,9,22,Hugo Araya Padilla,Hugo Araya Padilla,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-435,Araucanía,9,22,Mauricio Lepin ,Mauricio Lepin Aniñir,Mapuche,IND,IND,Twitter,06-11-2020,https://twitter.com/CatalinaPerezS/status/1324811452625178624,.,0
-436,Araucanía,9,22,Richard Caifal,Richard Caifal,Vamos por Chile,EVO,EVO,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
-437,Araucanía,9,23,Manuela Arroyo,Manuela Arroyo,Apruebo Dignidad,CS-IND,CS-IND,Twitter,21-12-2020,.,.,1
-438,Araucanía,9,23,Heinrich Von Baer,Heinrich Von Baer,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-439,Araucanía,9,23,Jacqueline Burdiles,Jacqueline Burdiles,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-440,Araucanía,9,23,Alex Manosalva,Minerva Castañeda,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-441,Araucanía,9,23,Minerva Castañeda,Minerva Castañeda,Lista del Apruebo,PS,PS,Interno,.,.,.,1
-442,Araucanía,9,23,Pedro Cayuqueo,Pedro Cayuqueo,Lista del Apruebo,PS-IND,PS-IND,Twitter,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,https://twitter.com/pcayuqueo/status/1317514380339195907,0
-443,Araucanía,9,23,Aliwen Antileo,Aliwen Antileo,Mapuche,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-444,Araucanía,9,23,Ana Llao,Ana Llao,Mapuche,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
-445,Los Ríos,9.5,24,Leandro Paredes,Leandro Paredes,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,0
-446,Los Ríos,9.5,24,Daniella Millanca,Daniella Millanca,Apruebo Dignidad,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
-447,Los Ríos,9.5,24,Sandra Cheuquepan,Sandra Cheuquepan,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-448,Los Ríos,9.5,24,Vicente Gómez,Vicente Gómez,Ecologistas Verdes,PEV-IND,PEV-IND,Twitter,03-11-2020,https://twitter.com/Valdivicho/status/1323742305535275012,.,0
-449,Los Ríos,9.5,24,Exequiel Silva,Exequiel Silva,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-450,Los Ríos,9.5,24,Rita Soto,Rita Soto,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-451,Los Ríos,9.5,24,Pablo Errázuriz,Pablo Errázuriz,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-452,Los Ríos,9.5,24,Augusto Grob,Augusto Grob,Vamos por Chile,RN,RN,Regional,29-10-2020,https://www.noticiaslosrios.cl/2020/10/29/rn-entrega-apoyo-a-augusto-grob-como-candidato-para-integrar-convencion-constituyente/,.,0
-453,Los Lagos,10,25,Pamela Mancilla,Pamela Mancilla,Apruebo Dignidad,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
-454,Los Lagos,10,25,Daniela Carvacho,Daniela Carvacho,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
-455,Los Lagos,10,25,Pedro Glatz Brahm,Pedro Glatz Brahm,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-456,Los Lagos,10,25,Cecilia Kramm,Cecilia Kramm,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-457,Los Lagos,10,25,Marisol Bañares,Marisol Bañares,Partido Republicano,PREP,PREP,La Tercera,08-01-2021,.,.,0
-458,Los Lagos,10,25,Felipe de Mussy,Felipe de Mussy,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,0
-459,Los Lagos,10,26,Pamela Espinoza,Pamela Espinoza,Apruebo Dignidad,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
-460,Los Lagos,10,26,Esteban Vielma,Esteban Vielma,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
-461,Los Lagos,10,26,Carmen G. Muñoz,Carmen G. Muñoz,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-462,Los Lagos,10,26,Rosabetty Muñoz,Rosabetty Muñoz,Lista del Apruebo,PL,PL,DM twitter,03-12-2020,https://twitter.com/abernales/status/1334476970000871424,.,1
-463,Los Lagos,10,26,Álvaro Seguel Solis,Álvaro Seguel Solis,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-464,Los Lagos,10,26,Ian Cataldo Muñoz,Ian Cataldo Muñoz,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-465,Los Lagos,10,26,Jorge Millaquen,Jorge Millaquen,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-466,Los Lagos,10,26,Julio Alvarez Pinto,Julio Alvarez Pinto,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-467,Aysén,11,27,Julio Ñanco,Julio Ñanco,Apruebo Dignidad,RD,RD,Dínamo,21-12-2020,https://www.eldinamo.cl/politica/2020/12/18/rd-candidatos-constituyentes-daniel-stingo/?fbclid=IwAR3RMAgdUmuDo4uBwflVhmd7QmY-BjdqS8wVkuwpxY3MkQluSqskXB4mD-s,.,0
-468,Los Lagos,10,27,Jannette Salgado,Jannette Salgado,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
-469,Aysén,11,28,Manuel Gallardo,Manuel Gallardo,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-470,Aysén,11,28,Nelsón Leiva,Nelsón Leiva,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
-471,Magallanes,12,28,Luis Navarro,Luis Navarro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-472,Magallanes,12,28,Mario Pascual,Mario Pascual,Lista del Apruebo,PS,PS,Interno,.,.,.,0
-473,Magallanes,12,28,José González Calderón,José González Calderón,Yagán,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-474,Magallanes,12,28,María Luisa Muñoz,María Luisa Muñoz,Yagán,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
-475,s/i,s/i,999,Catalina Cortés,Catalina Cortés,Aymara,IND,IND,SERVEL,03-01-2021,.,.,1
-476,s/i,s/i,999,José Domingo Rojas,José Domingo Rojas,Diaguita,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-477,s/i,s/i,999,Francisca Linconao,Francisca Linconao,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,https://www.cnnchile.com/pais/machi-linconao-constituyente-comunidad-me-lo-esta-pidiendo_20201115/,1
-478,s/i,s/i,999,Gustavo Quilaqueo,Gustavo Quilaqueo,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,0
-479,s/i,s/i,999,Hugo Marivil,Hugo Marivil,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
-480,s/i,s/i,999,Ingrid Conejeros,Ingrid Conejeros,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,1
-481,s/i,s/i,999,Isabel Cayul,Isabel Cayul,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,1
-482,s/i,s/i,999,Luis Catrileo,Luis Catrileo,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
-483,s/i,s/i,999,Ricardo Inalef,Ricardo Inalef,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
-484,s/i,s/i,999,Sofía Huenchumilla,Sofía Huenchumilla,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,1
-485,s/i,s/i,999,Vanessa Huaiquimilla,Vanessa Huaiquimilla,Mapuche,,,,,,,1
+33,Atacama,3,4,Rolando Quevedo,Rolando Quevedo,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
+34,Atacama,3,4,Mariana Cruz,Mariana Cruz,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+35,Atacama,3,4,Patricio Pinto Castro,Patricio Pinto Castro,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+36,Atacama,3,4,Brenda Gutierrez,Brenda Gutierrez,Changos,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
+37,Atacama,3,4,Felipe Rivera Marín,Felipe Rivera Marín,Changos,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
+38,Atacama,3,4,Claudia Panes,Claudia Panes,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+39,Atacama,3,4,Leandro Ledezma,Leandro Ledezma,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+40,Atacama,3,4,María T. Rivera,María T. Rivera,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+41,Atacama,3,4,Osvaldo Tello,Osvaldo Tello,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+42,Atacama,3,4,Raúl Córdova,Raúl Córdova,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+43,Atacama,3,4,Ricardo Ibáñez,Ricardo Ibáñez,Independientes por un Atacama Feliz,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+44,Atacama,3,4,Catalina Jones,Catalina Jones,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+45,Atacama,3,4,Octavio Meneses,Octavio Meneses,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
+46,Atacama,3,4,Verónica Peña,Verónica Peña,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
+47,Atacama,3,4,Alberto Robles,Alberto Robles,Lista del Apruebo,PR,PR,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+48,Atacama,3,4,Eduardo Herrera,Eduardo Herrera,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+49,Coquimbo,4,5,Claudio Quiroga,Claudio Quiroga,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
+50,Coquimbo,4,5,María Teresa Araya,María Teresa Araya,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+51,Coquimbo,4,5,Cedric Steinlen,Cedric Steinlen Cuevas,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+52,Coquimbo,4,5,Sonia Neyra,Sonia Neyra,Colla,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
+53,Coquimbo,4,5,Alex Cortes,Alex Cortes,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
+54,Coquimbo,4,5,Consuelo Infante,Consuelo Infante,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
+55,Coquimbo,4,5,Daniel Bravo,Daniel Bravo,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
+56,Coquimbo,4,5,Diego Figueroa,Diego Figueroa,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
+57,Coquimbo,4,5,Ivanna Olivares,Ivanna Olivares,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
+58,Coquimbo,4,5,Leonardo Pasten,Leonardo Pasten,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,0
+59,Coquimbo,4,5,Maria Infante,Maria Infante,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
+60,Coquimbo,4,5,Nancy Duman,Nancy Duman,del Pueblo,IND,IND,Lista del Pueblo,11-01-2021,https://twitter.com/movterritorial5/status/1348690701303869441,.,1
+61,Coquimbo,4,5,Carolina Henríquez,Carolina Henríquez,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+62,Coquimbo,4,5,Pedro Barraza,Pedro Barraza,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+63,Coquimbo,4,5,Alejandra Díaz,Alejandra Díaz,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
+64,Coquimbo,4,5,Christian Álvarez,Christian Álvarez,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
+65,Coquimbo,4,5,Felipe Barraza,Felipe Barraza Araya,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
+66,Coquimbo,4,5,María Rojas Pinto,María Rojas Pinto,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
+67,Coquimbo,4,5,Alfredo Chaparro,Alfredo Chaparro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+68,Coquimbo,4,5,Francisco Jiménez,Francisco Jiménez Vega,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+69,Coquimbo,4,5,Gonzalo Cortés,Gonzalo Cortés,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+70,Coquimbo,4,5,Jaime Castillo Aliaga,Jaime Castillo Aliaga,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+71,Coquimbo,4,5,Matías Orellana,Matías Orellana Cuellar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+72,Coquimbo,4,5,Patricio Rubio,Patricio Rubio Aguirre,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+73,Coquimbo,4,5,Solercio Rojas,Solercio Rojas,Vamos por Chile,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+74,Valparaíso,5,6,Matías Gazmuri,Matías Gazmuri,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
+75,Valparaíso,5,6,Patricia Mix,Patricia Mix,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+76,Valparaíso,5,6,Bárbara Astudillo,Bárbara Astudillo,Apruebo Dignidad,CS,CS,DM twitter,.,.,.,1
+77,Valparaíso,5,6,Joan Zuñiga,Joan Zuñiga,Apruebo Dignidad,CS,CS,DM twitter,03-11-2020,,,0
+78,Valparaíso,5,6,Mariela Serey,Mariela Serey,Apruebo Dignidad,CS-IND,CS-IND,El Desconcierto,19-12-2020,https://www.eldesconcierto.cl/nacional/2020/12/19/profesora-y-activista-mariela-serey-lanza-su-candidatura-a-constituyente-por-la-region-de-valparaiso.html,.,1
+79,Valparaíso,5,6,Alejandra Toledo,Alejandra Toledo,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+80,Valparaíso,5,6,Alejandro Godoy,Alejandro Godoy,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+81,Valparaíso,5,6,Carlos Alarcon,Carlos Alarcon,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+82,Valparaíso,5,6,Carmen Aguilera,Carmen Aguilera,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+83,Valparaíso,5,6,Eliam Chávez,Eliam Chávez,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+84,Valparaíso,5,6,Gloria Morales,Gloria Morales,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+85,Valparaíso,5,6,Gonzalo Araya,Gonzalo Araya,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+86,Valparaíso,5,6,Katherine Alarcón,Katherine Alarcón,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+87,Valparaíso,5,6,Nancy Camus,Nancy Camus,Decisión Ciudadana,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+88,Valparaíso,5,6,Rodolfo Marcone,Rodolfo Marcone,Lista del Apruebo,CIU,CIU,Twitter,05-01-2021,https://twitter.com/rodolfomarcone/status/1346410916783525889,.,0
+89,Valparaíso,5,6,Jorge Correa Sutil,Jorge Correa Sutil,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+90,Valparaíso,5,6,Waleska Castillo,Waleska Castillo,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+91,Valparaíso,5,6,Carlos Ominami,Carlos Ominami,Lista del Apruebo,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+92,Valparaíso,5,6,Marisel Martínez,Marisel Martínez,Lista del Apruebo,PPD,PPD,DM twitter,28-12-2020,.,.,1
+93,Valparaíso,5,6,Nicolás Gatica Jarru,Nicolás Gatica Jarru,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,0
+94,Valparaíso,5,6,Ximena Rivillo,Ximena Rivillo,Lista del Apruebo,PPD,PPD,Interno,31-10-2020,.,.,1
+95,Valparaíso,5,6,Alfaro Díaz Sandoval,Alfaro Díaz Sandoval,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+96,Valparaíso,5,6,Carmen Obreque,Carmen Obreque,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+97,Valparaíso,5,6,Jorge Morales Farías,Jorge Morales Farías,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+98,Valparaíso,5,6,Sergio Olivares,Sergio Olivares Palma,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+99,Valparaíso,5,6,Claudio Gómez,Claudio Gómez,Lista del Apruebo,PS-IND,PS-IND,DM twitter,.,.,.,0
+102,Valparaíso,5,6,Carolina Contreras,Carolina Contreras,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
+103,Valparaíso,5,6,Diego Salvatierra,Diego Salvatierra,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+104,Valparaíso,5,6,Felipe Ossa,Felipe Ossa,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+105,Valparaíso,5,6,Gerard Oliger,Gerard Oliger,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+106,Valparaíso,5,6,Ítalo de Blasis,Ítalo de Blasis,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+107,Valparaíso,5,6,Ítalo Gorziglia,Ítalo Gorziglia,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+108,Valparaíso,5,6,Jorge Ortíz,Jorge Ortíz,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+109,Valparaíso,5,6,José Valenzuela,José Valenzuela,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+110,Valparaíso,5,6,Luz Poblete,Luz Poblete,Vamos por Chile,EVO,EVO,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
+111,Valparaíso,5,6,Moisés Pinilla,Moisés Pinilla,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+112,Valparaíso,5,6,Nashla Manzur,Nashla Manzur,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
+113,Valparaíso,5,6,Ramón Jara,Ramón Jara,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+114,Valparaíso,5,6,Samira Chahuán,Samira Chahuán,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
+115,Valparaíso,5,6,Yarelia Castañeda,Yarelia Castañeda,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
+100,Valparaíso,5,6,Antonio Barchiesi,Antonio Barchiesi,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+101,Valparaíso,5,6,María de los Ángeles López,María de los Ángeles López,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,1
+116,Valparaíso,5,6,Francisca Desbordes,Francisca Desbordes,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
+117,Valparaíso,5,6,Ricardo Ibáñez,Ricardo Ibáñez,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+118,Valparaíso,5,7,Constanza Valdés,Constanza Valdés,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
+119,Valparaíso,5,7,Raúl Devia,Raúl Devia,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
+120,Valparaíso,5,7,Jaime Bassa,Jaime Bassa,Apruebo Dignidad,CS-IND,CS-IND,Interno,.,https://www.eldesconcierto.cl/nacional/2020/12/03/jaime-bassa-oficializa-candidatura-a-constituyente-con-cupo-de-cs-y-amplio-apoyo-ciudadano-en-valparaiso.html,.,0
+121,Valparaíso,5,7,María Oyarzún Solis,María Oyarzún Solis,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+122,Valparaíso,5,7,Bernardita Arqueros,Bernardita Arqueros,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+123,Valparaíso,5,7,Carla Allendes,Carla Allendes,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+124,Valparaíso,5,7,Cecilia Lizama,Cecilia Lizama,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+125,Valparaíso,5,7,Johan Pizarro,Johan Pizarro,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+126,Valparaíso,5,7,Luis Rojas,Luis Rojas,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+127,Valparaíso,5,7,María del Carmen Palominos,María del Carmen Palominos,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+128,Valparaíso,5,7,Ricardo Bonilla,Ricardo Bonilla,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+129,Valparaíso,5,7,Sebastián Olavarría,Sebastián Olavarría,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+130,Valparaíso,5,7,Paz Anstasiadis,Paz Anstasiadis,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+131,Valparaíso,5,7,Agustín Squella,Agustín Squella,Lista del Apruebo,PL-IND,PL-IND,Interno,.,.,.,0
+132,Valparaíso,5,7,Paola Tapia,Paola Tapia,Lista del Apruebo,PPD,PPD,T13,21-09-2020,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional,.,1
+133,Valparaíso,5,7,Paula Gutiérrez,Paula Gutiérrez,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+134,Valparaíso,5,7,Tamaru Huke,Tamaru Huke,Rapa Nui,IND,IND,Emol,06-01-2021,.,.,0
+135,Valparaíso,5,7,Tiare Aguilera,Tiare Aguilera,Rapa Nui,IND,IND,Emol,06-01-2021,.,.,1
+136,Valparaíso,5,7,Valeria Pakarati,Valeria Pakarati,Rapa Nui,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
+137,Valparaíso,5,7,Alejandro Cea,Alejandro Cea,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+138,Valparaíso,5,7,Alejandro Zapico,Alejandro Zapico,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+139,Valparaíso,5,7,Andrés Weinstein,Andrés Weinstein,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+140,Valparaíso,5,7,Fernanda Pinochet,Fernanda Pinochet,Vamos por Chile,EVO,EVO,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
+141,Valparaíso,5,7,Gian Chiappini,Gian Chiappini,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+142,Valparaíso,5,7,Pastora Valderrama,Pastora Valderrama,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,1
+143,Valparaíso,5,7,Rodrigo Gómez,Rodrigo Gómez,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+144,Valparaíso,5,7,Tarek Giacaman,Tarek Giacaman,Vamos por Chile,EVO,EVO,Interno,27-12-2020,.,.,0
+145,Valparaíso,5,7,Jorge Arancibia,Jorge Arancibia,Vamos por Chile,RN,RN,Interno,10-12-2020,.,.,0
+146,Valparaíso,5,7,Raúl Celis,Raúl Celis,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+147,Valparaíso,5,7,Ruggero Cozzi,Ruggero Cozzi,Vamos por Chile,RN,RN,Interno,10-12-2020,.,.,0
+148,Valparaíso,5,7,Tania Córdova,Tania Córdova,Vamos por Chile,RN,RN,DM Twitter,14-12-2020,.,.,1
+149,Valparaíso,5,7,Arturo Squella,Arturo Squella,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,0
+150,Valparaíso,5,7,Juan Pablo Rodríguez,Juan Pablo Rodríguez,Vamos por Chile,UDI-IND,UDI-IND,Interno,10-12-2020,.,.,0
+151,Metropolitana,5.5,8,Andrés Hidalgo,Andrés Hidalgo,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,0
+152,Metropolitana,5.5,8,Doris González,Doris González,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
+153,Metropolitana,5.5,8,Eduardo Acuña,Eduardo Acuña,Apruebo Dignidad,COM,COM,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+154,Metropolitana,5.5,8,Luis Sierra,Luis Sierra,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+155,Metropolitana,5.5,8,Matías Goyenechea,Matías Goyenechea,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+156,Metropolitana,5.5,8,Ricardo Camargo,Ricardo Camargo,Apruebo Dignidad,CS,CS,DM twitter,.,.,.,0
+157,Metropolitana,5.5,8,Tatiana Urrutia,Tatiana Urrutia Herrera,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+158,Metropolitana,5.5,8,Daniel Stingo,Daniel Stingo,Apruebo Dignidad,RD-IND,RD-IND,Interno,29-10-2020,https://www.publimetro.cl/cl/noticias/2020/10/29/daniel-stingo-constituyente.html,.,0
+159,Metropolitana,5.5,8,Rodrigo Rettig,Rodrigo Rettig,Lista del Apruebo,CIU,CIU,Interno,.,.,.,0
+160,Metropolitana,5.5,8,Cecilia Valdés,Cecilia Valdés,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+161,Metropolitana,5.5,8,Rodrigo Logan,Rodrigo Logan,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+162,Metropolitana,5.5,8,Jeanette Vega,Jeanette Vega,Lista del Apruebo,PPD,PPD,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+163,Metropolitana,5.5,8,Bessy Gallardo,Bessy Gallardo,Lista del Apruebo,PRO-IND,PRO-IND,DM twitter,12-12-2020,.,.,1
+164,Metropolitana,5.5,8,Miguel Echeverría,Miguel Echeverría,Lista del Apruebo,PRO-IND,PRO-IND,DM twitter,12-12-2020,.,.,0
+165,Metropolitana,5.5,8,Ramón Kong,Ramón Yuc Liong Kong González,Lista del Apruebo,PRO-IND,PRO-IND,DM twitter,12-12-2020,.,.,0
+166,Metropolitana,5.5,8,Cindy Solis Ibarra,Cindy Solis Ibarra,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+167,Metropolitana,5.5,8,Johnny Carrasco,Johnny Carrasco,Lista del Apruebo,PS,PS,T13,21-09-2020,https://www.t13.cl/noticia/politica/eyzaguirre-constituyente-cartas-prepara-oposicion-batalla-constitucional,.,0
+168,Metropolitana,5.5,8,Óscar Sandoval,Óscar Sandoval,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+169,Metropolitana,5.5,8,Pedro Blaset Castro,Pedro Blaset Castro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+170,Metropolitana,5.5,8,Víctor Saavedra,Víctor Saavedra Cortes,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+171,Metropolitana,5.5,8,Alihuen Antileo,Alihuen Antileo,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,0
+172,Metropolitana,5.5,8,Elisa Loncon,Elisa Loncon Antileo,Mapuche,IND,IND,Twitter,12-12-2020,https://twitter.com/ElisaLoncon/status/1337103658090115073,.,1
+173,Metropolitana,5.5,8,Frank Almendares,Frank Almendares,Vamos por Chile,RN-IND,RN-IND,Twitter,08-12-2020,https://twitter.com/Claudio_Lohse/status/1336475890532945921,.,0
+174,Metropolitana,5.5,8,Verónica Campino,Verónica Campino,Vamos por Chile,RN-IND,RN-IND,Twitter,08-12-2020,https://twitter.com/Claudio_Lohse/status/1336475890532945921,.,1
+175,Metropolitana,5.5,8,Francisco Moreno,Francisco Moreno,Vamos por Chile,UDI,UDI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.cnnchile.com/pais/francisco-moreno-sobrino-jaime-guzman-renuncia-hacienda-postula-constituyente_20201121/,0
+176,Metropolitana,5.5,8,Macarena Bravo,Macarena Bravo,Vamos por Chile,UDI-IND,UDI-IND,DM Twitter,08-01-2021,.,.,1
+177,Metropolitana,5.5,9,Gonzalo Rubio,Gonzalo Rubio,Apruebo Dignidad,COM,COM,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+178,Metropolitana,5.5,9,Juan Pablo Sanhueza,Juan Pablo Sanhueza,Apruebo Dignidad,COM,COM,DM twitter,.,.,.,0
+179,Metropolitana,5.5,9,Carolina Guerra,Carolina Guerra,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+180,Metropolitana,5.5,9,Luis Jaqui,Luis Jaqui,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+181,Metropolitana,5.5,9,Rodrigo Mallea,Rodrigo Mallea,Apruebo Dignidad,CS,CS,DM twitter,30-10-2020,.,.,0
+182,Metropolitana,5.5,9,Rodrigo Pérez,Rodrigo Pérez,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+183,Metropolitana,5.5,9,Ulises Castillo,Ulises Castillo,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+184,Metropolitana,5.5,9,Bárbara Sepúlveda,Bárbara Sepúlveda,Apruebo Dignidad,PC,PC,DM twitter,.,.,.,1
+185,Metropolitana,5.5,9,Juan Andrés Lagos,Juan Andrés Lagos,Apruebo Dignidad,PC,PC,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+186,Metropolitana,5.5,9,Luz Vidal Huiriqueo,Luz Vidal Huiriqueo,Apruebo Dignidad,RD-IND,RD-IND,Twitter,06-11-2020,https://twitter.com/CatalinaPerezS/status/1324811452625178624,https://twitter.com/MaiteOrsini/status/1328372455606464517/photo/2,1
+187,Metropolitana,5.5,9,Andrés Lillo,Andrés Alejandro Lillo Allain,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+188,Metropolitana,5.5,9,Domingo Guerrero,Domingo Arturo Guerrero Cortés,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+189,Metropolitana,5.5,9,Eduardo Magaña,Eduardo Antonio Magaña Silva,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+190,Metropolitana,5.5,9,Macarena Pacheco,Macarena del Carmen Pacheco Osorio,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+191,Metropolitana,5.5,9,Mariel San Martin,Mariel Magdalena San Martin Iturriaga,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+192,Metropolitana,5.5,9,Rocío Macari,Rocío del Pilar Macari Rojos,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+193,Metropolitana,5.5,9,Roxana Azocar,Roxana Azocar,Felices e Independientes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+194,Metropolitana,5.5,9,Jorge Cash,Jorge Cash,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+195,Metropolitana,5.5,9,Gastón Fuentealba,Gastón Fuentealba,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+196,Metropolitana,5.5,9,Ricardo Azócar,Ricardo Azócar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+197,Metropolitana,5.5,9,Rodrigo Valladares ,Rodrigo Valladares ,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+198,Metropolitana,5.5,9,Macarena Venegas,Macarena Venegas,Vamos por Chile,EVO-IND,EVO-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
+199,Metropolitana,5.5,9,Graciela Ortúzar,Graciela Ortúzar,Vamos por Chile,RN,RN,La Segunda,29-09-2020,.,.,1
+200,Metropolitana,5.5,9,Claudia Nogueira,Claudia Nogueira,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,1
+204,Metropolitana,5.5,10,Carlos Ruiz,Carlos Ruiz,Apruebo Dignidad,COM,COM,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+210,Metropolitana,5.5,10,Emilia Schneider,Emilia Schneider,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
+202,Metropolitana,5.5,10,Antonia Orellana,Antonia Orellana,Apruebo Dignidad,CS,CS,Twitter,15-12-2020,https://twitter.com/la_convergencia/status/1338851577369669634,.,1
+225,Metropolitana,5.5,10,Pablo Selles,Pablo Selles,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+201,Metropolitana,5.5,10,Adriana Barrientos,Adriana Barrientos,Apruebo Dignidad,FRVS-IND,FRVS-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2022,https://www.t13.cl/noticia/plebiscito-2020/tendencias/adriana-barrientos-apruebo-plebiscito-ser-constituyente-06-10-2020,1
+483,Metropolitana,5.5,10,Luis Mesina,Comunidad por la Dignidad,Apruebo Dignidad,IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0,0
+484,Metropolitana,5.5,10,Rafael Harvey,Comunidad por la Dignidad,Apruebo Dignidad,IND,T13,27-10-2020,https://twitter.com/RafaelHarvey3,https://twitter.com/RafaelHarvey3/status/1320849500110467078,0,0
+208,Metropolitana,5.5,10,Daniel Fica,Daniel Fica,Apruebo Dignidad,PC,PC,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
+223,Metropolitana,5.5,10,Natalí Jarpa,Natalí Jarpa,Apruebo Dignidad,PC,PC,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
+212,Metropolitana,5.5,10,Giovanna Roa,Giovanna Roa,Apruebo Dignidad,RD,RD,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
+211,Metropolitana,5.5,10,Fernando Atria,Fernando Atria,Apruebo Dignidad,RD-IND,RD-IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+214,Metropolitana,5.5,10,Ignacia Gómez,Ignacia Gómez,Lista del Apruebo,CIU,CIU,Interno,.,.,.,1
+207,Metropolitana,5.5,10,Cristóbal Bellolio,Cristóbal Bellolio,Lista del Apruebo,CIU-IND,CIU-IND,Interno,.,.,.,0
+219,Metropolitana,5.5,10,Laura Albornoz,Laura Albornoz,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+227,Metropolitana,5.5,10,Patricio Zapata,Patricio Zapata,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+221,Metropolitana,5.5,10,Lucía López,Lucía López,Lista del Apruebo,PPD,PPD,T13,21-09-2020,https://twitter.com/lucialopezchile/status/1301990633406713857,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,1
+215,Metropolitana,5.5,10,Jaime Parada,Jaime Parada,Lista del Apruebo,PPD-IND,PPD-IND,Twitter,30-12-2020,https://twitter.com/JParadaHoyl/status/1344346346304794630,.,0
+205,Metropolitana,5.5,10,Catalina Lagos,Catalina Lagos,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+216,Metropolitana,5.5,10,Jorge Baradit,Jorge Baradit,Lista del Apruebo,PS-IND,PS-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2031,https://www.theclinic.cl/2020/09/03/jorge-baradit-lo-he-pensado-muchisimo-y-tengo-todo-el-interes-de-ser-candidato-a-la-convencion-constituyente/,0
+213,Metropolitana,5.5,10,Gonzalo Blumel,Gonzalo Blumel,Vamos por Chile,EVO,EVO,La Segunda,29-09-2020,.,.,0
+229,Metropolitana,5.5,10,Raúl Alcaíno,Raúl Alcaíno,Vamos por Chile,EVO,EVO,Twitter,.,https://twitter.com/Censelio/status/1310968357135544321,.,0
+206,Metropolitana,5.5,10,Cristián Monckeberg,Cristián Monckeberg,Vamos por Chile,RN,RN,La Tercera,06-01-2021,https://www.latercera.com/politica/noticia/monckeberg-y-walker-dejan-gabinete-para-ser-candidatos-a-constituyentes/K56ZY5MIX5FSTGC6AUA4777XCU/,.,0
+217,Metropolitana,5.5,10,José Tomás Bulnes,José Tomás Bulnes,Vamos por Chile,RN,RN,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
+220,Metropolitana,5.5,10,Leopoldo Ramírez,Leopoldo Ramírez,Vamos por Chile,RN,RN,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
+224,Metropolitana,5.5,10,Pablo Millas,Pablo Millas,Vamos por Chile,RN,RN,La Segunda,21-12-2020,,,0
+218,Metropolitana,5.5,10,Juan José Balsa,Juan José Balsa,Vamos por Chile,RN-IND,RN-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+226,Metropolitana,5.5,10,Pablo Valderrama,Pablo Valderrama,Vamos por Chile,RN-IND,RN-IND,La Segunda,21-12-2020,,,0
+203,Metropolitana,5.5,10,Arturo Zúñiga,Arturo Zúñiga Jory,Vamos por Chile,UDI,UDI,La Tercera,04-11-2020,https://www.latercera.com/nacional/noticia/arturo-zuniga-jory-exsubsecretario-de-redes-asistenciales-me-han-solicitado-ser-candidato-en-algunas-de-las-elecciones-que-vienen/GHYB5PYP65AFRKIMG7UUTIZCJ4/,https://www.cnnchile.com/pais/arturo-zuniga-candidatura-parlamentario-constituyente-udi_20201104/,0
+209,Metropolitana,5.5,10,Diego Riveaux,Diego Riveaux,Vamos por Chile,UDI,UDI,La Tercera,18-12-2020,https://www.latercera.com/la-tercera-pm/noticia/el-distrito-10-no-da-de-tan-codiciado-solo-8-cupos-para-decenas-de-nombres-para-la-constituyente/QLLVD3KCI5BS7IHWYGFH6IQGPA/?outputType=amp,.,0
+222,Metropolitana,5.5,10,Macarena Letelier,Macarena Letelier,Vamos por Chile,UDI-IND,UDI-IND,La Segunda,21-12-2020,,,1
+228,Metropolitana,5.5,10,Paulina Lobos,Paulina Lobos,Vamos por Chile,UDI-IND,UDI-IND,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
+230,Metropolitana,5.5,11,Javiera Toro,Javiera Toro,Apruebo Dignidad,COM,COM,Interno,10-12-2020,.,.,1
+231,Metropolitana,5.5,11,Claudia Hasbún,Claudia Hasbún,Apruebo Dignidad,CS,CS,DM Facebook,,,,1
+232,Metropolitana,5.5,11,Constanza Schönhaut,Constanza Schönhaut,Apruebo Dignidad,CS,CS,DM twitter,30-10-2020,.,.,1
+233,Metropolitana,5.5,11,Marcelo Ferrari,Marcelo Ferrari,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+234,Metropolitana,5.5,11,Carolina Pérez ,Carolina Perez Dattari,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+235,Metropolitana,5.5,11,Clemente Pérez,Clemente Pérez,Independientes por Chile,IND,IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2034,https://twitter.com/ClementePerezE/status/1321069765029466117,0
+236,Metropolitana,5.5,11,Cristina Bastidas,Cristina Bastidas,Independientes por Chile,IND,IND,SERVEL,22-12-2020,,,1
+237,Metropolitana,5.5,11,Manuel Inostroza,Manuel Inostroza,Independientes por Chile,IND,IND,SERVEL,15-12-2020,.,.,0
+238,Metropolitana,5.5,11,Mariana Aylwin,Mariana Aylwin,Independientes por Chile,IND,IND,DM twitter,27-10-2020,https://www.cnnchile.com/pais/mariana-aylwin-postulara-constituyente-evopoli-alianza_20201027/,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,1
+239,Metropolitana,5.5,11,Pilar Peña,Pilar Peña,Independientes por Chile,IND,IND,SERVEL,15-12-2020,.,.,0
+240,Metropolitana,5.5,11,Tomás Recart,Tomás Recart,Independientes por Chile,IND,IND,DM Twitter,14-12-2020,.,.,0
+241,Metropolitana,5.5,11,Paola Berlín,Paola Berlín,Lista del Apruebo,CIU-IND,CIU-IND,El Mercurio,16-11-2020,https://merreader.emol.cl/2020/11/16/content/pages/img/big/AE3SMB2A.jpg?gt=050001,.,1
+242,Metropolitana,5.5,11,Elisa Walker,Elisa Walker,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+243,Metropolitana,5.5,11,Juan Enrique Pi,Juan Enrique Pi,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+244,Metropolitana,5.5,11,José Sanfuentes,José Sanfuentes,Lista del Apruebo,PL,PL,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
+245,Metropolitana,5.5,11,María José Cumplido,María José Cumplido,Lista del Apruebo,PL-IND,PL-IND,Interno,10-01-2021,.,.,0
+246,Metropolitana,5.5,11,Patricio Fernández,Patricio Fernández,Lista del Apruebo,PL-IND,PL-IND,Interno,10-01-2021,.,.,0
+247,Metropolitana,5.5,11,Alfredo Riquelme,Alfredo Riquelme,Lista del Apruebo,PPD,PPD,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
+248,Metropolitana,5.5,11,José Tomás Peralta,José Tomás Peralta,Lista del Apruebo,PPD,PPD,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
+249,Metropolitana,5.5,11,Sara Larraín,Sara Larraín,Lista del Apruebo,PPD,PPD,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,1
+250,Metropolitana,5.5,11,Eliel Hasson,Eliel Hasson,Lista del Apruebo,PPD-IND,PPD-IND,Twitter,20-12-2020,.,.,0
+251,Metropolitana,5.5,11,Antonia Matus,Antonia Matus,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+252,Metropolitana,5.5,11,Juan Cantuarias,Juan Cantuarias,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+253,Metropolitana,5.5,11,Laura Echeverría,Laura Echeverría,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+254,Metropolitana,5.5,11,Luis Acevedo,Luis Acevedo,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+255,Metropolitana,5.5,11,Maite Desconvieres,Maite Desconvieres,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+256,Metropolitana,5.5,11,Paulina Soriano,Paulina Soriano,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+257,Metropolitana,5.5,11,Roberto Amaro,Roberto Amaro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+258,Metropolitana,5.5,11,Pauline Kantor,Pauline Kantor,Vamos por Chile,EVO,EVO,La Segunda,29-09-2020,.,.,1
+259,Metropolitana,5.5,11,Rodrigo Durán,Rodrigo Durán,Vamos por Chile,PRI,PRI,La Segunda,29-09-2020,.,.,0
+260,Metropolitana,5.5,11,Andrés Carey,Andrés Carey,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+261,Metropolitana,5.5,11,Cecil Chellew,Cecil Chellew,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,1
+262,Metropolitana,5.5,11,Fernando Agüero,Fernando Agüero,Vamos por Chile,RN,RN,La Segunda,21-12-2020,https://twitter.com/patriciosainzr/status/1341191343759126528,.,0
+263,Metropolitana,5.5,11,Gastón Gómez,Gastón Gómez,Vamos por Chile,RN,RN,La Segunda,29-09-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+264,Metropolitana,5.5,11,Gonzalo Infante,Gonzalo Infante,Vamos por Chile,RN,RN,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
+265,Metropolitana,5.5,11,Juan José Ossa,Juan José Ossa,Vamos por Chile,RN,RN,La Segunda,29-09-2020,https://cooperativa.cl/noticias/cultura/literatura/jorge-baradit-afirmo-que-quiere-ser-candidato-a-la-convencion/2020-09-04/171315.html,.,0
+266,Metropolitana,5.5,11,Karin Ebensperger,Karin Ebensperger,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
+267,Metropolitana,5.5,11,Marcela Díaz,Marcela Díaz,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,1
+268,Metropolitana,5.5,11,María Ignacia Cruzat,María Ignacia Cruzat,Vamos por Chile,RN,RN,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,1
+269,Metropolitana,5.5,11,Pablo González,Pablo González,Vamos por Chile,RN,RN,La Tercera,16-10-2020,https://www.latercera.com/politica/noticia/hijas-de-pinera-y-desbordes-y-dos-subsecretarios-las-cartas-de-rn-para-la-convencion-constitucional/5V2FTWH5L5A7JNIFJIV7QKRPMQ/,.,0
+270,Metropolitana,5.5,11,Víctor Avilés,Víctor Avilés,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+271,Metropolitana,5.5,11,Bernardo Fontaine,Bernardo Fontaine,Vamos por Chile,RN-IND,RN-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+272,Metropolitana,5.5,11,Henry Boys,Henry Boys,Vamos por Chile,RN-IND,RN-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2030,https://twitter.com/realHenryBoys/status/1320531241452666885,0
+273,Metropolitana,5.5,11,Juan Cristóbal Gumucio,Juan Cristóbal Gumucio,Vamos por Chile,RN-IND,RN-IND,La Segunda,24-12-2020,https://digital.lasegunda.com/2020/12/24/A/JS3RKU8N#zoom=page-width,.,0
+274,Metropolitana,5.5,11,Arturo Fermandois,Arturo Fermandois,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+275,Metropolitana,5.5,11,Isabel Plá,Isabel Plá,Vamos por Chile,UDI,UDI,La Segunda,21-12-2020,https://twitter.com/patriciosainzr/status/1341191343759126528,.,1
+276,Metropolitana,5.5,11,Marcela Cubillos,Marcela Cubillos,Vamos por Chile,UDI-IND,UDI-IND,Twitter,03-01-2021,https://twitter.com/Sergioespana/status/1345726607391137792,.,1
+277,Metropolitana,5.5,12,Víctor Orellana,Víctor Orellana,Apruebo Dignidad,COM,COM,DM twitter,30-10-2020,.,.,0
+278,Metropolitana,5.5,12,Camila Arenas,Camila Arenas,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+279,Metropolitana,5.5,12,Manuel Jacques,Manuel Jacques,Apruebo Dignidad,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+280,Metropolitana,5.5,12,Ana María Gazmuri,Ana María Gazmuri,Apruebo Dignidad,FRVS-IND,FRVS-IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,https://www.cnnchile.com/pais/frvs-cupos-candidaturas-constituyentes-independientes_20201108/,1
+283,Metropolitana,5.5,12,Beatriz Sánchez,Beatriz Sánchez,Apruebo Dignidad,RD,RD,,,,,1
+281,Metropolitana,5.5,12,Margarita Portuguez,Margarita Portuguez,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+282,Metropolitana,5.5,12,Marcela Mella,Marcela Mella,Apruebo Dignidad,RD-IND,RD-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
+284,Metropolitana,5.5,12,Isabel Ñanco,Isabel del Carmen Ñanco Huichalaf,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+285,Metropolitana,5.5,12,Juan P. Huitraiqueo,Juan Pablo Huitraiqueo Canio,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+286,Metropolitana,5.5,12,Karla Jara,Karla Verónica Jara Valdivia,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+287,Metropolitana,5.5,12,Luis Ponce,Luis Alberto Ponce Durán,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+288,Metropolitana,5.5,12,Náyade Moraga,Náyade Andrea Moraga Maldonado,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+289,Metropolitana,5.5,12,Nolberto Acevedo,Nolberto Andrés Acevedo Villarroel,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+290,Metropolitana,5.5,12,Paola Contreras,Paola Andrea Contreras Leal,Feliz Democracia,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+291,Metropolitana,5.5,12,Pía Castelli,Pía Castelli,Lista del Apruebo,PPD,PPD,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,1
+292,Metropolitana,5.5,12,Lautaro Millaleo,Lautaro Millaleo,Lista del Apruebo,PPD-IND,PPD-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
+293,Metropolitana,5.5,12,Camila Bustamante,Camila Bustamante,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+294,Metropolitana,5.5,12,Camilo Riquelme,Camilo Riquelme,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+295,Metropolitana,5.5,12,Carmen Andrade,Carmen Andrade,Lista del Apruebo,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
+296,Metropolitana,5.5,12,Francisca Figueroa,Francisca Figueroa,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+297,Metropolitana,5.5,12,Julio Pizarro Saavedra,Julio Pizarro Saavedra,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+298,Metropolitana,5.5,12,Luis Bustamante,Luis Bustamante,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+299,Metropolitana,5.5,12,Matías Salazar,Matías Salazar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+300,Metropolitana,5.5,12,Pascal Merino,Pascal Merino,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+301,Metropolitana,5.5,12,Patricio Espinoza,Patricio Espinoza,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+302,Metropolitana,5.5,12,Romanina Morales ,Romanina Morales ,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+303,Metropolitana,5.5,12,Víctor Díaz Escobar,Víctor Díaz Escobar,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+304,Metropolitana,5.5,12,Camilo Pereira,Camilo Pereira,Mapuche,IND,IND,No Neutrales,14-12-2020,https://twitter.com/NoNeutrales/status/1338605183035568129/photo/1,.,0
+305,Metropolitana,5.5,12,Diego Berríos,Diego Berríos,Vamos por Chile,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+306,Metropolitana,5.5,12,Bernardita Paul,Bernardita Paul,Vamos por Chile,RN,RN,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,1
+307,Metropolitana,5.5,12,Eugenio Aguiló,Eugenio Aguiló,Vamos por Chile,RN,RN,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
+308,Metropolitana,5.5,12,Manuel J. Ossandón,Manuel J. Ossandón,Vamos por Chile,RN,RN,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
+309,Metropolitana,5.5,12,Marcelo Zunino,Marcelo Zunino,Vamos por Chile,RN,RN,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
+310,Metropolitana,5.5,13,Libertad Méndez,Libertad Méndez,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
+311,Metropolitana,5.5,13,Haydee Oberreuter,Haydee Oberreuter,Apruebo Dignidad,COM-IND,COM-IND,La Segunda,29-10-2020,.,.,1
+312,Metropolitana,5.5,13,Jaime Fuentes,Jaime Fuentes,Apruebo Dignidad,CS,CS,DM twitter,03-01-2020,,,0
+313,Metropolitana,5.5,13,Natalia Aravena,Natalia Aravena,Apruebo Dignidad,CS-IND,CS-IND,CNN,30-12-2020,https://www.cnnchile.com/pais/natalia-aravena-victima-trauma-ocular-candidata-constituyente_20201227/,.,1
+314,Metropolitana,5.5,13,Daniel Andrade,Daniel Andrade,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+315,Metropolitana,5.5,13,Rodolfo Seguel,Rodolfo Seguel,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+316,Metropolitana,5.5,13,Jorge Insunza,Jorge Insunza,Lista del Apruebo,PPD,PPD,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
+317,Metropolitana,5.5,13,Christian Pizarro,Christian Pizarro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+318,Metropolitana,5.5,13,Eduardo Muñoz,Eduardo Muñoz,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+319,Metropolitana,5.5,13,Fabián Leiva Leiva,Fabián Leiva Leiva,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+320,Metropolitana,5.5,13,Manuel Coña Pirul,Manuel Coña Pirul,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+321,Metropolitana,5.5,13,Luis Alejandro Silva,Luis Alejandro Silva,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+322,Metropolitana,5.5,13,Matías Poblete,Matías Poblete,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+323,Metropolitana,5.5,14,Sebastián Aylwin,Sebastián Aylwin,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,,0
+324,Metropolitana,5.5,14,Marcelino Romero ,Marcelino Romero ,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+325,Metropolitana,5.5,14,Paz Gajardo Daneri,Paz Gajardo Daneri,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+326,Metropolitana,5.5,14,Claudia Leiva,Claudia Leiva,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+327,Metropolitana,5.5,14,Claudio Farías,Claudio Farías,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+328,Metropolitana,5.5,14,Constanza Toro,Constanza Toro,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+329,Metropolitana,5.5,14,Luis Patricio Valdés,Luis Patricio Valdés,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+330,Metropolitana,5.5,14,Ramiro Iturra,Ramiro Iturra,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+331,Metropolitana,5.5,14,Teresa Armijo,Teresa Armijo,Independientes Transparentes,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+332,Metropolitana,5.5,14,Camila Briceño,Camila Briceño,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+333,Metropolitana,5.5,14,Liliana González,Liliana González,Lista del Apruebo,PR-IND,PR-IND,Interno,05-01-2021,.,.,1
+334,Metropolitana,5.5,14,Renato Garín,Renato Garín,Lista del Apruebo,PR-IND,PR-IND,CHV,03-11-2020,https://www.chvnoticias.cl/nacional/renato-garin-cede-comision-economia-candidato-constituyente_20201103/,https://www.cnnchile.com/pais/renato-garin-candidato-constituyente-partido-radical_20201226/,0
+335,Metropolitana,5.5,14,Christián Segovia,Christián Segovia,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+336,Metropolitana,5.5,14,Denise Pascal,Denise Pascal,Lista del Apruebo,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
+337,Metropolitana,5.5,14,Fabiola Freire,Fabiola Freire Aguilar,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+338,Metropolitana,5.5,14,José Vásquez Silva,José Vásquez Silva,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+339,Metropolitana,5.5,14,Manuel Covarrubias,Manuel Covarrubias,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+340,Metropolitana,5.5,14,Raul Godoy Rosas,Raul Godoy Rosas,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+341,Metropolitana,5.5,14,Yonild Navarro,Yonild Navarro Ruiz,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+342,Metropolitana,5.5,14,Cristóbal Orrego,Cristóbal Orrego,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+343,O'Higgins,6,15,Adriana Bastías,Adriana Bastías,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
+344,O'Higgins,6,15,Nolberto Zúñiga,Nolberto Zúñiga,Apruebo Dignidad,CS,CS,Instagram,02-01-2021,www.instagram.com/ftconvergenciasocial,.,1
+345,O'Higgins,6,15,Marta Molina,Marta Molina,Apruebo Dignidad,FRVS,FRVS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+346,O'Higgins,6,15,Anita Martínez,Anita Martínez,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+347,O'Higgins,6,15,Javiera Saldaña,Javiera Saldaña,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+348,O'Higgins,6,15,Mario Quijada,Mario Quijada,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+349,O'Higgins,6,15,Dionisio de la Cersa,Dionisio de la Cersa,Vamos por Chile,EVO,EVO,Instagram,18-12-2020,https://www.dionisiodelacerda.com/,.,0
+350,O'Higgins,6,16,Juan P. Arriaza Zalá,Juan P. Arriaza Zalá,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+351,O'Higgins,6,16,Jessika Espina,Jessika Espina,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+352,O'Higgins,6,16,César Silva Caroca,César Silva Caroca,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+353,O'Higgins,6,16,Jaime Silva Aguilera,Jaime Silva Aguilera,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+354,Maule,7,17,Eliana Adams,Eliana Adams,Apruebo Dignidad,CS,CS,DM twitter,03-11-2020,,,1
+355,Maule,7,17,Roberto Celedón,Roberto Celedón,Apruebo Dignidad,FRVS-IND,FRVS-IND,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.cnnchile.com/pais/frvs-cupos-candidaturas-constituyentes-independientes_20201108/,0
+356,Maule,7,17,Fabián Farís,Fabián Farís,Apruebo Dignidad,RD,RD,Dínamo,21-12-2020,https://www.eldinamo.cl/politica/2020/12/18/rd-candidatos-constituyentes-daniel-stingo/?fbclid=IwAR3RMAgdUmuDo4uBwflVhmd7QmY-BjdqS8wVkuwpxY3MkQluSqskXB4mD-s,.,0
+357,Maule,7,17,Cristian Viera,Cristian Viera,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+358,Maule,7,17,Susana Zamorano,Susana Zamorano,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+359,Maule,7,17,Sergio Aguiló,Sergio Aguiló,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+361,Maule,7,17,Ignacio Tarud,Ignacio Tarud,Vamos por Chile,EVO,EVO,Instagram,18-12-2020,https://www.instagram.com/ignaciotarud/?hl=es-la,.,0
+360,Maule,7,17,Sergio Correa,Sergio Correa,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+362,Maule,7,18,Juan José Saldías,Juan José Saldías,Apruebo Dignidad,CS,CS,DM twitter,03-11-2020,,,0
+363,Maule,7,18,María Soledad Medel,María Soledad Medel,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+364,Maule,7,18,Ricardo Montero,Ricardo Montero,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+365,Maule,7,18,Rodrigo Medina,Rodrigo Medina,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+366,Maule,7,18,Denisse Mewes,Denisse Mewes,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,1
+367,Maule,7,18,Juan Ariztía,Juan Ariztía,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+368,Maule,7,18,Enrique Ojeda,Enrique Ojeda,Vamos por Chile,PRI,PRI,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
+369,Ñuble,7.5,19,Rocio Hizmeri,Rocio Hizmeri,Apruebo Dignidad,PC,PC,DM Twitter,02-01-2021,.,.,1
+370,Ñuble,7.5,19,Cristina Martin,Cristina Martin,Apruebo Dignidad,RD,RD,DM Twitter,02-01-2021,.,.,1
+371,Ñuble,7.5,19,Iván Paul,Iván Paul,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+372,Ñuble,7.5,19,Felipe Harboe,Felipe Harboe,Lista del Apruebo,PPD,PPD,DM Twitter,02-01-2021,.,.,0
+373,Ñuble,7.5,19,César Rodríguez,César Rodríguez,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+374,Ñuble,7.5,19,Felipe Aylwin,Felipe Aylwin Lagos,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+375,Ñuble,7.5,19,Gonzalo Guajardo,Gonzalo Guajardo,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+376,Ñuble,7.5,19,Oliver Cisterna,Oliver Cisterna,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+377,Ñuble,7.5,19,Margarita Letelier,Margarita Letelier,Vamos por Chile,UDI,UDI,DM Twitter,06-01-2021,.,.,1
+378,Ñuble,7.5,19,Martín Arrau,Martín Arrau,Vamos por Chile,UDI,UDI,DM Twitter,06-01-2021,.,.,0
+379,Bío-Bío,8,20,Eduardo Pacheco,Eduardo Pacheco,Apruebo Dignidad,COM-IND,COM-IND,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,https://twitter.com/Edopacheco,0
+380,Bío-Bío,8,20,Juan Fernández,Juan Fernández Curapil,Apruebo Dignidad,CS,CS,Interno,.,.,.,0
+381,Bío-Bío,8,20,Amaya Alvez Marín,Amaya Alvez Marín,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+382,Bío-Bío,8,20,Carla Lara Gallardo,Carla Lara Gallardo,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
+383,Bío-Bío,8,20,Fernando Sepúlveda,Fernando Sepúlveda,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
+384,Bío-Bío,8,20,Francisco Vera,Francisco Vera,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
+385,Bío-Bío,8,20,Javier Guerrero,Javier Guerrero,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,0
+386,Bío-Bío,8,20,Valentina Torres,Valentina Torres,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
+387,Bío-Bío,8,20,Valentina Torres,Valentina Torres,Ecologistas Verdes,PEV,PEV,Interno,.,.,.,1
+388,Bío-Bío,8,20,María José Gormaz,María José Gormaz,Ecologistas Verdes,PEV-IND,PEV-IND,Twitter,01-12-2020,https://twitter.com/MariaJoseGormaz/status/1333925279404863496,.,1
+389,Bío-Bío,8,20,Alejandro Trigo,Alejandro Trigo,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+390,Bío-Bío,8,20,Ana Burgos,Ana Burgos,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+391,Bío-Bío,8,20,Boris Flores,Boris Flores,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+392,Bío-Bío,8,20,Juan Pablo Rojas,Juan Pablo Rojas,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+393,Bío-Bío,8,20,Luis Moraga,Luis Moraga,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+394,Bío-Bío,8,20,Martina Oppliger,Martina Oppliger,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+395,Bío-Bío,8,20,Patricia Riquelme,Patricia Riquelme,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+396,Bío-Bío,8,20,Verónica Núñez,Verónica Núñez,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+397,Bío-Bío,8,20,Fabiola Troncoso,Fabiola Troncoso,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+398,Bío-Bío,8,20,Nicolás Hauri,Nicolás Hauri,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+399,Bío-Bío,8,20,Lautaro Benítez,Lautaro Benítez,Lista del Apruebo,PPD,PPD,DM twitter,08-12-2020,.,.,0
+400,Bío-Bío,8,20,María Angélica Fuentes,María Angélica Fuentes,Lista del Apruebo,PPD,PPD,DM twitter,08-12-2020,.,.,1
+401,Bío-Bío,8,20,Ruth Olate,Ruth Olate Moreno,Lista del Apruebo,PRO-IND,PRO-IND,Interno,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
+402,Bío-Bío,8,20,Alejandro Ugarte,Alejandro Ugarte,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+403,Bío-Bío,8,20,Andrés Smith,Andrés Smith,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+404,Bío-Bío,8,20,Clemira Pacheco,Clemira Pacheco,Lista del Apruebo,PS,PS,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
+405,Bío-Bío,8,20,Domingo Ramos,Domingo Ramos,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+406,Bío-Bío,8,20,Enrique Inostroza,Enrique Inostroza,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+407,Bío-Bío,8,20,Fah Bastías Macias,Fah Bastías Macias,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+408,Bío-Bío,8,20,Iván Pérez Muñoz,Iván Pérez Muñoz,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+409,Bío-Bío,8,20,José Silva Inostroza,José Silva Inostroza,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+410,Bío-Bío,8,20,María Viveros,María Viveros,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+411,Bío-Bío,8,20,Narciso Cortés,Narciso Cortés,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+412,Bío-Bío,8,20,Luciano Silva,Luciano Silva,Vamos por Chile,RN,RN,Interno,.,.,.,0
+413,Bío-Bío,8,20,Natalia Rojas,Natalia Rojas,Vamos por Chile,RN,RN,Interno,.,.,.,1
+414,Bío-Bío,8,20,Robert Contreras,Robert Contreras,Vamos por Chile,RN,RN,Interno,.,.,.,0
+415,Bío-Bío,8,20,Yanina Contreras,Yanina Contreras,Vamos por Chile,RN,RN,Interno,.,.,.,1
+416,Bío-Bío,8,21,Gerson Valdebenito Moya,Gerson Valdebenito,Felices Sin Partido,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+417,Bío-Bío,8,21,Abelardo Muñoz Barnachea,Abelardo Muñoz,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+418,Bío-Bío,8,21,Christel Uribe Kuncar,Christel Uribe,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+419,Bío-Bío,8,21,Leticia Berrocal Guillibrand,Leticia Berrocal,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+420,Bío-Bío,8,21,Lorena Urra Arévalo,Lorena Urra,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,1
+421,Bío-Bío,8,21,Luis Vásquez,Luis Vásquez,Independientes y Felices,IND,IND,Felices y Forrados,11-01-2021,https://www.facebook.com/FelicesyForrados,.,0
+422,Bío-Bío,8,21,Marcelo Urrutia,Marcelo Urrutia,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+423,Bío-Bío,8,21,Norka Flores,Norka Flores,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+424,Bío-Bío,8,21,Camilo Escalona,Camilo Escalona,Lista del Apruebo,PS,PS,CHV,07-09-2020,https://www.chvnoticias.cl/nacional/plebiscito-2020-nombres-candidatos-convencion-constituyente_20200907/,.,0
+425,Bío-Bío,8,21,Juan Canales,Juan Canales,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+426,Bío-Bío,8,21,Adolfo Millabur,Adolfo Millabur,Mapuche,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
+427,Bío-Bío,8,21,Natividad Llanquileo,Natividad Llanquileo Pilquiman,Mapuche,IND,IND,Universal,11-11-2020,https://www.radiodelmar.cl/2020/11/el-nombre-de-natividad-llanquileo-que-comienza-a-irrumpir-con-fuerza-para-la-constituyente-en-chile/,https://eluniversal.cl/contenido/17630/natividad-llanquileo-que-comienza-a-irrumpir-con-fuerza-para-la-constituyente-en,1
+428,Bío-Bío,8,21,Ítalo Zunino,Ítalo Zunino,Vamos por Chile,EVO,EVO,La Segunda,29-09-2020,.,.,0
+429,Araucanía,9,22,Fuad Chahin,Fuad Chahin,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+430,Araucanía,9,22,Waleska Morales,Waleska Morales,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+431,Araucanía,9,22,Hugo Araya Padilla,Hugo Araya Padilla,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+432,Araucanía,9,22,Mauricio Lepin ,Mauricio Lepin Aniñir,Mapuche,IND,IND,Twitter,06-11-2020,https://twitter.com/CatalinaPerezS/status/1324811452625178624,.,0
+433,Araucanía,9,22,Richard Caifal,Richard Caifal,Vamos por Chile,EVO,EVO,La Tercera,13-12-2020,https://www.latercera.com/la-tercera-domingo/noticia/convencionales-las-estrategias-y-enredos-para-definir-candidaturas/LCC4YY535ZHR3N33PDWEESOADY/,.,0
+434,Araucanía,9,23,Manuela Arroyo,Manuela Arroyo,Apruebo Dignidad,CS-IND,CS-IND,Twitter,21-12-2020,.,.,1
+435,Araucanía,9,23,Heinrich Von Baer,Heinrich Von Baer,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+436,Araucanía,9,23,Jacqueline Burdiles,Jacqueline Burdiles,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+437,Araucanía,9,23,Alex Manosalva,Minerva Castañeda,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+438,Araucanía,9,23,Minerva Castañeda,Minerva Castañeda,Lista del Apruebo,PS,PS,Interno,.,.,.,1
+439,Araucanía,9,23,Pedro Cayuqueo,Pedro Cayuqueo,Lista del Apruebo,PS-IND,PS-IND,Twitter,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2020,https://twitter.com/pcayuqueo/status/1317514380339195907,0
+440,Araucanía,9,23,Aliwen Antileo,Aliwen Antileo,Mapuche,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
+441,Araucanía,9,23,Ana Llao,Ana Llao,Mapuche,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
+442,Los Ríos,9.5,24,Leandro Paredes,Leandro Paredes,Apruebo Dignidad,COM,COM,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,0
+443,Los Ríos,9.5,24,Daniella Millanca,Daniella Millanca,Apruebo Dignidad,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
+444,Los Ríos,9.5,24,Sandra Cheuquepan,Sandra Cheuquepan,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+445,Los Ríos,9.5,24,Vicente Gómez,Vicente Gómez,Ecologistas Verdes,PEV-IND,PEV-IND,Twitter,03-11-2020,https://twitter.com/Valdivicho/status/1323742305535275012,.,0
+446,Los Ríos,9.5,24,Exequiel Silva,Exequiel Silva,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+447,Los Ríos,9.5,24,Rita Soto,Rita Soto,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+448,Los Ríos,9.5,24,Pablo Errázuriz,Pablo Errázuriz,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+449,Los Ríos,9.5,24,Augusto Grob,Augusto Grob,Vamos por Chile,RN,RN,Regional,29-10-2020,https://www.noticiaslosrios.cl/2020/10/29/rn-entrega-apoyo-a-augusto-grob-como-candidato-para-integrar-convencion-constituyente/,.,0
+450,Los Lagos,10,25,Pamela Mancilla,Pamela Mancilla,Apruebo Dignidad,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
+451,Los Lagos,10,25,Daniela Carvacho,Daniela Carvacho,Apruebo Dignidad,RD,RD,Interno,.,.,.,1
+452,Los Lagos,10,25,Pedro Glatz Brahm,Pedro Glatz Brahm,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+453,Los Lagos,10,25,Cecilia Kramm,Cecilia Kramm,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+454,Los Lagos,10,25,Marisol Bañares,Marisol Bañares,Vamos por Chile,PREP,PREP,La Tercera,08-01-2021,.,.,0
+455,Los Lagos,10,25,Felipe de Mussy,Felipe de Mussy,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,0
+456,Los Lagos,10,26,Pamela Espinoza,Pamela Espinoza,Apruebo Dignidad,COM-IND,COM-IND,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,1
+457,Los Lagos,10,26,Esteban Vielma,Esteban Vielma,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
+458,Los Lagos,10,26,Carmen G. Muñoz,Carmen G. Muñoz,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+459,Los Lagos,10,26,Rosabetty Muñoz,Rosabetty Muñoz,Lista del Apruebo,PL,PL,DM twitter,03-12-2020,https://twitter.com/abernales/status/1334476970000871424,.,1
+460,Los Lagos,10,26,Álvaro Seguel Solis,Álvaro Seguel Solis,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+461,Los Lagos,10,26,Ian Cataldo Muñoz,Ian Cataldo Muñoz,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+462,Los Lagos,10,26,Jorge Millaquen,Jorge Millaquen,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+463,Los Lagos,10,26,Julio Alvarez Pinto,Julio Alvarez Pinto,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+464,Aysén,11,27,Julio Ñanco,Julio Ñanco,Apruebo Dignidad,RD,RD,Dínamo,21-12-2020,https://www.eldinamo.cl/politica/2020/12/18/rd-candidatos-constituyentes-daniel-stingo/?fbclid=IwAR3RMAgdUmuDo4uBwflVhmd7QmY-BjdqS8wVkuwpxY3MkQluSqskXB4mD-s,.,0
+465,Los Lagos,10,27,Jannette Salgado,Jannette Salgado,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,1
+466,Aysén,11,28,Manuel Gallardo,Manuel Gallardo,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+467,Aysén,11,28,Nelsón Leiva,Nelsón Leiva,Lista del Apruebo,DC,DC,El Mostrador,11-01-2021,.,.,0
+468,Magallanes,12,28,Luis Navarro,Luis Navarro,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+469,Magallanes,12,28,Mario Pascual,Mario Pascual,Lista del Apruebo,PS,PS,Interno,.,.,.,0
+470,Magallanes,12,28,José González Calderón,José González Calderón,Yagán,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
+471,Magallanes,12,28,María Luisa Muñoz,María Luisa Muñoz,Yagán,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,1
+472,s/i,s/i,999,Catalina Cortés,Catalina Cortés,Aymara,IND,IND,SERVEL,03-01-2021,.,.,1
+473,s/i,s/i,999,José Domingo Rojas,José Domingo Rojas,Diaguita,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
+474,s/i,s/i,999,Francisca Linconao,Francisca Linconao,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,https://www.cnnchile.com/pais/machi-linconao-constituyente-comunidad-me-lo-esta-pidiendo_20201115/,1
+475,s/i,s/i,999,Gustavo Quilaqueo,Gustavo Quilaqueo,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,0
+476,s/i,s/i,999,Hugo Marivil,Hugo Marivil,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
+477,s/i,s/i,999,Ingrid Conejeros,Ingrid Conejeros,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,1
+478,s/i,s/i,999,Isabel Cayul,Isabel Cayul,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,1
+479,s/i,s/i,999,Luis Catrileo,Luis Catrileo,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
+480,s/i,s/i,999,Ricardo Inalef,Ricardo Inalef,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
+481,s/i,s/i,999,Sofía Huenchumilla,Sofía Huenchumilla,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,1
+482,s/i,s/i,999,Vanessa Huaiquimilla,Vanessa Huaiquimilla,Mapuche,,,,,,,1
