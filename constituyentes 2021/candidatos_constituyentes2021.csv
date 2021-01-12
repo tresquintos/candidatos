@@ -31,7 +31,6 @@
 30,Antofagasta,2,3,Jacqueline Santander,Jacqueline Santander,Lista del Apruebo,PS,PS,Interno,.,.,.,1
 31,Antofagasta,2,3,Miguel Urrelo,Miguel Urrelo,Quechua,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
 32,Antofagasta,2,3,Samuel Yupanqui,Samuel Yupanqui,Quechua,IND,IND,El Mostrador,16-12-2020,https://www.elmostrador.cl/noticias/pais/2020/12/16/el-mapa-de-las-candidaturas-de-pueblos-originarios-para-redactar-la-nueva-constitucion/,.,0
-33,Antofagasta,2,3,Felipe Ward,Felipe Ward,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,0
 34,Atacama,3,4,Rolando Quevedo,Rolando Quevedo,Apruebo Dignidad,COM,COM,Comunes,23-12-2020,https://www.partidocomunes.cl/actualidad/noticias/partido-comunes-present%C3%B3-candidaturas-para-la-convenci%C3%B3n-constitucional,.,0
 35,Atacama,3,4,Mariana Cruz,Mariana Cruz,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,1
 36,Atacama,3,4,Patricio Pinto Castro,Patricio Pinto Castro,Apruebo Dignidad,RD,RD,Interno,.,.,.,0
@@ -199,13 +198,14 @@
 198,Metropolitana,5.5,9,Rodrigo Valladares ,Rodrigo Valladares ,Lista del Apruebo,PS,PS,Interno,.,.,.,0
 199,Metropolitana,5.5,9,Macarena Venegas,Macarena Venegas,Vamos por Chile,EVO-IND,EVO-IND,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
 200,Metropolitana,5.5,9,Graciela Ortúzar,Graciela Ortúzar,Vamos por Chile,RN,RN,La Segunda,29-09-2020,.,.,1
-201,Metropolitana,5.5,9,Karla Rubilar,Karla Rubilar,Vamos por Chile,RN,RN,La Segunda,29-09-2020,.,.,1
 202,Metropolitana,5.5,9,Claudia Nogueira,Claudia Nogueira,Vamos por Chile,UDI,UDI,La Segunda,29-09-2020,.,.,1
 206,Metropolitana,5.5,10,Carlos Ruiz,Carlos Ruiz,Apruebo Dignidad,COM,COM,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0
 213,Metropolitana,5.5,10,Emilia Schneider,Emilia Schneider,Apruebo Dignidad,COM,COM,La Segunda,29-10-2020,.,.,1
 204,Metropolitana,5.5,10,Antonia Orellana,Antonia Orellana,Apruebo Dignidad,CS,CS,Twitter,15-12-2020,https://twitter.com/la_convergencia/status/1338851577369669634,.,1
 228,Metropolitana,5.5,10,Pablo Selles,Pablo Selles,Apruebo Dignidad,CS,CS,Emol,25-10-2020,https://www.emol.com/noticias/Nacional/2020/10/25/1001647/Candidatos-Convencion-Plebiscito.html,.,0
 203,Metropolitana,5.5,10,Adriana Barrientos,Adriana Barrientos,Apruebo Dignidad,FRVS-IND,FRVS-IND,T13,27-10-2020,https://www.t13.cl/noticia/plebiscito-2020/politica/convencion-constitucional-candidatos-eleccion-plebiscito-27-10-2022,https://www.t13.cl/noticia/plebiscito-2020/tendencias/adriana-barrientos-apruebo-plebiscito-ser-constituyente-06-10-2020,1
+486,Metropolitana,5.5,10,Luis Mesina,Comunidad por la Dignidad,Apruebo Dignidad,IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0,0
+487,Metropolitana,5.5,10,Rafael Harvey,Comunidad por la Dignidad,Apruebo Dignidad,IND,T13,27-10-2020,https://twitter.com/RafaelHarvey3,https://twitter.com/RafaelHarvey3/status/1320849500110467078,0,0
 211,Metropolitana,5.5,10,Daniel Fica,Daniel Fica,Apruebo Dignidad,PC,PC,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,0
 226,Metropolitana,5.5,10,Natalí Jarpa,Natalí Jarpa,Apruebo Dignidad,PC,PC,La Tercera,30-12-2020,https://www.latercera.com/la-tercera-pm/noticia/los-ossandon-posible-carrera-de-sanchez-y-la-influencia-pc-la-pugna-por-el-distrito-12-una-de-las-zonas-mas-pobladas-de-santiago/7LNKGXQX35A5ZHJVTRBT53LKX4/,.,1
 215,Metropolitana,5.5,10,Giovanna Roa,Giovanna Roa,Apruebo Dignidad,RD,RD,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,1
@@ -484,5 +484,3 @@
 483,s/i,s/i,999,Ricardo Inalef,Ricardo Inalef,Mapuche,IND,IND,SERVEL,03-01-2021,.,.,0
 484,s/i,s/i,999,Sofía Huenchumilla,Sofía Huenchumilla,Mapuche,IND,IND,Twitter,30-12-2020,https://twitter.com/seba_flores/status/1344454972142977029/photo/1,.,1
 485,s/i,s/i,999,Vanessa Huaiquimilla,Vanessa Huaiquimilla,Mapuche,,,,,,,1
-486,5.5,10,Luis Mesina,Luis Mesina,Comunidad por la Dignidad,Apruebo Dignidad,IND,La Segunda,04-09-2020,https://digital.lasegunda.com/2020/09/04/A/QP3RKRTH,.,0,0
-487,5.5,10,Rafael Harvey,Rafael Harvey,Comunidad por la Dignidad,Apruebo Dignidad,IND,T13,27-10-2020,https://twitter.com/RafaelHarvey3,https://twitter.com/RafaelHarvey3/status/1320849500110467078,0,0
