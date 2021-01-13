@@ -45,11 +45,14 @@
 53,Antofagasta,2,3,Berta Torrejón,Apruebo Dignidad,PI,1
 54,Antofagasta,2,3,Pablo Rojas,Apruebo Dignidad,PI,0
 28,Antofagasta,2,3,Sergio Cubillos,Atacameño,IND,0
+<<<<<<< HEAD
 833,Antofagasta,2,3,Rosana Olivares,del Pueblo,IND,0
 834,Antofagasta,2,3,Wilfredo Lobos,del Pueblo,IND,1
 835,Antofagasta,2,3,Dalila Peña,del Pueblo,IND,1
 836,Antofagasta,2,3,Dayana González,del Pueblo,IND,1
 837,Antofagasta,2,3,Carlos Hernández,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 29,Antofagasta,2,3,Iván Ivanovic,Felices e Independientes,IND,0
 30,Antofagasta,2,3,Janett Barraza,Felices e Independientes,IND,1
 31,Antofagasta,2,3,José L. Huanca,Felices e Independientes,IND,0
@@ -84,12 +87,15 @@
 79,Atacama,3,4,Jaime Vargas,Apruebo Dignidad,FRVS,0
 55,Atacama,3,4,Brenda Gutierrez,Changos,IND,1
 56,Atacama,3,4,Felipe Rivera Marín,Changos,IND,0
+<<<<<<< HEAD
 838,Atacama,3,4,Constanza San Juan,del Pueblo,IND,1
 839,Atacama,3,4,Octavio Echeverría,del Pueblo,IND,0
 840,Atacama,3,4,Silvia Rodríguez,del Pueblo,IND,1
 841,Atacama,3,4,María Pilar Triviño,del Pueblo,IND,1
 842,Atacama,3,4,Raúl Miranda,del Pueblo,IND,0
 843,Atacama,3,4,Fabián Rabí,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 57,Atacama,3,4,Claudia Panes,Ind. por un Atacama Feliz,IND,1
 58,Atacama,3,4,Leandro Ledezma,Ind. por un Atacama Feliz,IND,0
 59,Atacama,3,4,María T. Rivera,Ind. por un Atacama Feliz,IND,1
@@ -285,6 +291,7 @@
 228,Metropolitana,5.5,8,Andrés Giordano,Apruebo Dignidad,FRVS-IND,0
 229,Metropolitana,5.5,8,Tatiana Urrutia,Apruebo Dignidad,RD,1
 230,Metropolitana,5.5,8,Daniel Stingo,Apruebo Dignidad,RD-IND,0
+<<<<<<< HEAD
 844,Metropolitana,5.5,8,Palomba Albarracín,del Pueblo,IND,1
 845,Metropolitana,5.5,8,Karen Orellana,del Pueblo,IND,1
 846,Metropolitana,5.5,8,Daniel Trujillo,del Pueblo,IND,0
@@ -293,6 +300,8 @@
 849,Metropolitana,5.5,8,Pablo Cruz,del Pueblo,IND,0
 850,Metropolitana,5.5,8,Marco Arellano,del Pueblo,IND,0
 851,Metropolitana,5.5,8,María Rivera,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 642,Metropolitana,5.5,8,Bessy Gallardo,Lista del Apruebo,PRO-IND,1
 643,Metropolitana,5.5,8,Cesar Barrera,Lista del Apruebo,PRO-IND,0
 644,Metropolitana,5.5,8,Carolina Garrido,Lista del Apruebo,PS,1
@@ -318,12 +327,15 @@
 249,Metropolitana,5.5,9,Michelle Petaut,Apruebo Dignidad,CS-IND,1
 250,Metropolitana,5.5,9,Erick Campos,Apruebo Dignidad,PC,0
 251,Metropolitana,5.5,9,Bárbara Sepulveda,Apruebo Dignidad,PC,1
+<<<<<<< HEAD
 852,Metropolitana,5.5,9,Alejandra Pérez,del Pueblo,IND,1
 853,Metropolitana,5.5,9,Patricio Cáceres,del Pueblo,IND,0
 854,Metropolitana,5.5,9,Natalia Henríquez,del Pueblo,IND,1
 855,Metropolitana,5.5,9,Matías Roa,del Pueblo,IND,0
 856,Metropolitana,5.5,9,Gloria Pinto,del Pueblo,IND,1
 857,Metropolitana,5.5,9,Marlene Soto,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 231,Metropolitana,5.5,9,Andrés Lillo,Felices e Independientes,IND,0
 232,Metropolitana,5.5,9,Domingo Guerrero,Felices e Independientes,IND,0
 233,Metropolitana,5.5,9,Eduardo Magaña,Felices e Independientes,IND,0
@@ -353,6 +365,7 @@
 281,Metropolitana,5.5,10,Rafael Harvey,Apruebo Dignidad,FRVS-IND,0
 282,Metropolitana,5.5,10,Emilia Schneider,Apruebo Dignidad,COM,1
 283,Metropolitana,5.5,10,Carlos Ruiz,Apruebo Dignidad,COM-IND,0
+<<<<<<< HEAD
 858,Metropolitana,5.5,10,Carlos Vega,del Pueblo,IND,0
 859,Metropolitana,5.5,10,Lonko Juanita Millal,del Pueblo,IND,1
 860,Metropolitana,5.5,10,Patricia Navarrete,del Pueblo,IND,1
@@ -361,6 +374,8 @@
 863,Metropolitana,5.5,10,Alexis Garrido,del Pueblo,IND,0
 864,Metropolitana,5.5,10,Manuel Woldarsky,del Pueblo,IND,0
 865,Metropolitana,5.5,10,Verónica Guzmán,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 657,Metropolitana,5.5,10,Laura Albornoz,Lista del Apruebo,DC,1
 658,Metropolitana,5.5,10,Jorge Baradit,Lista del Apruebo,PS-IND,0
 659,Metropolitana,5.5,10,Catalina Lagos,Lista del Apruebo,PS,1
@@ -400,6 +415,7 @@
 310,Metropolitana,5.5,11,Natalia Garrido,Apruebo Dignidad,PI-IND,1
 311,Metropolitana,5.5,11,Diego Mardones,Apruebo Dignidad,PI-IND,0
 312,Metropolitana,5.5,11,Javiera Toro,Apruebo Dignidad,COM,1
+<<<<<<< HEAD
 866,Metropolitana,5.5,11,María Soledad Mella,del Pueblo,IND,1
 867,Metropolitana,5.5,11,Juan Baeza,del Pueblo,IND,0
 868,Metropolitana,5.5,11,Sonia Ulloa,del Pueblo,IND,1
@@ -407,6 +423,8 @@
 870,Metropolitana,5.5,11,Nicolás Romero,del Pueblo,IND,0
 871,Metropolitana,5.5,11,Daniela King,del Pueblo,IND,1
 872,Metropolitana,5.5,11,Carolina Cifuentes,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 284,Metropolitana,5.5,11,Diego Bravo,Independiente,IND,0
 285,Metropolitana,5.5,11,Henry Boys,Independiente,IND,0
 286,Metropolitana,5.5,11,Mariana Aylwin,Independientes por Chile,IND,0
@@ -443,12 +461,15 @@
 332,Metropolitana,5.5,12,Paola Villegas,Apruebo Dignidad,FRVS-IND,1
 333,Metropolitana,5.5,12,César Pizarro,Apruebo Dignidad,PI-IND,0
 334,Metropolitana,5.5,12,Marcela Mella,Apruebo Dignidad,PI-IND,1
+<<<<<<< HEAD
 873,Metropolitana,5.5,12,Giovanna Grandón,del Pueblo,IND,1
 874,Metropolitana,5.5,12,Diego Infante,del Pueblo,IND,0
 875,Metropolitana,5.5,12,Tamara Avello,del Pueblo,IND,1
 876,Metropolitana,5.5,12,Rafael Sotomayor,del Pueblo,IND,0
 877,Metropolitana,5.5,12,Camila Cartes,del Pueblo,IND,1
 878,Metropolitana,5.5,12,Alex Flores,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 313,Metropolitana,5.5,12,Isabel Ñanco,Feliz Democracia,IND,0
 314,Metropolitana,5.5,12,Juan P. Huitraiqueo,Feliz Democracia,IND,0
 315,Metropolitana,5.5,12,Karla Jara,Feliz Democracia,IND,1
@@ -477,12 +498,15 @@
 344,Metropolitana,5.5,13,Mirko Jimenez,Apruebo Dignidad,PI-IND,0
 345,Metropolitana,5.5,13,Libertad Méndez,Apruebo Dignidad,COM,1
 346,Metropolitana,5.5,13,Daniel Andrade,Apruebo Dignidad,RD,0
+<<<<<<< HEAD
 879,Metropolitana,5.5,13,Marcela Sarmiento,del Pueblo,IND,1
 880,Metropolitana,5.5,13,Rodrigo Rojas,del Pueblo,IND,0
 881,Metropolitana,5.5,13,Ingrid Villena,del Pueblo,IND,1
 882,Metropolitana,5.5,13,Jesús Colque,del Pueblo,IND,0
 883,Metropolitana,5.5,13,Andrés Cuevas,del Pueblo,IND,0
 884,Metropolitana,5.5,13,Camila Torres,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 679,Metropolitana,5.5,13,Francisca Cabrera,Lista del Apruebo,PRO-IND,1
 680,Metropolitana,5.5,13,Nicolas Freire,Lista del Apruebo,PL-IND,0
 681,Metropolitana,5.5,13,Malucha Pinto,Lista del Apruebo,PS,1
@@ -501,12 +525,15 @@
 363,Metropolitana,5.5,14,Carlos Poblete,Apruebo Dignidad,PI-IND,0
 364,Metropolitana,5.5,14,Camila Navarro,Apruebo Dignidad,FRVS-IND,1
 365,Metropolitana,5.5,14,Sebastián Aylwin,Apruebo Dignidad,COM,0
+<<<<<<< HEAD
 885,Metropolitana,5.5,14,Carolina Lassalle,del Pueblo,IND,1
 886,Metropolitana,5.5,14,Josefa Faúndez,del Pueblo,IND,1
 887,Metropolitana,5.5,14,Claudia Acevedo,del Pueblo,IND,1
 888,Metropolitana,5.5,14,Rodrigo Urzúa,del Pueblo,IND,0
 889,Metropolitana,5.5,14,Alan González,del Pueblo,IND,0
 890,Metropolitana,5.5,14,Francisco Caamaño,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 347,Metropolitana,5.5,14,Rogelio Urbina,Independiente,IND,0
 348,Metropolitana,5.5,14,Claudia Leiva,Independientes Transparentes,IND,1
 349,Metropolitana,5.5,14,Claudio Farías,Independientes Transparentes,IND,0
@@ -532,11 +559,14 @@
 375,O'Higgins,6,15,Nolberto Zuñiga,Apruebo Dignidad,CS,0
 376,O'Higgins,6,15,Ana Martínez,Apruebo Dignidad,RD,1
 377,O'Higgins,6,15,Fabián Rodríguez,Apruebo Dignidad,PC,0
+<<<<<<< HEAD
 891,O'Higgins,6,15,Loreto Vallejos,del Pueblo,IND,1
 892,O'Higgins,6,15,Enrique López,del Pueblo,IND,0
 893,O'Higgins,6,15,Sebastián Tobar,del Pueblo,IND,0
 894,O'Higgins,6,15,Arturo Saldes,del Pueblo,IND,0
 895,O'Higgins,6,15,Solange Ortíz,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 691,O'Higgins,6,15,Alicia Barrera,Lista del Apruebo,PPD,1
 692,O'Higgins,6,15,Matias Orellana,Lista del Apruebo,PS,0
 693,O'Higgins,6,15,Carmen Nogueira,Lista del Apruebo,PS,1
@@ -589,6 +619,7 @@
 401,Maule,7,17,José Jara,Asamblea Popular por la Dignidad,IND,0
 402,Maule,7,17,María Quinteros,Asamblea Popular por la Dignidad,IND,1
 403,Maule,7,17,Rigoberto Cárcamo,Asamblea Popular por la Dignidad,IND,0
+<<<<<<< HEAD
 896,Maule,7,17,Luis Hernández,del Pueblo,IND,1
 897,Maule,7,17,Antonia Rosales,del Pueblo,IND,1
 898,Maule,7,17,Zev Tello,del Pueblo,IND,1
@@ -596,6 +627,8 @@
 900,Maule,7,17,Carlos Grez,del Pueblo,IND,0
 901,Maule,7,17,Elsa Labraña,del Pueblo,IND,1
 902,Maule,7,17,Claudio Moya,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 404,Maule,7,17,Alfonso Yañez,Independientes x la Nueva Const.,IND,0
 405,Maule,7,17,Alicia Aravena,Independientes x la Nueva Const.,IND,1
 406,Maule,7,17,Carolina Rojas,Independientes x la Nueva Const.,IND,1
@@ -621,12 +654,15 @@
 432,Maule,7,18,Gloria Parada,Apruebo Dignidad,RD,1
 433,Maule,7,18,Carlos Fuentes,Apruebo Dignidad,PC,0
 434,Maule,7,18,Denisa Cofré,Apruebo Dignidad,PC,1
+<<<<<<< HEAD
 903,Maule,7,18,Francisca Arauna,del Pueblo,IND,1
 904,Maule,7,18,Rodrigo Norambuena,del Pueblo,IND,0
 905,Maule,7,18,Priscila González,del Pueblo,IND,1
 906,Maule,7,18,Manuel Cofré,del Pueblo,IND,0
 907,Maule,7,18,Fernando Salinas,del Pueblo,IND,0
 908,Maule,7,18,Camila Caballero,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 711,Maule,7,18,Ana Aravena,Lista del Apruebo,IND,1
 712,Maule,7,18,Alejandro Araya,Lista del Apruebo,IND,0
 713,Maule,7,18,Maria Medel,Lista del Apruebo,DC,1
@@ -645,12 +681,15 @@
 444,Ñuble,7.5,19,José Osvaldo Zúñiga,Apruebo Dignidad,PC,0
 445,Ñuble,7.5,19,Cristina Martin,Apruebo Dignidad,RD,1
 446,Ñuble,7.5,19,Jonathan Chandía,Apruebo Dignidad,RD,0
+<<<<<<< HEAD
 909,Ñuble,7.5,19,Ximena Pacheco,del Pueblo,IND,1
 910,Ñuble,7.5,19,Nelsón Agurto,del Pueblo,IND,0
 911,Ñuble,7.5,19,María Villaseñor,del Pueblo,IND,1
 912,Ñuble,7.5,19,Sergio Fonseca,del Pueblo,IND,0
 913,Ñuble,7.5,19,César Uribe,del Pueblo,IND,0
 914,Ñuble,7.5,19,Misael Cortez,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 717,Ñuble,7.5,19,Scarlet Hidalgo,Lista del Apruebo,PPD,1
 718,Ñuble,7.5,19,Felipe Harboe,Lista del Apruebo,PPD,0
 719,Ñuble,7.5,19,Rebeca Pavez,Lista del Apruebo,IND,1
@@ -762,10 +801,13 @@
 490,Bío-Bío,8,21,Jorge Guzmán,Vamos por Chile,UDI-IND,0
 504,Araucanía,9,22,Haydee Ulloa,Apruebo Dignidad,PI,1
 505,Araucanía,9,22,Eduardo Cayupé,Apruebo Dignidad,PI,0
+<<<<<<< HEAD
 915,Araucanía,9,22,Pablo Tapia,del Pueblo,IND,0
 916,Araucanía,9,22,Óscar Salazar,del Pueblo,IND,0
 917,Araucanía,9,22,Alejandra Depaoli,del Pueblo,IND,1
 918,Araucanía,9,22,Cristián Córdova,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 737,Araucanía,9,22,Katherina Hidalgo,Lista del Apruebo,IND,1
 738,Araucanía,9,22,Alex Castillo,Lista del Apruebo,PR,0
 739,Araucanía,9,22,Waleska Morales,Lista del Apruebo,IND,1
@@ -791,12 +833,15 @@
 823,Araucanía,9,23,Omar Ortiz,Ciudadanos Cristianos,PNC,0
 824,Araucanía,9,23,Andrea Punulef,Ciudadanos Cristianos,PNC,1
 825,Araucanía,9,23,Edgardo Sepulveda,Ciudadanos Cristianos,PNC-IND,0
+<<<<<<< HEAD
 919,Araucanía,9,23,Luz Eliana Alca,del Pueblo,IND,1
 920,Araucanía,9,23,Rossana Betancur,del Pueblo,IND,1
 921,Araucanía,9,23,Helmuth Martínez,del Pueblo,IND,0
 922,Araucanía,9,23,Marcela Lepilaf,del Pueblo,IND,1
 923,Araucanía,9,23,Mario Flores,del Pueblo,IND,0
 924,Araucanía,9,23,Alejandro Mellado,del Pueblo,IND,0
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 743,Araucanía,9,23,Jacqueline Burdiles,Lista del Apruebo,DC,1
 744,Araucanía,9,23,Eduardo Castillo,Lista del Apruebo,PPD,0
 745,Araucanía,9,23,Minerva Castañeda,Lista del Apruebo,PS,1
@@ -818,12 +863,15 @@
 529,Los Ríos,9.5,24,Wladimir Riesco,Apruebo Dignidad,PC,0
 530,Los Ríos,9.5,24,Marisol Torres,Apruebo Dignidad,PC,1
 531,Los Ríos,9.5,24,Wladimir Manzano,Apruebo Dignidad,PC,0
+<<<<<<< HEAD
 925,Los Ríos,9.5,24,Vannia Pacheco,del Pueblo,IND,1
 926,Los Ríos,9.5,24,Ricardo Venegas,del Pueblo,IND,1
 927,Los Ríos,9.5,24,Freddy Sandoval,del Pueblo,IND,0
 928,Los Ríos,9.5,24,Nicole Cornejo,del Pueblo,IND,1
 929,Los Ríos,9.5,24,Eduardo Ramirez,del Pueblo,IND,0
 930,Los Ríos,9.5,24,Patricia Veloso,del Pueblo,IND,1
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
 519,Los Ríos,9.5,24,Vicente Gómez,Ecologistas Verdes,PEV-IND,0
 750,Los Ríos,9.5,24,Maria Reyes,Lista del Apruebo,PS,1
 751,Los Ríos,9.5,24,Marco Leal,Lista del Apruebo,PPD,0
@@ -929,6 +977,7 @@
 584,Magallanes,12,28,María Luisa Muñoz,Yagán,IND,1
 591,s/i,s/i,999,Catalina Cortés,Aymara,IND,1
 592,s/i,s/i,999,José Domingo Rojas,Diaguita,IND,0
+<<<<<<< HEAD
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
@@ -944,3 +993,5 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
+=======
+>>>>>>> f8f1aa10a7e83b571f0eb997b51ab37887098344
