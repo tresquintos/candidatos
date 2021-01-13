@@ -1,788 +1,946 @@
 ﻿id,región,region2,distrito,nombre,lista,partido,sexo
-1,Arica,0.5,1,Raul Castro Leteder,Lista del Apruebo,DC,0
-2,Arica,0.5,1,Iris Rubio Medina,Lista del Apruebo,IND,0
-3,Arica,0.5,1,Jorge Abarca Riveros,Lista del Apruebo,IND,0
-4,Arica,0.5,1,Ernestina Silva Villegas,Lista del Apruebo,PR,0
-5,Arica,0.5,1,Enzo Fabian Varens,Lista del Apruebo,PS,1
-6,Arica,0.5,1,Hortencia Hidalgo Caceres,Lista del Apruebo,PS,1
-7,Arica,0.5,1,Edwin Briceño,No Neutrales,IND,0
-8,Arica,0.5,1,Rosa Vilches,No Neutrales,IND,1
-9,Arica,0.5,1,Willi Zuchel,No Neutrales,IND,0
-10,Arica,0.5,1,Brunella Vinet,Vamos por Chile,EVO-IND,
-11,Arica,0.5,1,Francisco Javier González,Vamos por Chile,EVO-IND,
-12,Arica,0.5,1,Héctor Milla Bravo,Vamos por Chile,RN,
-13,Arica,0.5,1,María Calatayud Saavedra,Vamos por Chile,RN,
-14,Arica,0.5,1,Pollyana Rivera,Vamos por Chile,UDI,
-15,Arica,0.5,1,Valerio Cañipa,Vamos por Chile,UDI,
-16,Arica,0.5,1,Carolina Videla,Apruebo Dignidad,PC,
-17,Arica,0.5,1,Carlos Yevenes,Apruebo Dignidad,PC,
-18,Arica,0.5,1,Sheyla Sánchez,Apruebo Dignidad,FRVS,
-19,Arica,0.5,1,Herman Mondaca,Apruebo Dignidad,FRVS,
-20,Arica,0.5,1,Connie Torres,Apruebo Dignidad,COM,
-21,Arica,0.5,1,Oscar Palleres,Apruebo Dignidad,COM,
-22,Tarapacá,1,2,Ana Luksic Romero,Lista del Apruebo,DC,0
-23,Tarapacá,1,2,Alex Adasme Cadiz,Lista del Apruebo,IND,0
-24,Tarapacá,1,2,Ignacio Prieto Henriquez,Lista del Apruebo,IND,0
-25,Tarapacá,1,2,Paula Jara Pradena,Lista del Apruebo,IND,1
-26,Tarapacá,1,2,Gonzalo Prieto Navarrete,Lista del Apruebo,PPD,0
-27,Tarapacá,1,2,Silvia Silva,Lista del Apruebo,PS,0
-28,Tarapacá,1,2,Álvaro Jofré,Vamos por Chile,RN,
-29,Tarapacá,1,2,Karen Heyde,Vamos por Chile,RN-IND,
-30,Tarapacá,1,2,Luz Núñez,Vamos por Chile,RN-IND,
-31,Tarapacá,1,2,Felipe Hubner,Vamos por Chile,UDI,
-32,Tarapacá,1,2,Freddy Araneda,Vamos por Chile,UDI,
-33,Tarapacá,1,2,Roxana Cerda,Vamos por Chile,UDI,
-34,Tarapacá,1,2,Alejandra Ceballos,Apruebo Dignidad,COM,
-35,Tarapacá,1,2,Waldo Aguilar,Apruebo Dignidad,PI,
-36,Tarapacá,1,2,Camila Castillo,Apruebo Dignidad,RD,
-37,Tarapacá,1,2,Hugo Gutierrez,Apruebo Dignidad,PC,
-38,Tarapacá,1,2,Odette López,Apruebo Dignidad,FRVS,
-39,Tarapacá,1,2,Eduardo Justo,Apruebo Dignidad,FRVS,
-40,Antofagasta,2,3,Sergio Cubillos,Atacameño,IND,0
-41,Antofagasta,2,3,Iván Ivanovic,Felices e Independientes,IND,0
-42,Antofagasta,2,3,Janett Barraza,Felices e Independientes,IND,1
-43,Antofagasta,2,3,José L. Huanca,Felices e Independientes,IND,0
-44,Antofagasta,2,3,Luis Berger,Felices e Independientes,IND,0
-45,Antofagasta,2,3,Maritza Cerezo,Felices e Independientes,IND,1
-46,Antofagasta,2,3,Patricia Canales R.,Felices e Independientes,IND,1
-47,Antofagasta,2,3,Felipe Lerzundi Rivas,Lista del Apruebo,DC,1
-48,Antofagasta,2,3,Fabiola Rivero Rojas,Lista del Apruebo,IND,0
-49,Antofagasta,2,3,Jorge Alvarado Zepeda,Lista del Apruebo,IND,1
-50,Antofagasta,2,3,Katherine Abigail Leyton,Lista del Apruebo,IND,0
-51,Antofagasta,2,3,Marcos Simunovic Petricio,Lista del Apruebo,IND,1
-52,Antofagasta,2,3,Celia Gonzalez Bravo,Lista del Apruebo,PR,1
-53,Antofagasta,2,3,Arnoldo Núñez,Mov. Independiente del Norte,IND,0
-54,Antofagasta,2,3,Arturo Soto,Mov. Independiente del Norte,IND,0
-55,Antofagasta,2,3,Cristina Dorador,Mov. Independiente del Norte,IND,1
-56,Antofagasta,2,3,Nina López,Mov. Independiente del Norte,IND,1
-57,Antofagasta,2,3,Rudencio Espíndola,Mov. Independiente del Norte,IND,0
-58,Antofagasta,2,3,Vianney Sierralta,Mov. Independiente del Norte,IND,1
-59,Antofagasta,2,3,Miguel Urrelo,Quechua,IND,0
-60,Antofagasta,2,3,Samuel Yupanqui,Quechua,IND,0
-61,Antofagasta,2,3,Marcela Maldonado,Vamos por Chile,EVO-IND,
-62,Antofagasta,2,3,Marcos Celedón,Vamos por Chile,EVO-IND,
-63,Antofagasta,2,3,Jorge Lawrence Santibáñez,Vamos por Chile,RN-IND,
-64,Antofagasta,2,3,Magdalena Ortega Puebla,Vamos por Chile,RN-IND,
-65,Antofagasta,2,3,Katherine Lopez,Vamos por Chile,UDI,
-66,Antofagasta,2,3,Pablo Toloza,Vamos por Chile,UDI,
-67,Antofagasta,2,3,Romina Ávalos,Apruebo Dignidad,RD,
-68,Antofagasta,2,3,Hernán Velasquez,Apruebo Dignidad,FRVS,
-69,Antofagasta,2,3,María Ojeda,Apruebo Dignidad,PC,
-70,Antofagasta,2,3,Kenin Cerda,Apruebo Dignidad,COM,
-71,Antofagasta,2,3,Berta Torrejón,Apruebo Dignidad,PI,
-72,Antofagasta,2,3,Pablo Rojas,Apruebo Dignidad,PI,
-73,Atacama,3,4,Brenda Gutierrez,Changos,IND,1
-74,Atacama,3,4,Felipe Rivera Marín,Changos,IND,0
-75,Atacama,3,4,Claudia Panes,Ind. por un Atacama Feliz,IND,1
-76,Atacama,3,4,Leandro Ledezma,Ind. por un Atacama Feliz,IND,0
-77,Atacama,3,4,María T. Rivera,Ind. por un Atacama Feliz,IND,1
-78,Atacama,3,4,Osvaldo Tello,Ind. por un Atacama Feliz,IND,0
-79,Atacama,3,4,Raúl Córdova,Ind. por un Atacama Feliz,IND,0
-80,Atacama,3,4,Ricardo Ibáñez,Ind. por un Atacama Feliz,IND,0
-81,Atacama,3,4,Catalina Sepulveda,Lista del Apruebo,DC,0
-82,Atacama,3,4,Octavio Meneses Aqueveque,Lista del Apruebo,PPD,1
-83,Atacama,3,4,Alberto Robles Pantoia,Lista del Apruebo,PR,0
-84,Atacama,3,4,Palmira Rojas Andrade,Lista del Apruebo,PR,0
-85,Atacama,3,4,Marcela Arma Sepulveda,Lista del Apruebo,PS,0
-86,Atacama,3,4,Maximiliano Hurtado Rolo,Lista del Apruebo,PS,1
-87,Atacama,3,4,Enrique Poblete,No Neutrales,IND,0
-88,Atacama,3,4,Guillermo Namor,No Neutrales,IND,0
-89,Atacama,3,4,Mario Maturana,No Neutrales,IND,0
-90,Atacama,3,4,Miriam Henríquez,No Neutrales,IND,1
-91,Atacama,3,4,Nolva Toro,No Neutrales,IND,1
-92,Atacama,3,4,María Francisca Plaza,Vamos por Chile,EVO,
-93,Atacama,3,4,Miguel Fortt,Vamos por Chile,EVO,
-94,Atacama,3,4,Cristina Bravo Bassi,Vamos por Chile,RN,
-95,Atacama,3,4,Carlos Montalva Pérez,Vamos por Chile,RN-IND,
-96,Atacama,3,4,Carlos Martin,Vamos por Chile,UDI,
-97,Atacama,3,4,Wilma Jiménez,Vamos por Chile,UDI,
-98,Atacama,3,4,Paloma Fernández,Apruebo Dignidad,COM,
-99,Atacama,3,4,Rolando Quevedo,Apruebo Dignidad,COM,
-100,Atacama,3,4,Ericka Protillo,Apruebo Dignidad,PC,
-101,Atacama,3,4,Jorge Flores,Apruebo Dignidad,PC,
-102,Atacama,3,4,Flavia Torrealba,Apruebo Dignidad,FRVS,
-103,Atacama,3,4,Jaime Vargas,Apruebo Dignidad,FRVS,
-104,Coquimbo,4,5,Sonia Neyra,Colla,IND,1
-105,Coquimbo,4,5,Alex Cortes,del Pueblo,IND,0
-106,Coquimbo,4,5,Consuelo Infante,del Pueblo,IND,1
-107,Coquimbo,4,5,Daniel Bravo,del Pueblo,IND,0
-108,Coquimbo,4,5,Diego Figueroa,del Pueblo,IND,0
-109,Coquimbo,4,5,Ivanna Olivares,del Pueblo,IND,1
-110,Coquimbo,4,5,Leonardo Pasten,del Pueblo,IND,0
-111,Coquimbo,4,5,Maria Infante,del Pueblo,IND,1
-112,Coquimbo,4,5,Nancy Duman,del Pueblo,IND,1
-113,Coquimbo,4,5,Gladys Barraza Astudillo,Lista del Apruebo,DC,0
-114,Coquimbo,4,5,Carlos Calvo Munoz,Lista del Apruebo,IND,0
-115,Coquimbo,4,5,Carlos Yusta Manterola,Lista del Apruebo,IND,1
-116,Coquimbo,4,5,Elisa Oyarzún,Lista del Apruebo,IND,1
-117,Coquimbo,4,5,Maria Belen Rojas Pinto,Lista del Apruebo,IND,0
-118,Coquimbo,4,5,Pedro Barraza Cuadra,Lista del Apruebo,IND,0
-119,Coquimbo,4,5,Carla Aguirre Vargas,Lista del Apruebo,PR,0
-120,Coquimbo,4,5,Juan José Tagle,Vamos por Chile,EVO,
-121,Coquimbo,4,5,Gabriela Parot,Vamos por Chile,EVO-IND,
-122,Coquimbo,4,5,Roberto Vega,Vamos por Chile,RN,
-123,Coquimbo,4,5,Vinka Pusich Camacho,Vamos por Chile,RN,
-124,Coquimbo,4,5,María Figari Barrera,Vamos por Chile,RN-IND,
-125,Coquimbo,4,5,Alejandra Valdovinos,Vamos por Chile,UDI,
-126,Coquimbo,4,5,Ronald Brandt,Vamos por Chile,UDI-IND,
-127,Coquimbo,4,5,Jennifer Mella,Apruebo Dignidad,CS,
-128,Coquimbo,4,5,Jorge Naveas,Apruebo Dignidad,PI,
-129,Coquimbo,4,5,Carolina Tello,Apruebo Dignidad,PC,
-130,Coquimbo,4,5,Mauricio Ugarte,Apruebo Dignidad,PC,
-131,Coquimbo,4,5,Marisol González,Apruebo Dignidad,FRVS,
-132,Coquimbo,4,5,Claudio Quiroga,Apruebo Dignidad,COM,
-133,Coquimbo,4,5,Katharina Pavletich,Apruebo Dignidad,COM,
-134,Valparaíso,5,6,Alejandro Godoy,Decisión Ciudadana,IND,0
-135,Valparaíso,5,6,Carlos Alarcón,Decisión Ciudadana,IND,0
-136,Valparaíso,5,6,Carmen Aguilera,Decisión Ciudadana,IND,1
-137,Valparaíso,5,6,Eliam Chávez,Decisión Ciudadana,IND,0
-138,Valparaíso,5,6,Gloria Morales,Decisión Ciudadana,IND,1
-139,Valparaíso,5,6,Gonzalo Araya,Decisión Ciudadana,IND,0
-140,Valparaíso,5,6,Katherine Alarcón,Decisión Ciudadana,IND,1
-141,Valparaíso,5,6,Nancy Camus,Decisión Ciudadana,IND,1
-142,Valparaíso,5,6,Alexandra Pérez Cepeda,del Pueblo,IND,1
-143,Valparaíso,5,6,Alexis García Olivares,del Pueblo,IND,0
-144,Valparaíso,5,6,Corina Silva Figueroa,del Pueblo,IND,1
-145,Valparaíso,5,6,Cristóbal Andrade,del Pueblo,IND,0
-146,Valparaíso,5,6,Lisette Vergara R.,del Pueblo,IND,1
-147,Valparaíso,5,6,Lorena Vicencio,del Pueblo,IND,1
-148,Valparaíso,5,6,Manuel Gatica,del Pueblo,IND,0
-149,Valparaíso,5,6,Rubén Miranda,del Pueblo,IND,0
-150,Valparaíso,5,6,Valeria Retamales,del Pueblo,IND,1
-151,Valparaíso,5,6,Jorge Correa Sutil,Lista del Apruebo,DC,0
-152,Valparaíso,5,6,Waleska Castillo,Lista del Apruebo,DC,0
-153,Valparaíso,5,6,Carlos Ominami Pascual,Lista del Apruebo,IND,0
-154,Valparaíso,5,6,Claudio Gomez Castro,Lista del Apruebo,IND,0
-155,Valparaíso,5,6,Rolando Garrido Quiroz,Lista del Apruebo,IND,0
-156,Valparaíso,5,6,Scarlett Valdes Pizarro,Lista del Apruebo,PL,1
-157,Valparaíso,5,6,Maricel Vicencio,Lista del Apruebo,PPD,0
-158,Valparaíso,5,6,Erika Matte Pizarro,Lista del Apruebo,PR,1
-159,Valparaíso,5,6,Claudia Espinoza,Lista del Apruebo,PS,0
-160,Valparaíso,5,6,Daniela Albornoz,Mov. Sociales Independientes,IND,1
-161,Valparaíso,5,6,Hernán Ramírez,Mov. Sociales Independientes,IND,0
-162,Valparaíso,5,6,Janis Meneses,Mov. Sociales Independientes,IND,1
-163,Valparaíso,5,6,Mathías Martínez,Mov. Sociales Independientes,IND,0
-164,Valparaíso,5,6,Miguel Espinoza,Mov. Sociales Independientes,IND,0
-165,Valparaíso,5,6,Mirna Humeres,Mov. Sociales Independientes,IND,1
-166,Valparaíso,5,6,Natalia Zapata,Mov. Sociales Independientes,IND,1
-167,Valparaíso,5,6,Romina López,Mov. Sociales Independientes,IND,1
-168,Valparaíso,5,6,Rubén Pérez,Mov. Sociales Independientes,IND,0
-169,Valparaíso,5,6,Andrea Alfaro Lay,No Neutrales,IND,1
-170,Valparaíso,5,6,Daniela Aldoney,No Neutrales,IND,1
-171,Valparaíso,5,6,Juan Fernández O.,No Neutrales,IND,0
-172,Valparaíso,5,6,Miguel Á. Botto,No Neutrales,IND,0
-173,Valparaíso,5,6,Ramiro González F.,No Neutrales,IND,0
-174,Valparaíso,5,6,Ricardo Trigo Ulloa,No Neutrales,IND,0
-175,Valparaíso,5,6,Rocío Veas Solís,No Neutrales,IND,1
-176,Valparaíso,5,6,Carolina Contreras ,Vamos por Chile,EVO,
-177,Valparaíso,5,6,José Antonio Valenzuela,Vamos por Chile,EVO-IND,
-178,Valparaíso,5,6,Chiara Barchiesi,Vamos por Chile,REP,
-179,Valparaíso,5,6,María de los Ángeles López,Vamos por Chile,REP,
-180,Valparaíso,5,6,Francisca Desbordes,Vamos por Chile,RN,
-181,Valparaíso,5,6,Juan Luis Tobar,Vamos por Chile,RN,
-182,Valparaíso,5,6,Ruggero Cozzi,Vamos por Chile,RN-IND,
-183,Valparaíso,5,6,Erica Muñoz,Vamos por Chile,UDI,
-184,Valparaíso,5,6,Robert Knopp,Vamos por Chile,UDI-IND,
-185,Valparaíso,5,6,Carolina Vilches,Apruebo Dignidad,COM,
-186,Valparaíso,5,6,Matías Gazmuri,Apruebo Dignidad,COM,
-187,Valparaíso,5,6,Mariela Serey,Apruebo Dignidad,CS,
-188,Valparaíso,5,6,David Aguilera,Apruebo Dignidad,CS,
-189,Valparaíso,5,6,Javiera Alegrìa,Apruebo Dignidad,PI,
-190,Valparaíso,5,6,Daniel Garrido,Apruebo Dignidad,FRVS,
-191,Valparaíso,5,6,Paula Freire,Apruebo Dignidad,FRVS,
-192,Valparaíso,5,6,Roberto Parra,Apruebo Dignidad,RD,
-193,Valparaíso,5,6,Alejandra Toledo,Apruebo Dignidad,RD,
-194,Valparaíso,5,7,Camila Zárate,del Pueblo,IND,1
-195,Valparaíso,5,7,Francisco Silva,del Pueblo,IND,0
-196,Valparaíso,5,7,Isaías Rojas,del Pueblo,IND,0
-197,Valparaíso,5,7,Pablo Donoso,del Pueblo,IND,0
-198,Valparaíso,5,7,Pamela Vivanco,del Pueblo,IND,1
-199,Valparaíso,5,7,Sonia Cáceres,del Pueblo,IND,1
-200,Valparaíso,5,7,Tania Madriaga,del Pueblo,IND,1
-201,Valparaíso,5,7,Tomás Lagomarsino,del Pueblo,IND,0
-202,Valparaíso,5,7,Bernardita Arqueros,Felices sin Partido,IND,1
-203,Valparaíso,5,7,Carla Allendes,Felices sin Partido,IND,1
-204,Valparaíso,5,7,Cecilia Lizama,Felices sin Partido,IND,1
-205,Valparaíso,5,7,Johan Pizarro,Felices sin Partido,IND,0
-206,Valparaíso,5,7,Luis Rojas,Felices sin Partido,IND,0
-207,Valparaíso,5,7,María Palominos,Felices sin Partido,IND,1
-208,Valparaíso,5,7,Ricardo Bonilla,Felices sin Partido,IND,0
-209,Valparaíso,5,7,Sebastián Olavarría,Felices sin Partido,IND,0
-210,Valparaíso,5,7,Barbarita Lara,Ind. por una Nueva Const.,IND,1
-211,Valparaíso,5,7,Carolina Torrejón,Ind. por una Nueva Const.,IND,1
-212,Valparaíso,5,7,Cecilia Echeñique,Ind. por una Nueva Const.,IND,1
-213,Valparaíso,5,7,Iván Zamora,Ind. por una Nueva Const.,IND,0
-214,Valparaíso,5,7,Patricio Young,Ind. por una Nueva Const.,IND,0
-215,Valparaíso,5,7,Roberto Torres,Ind. por una Nueva Const.,IND,0
-216,Valparaíso,5,7,Rodolfo Cornejo,Ind. por una Nueva Const.,IND,0
-217,Valparaíso,5,7,Sofía Bustos,Ind. por una Nueva Const.,IND,1
-218,Valparaíso,5,7,Paz Anastasiadis Le Roy,Lista del Apruebo,DC,0
-219,Valparaíso,5,7,Agustin Squella Narducci,Lista del Apruebo,IND,0
-220,Valparaíso,5,7,Alejandra Faiuri,Lista del Apruebo,IND,1
-221,Valparaíso,5,7,Paola Tapia Salas,Lista del Apruebo,IND,1
-222,Valparaíso,5,7,Pedro Cayuqueo Millaqueo,Lista del Apruebo,IND,0
-223,Valparaíso,5,7,Raul Burgos Pinto,Lista del Apruebo,IND,0
-224,Valparaíso,5,7,Pablo Santander Acevedo,Lista del Apruebo,PPD,1
-225,Valparaíso,5,7,Paula Gutierrez Huenchuleo,Lista del Apruebo,PS,0
-226,Valparaíso,5,7,Alberto Ormeño,Poder Constituyente,IND,0
-227,Valparaíso,5,7,Daniel Chamorro,Poder Constituyente,IND,0
-228,Valparaíso,5,7,Dann Espinoza,Poder Constituyente,IND,0
-229,Valparaíso,5,7,Geraldine Chávez,Poder Constituyente,IND,1
-230,Valparaíso,5,7,María T. Olivera,Poder Constituyente,IND,1
-231,Valparaíso,5,7,Natalia Corrales,Poder Constituyente,IND,1
-232,Valparaíso,5,7,Patricia Brito,Poder Constituyente,IND,1
-233,Valparaíso,5,7,Rodrigo López,Poder Constituyente,IND,0
-234,Valparaíso,5,7,Tamaru Huke,Rapa Nui,IND,0
-235,Valparaíso,5,7,Tiare Aguilera,Rapa Nui,IND,1
-236,Valparaíso,5,7,Valeria Pakarati,Rapa Nui,IND,1
-237,Valparaíso,5,7,Bárbara Córdova,Soberanía Ciudadana,IND,1
-238,Valparaíso,5,7,Danixa Becerra,Soberanía Ciudadana,IND,1
-239,Valparaíso,5,7,Francisco Vergara,Soberanía Ciudadana,IND,0
-240,Valparaíso,5,7,Julio Prischt,Soberanía Ciudadana,IND,0
-241,Valparaíso,5,7,Leonardo Latorre,Soberanía Ciudadana,IND,0
-242,Valparaíso,5,7,Miguel Á. Espinoza,Soberanía Ciudadana,IND,0
-243,Valparaíso,5,7,Patricia Torres,Soberanía Ciudadana,IND,1
-244,Valparaíso,5,7,Romina Améstica,Soberanía Ciudadana,IND,1
-245,Valparaíso,5,7,Marlene Aroca,Vamos por Chile,EVO,
-246,Valparaíso,5,7,Hotuiti Teao,Vamos por Chile,EVO-IND,
-247,Valparaíso,5,7,Raúl Celis Montt,Vamos por Chile,RN,
-248,Valparaíso,5,7,Tania Córdova Castro,Vamos por Chile,RN,
-249,Valparaíso,5,7,Jeanette Bruna Jara,Vamos por Chile,RN-IND,
-250,Valparaíso,5,7,Macarena Urenda,Vamos por Chile,UDI,
-251,Valparaíso,5,7,Jorge Arancibia,Vamos por Chile,UDI-IND,
-252,Valparaíso,5,7,Juan Pablo Rodríguez,Vamos por Chile,UDI-IND,
-253,Valparaíso,5,7,Constanza Valdés,Apruebo Dignidad,COM,
-254,Valparaíso,5,7,Jaime Bassa,Apruebo Dignidad,CS,
-255,Valparaíso,5,7,Constanza González,Apruebo Dignidad,PC,
-256,Valparaíso,5,7,Luis Cuello,Apruebo Dignidad,PC,
-257,Valparaíso,5,7,María José Oyarzún,Apruebo Dignidad,RD,
-258,Valparaíso,5,7,Cristian Bellei,Apruebo Dignidad,RD,
-259,Valparaíso,5,7,Gianina Figueroa,Apruebo Dignidad,FRVS,
-260,Valparaíso,5,7,Manuel Lanas,Apruebo Dignidad,FRVS,
-261,Metropolitana,5.5,8,Cecilia Valdes,Lista del Apruebo,DC,1
-262,Metropolitana,5.5,8,Rene Cortazar Sanz,Lista del Apruebo,DC,1
-263,Metropolitana,5.5,8,Bessy Gallardo Prado,Lista del Apruebo,IND,1
-264,Metropolitana,5.5,8,Cesar Barrera Fuenzalida,Lista del Apruebo,IND,1
-265,Metropolitana,5.5,8,Francisco Reyes Morande,Lista del Apruebo,IND,1
-266,Metropolitana,5.5,8,Verónica Undurraga,Lista del Apruebo,IND,0
-267,Metropolitana,5.5,8,Carolina Garrido Silva,Lista del Apruebo,PS,0
-268,Metropolitana,5.5,8,Jaime Troncoso Valdes,Lista del Apruebo,PS,0
-269,Metropolitana,5.5,8,Alihuen Antileo,Mapuche,IND,0
-270,Metropolitana,5.5,8,Elisa Loncon,Mapuche,IND,1
-271,Metropolitana,5.5,8,Macarena Cornejo,Vamos por Chile,EVO,
-272,Metropolitana,5.5,8,Bernardo de la Maza,Vamos por Chile,EVO-IND,
-273,Metropolitana,5.5,8,Andrea Ojeda,Vamos por Chile,RN,
-274,Metropolitana,5.5,8,Tomás Guevara,Vamos por Chile,RN,
-275,Metropolitana,5.5,8,Francisco Moreno,Vamos por Chile,UDI,
-276,Metropolitana,5.5,8,Kathy Medel,Vamos por Chile,UDI,
-277,Metropolitana,5.5,8,Macarena Bravo,Vamos por Chile,UDI,
-278,Metropolitana,5.5,8,Miguelo Esbir,Vamos por Chile,UDI-IND,
-279,Metropolitana,5.5,8,Doris González,Apruebo Dignidad,COM,
-280,Metropolitana,5.5,8,Rene Naranjo,Apruebo Dignidad,COM,
-281,Metropolitana,5.5,8,Valentina Miranda,Apruebo Dignidad,PC,
-282,Metropolitana,5.5,8,Juan Andrés Lagos,Apruebo Dignidad,PC,
-283,Metropolitana,5.5,8,Paty López,Apruebo Dignidad,FRVS,
-284,Metropolitana,5.5,8,Andrés Giordano,Apruebo Dignidad,FRVS,
-285,Metropolitana,5.5,8,Tatiana Urrutia,Apruebo Dignidad,RD,
-286,Metropolitana,5.5,8,Daniel Stingo,Apruebo Dignidad,RD,
-287,Metropolitana,5.5,9,Andrés Lillo,Felices e Independientes,IND,0
-288,Metropolitana,5.5,9,Domingo Guerrero,Felices e Independientes,IND,0
-289,Metropolitana,5.5,9,Eduardo Magaña,Felices e Independientes,IND,0
-290,Metropolitana,5.5,9,Macarena Pacheco,Felices e Independientes,IND,1
-291,Metropolitana,5.5,9,Mariel San Martin,Felices e Independientes,IND,1
-292,Metropolitana,5.5,9,Rocío Macari,Felices e Independientes,IND,1
-293,Metropolitana,5.5,9,Roxana Azocar,Felices e Independientes,IND,1
-294,Metropolitana,5.5,9,Jorge Andres Cash,Lista del Apruebo,DC,0
-295,Metropolitana,5.5,9,Alejandra Acevedo Escobar,Lista del Apruebo,IND,0
-296,Metropolitana,5.5,9,Fernanda San Martin Gougain,Lista del Apruebo,IND,0
-297,Metropolitana,5.5,9,Galit Agosin Horvitz,Lista del Apruebo,IND,0
-298,Metropolitana,5.5,9,Millarai Abelleira Peralta,Lista del Apruebo,IND,1
-299,Metropolitana,5.5,9,Santiago Escobar Sepulveda,Lista del Apruebo,IND,0
-300,Metropolitana,5.5,9,Cesar Valenzuela Maass,Lista del Apruebo,PS,0
-301,Metropolitana,5.5,9,Duilio de Lapeyra,Vamos por Chile,EVO-IND,
-302,Metropolitana,5.5,9,Fran Ayala,Vamos por Chile,EVO-IND,
-303,Metropolitana,5.5,9,Felipe Obal,Vamos por Chile,RN,
-304,Metropolitana,5.5,9,Ruth Olivera,Vamos por Chile,RN-IND,
-305,Metropolitana,5.5,9,Arturo Zuñiga,Vamos por Chile,UDI,
-306,Metropolitana,5.5,9,Sol Letelier,Vamos por Chile,UDI,
-307,Metropolitana,5.5,9,Yuyuniz Navas,Vamos por Chile,UDI,
-308,Metropolitana,5.5,9,Luz Vidal,Apruebo Dignidad,RD,
-309,Metropolitana,5.5,9,Gonzalo Bacigalupe,Apruebo Dignidad,FRVS,
-310,Metropolitana,5.5,9,Haydee Oberreuter,Apruebo Dignidad,FRVS,
-311,Metropolitana,5.5,9,Rodrigo Mallea,Apruebo Dignidad,CS,
-312,Metropolitana,5.5,9,Michelle Petaut,Apruebo Dignidad,CS,
-313,Metropolitana,5.5,9,Erick Campos,Apruebo Dignidad,PC,
-314,Metropolitana,5.5,9,Bárbara Sepulveda,Apruebo Dignidad,PC,
-315,Metropolitana,5.5,10,Laura Albornoz Pollmann,Lista del Apruebo,DC,0
-316,Metropolitana,5.5,10,Patricio Zapata Larrain,Lista del Apruebo,DC,1
-317,Metropolitana,5.5,10,Carolina Parraguez Piña,Lista del Apruebo,IND,0
-318,Metropolitana,5.5,10,Darwin Loreto Johns,Lista del Apruebo,IND,0
-319,Metropolitana,5.5,10,Jaime Parada,Lista del Apruebo,IND,1
-320,Metropolitana,5.5,10,Jorge Baradit Morales,Lista del Apruebo,IND,0
-321,Metropolitana,5.5,10,Lucia Lopez Guerra,Lista del Apruebo,IND,0
-322,Metropolitana,5.5,10,Catalina Lagos Tschorne,Lista del Apruebo,PS,1
-323,Metropolitana,5.5,10,Andrea Gutiérrez,Mov. Sociales: Unidad de Ind.,IND,1
-324,Metropolitana,5.5,10,Francisca Fernández,Mov. Sociales: Unidad de Ind.,IND,1
-325,Metropolitana,5.5,10,Javier Pineda,Mov. Sociales: Unidad de Ind.,IND,0
-326,Metropolitana,5.5,10,Karina Nohales,Mov. Sociales: Unidad de Ind.,IND,1
-327,Metropolitana,5.5,10,Luis Mesina,Mov. Sociales: Unidad de Ind.,IND,0
-328,Metropolitana,5.5,10,Manuel Hidalgo,Mov. Sociales: Unidad de Ind.,IND,0
-329,Metropolitana,5.5,10,Pablo Sepúlveda,Mov. Sociales: Unidad de Ind.,IND,0
-330,Metropolitana,5.5,10,Pía Meza,Mov. Sociales: Unidad de Ind.,IND,1
-331,Metropolitana,5.5,10,Andrés Pérez,Podemos Cambiar Chile,IND,0
-332,Metropolitana,5.5,10,Carolina Arenas,Podemos Cambiar Chile,IND,1
-333,Metropolitana,5.5,10,Gabriel Gurovic,Podemos Cambiar Chile,IND,0
-334,Metropolitana,5.5,10,José Andrés Murillo,Podemos Cambiar Chile,IND,0
-335,Metropolitana,5.5,10,Macarena Lobos,Podemos Cambiar Chile,IND,1
-336,Metropolitana,5.5,10,Pablo Morris,Podemos Cambiar Chile,IND,0
-337,Metropolitana,5.5,10,Patricia Politzer,Podemos Cambiar Chile,IND,1
-338,Metropolitana,5.5,10,Roxana Espinoza,Podemos Cambiar Chile,IND,1
-339,Metropolitana,5.5,10,Gonzalo Blumel,Vamos por Chile,EVO,
-340,Metropolitana,5.5,10,Paulina Lobos,Vamos por Chile,EVO,
-341,Metropolitana,5.5,10,Teresa Marinovic,Vamos por Chile,REP-IND,
-342,Metropolitana,5.5,10,Cristián Monckeberg,Vamos por Chile,RN,
-343,Metropolitana,5.5,10,Sylvia Eyzaguirre,Vamos por Chile,RN-IND,
-344,Metropolitana,5.5,10,Diego Riveaux Marcet,Vamos por Chile,UDI,
-345,Metropolitana,5.5,10,Jaime Flores,Vamos por Chile,UDI-IND,
-346,Metropolitana,5.5,10,Macarena Letelier,Vamos por Chile,UDI-IND,
-347,Metropolitana,5.5,10,Alejandra Jiménez,Apruebo Dignidad,PC,
-348,Metropolitana,5.5,10,Fernando Atria,Apruebo Dignidad,RD,
-349,Metropolitana,5.5,10,Giovanna Roa,Apruebo Dignidad,RD,
-350,Metropolitana,5.5,10,Pablo Selles,Apruebo Dignidad,CS,
-351,Metropolitana,5.5,10,Antonia Orellana,Apruebo Dignidad,CS,
-352,Metropolitana,5.5,10,Rafael Harvey,Apruebo Dignidad,FRVS,
-353,Metropolitana,5.5,10,Emilia Schneider,Apruebo Dignidad,COM,
-354,Metropolitana,5.5,10,Carlos Ruiz,Apruebo Dignidad,COM,
-355,Metropolitana,5.5,11,Diego Bravo,Independiente,IND,0
-356,Metropolitana,5.5,11,Henry Boys,Independiente,IND,0
-357,Metropolitana,5.5,11,Mariana Aylwin,Independientes por Chile,IND,0
-358,Metropolitana,5.5,11,Clemente Pérez,Independientes por Chile,IND,1
-359,Metropolitana,5.5,11,Pilar Peña,Independientes por Chile,IND,0
-360,Metropolitana,5.5,11,Manuel Inostroza,Independientes por Chile,IND,1
-361,Metropolitana,5.5,11,Tomás Recart,Independientes por Chile,IND,0
-362,Metropolitana,5.5,11,Cristina Bastidas,Independientes por Chile,IND,0
-363,Metropolitana,5.5,11,Jorge de la Carrera,Independientes por Chile,,
-364,Metropolitana,5.5,11,Elisa Walker Echenique,Lista del Apruebo,DC,0
-365,Metropolitana,5.5,11,Cristobal Bellolio Badiola,Lista del Apruebo,IND,0
-366,Metropolitana,5.5,11,Juan Enrique Pi Arriagada,Lista del Apruebo,IND,0
-367,Metropolitana,5.5,11,Paola Berlin Razmilic,Lista del Apruebo,IND,1
-368,Metropolitana,5.5,11,Patricio Fernandez Chadwick,Lista del Apruebo,IND,0
-369,Metropolitana,5.5,11,Sara Larrain Ruiz-Tagle,Lista del Apruebo,IND,1
-370,Metropolitana,5.5,11,Maria Jose Cumplido,Lista del Apruebo,PL,0
-371,Metropolitana,5.5,11,Alejandra Sepúlveda,No Neutrales,IND,1
-372,Metropolitana,5.5,11,Carola Fredes,No Neutrales,IND,1
-373,Metropolitana,5.5,11,Claudio Guzmán,No Neutrales,IND,0
-374,Metropolitana,5.5,11,Felipe Vera,No Neutrales,IND,0
-375,Metropolitana,5.5,11,Milán Ivelic,No Neutrales,IND,0
-376,Metropolitana,5.5,11,Pablo Carrasco,No Neutrales,IND,0
-377,Metropolitana,5.5,11,Hernán Larraín Matte,Vamos por Chile,EVO,
-378,Metropolitana,5.5,11,Pauline Kantor Pupkin,Vamos por Chile,EVO,
-379,Metropolitana,5.5,11,Verónica Campino,Vamos por Chile,RN,
-380,Metropolitana,5.5,11,Andrés Carey Carvallo,Vamos por Chile,RN-IND,
-381,Metropolitana,5.5,11,Bernardo Fontaine Talavera,Vamos por Chile,RN-IND,
-382,Metropolitana,5.5,11,Coni Hube,Vamos por Chile,UDI,
-383,Metropolitana,5.5,11,Marcela Cubillos,Vamos por Chile,UDI-IND,
-384,Metropolitana,5.5,11,Constanza Schonhaut,Apruebo Dignidad,CS,
-385,Metropolitana,5.5,11,Juan Vera,Apruebo Dignidad,FRVS,
-386,Metropolitana,5.5,11,Carolina Pérez,Apruebo Dignidad,RD,
-387,Metropolitana,5.5,11,Mauricio Pesutic,Apruebo Dignidad,PC,
-388,Metropolitana,5.5,11,Natalia Garrido,Apruebo Dignidad,PI,
-389,Metropolitana,5.5,11,Diego Mardones,Apruebo Dignidad,PI,
-390,Metropolitana,5.5,11,Javiera Toro,Apruebo Dignidad,COM,
-391,Metropolitana,5.5,12,Isabel Ñanco,Feliz Democracia,IND,1
-392,Metropolitana,5.5,12,Juan P. Huitraiqueo,Feliz Democracia,IND,0
-393,Metropolitana,5.5,12,Karla Jara,Feliz Democracia,IND,1
-394,Metropolitana,5.5,12,Luis Ponce,Feliz Democracia,IND,0
-395,Metropolitana,5.5,12,Náyade Moraga,Feliz Democracia,IND,1
-396,Metropolitana,5.5,12,Nolberto Acevedo,Feliz Democracia,IND,0
-397,Metropolitana,5.5,12,Paola Contreras,Feliz Democracia,IND,1
-398,Metropolitana,5.5,12,Rodrigo Rettig Vargas,Lista del Apruebo,CIU,0
-399,Metropolitana,5.5,12,Guillermo Larrain Rios,Lista del Apruebo,DC,1
-400,Metropolitana,5.5,12,Carola Naranjo Inostroza,Lista del Apruebo,IND,0
-401,Metropolitana,5.5,12,Paulina Muñoz Urela,Lista del Apruebo,IND,0
-402,Metropolitana,5.5,12,Pia Casteld Fenick,Lista del Apruebo,PPD,0
-403,Metropolitana,5.5,12,Christian Muñoz Paredes,Lista del Apruebo,PR,1
-404,Metropolitana,5.5,12,Romanina Morales Baltra,Lista del Apruebo,PS,0
-405,Metropolitana,5.5,12,Camilo Pereira,Mapuche,IND,0
-406,Metropolitana,5.5,12,Macarena Venegas,Vamos por Chile,EVO,
-407,Metropolitana,5.5,12,Shai Agosin,Vamos por Chile,EVO,
-408,Metropolitana,5.5,12,Bernardita Paul Ossandón,Vamos por Chile,RN,
-409,Metropolitana,5.5,12,Manuel José Ossandón Lira,Vamos por Chile,RN,
-410,Metropolitana,5.5,12,Carol Espinaza,Vamos por Chile,RN-IND,
-411,Metropolitana,5.5,12,Marcelo Alonso,Vamos por Chile,UDI,
-412,Metropolitana,5.5,12,María Luisa Cordero ,Vamos por Chile,UDI-IND,
-413,Metropolitana,5.5,12,Beatriz Sánchez,Apruebo Dignidad,RD,
-414,Metropolitana,5.5,12,Leonardo Parraguez,Apruebo Dignidad,RD,
-415,Metropolitana,5.5,12,Bárbara Figueroa,Apruebo Dignidad,PC,
-416,Metropolitana,5.5,12,Bastian Bodenhoffer,Apruebo Dignidad,PC,
-417,Metropolitana,5.5,12,Paola Villegas,Apruebo Dignidad,FRVS,
-418,Metropolitana,5.5,12,César Pizarro,Apruebo Dignidad,PI,
-419,Metropolitana,5.5,12,Marcela Mella,Apruebo Dignidad,PI,
-420,Metropolitana,5.5,13,Malucha Pinto Solari,Lista del Apruebo,PS,1
-421,Metropolitana,5.5,13,Nicolas Freire Castello,Lista del Apruebo,PL-IND,
-422,Metropolitana,5.5,13,Rodolfo Seguel Molina,Lista del Apruebo,DC,1
-423,Metropolitana,5.5,13,Francisca Cabrera Antoine,Lista del Apruebo,IND,0
-424,Metropolitana,5.5,13,Jorge Insunza G. de las Heras,Lista del Apruebo,PPD,0
-425,Metropolitana,5.5,13,Valeria Villegas Mayor,Lista del Apruebo,PR,0
-426,Metropolitana,5.5,13,Carolina García,Vamos por Chile,EVO,
-427,Metropolitana,5.5,13,Alejandro Pollo Fernández,Vamos por Chile,EVO-IND,
-428,Metropolitana,5.5,13,Luis Alejandro Silva,Vamos por Chile,REP,
-429,Metropolitana,5.5,13,Matías Poblete,Vamos por Chile,REP-IND,
-430,Metropolitana,5.5,13,Susana  Hiplán,Vamos por Chile,RN,
-431,Metropolitana,5.5,13,Eleonor Espinoza,Vamos por Chile,RN-IND,
-432,Metropolitana,5.5,13,Natalia Aravena,Apruebo Dignidad,CS,
-433,Metropolitana,5.5,13,Marcos Barraza,Apruebo Dignidad,PC,
-434,Metropolitana,5.5,13,Adriana Barrientos,Apruebo Dignidad,FRVS,
-435,Metropolitana,5.5,13,Mirko Jimenez,Apruebo Dignidad,PI,
-436,Metropolitana,5.5,13,Libertad Méndez,Apruebo Dignidad,COM,
-437,Metropolitana,5.5,13,Daniel Andrade,Apruebo Dignidad,RD,
-438,Metropolitana,5.5,14,Rogelio Urbina,Independiente,IND,
-439,Metropolitana,5.5,14,Claudia Leiva,Independientes Transparentes,IND,1
-440,Metropolitana,5.5,14,Claudio Farías,Independientes Transparentes,IND,0
-441,Metropolitana,5.5,14,Constanza Toro,Independientes Transparentes,IND,1
-442,Metropolitana,5.5,14,Luis Patricio Valdés,Independientes Transparentes,IND,0
-443,Metropolitana,5.5,14,Ramiro Iturra,Independientes Transparentes,IND,0
-444,Metropolitana,5.5,14,Teresa Armijo,Independientes Transparentes,IND,1
-445,Metropolitana,5.5,14,Camila Briceño Carrasco,Lista del Apruebo,DC,0
-446,Metropolitana,5.5,14,Diego Calderon Guardo,Lista del Apruebo,DC,1
-447,Metropolitana,5.5,14,Denisse Martel Jorquera,Lista del Apruebo,IND,0
-448,Metropolitana,5.5,14,Renato Garín,Lista del Apruebo,PR-IND,1
-449,Metropolitana,5.5,14,Juan Moreno Gamboa,Lista del Apruebo,PS,1
-450,Metropolitana,5.5,14,Maria Jose Becerra Moro,Lista del Apruebo,PS,1
-451,Metropolitana,5.5,14,Andrea Iñiguez,Vamos por Chile,REP,
-452,Metropolitana,5.5,14,Cristóbal Orrego,Vamos por Chile,REP,
-453,Metropolitana,5.5,14,Karina Torres,Vamos por Chile,RN,
-454,Metropolitana,5.5,14,Enrique Campino,Vamos por Chile,RN-IND,
-455,Metropolitana,5.5,14,Claudia Castro,Vamos por Chile,UDI,
-456,Metropolitana,5.5,14,Jaime Coloma,Vamos por Chile,UDI,
-457,Metropolitana,5.5,14,Sandra Saavedra,Apruebo Dignidad,PC,
-458,Metropolitana,5.5,14,Ignacio Achurra,Apruebo Dignidad,CS-IND,
-459,Metropolitana,5.5,14,Camila Musante,Apruebo Dignidad,RD,
-460,Metropolitana,5.5,14,Carlos Poblete,Apruebo Dignidad,PI,
-461,Metropolitana,5.5,14,Camila Navarro,Apruebo Dignidad,FRVS,
-462,Metropolitana,5.5,14,Sebastián Aylwin,Apruebo Dignidad,COM,
-463,O'Higgins,6,15,Javiera Saldaña Cadiz,Lista del Apruebo,DC,0
-464,O'Higgins,6,15,Mario Quijada Silva,Lista del Apruebo,DC,0
-465,O'Higgins,6,15,Alicia Angelica Barrera Lagos,Lista del Apruebo,PPD,1
-466,O'Higgins,6,15,Jose Antonio Ramírez,Lista del Apruebo,PPD,0
-467,O'Higgins,6,15,Carmen Nogueira Serrano,Lista del Apruebo,PS,0
-468,O'Higgins,6,15,Matias Orellana Cuellar,Lista del Apruebo,PS,1
-469,O'Higgins,6,15,Dionisio de la Cerda,Vamos por Chile,EVO,
-470,O'Higgins,6,15,Sandra Cabezas,Vamos por Chile,RN,
-471,O'Higgins,6,15,Federico Iglesias Muñoz,Vamos por Chile,RN-IND,
-472,O'Higgins,6,15,Carol Bown,Vamos por Chile,UDI,
-473,O'Higgins,6,15,Felipe García Huidobro,Vamos por Chile,UDI,
-474,O'Higgins,6,15,Mariana Martínez Anich,Vamos por Chile,UDI-IND,
-475,O'Higgins,6,15,Marta Molina,Apruebo Dignidad,FRVS,
-476,O'Higgins,6,15,Diego Bustamante,Apruebo Dignidad,FRVS,
-477,O'Higgins,6,15,Damaris Abarca,Apruebo Dignidad,COM,
-478,O'Higgins,6,15,Nolberto Zuñiga,Apruebo Dignidad,CS,
-479,O'Higgins,6,15,Ana Martínez,Apruebo Dignidad,RD,
-480,O'Higgins,6,15,Fabián Rodríguez,Apruebo Dignidad,PC,
-481,O'Higgins,6,16,Cadudzzi Salas,Corrientes Independientes,IND,1
-482,O'Higgins,6,16,Flor Ilic,Corrientes Independientes,IND,1
-483,O'Higgins,6,16,Francisco Valenzuela,Corrientes Independientes,IND,0
-484,O'Higgins,6,16,Gloria Alvarado,Corrientes Independientes,IND,1
-485,O'Higgins,6,16,Iancu Cordescu,Corrientes Independientes,IND,0
-486,O'Higgins,6,16,Katherine Villibares,Corrientes Independientes,IND,1
-487,O'Higgins,6,16,Bernardo Zapata Abarca,Lista del Apruebo,DC,0
-488,O'Higgins,6,16,Adriana Cancino Meneses,Lista del Apruebo,IND,0
-489,O'Higgins,6,16,Maria Jose Diaz Becerra,Lista del Apruebo,IND,0
-490,O'Higgins,6,16,Doris Rodriguez Zavalla,Lista del Apruebo,PR,0
-491,O'Higgins,6,16,Hugo Barahona Franco,Lista del Apruebo,PR,0
-492,O'Higgins,6,16,Roberto Santa Cruz Gonzalez,Lista del Apruebo,PS,0
-493,O'Higgins,6,16,Magdalena Barriga,Vamos por Chile,EVO,
-494,O'Higgins,6,16,Natalia Tobar,Vamos por Chile,EVO,
-495,O'Higgins,6,16,José María Hurtado,Vamos por Chile,RN,
-496,O'Higgins,6,16,Juan de Dios Valdivieso Tagle,Vamos por Chile,RN-IND,
-497,O'Higgins,6,16,Irma Greene,Vamos por Chile,UDI,
-498,O'Higgins,6,16,Ricardo Neumann Bertín,Vamos por Chile,UDI,
-499,O'Higgins,6,16,Ximena Manil,Apruebo Dignidad,RD,
-500,O'Higgins,6,16,Rodrigo Córdoba,Apruebo Dignidad,PC,
-501,O'Higgins,6,16,Gisela Tapia,Apruebo Dignidad,FRVS,
-502,O'Higgins,6,16,Nicolás Nuñez,Apruebo Dignidad,FRVS,
-503,O'Higgins,6,16,Adriana Bastías,Apruebo Dignidad,COM,
-504,O'Higgins,6,16,Leonardo Caris,Apruebo Dignidad,CS,
-505,Maule,7,17,Aquiles Carrasco,Asamblea Popular por la Dignidad,IND,0
-506,Maule,7,17,Carlos Argaray,Asamblea Popular por la Dignidad,IND,0
-507,Maule,7,17,Carolina Manríquez,Asamblea Popular por la Dignidad,IND,1
-508,Maule,7,17,Claudia Cáceres,Asamblea Popular por la Dignidad,IND,1
-509,Maule,7,17,Claudia Rojas,Asamblea Popular por la Dignidad,IND,1
-510,Maule,7,17,José Jara,Asamblea Popular por la Dignidad,IND,0
-511,Maule,7,17,María Quinteros,Asamblea Popular por la Dignidad,IND,1
-512,Maule,7,17,Rigoberto Cárcamo,Asamblea Popular por la Dignidad,IND,0
-513,Maule,7,17,Alfonso Yañez,Independientes x la Nueva Const.,IND,0
-514,Maule,7,17,Alicia Aravena,Independientes x la Nueva Const.,IND,1
-515,Maule,7,17,Carolina Rojas,Independientes x la Nueva Const.,IND,1
-516,Maule,7,17,Juan Soto,Independientes x la Nueva Const.,IND,0
-517,Maule,7,17,Susana Zamorano Montero,Lista del Apruebo,DC,0
-518,Maule,7,17,Christian Pablo Viera,Lista del Apruebo,IND,0
-519,Maule,7,17,Hugo Veloso Castro,Lista del Apruebo,IND,1
-520,Maule,7,17,Rodrigo Poblete Reyes,Lista del Apruebo,IND,0
-521,Maule,7,17,Roxana Levenier Carrasco,Lista del Apruebo,IND,0
-522,Maule,7,17,Julieta Maureira Lagos,Lista del Apruebo,PR,1
-523,Maule,7,17,Paulina Ellssetche Hurtado,Lista del Apruebo,PS,1
-524,Maule,7,17,Sergio Monsalve Vergara,Lista del Apruebo,PS,0
-525,Maule,7,17,Antonio Walker,Vamos por Chile,EVO-IND,
-526,Maule,7,17,Barbara Rebolledo,Vamos por Chile,EVO-IND,
-527,Maule,7,17,Sergio Correa,Vamos por Chile,REP,
-528,Maule,7,17,Francisco Claver Hojas,Vamos por Chile,RN-IND,
-529,Maule,7,17,Rosanna García Chevenich,Vamos por Chile,RN-IND,
-530,Maule,7,17,Alfredo Moreno Echeverria,Vamos por Chile,UDI,
-531,Maule,7,17,Constanza Gajardo,Vamos por Chile,UDI,
-532,Maule,7,17,Irene Cortés,Vamos por Chile,UDI,
-533,Maule,7,17,Natalia González,Apruebo Dignidad,PI,
-534,Maule,7,17,José González,Apruebo Dignidad,PI,
-535,Maule,7,17,Romy Bernal,Apruebo Dignidad,PC,
-536,Maule,7,17,Igor Villarroel,Apruebo Dignidad,PC,
-537,Maule,7,17,Eliana Adams,Apruebo Dignidad,RD,
-538,Maule,7,17,Fabián Farías,Apruebo Dignidad,RD,
-539,Maule,7,17,Paola Grandón,Apruebo Dignidad,FRVS,
-540,Maule,7,17,Roberto Celedón,Apruebo Dignidad,FRVS,
-541,Maule,7,18,Maria Medel Salazar,Lista del Apruebo,DC,1
-542,Maule,7,18,Alejandro Arma,Lista del Apruebo,IND,1
-543,Maule,7,18,Ana Aravena Gajardo,Lista del Apruebo,IND,1
-544,Maule,7,18,Daniela Ortega Muñoz,Lista del Apruebo,IND,0
-545,Maule,7,18,Ernesto Garrat Viñes,Lista del Apruebo,IND,0
-546,Maule,7,18,Ricardo Montero Allende,Lista del Apruebo,PS,0
-547,Maule,7,18,Denise Mewe,Vamos por Chile,REP,
-548,Maule,7,18,Juan Ariztía,Vamos por Chile,REP,
-549,Maule,7,18,Leroy Ibáñez Huenur,Vamos por Chile,RN,
-550,Maule,7,18,Patricia Labra Besserer,Vamos por Chile,RN,
-551,Maule,7,18,Manuel Noman,Vamos por Chile,UDI,
-552,Maule,7,18,María Eugenia Hormázabal,Vamos por Chile,UDI,
-553,Maule,7,18,Consuelo Veloso,Apruebo Dignidad,RD,
-554,Maule,7,18,Ricardo Tapia,Apruebo Dignidad,RD,
-555,Maule,7,18,Gloria Parada,Apruebo Dignidad,RD,
-556,Maule,7,18,Carlos Fuentes,Apruebo Dignidad,PC,
-557,Maule,7,18,Denisa Cofré,Apruebo Dignidad,PC,
-558,Ñuble,7.5,19,Ivan Paul Espinoza,Lista del Apruebo,DC,0
-559,Ñuble,7.5,19,Marcia Isabel Wall Toro,Lista del Apruebo,DC,1
-560,Ñuble,7.5,19,Rebeca Pavez,Lista del Apruebo,IND,0
-561,Ñuble,7.5,19,Sergio Hernandez,Lista del Apruebo,IND,0
-562,Ñuble,7.5,19,Felipe Harboe Bascuñan,Lista del Apruebo,PPD,0
-563,Ñuble,7.5,19,Scarlet Hidalgo Jara,Lista del Apruebo,PPD,0
-564,Ñuble,7.5,19,Lucas Vidal,Vamos por Chile,EVO,
-565,Ñuble,7.5,19,Rossana Yáñez Fuller,Vamos por Chile,EVO,
-566,Ñuble,7.5,19,Carlos Pinochet,Vamos por Chile,RN,
-567,Ñuble,7.5,19,Natalia Reyes,Vamos por Chile,RN-IND,
-568,Ñuble,7.5,19,Margarita Letelier,Vamos por Chile,UDI,
-569,Ñuble,7.5,19,Martín Arrau,Vamos por Chile,UDI,
-570,Ñuble,7.5,19,Mónica Llaveillán,Apruebo Dignidad,PI,
-571,Ñuble,7.5,19,Miguel Lizana,Apruebo Dignidad,PI,
-572,Ñuble,7.5,19,Rocío Hizmeri,Apruebo Dignidad,PC,
-573,Ñuble,7.5,19,José Osvaldo Zúñiga,Apruebo Dignidad,PC,
-574,Ñuble,7.5,19,Cristina Martin,Apruebo Dignidad,RD,
-575,Ñuble,7.5,19,Jonathan Chandía,Apruebo Dignidad,RD,
-576,Bío-Bío,8,20,Carla Lara Gallardo,Ecologistas Verdes,PEV,1
-577,Bío-Bío,8,20,Fernando Sepúlveda,Ecologistas Verdes,PEV,0
-578,Bío-Bío,8,20,Francisco Vera,Ecologistas Verdes,PEV,0
-579,Bío-Bío,8,20,Javier Guerrero,Ecologistas Verdes,PEV,0
-580,Bío-Bío,8,20,Valentina Torres,Ecologistas Verdes,PEV,1
-581,Bío-Bío,8,20,María José Gormaz,Ecologistas Verdes,PEV-IND,1
-582,Bío-Bío,8,20,Alejandro Trigo,Felices sin Partido,IND,0
-583,Bío-Bío,8,20,Ana Burgos,Felices sin Partido,IND,1
-584,Bío-Bío,8,20,Boris Flores,Felices sin Partido,IND,0
-585,Bío-Bío,8,20,Juan Pablo Rojas,Felices sin Partido,IND,0
-586,Bío-Bío,8,20,Luis Moraga,Felices sin Partido,IND,0
-587,Bío-Bío,8,20,Martina Oppliger,Felices sin Partido,IND,1
-588,Bío-Bío,8,20,Patricia Riquelme,Felices sin Partido,IND,1
-589,Bío-Bío,8,20,Verónica Núñez,Felices sin Partido,IND,1
-590,Bío-Bío,8,20,Fabiola Troncoso Alvarado,Lista del Apruebo,DC,0
-591,Bío-Bío,8,20,Oscar Vega Orihuela,Lista del Apruebo,DC,0
-592,Bío-Bío,8,20,Animes Cruz Carrasco,Lista del Apruebo,IND,0
-593,Bío-Bío,8,20,Guido Lillo Velásquez,Lista del Apruebo,IND,0
-594,Bío-Bío,8,20,Lorena Lobos Castro,Lista del Apruebo,IND,0
-595,Bío-Bío,8,20,Miriam Espinoza Zambiano,Lista del Apruebo,IND,1
-596,Bío-Bío,8,20,Pavel Guau Nahijelñir,Lista del Apruebo,IND,1
-597,Bío-Bío,8,20,Maria A. Fuentes Fuentealba,Lista del Apruebo,PPD,0
-598,Bío-Bío,8,20,Jorge Serón,Vamos por Chile,EVO-IND,
-599,Bío-Bío,8,20,Rocío Cantuarias,Vamos por Chile,EVO-IND,
-600,Bío-Bío,8,20,Luciano Ernesto Silva,Vamos por Chile,RN,
-601,Bío-Bío,8,20,Yanina Contreras Álvarez,Vamos por Chile,RN,
-602,Bío-Bío,8,20,Claudia Pavez,Vamos por Chile,RN-IND,
-603,Bío-Bío,8,20,Elías Ramos,Vamos por Chile,UDI,
-604,Bío-Bío,8,20,Alejandro Reyes,Vamos por Chile,UDI-IND,
-605,Bío-Bío,8,20,María Paz Charpentier,Vamos por Chile,UDI-IND,
-606,Bío-Bío,8,20,Pamela Hidalgo,Apruebo Dignidad,PI,
-607,Bío-Bío,8,20,Carlos López,Apruebo Dignidad,PI,
-608,Bío-Bío,8,20,María Candelaria Acevedo,Apruebo Dignidad,PC,
-609,Bío-Bío,8,20,Oscar Menares,Apruebo Dignidad,PC,
-610,Bío-Bío,8,20,Millaray Saéz,Apruebo Dignidad,FRVS,
-611,Bío-Bío,8,20,Hernán Cortés,Apruebo Dignidad,FRVS,
-612,Bío-Bío,8,20,Amaya Alvez,Apruebo Dignidad,RD,
-613,Bío-Bío,8,20,Eduardo Pacheco,Apruebo Dignidad,RD,
-614,Bío-Bío,8,21,Gerson Valdebenito,Felices sin Partido,IND,0
-615,Bío-Bío,8,21,Abelardo Muñoz,Independientes y Felices,IND,0
-616,Bío-Bío,8,21,Christel Uribe Kuncar,Independientes y Felices,IND,1
-617,Bío-Bío,8,21,Leticia Berrocal,Independientes y Felices,IND,1
-618,Bío-Bío,8,21,Lorena Urra A.,Independientes y Felices,IND,1
-619,Bío-Bío,8,21,Luis Vásquez,Independientes y Felices,IND,0
-620,Bío-Bío,8,21,Marcelo Urrutia Burns,Lista del Apruebo,DC,0
-621,Bío-Bío,8,21,Norka Flores Jara,Lista del Apruebo,DC,1
-622,Bío-Bío,8,21,Estefany Tisi Gonzalez,Lista del Apruebo,IND,0
-623,Bío-Bío,8,21,Luis Barcelo Amado,Lista del Apruebo,IND,0
-624,Bío-Bío,8,21,Oscar Burgos Peredo,Lista del Apruebo,IND,0
-625,Bío-Bío,8,21,Aurelia Ormeño Carvallo,Lista del Apruebo,PR,1
-626,Bío-Bío,8,21,Adolfo Millabur,Mapuche,IND,0
-627,Bío-Bío,8,21,Natividad Llanquileo,Mapuche,IND,1
-628,Bío-Bío,8,21,Ítalo Zunino ,Vamos por Chile,EVO,
-629,Bío-Bío,8,21,Javiera Hormazábal,Vamos por Chile,EVO-IND,
-630,Bío-Bío,8,21,Paulina Veloso,Vamos por Chile,RN,
-631,Bío-Bío,8,21,Pablo Perelló Pérez,Vamos por Chile,RN-IND,
-632,Bío-Bío,8,21,Tamara Rogers,Vamos por Chile,UDI,
-633,Bío-Bío,8,21,Jorge Guzmán,Vamos por Chile,UDI-IND,
-634,Bío-Bío,8,21,Patrica Valderas,Apruebo Dignidad,PC,
-635,Bío-Bío,8,21,Alvaro Sanchez,Apruebo Dignidad,PC,
-636,Bío-Bío,8,21,Vasili Carrillo,Apruebo Dignidad,PC,
-637,Bío-Bío,8,21,Marcela Saavedra,Apruebo Dignidad,PC,
-638,Bío-Bío,8,21,Vanessa Hoppe,Apruebo Dignidad,PC,
-639,Bío-Bío,8,21,Claudio Castillo,Apruebo Dignidad,PI,
-640,Araucanía,9,22,Fuad Chahin Valenzuela,Lista del Apruebo,DC,0
-641,Araucanía,9,22,Hector Ulloa Asencio,Lista del Apruebo,IND,0
-642,Araucanía,9,22,Katherina Hidalgo Campos,Lista del Apruebo,IND,1
-643,Araucanía,9,22,Sofia Painiqueo Tragnolao,Lista del Apruebo,IND,0
-644,Araucanía,9,22,Waleska Morales Morales,Lista del Apruebo,IND,0
-645,Araucanía,9,22,Alex Castillo Salamanca,Lista del Apruebo,PR,0
-646,Araucanía,9,22,Mauricio Lepin ,Mapuche,IND,0
-647,Araucanía,9,22,Genni Fulgeri,Vamos por Chile,EVO-IND,
-648,Araucanía,9,22,Isabel Quiroz,Vamos por Chile,EVO-IND,
-649,Araucanía,9,22,Cristian Greenhill Schifferli,Vamos por Chile,RN,
-650,Araucanía,9,22,Ruth Hurtado,Vamos por Chile,RN-IND,
-651,Araucanía,9,22,Eduardo Cretton,Vamos por Chile,UDI,
-652,Araucanía,9,22,Gonzalo Arenas,Vamos por Chile,UDI,
-653,Araucanía,9,22,Haydee Ulloa,Apruebo Dignidad,PI,
-654,Araucanía,9,22,Eduardo Cayupé,Apruebo Dignidad,PI,
-655,Araucanía,9,23,Jacqueline Madres Espinoza,Lista del Apruebo,DC,0
-656,Araucanía,9,23,Eliana Roa Valenzuela,Lista del Apruebo,IND,0
-657,Araucanía,9,23,Heinrich Von Baer Von Lochow,Lista del Apruebo,IND,0
-658,Araucanía,9,23,Ilich Antonio Silva Pena,Lista del Apruebo,IND,1
-659,Araucanía,9,23,Violeta Palavicino Cayunao,Lista del Apruebo,IND,1
-660,Araucanía,9,23,Eduardo Castillo V.,Lista del Apruebo,PPD,0
-661,Araucanía,9,23,Minerva Castañeda Meuñan,Lista del Apruebo,PS,0
-662,Araucanía,9,23,Ana Llao,Mapuche,IND,1
-663,Araucanía,9,23,Alejo Aprais,Vamos por Chile,EVO,
-664,Araucanía,9,23,Elizabeth Brandt,Vamos por Chile,EVO-IND,
-665,Araucanía,9,23,Luis Mayol,Vamos por Chile,RN,
-666,Araucanía,9,23,Melisa Becker,Vamos por Chile,RN,
-667,Araucanía,9,23,Angélica Tepper,Vamos por Chile,RN-IND,
-668,Araucanía,9,23,Pablo Herdener,Vamos por Chile,UDI,
-669,Araucanía,9,23,Pilar Errázuriz,Vamos por Chile,UDI,
-670,Araucanía,9,23,Manuela Royo,Apruebo Dignidad,PI,
-671,Araucanía,9,23,Alfonso Espoz,Apruebo Dignidad,PI,
-672,Araucanía,9,23,Camila Vergara,Apruebo Dignidad,PC,
-673,Araucanía,9,23,Gonzalo Contreras,Apruebo Dignidad,PC,
-674,Araucanía,9,23,Ericka Ñanco,Apruebo Dignidad,FRVS,
-675,Los Ríos,9.5,24,Vicente Gómez,Ecologistas Verdes,PEV-IND,0
-676,Los Ríos,9.5,24,Exequiel Silva Ortiz,Lista del Apruebo,DC,0
-677,Los Ríos,9.5,24,Rita Soto Savando,Lista del Apruebo,IND,0
-678,Los Ríos,9.5,24,Marco Antonio Leal Ruiz,Lista del Apruebo,PPD,1
-679,Los Ríos,9.5,24,Diosa Villarroel Pineda,Lista del Apruebo,PR,0
-680,Los Ríos,9.5,24,Maria Ramona Reyes,Lista del Apruebo,PS,0
-681,Los Ríos,9.5,24,Pedro David Muñoz Leiva,Lista del Apruebo,PS,1
-682,Los Ríos,9.5,24,Tomás Mandiola,Vamos por Chile,EVO,
-683,Los Ríos,9.5,24,María Angélica Fernández,Vamos por Chile,EVO-IND,
-684,Los Ríos,9.5,24,Cristhian Cancino,Vamos por Chile,RN,
-685,Los Ríos,9.5,24,Marina Maipallán,Vamos por Chile,RN,
-686,Los Ríos,9.5,24,Felipe Mena,Vamos por Chile,UDI,
-687,Los Ríos,9.5,24,Andrea Petermann,Vamos por Chile,UDI-IND,
-688,Los Ríos,9.5,24,Aurora Delgado,Apruebo Dignidad,RD,
-689,Los Ríos,9.5,24,Felipe Pino,Apruebo Dignidad,RD,
-690,Los Ríos,9.5,24,Daniela Milanka,Apruebo Dignidad,RD,
-691,Los Ríos,9.5,24,Wladimir Riesco,Apruebo Dignidad,PC,
-692,Los Ríos,9.5,24,Marisol Torres,Apruebo Dignidad,PC,
-693,Los Ríos,9.5,24,Wladimir Manzano,Apruebo Dignidad,PC,
-694,Los Lagos,10,25,Juan Alvarez,Lista del Apruebo,DC,1
-695,Los Lagos,10,25,Cecilia Kramm Kramm,Lista del Apruebo,IND,1
-696,Los Lagos,10,25,Luisa Fernanda De La Prida,Lista del Apruebo,IND,0
-697,Los Lagos,10,25,Giovanna Moreira,Lista del Apruebo,PL,0
-698,Los Lagos,10,25,Enzo Jaramillo Hott,Lista del Apruebo,PS,0
-699,Los Lagos,10,25,Mario Rimen Vargas Vidal,Lista del Apruebo,PS,0
-700,Los Lagos,10,25,Alicia Vesperinas,Vamos por Chile,EVO-IND,
-701,Los Lagos,10,25,René Merino,Vamos por Chile,EVO-IND,
-702,Los Lagos,10,25,Marisol Bañares,Vamos por Chile,REP,
-703,Los Lagos,10,25,Harry Jurgensen,Vamos por Chile,RN,
-704,Los Lagos,10,25,Cecilia Ubilla,Vamos por Chile,UDI,
-705,Los Lagos,10,25,Sergio Willer,Vamos por Chile,UDI,
-706,Los Lagos,10,25,Daniela Carvacho,Apruebo Dignidad,RD,
-707,Los Lagos,10,25,Gustavo Salvo,Apruebo Dignidad,RD,
-708,Los Lagos,10,25,Elba Vargas,Apruebo Dignidad,PC,
-709,Los Lagos,10,25,Gonzalo Díaz,Apruebo Dignidad,PC,
-710,Los Lagos,10,25,María Inés Barrera,Apruebo Dignidad,COM,
-711,Los Lagos,10,25,Mario Gonzalez,Apruebo Dignidad,COM,
-712,Los Lagos,10,26,Carmen Gloria Muñoz Torres,Lista del Apruebo,DC,0
-713,Los Lagos,10,26,Roberto Hurtado Guzman,Lista del Apruebo,IND,0
-714,Los Lagos,10,26,Rosa Betty Muñoz Seron,Lista del Apruebo,IND,1
-715,Los Lagos,10,26,Samuel Galvez Derpich,Lista del Apruebo,PL,1
-716,Los Lagos,10,26,Jacqueline Paz Cabrera,Lista del Apruebo,PS,1
-717,Los Lagos,10,26,Julio Alvarez Pinto,Lista del Apruebo,PS,0
-718,Los Lagos,10,26,Alejandra Westermeyer,Vamos por Chile,EVO,
-719,Los Lagos,10,26,Jairo Quinteros,Vamos por Chile,REP,
-720,Los Lagos,10,26,Juan Ossa Santa Cruz,Vamos por Chile,RN-IND,
-721,Los Lagos,10,26,Patricia Sanzana,Vamos por Chile,RN-IND,
-722,Los Lagos,10,26,Kate Montealegre,Vamos por Chile,UDI,
-723,Los Lagos,10,26,Marcos Emilfork Konow,Vamos por Chile,UDI-IND,
-724,Los Lagos,10,26,Patricia Rada,Apruebo Dignidad,RD,
-725,Los Lagos,10,26,Esteban Vielma,Apruebo Dignidad,RD,
-726,Los Lagos,10,26,María Olga Delgado,Apruebo Dignidad,PC,
-727,Los Lagos,10,26,Cataldo Martínez,Apruebo Dignidad,PC,
-728,Los Lagos,10,26,Pamela Espinoza,Apruebo Dignidad,COM,
-729,Los Lagos,10,26,Francisco Vera,Apruebo Dignidad,COM,
-730,Aysén,11,27,Jannette Salgado Chacón,Lista del Apruebo,DC,0
-731,Aysén,11,27,Mario Sandoval Vargas,Lista del Apruebo,DC,0
-732,Aysén,11,27,Paulina Ruz Delfin,Lista del Apruebo,PPD,1
-733,Aysén,11,27,Guillermo Martínez G.,Lista del Apruebo,PR,1
-734,Aysén,11,27,Tomas Caleb Laibe Saez,Lista del Apruebo,PS,
-735,Aysén,11,27,Viviana Betancourt Gallegos,Lista del Apruebo,PS,1
-736,Aysén,11,27,Geoconda Navarrete,Vamos por Chile,EVO,
-737,Aysén,11,27,Alfredo Runin,Vamos por Chile,EVO-IND,
-738,Aysén,11,27,Marcos Vargas,Vamos por Chile,RN,
-739,Aysén,11,27,María Teresa Calvis,Vamos por Chile,UDI,
-740,Aysén,11,27,Arístides Benavente,Vamos por Chile,UDI-IND,
-741,Aysén,11,27,Yarela Gómez,Apruebo Dignidad,RD,
-742,Aysén,11,27,Julio Ñanco,Apruebo Dignidad,RD,
-743,Aysén,11,27,Haley Durán,Apruebo Dignidad,RD,
-744,Aysén,11,27,Samuel Navarro,Apruebo Dignidad,PC,
-745,Aysén,11,27,Rosa Pesutic,Apruebo Dignidad,PC,
-746,Aysén,11,27,Diego Salinas,Apruebo Dignidad,PC,
-747,Magallanes,12,28,Elisa Giustinianovich,Coord. Social de Magallanes,IND,1
-748,Magallanes,12,28,Inés Vidal,Coord. Social de Magallanes,IND,1
-749,Magallanes,12,28,Javier Omar Aguilar,Coord. Social de Magallanes,IND,0
-750,Magallanes,12,28,Pablo Cifuentes,Coord. Social de Magallanes,IND,0
-751,Magallanes,12,28,Patricio Fuentes,Coord. Social de Magallanes,IND,0
-752,Magallanes,12,28,Manuel Gallardo Soto,Lista del Apruebo,DC,0
-753,Magallanes,12,28,Nelson Leiva Lerzundi,Lista del Apruebo,DC,0
-754,Aysén,11,28,Adriana Baratelli,Lista del Apruebo,IND,1
-755,Magallanes,12,28,Karin Escarate Rios,Lista del Apruebo,IND,
-756,Magallanes,12,28,Luis Navarro Almonacid,Lista del Apruebo,PS,
-757,Magallanes,12,28,Maria de Los Á. Flores,Lista del Apruebo,PS,0
-758,Magallanes,12,28,Grissell González,Regionalismo Ciudadano Ind.,IND,1
-759,Magallanes,12,28,Jaime Ormeño,Regionalismo Ciudadano Ind.,IND,0
-760,Magallanes,12,28,Juan C. Kalasich,Regionalismo Ciudadano Ind.,IND,0
-761,Magallanes,12,28,Mauricio Daza,Regionalismo Ciudadano Ind.,IND,0
-762,Magallanes,12,28,Pamela Herrera,Regionalismo Ciudadano Ind.,IND,1
-763,Magallanes,12,28,Rodolfo Arecheta,Vamos por Chile,EVO-IND,
-764,Magallanes,12,28,Silvana Camelio ,Vamos por Chile,EVO-IND,
-765,Magallanes,12,28,Gabriela Casanueva,Vamos por Chile,RN-IND,
-766,Magallanes,12,28,María Teresa Castallón,Vamos por Chile,RN-IND,
-767,Magallanes,12,28,Rodrigo Álvarez,Vamos por Chile,UDI,
-768,Magallanes,12,28,Marcelo Torche,Vamos por Chile,UDI-IND,
-769,Magallanes,12,28,José González C.,Yagán,IND,0
-770,Magallanes,12,28,María Luisa Muñoz,Yagán,IND,1
-771,Magallanes,12,28,Javiera Morales,Apruebo Dignidad,CS,
-772,Magallanes,12,28,Carlos Abarzúa,Apruebo Dignidad,CS,
-773,Magallanes,12,28,Daniela Panicucci,Apruebo Dignidad,CS,
-774,Magallanes,12,28,Nikos Ortega,Apruebo Dignidad,PC,
-775,Magallanes,12,28,Margarita Makuc,Apruebo Dignidad,PC,
-776,Magallanes,12,28,Julio Contreras,Apruebo Dignidad,PC,
-777,s/i,s/i,999,Catalina Cortés,Aymara,IND,1
-778,s/i,s/i,999,José Domingo Rojas,Diaguita,IND,0
-779,s/i,s/i,999,Francisca Linconao,Mapuche,IND,1
-780,s/i,s/i,999,Gustavo Quilaqueo,Mapuche,IND,0
-781,s/i,s/i,999,Hugo Marivil,Mapuche,IND,0
-782,s/i,s/i,999,Ingrid Conejeros,Mapuche,IND,1
-783,s/i,s/i,999,Isabel Cayul,Mapuche,IND,1
-784,s/i,s/i,999,Luis Catrileo,Mapuche,IND,0
-785,s/i,s/i,999,Ricardo Inalef,Mapuche,IND,0
-786,s/i,s/i,999,Sofía Huenchumilla,Mapuche,IND,1
-787,s/i,s/i,999,Vanessa Huaiquimilla,Mapuche,IND,1
+10,Arica,0.5,1,Carolina Videla,Apruebo Dignidad,PC,1
+11,Arica,0.5,1,Carlos Yevenes,Apruebo Dignidad,PC,0
+12,Arica,0.5,1,Sheyla Sánchez,Apruebo Dignidad,FRVS,1
+13,Arica,0.5,1,Herman Mondaca,Apruebo Dignidad,FRVS,0
+14,Arica,0.5,1,Connie Torres,Apruebo Dignidad,COM,1
+15,Arica,0.5,1,Oscar Palleres,Apruebo Dignidad,COM,0
+594,Arica,0.5,1,Hortencia Hidalgo,Lista del Apruebo,PS,1
+595,Arica,0.5,1,Jorge Abarca,Lista del Apruebo,PL-IND,0
+596,Arica,0.5,1,Iris Rubio,Lista del Apruebo,PRO-IND,1
+597,Arica,0.5,1,Raul Castro,Lista del Apruebo,DC,0
+598,Arica,0.5,1,Ernestina Silva,Lista del Apruebo,PR,1
+599,Arica,0.5,1,Enzo Varens,Lista del Apruebo,PS,0
+1,Arica,0.5,1,Edwin Briceño,No Neutrales,IND,0
+2,Arica,0.5,1,Rosa Vilches,No Neutrales,IND,1
+3,Arica,0.5,1,Willi Zuchel,No Neutrales,IND,0
+4,Arica,0.5,1,Brunella Vinet,Vamos por Chile,EVO-IND,1
+5,Arica,0.5,1,Francisco González,Vamos por Chile,EVO-IND,0
+6,Arica,0.5,1,Héctor Milla Bravo,Vamos por Chile,RN,0
+7,Arica,0.5,1,María Calatayud,Vamos por Chile,RN,1
+8,Arica,0.5,1,Pollyana Rivera,Vamos por Chile,UDI,1
+9,Arica,0.5,1,Valerio Cañipa,Vamos por Chile,UDI,0
+22,Tarapacá,1,2,Alejandra Ceballos,Apruebo Dignidad,COM,1
+23,Tarapacá,1,2,Waldo Aguilar,Apruebo Dignidad,PI,0
+24,Tarapacá,1,2,Camila Castillo,Apruebo Dignidad,RD,1
+25,Tarapacá,1,2,Hugo Gutierrez,Apruebo Dignidad,PC,0
+26,Tarapacá,1,2,Odette López,Apruebo Dignidad,FRVS,1
+27,Tarapacá,1,2,Eduardo Justo,Apruebo Dignidad,FRVS,0
+600,Tarapacá,1,2,Paula Jara,Lista del Apruebo,IND,1
+601,Tarapacá,1,2,Alex Adasme,Lista del Apruebo,IND,0
+602,Tarapacá,1,2,Ana Luksic,Lista del Apruebo,DC,1
+603,Tarapacá,1,2,Ignacio Prieto,Lista del Apruebo,IND,0
+604,Tarapacá,1,2,Silvia Silva,Lista del Apruebo,PS,1
+605,Tarapacá,1,2,Gonzalo Prieto,Lista del Apruebo,PPD,0
+16,Tarapacá,1,2,Álvaro Jofré,Vamos por Chile,RN,0
+17,Tarapacá,1,2,Karen Heyde,Vamos por Chile,RN-IND,1
+18,Tarapacá,1,2,Luz Núñez,Vamos por Chile,RN-IND,1
+19,Tarapacá,1,2,Felipe Hubner,Vamos por Chile,UDI,0
+20,Tarapacá,1,2,Freddy Araneda,Vamos por Chile,UDI,0
+21,Tarapacá,1,2,Roxana Cerda,Vamos por Chile,UDI,1
+49,Antofagasta,2,3,Romina Ávalos,Apruebo Dignidad,RD,1
+50,Antofagasta,2,3,Hernán Velasquez,Apruebo Dignidad,FRVS,0
+51,Antofagasta,2,3,María Ojeda,Apruebo Dignidad,PC,1
+52,Antofagasta,2,3,Kenin Cerda,Apruebo Dignidad,COM,0
+53,Antofagasta,2,3,Berta Torrejón,Apruebo Dignidad,PI,1
+54,Antofagasta,2,3,Pablo Rojas,Apruebo Dignidad,PI,0
+28,Antofagasta,2,3,Sergio Cubillos,Atacameño,IND,0
+833,Antofagasta,2,3,Rosana Olivares,del Pueblo,IND,0
+834,Antofagasta,2,3,Wilfredo Lobos,del Pueblo,IND,1
+835,Antofagasta,2,3,Dalila Peña,del Pueblo,IND,1
+836,Antofagasta,2,3,Dayana González,del Pueblo,IND,1
+837,Antofagasta,2,3,Carlos Hernández,del Pueblo,IND,0
+29,Antofagasta,2,3,Iván Ivanovic,Felices e Independientes,IND,0
+30,Antofagasta,2,3,Janett Barraza,Felices e Independientes,IND,1
+31,Antofagasta,2,3,José L. Huanca,Felices e Independientes,IND,0
+32,Antofagasta,2,3,Luis Berger,Felices e Independientes,IND,0
+33,Antofagasta,2,3,Maritza Cerezo,Felices e Independientes,IND,1
+34,Antofagasta,2,3,Patricia Canales R.,Felices e Independientes,IND,1
+606,Antofagasta,2,3,Celia Gonzalez,Lista del Apruebo,PR,1
+607,Antofagasta,2,3,Jorge Alvarado,Lista del Apruebo,IND,0
+608,Antofagasta,2,3,Katherine Leyton,Lista del Apruebo,PRO-IND,1
+609,Antofagasta,2,3,Felipe Lerzundi,Lista del Apruebo,DC,0
+610,Antofagasta,2,3,Fabiola Rivero,Lista del Apruebo,IND,1
+611,Antofagasta,2,3,Marcos Simunovic,Lista del Apruebo,IND,0
+35,Antofagasta,2,3,Arnoldo Núñez,Mov. Independiente del Norte,IND,0
+36,Antofagasta,2,3,Arturo Soto,Mov. Independiente del Norte,IND,0
+37,Antofagasta,2,3,Cristina Dorador,Mov. Independiente del Norte,IND,1
+38,Antofagasta,2,3,Nina López,Mov. Independiente del Norte,IND,1
+39,Antofagasta,2,3,Rudencio Espíndola,Mov. Independiente del Norte,IND,0
+40,Antofagasta,2,3,Vianney Sierralta,Mov. Independiente del Norte,IND,1
+41,Antofagasta,2,3,Miguel Urrelo,Quechua,IND,0
+42,Antofagasta,2,3,Samuel Yupanqui,Quechua,IND,0
+43,Antofagasta,2,3,Marcela Maldonado,Vamos por Chile,EVO-IND,1
+44,Antofagasta,2,3,Marcos Celedón,Vamos por Chile,EVO-IND,0
+45,Antofagasta,2,3,Jorge Lawrence,Vamos por Chile,RN-IND,0
+46,Antofagasta,2,3,Magdalena Ortega,Vamos por Chile,RN-IND,1
+47,Antofagasta,2,3,Katherine Lopez,Vamos por Chile,UDI,1
+48,Antofagasta,2,3,Pablo Toloza,Vamos por Chile,UDI,0
+74,Atacama,3,4,Paloma Fernández,Apruebo Dignidad,COM,1
+75,Atacama,3,4,Rolando Quevedo,Apruebo Dignidad,COM,0
+76,Atacama,3,4,Ericka Protillo,Apruebo Dignidad,PC,1
+77,Atacama,3,4,Jorge Flores,Apruebo Dignidad,PC,0
+78,Atacama,3,4,Flavia Torrealba,Apruebo Dignidad,FRVS,1
+79,Atacama,3,4,Jaime Vargas,Apruebo Dignidad,FRVS,0
+55,Atacama,3,4,Brenda Gutierrez,Changos,IND,1
+56,Atacama,3,4,Felipe Rivera Marín,Changos,IND,0
+838,Atacama,3,4,Constanza San Juan,del Pueblo,IND,1
+839,Atacama,3,4,Octavio Echeverría,del Pueblo,IND,0
+840,Atacama,3,4,Silvia Rodríguez,del Pueblo,IND,1
+841,Atacama,3,4,María Pilar Triviño,del Pueblo,IND,1
+842,Atacama,3,4,Raúl Miranda,del Pueblo,IND,0
+843,Atacama,3,4,Fabián Rabí,del Pueblo,IND,0
+57,Atacama,3,4,Claudia Panes,Ind. por un Atacama Feliz,IND,1
+58,Atacama,3,4,Leandro Ledezma,Ind. por un Atacama Feliz,IND,0
+59,Atacama,3,4,María T. Rivera,Ind. por un Atacama Feliz,IND,1
+60,Atacama,3,4,Osvaldo Tello,Ind. por un Atacama Feliz,IND,0
+61,Atacama,3,4,Raúl Córdova,Ind. por un Atacama Feliz,IND,0
+62,Atacama,3,4,Ricardo Ibáñez,Ind. por un Atacama Feliz,IND,0
+612,Atacama,3,4,Marcela Araya,Lista del Apruebo,PS,1
+613,Atacama,3,4,Maximiliano Hurtado,Lista del Apruebo,PS,0
+614,Atacama,3,4,Catalina Jones,Lista del Apruebo,DC,1
+615,Atacama,3,4,Octavio Meneses,Lista del Apruebo,PPD,0
+616,Atacama,3,4,Palmira Rojas,Lista del Apruebo,PR,1
+617,Atacama,3,4,Alberto Robles,Lista del Apruebo,PR,0
+63,Atacama,3,4,Enrique Poblete,No Neutrales,IND,0
+64,Atacama,3,4,Guillermo Namor,No Neutrales,IND,0
+65,Atacama,3,4,Mario Maturana,No Neutrales,IND,0
+66,Atacama,3,4,Miriam Henríquez,No Neutrales,IND,1
+67,Atacama,3,4,Nolva Toro,No Neutrales,IND,1
+68,Atacama,3,4,María Francisca Plaza,Vamos por Chile,EVO,1
+69,Atacama,3,4,Miguel Fortt,Vamos por Chile,EVO,0
+70,Atacama,3,4,Cristina Bravo Bassi,Vamos por Chile,RN,1
+71,Atacama,3,4,Carlos Montalva Pérez,Vamos por Chile,RN-IND,0
+72,Atacama,3,4,Carlos Martin,Vamos por Chile,UDI,0
+73,Atacama,3,4,Wilma Jiménez,Vamos por Chile,UDI,1
+96,Coquimbo,4,5,Jennifer Mella,Apruebo Dignidad,CS,1
+97,Coquimbo,4,5,Jorge Naveas,Apruebo Dignidad,PI,0
+98,Coquimbo,4,5,Carolina Tello,Apruebo Dignidad,PC,1
+99,Coquimbo,4,5,Mauricio Ugarte,Apruebo Dignidad,PC,0
+100,Coquimbo,4,5,Marisol González,Apruebo Dignidad,FRVS,1
+101,Coquimbo,4,5,Claudio Quiroga,Apruebo Dignidad,COM,0
+102,Coquimbo,4,5,Katharina Pavletich,Apruebo Dignidad,COM,1
+80,Coquimbo,4,5,Sonia Neyra,Colla,IND,1
+81,Coquimbo,4,5,Alex Cortes,del Pueblo,IND,0
+82,Coquimbo,4,5,Consuelo Infante,del Pueblo,IND,1
+83,Coquimbo,4,5,Daniel Bravo,del Pueblo,IND,0
+84,Coquimbo,4,5,Diego Figueroa,del Pueblo,IND,0
+85,Coquimbo,4,5,Ivanna Olivares,del Pueblo,IND,1
+86,Coquimbo,4,5,Leonardo Pasten,del Pueblo,IND,0
+87,Coquimbo,4,5,Maria Infante,del Pueblo,IND,1
+88,Coquimbo,4,5,Nancy Duman,del Pueblo,IND,1
+618,Coquimbo,4,5,Carla Aguirre,Lista del Apruebo,PR,1
+619,Coquimbo,4,5,Pedro Barraza,Lista del Apruebo,IND,0
+620,Coquimbo,4,5,Gladys Barraza,Lista del Apruebo,DC,1
+621,Coquimbo,4,5,Carlos Calvo,Lista del Apruebo,IND,0
+622,Coquimbo,4,5,Elisa Oyarzun,Lista del Apruebo,IND,1
+623,Coquimbo,4,5,Carlos Yusta,Lista del Apruebo,IND,0
+624,Coquimbo,4,5,Maria Rojas,Lista del Apruebo,IND,1
+89,Coquimbo,4,5,Juan José Tagle,Vamos por Chile,EVO,0
+90,Coquimbo,4,5,Gabriela Parot,Vamos por Chile,EVO-IND,1
+91,Coquimbo,4,5,Roberto Vega,Vamos por Chile,RN,0
+92,Coquimbo,4,5,Vinka Pusich,Vamos por Chile,RN,1
+93,Coquimbo,4,5,María Figari Barrera,Vamos por Chile,RN-IND,1
+94,Coquimbo,4,5,Alejandra Valdovinos,Vamos por Chile,UDI,1
+95,Coquimbo,4,5,Ronald Brandt,Vamos por Chile,UDI-IND,0
+145,Valparaíso,5,6,Carolina Vilches,Apruebo Dignidad,COM-IND,1
+146,Valparaíso,5,6,Matías Gazmuri,Apruebo Dignidad,COM,0
+147,Valparaíso,5,6,Mariela Serey,Apruebo Dignidad,CS-IND,1
+148,Valparaíso,5,6,David Aguilera,Apruebo Dignidad,CS,0
+149,Valparaíso,5,6,Javiera Alegría,Apruebo Dignidad,PI-IND,1
+150,Valparaíso,5,6,Daniel Garrido,Apruebo Dignidad,FRVS-IND,0
+151,Valparaíso,5,6,Paula Freire,Apruebo Dignidad,FRVS-IND,1
+152,Valparaíso,5,6,Roberto Parra,Apruebo Dignidad,RD-IND,0
+153,Valparaíso,5,6,Alejandra Toledo,Apruebo Dignidad,RD,1
+103,Valparaíso,5,6,Alejandro Godoy,Decisión Ciudadana,IND,0
+104,Valparaíso,5,6,Carlos Alarcón,Decisión Ciudadana,IND,0
+105,Valparaíso,5,6,Carmen Aguilera,Decisión Ciudadana,IND,1
+106,Valparaíso,5,6,Eliam Chávez,Decisión Ciudadana,IND,0
+107,Valparaíso,5,6,Gloria Morales,Decisión Ciudadana,IND,1
+108,Valparaíso,5,6,Gonzalo Araya,Decisión Ciudadana,IND,0
+109,Valparaíso,5,6,Katherine Alarcón,Decisión Ciudadana,IND,1
+110,Valparaíso,5,6,Nancy Camus,Decisión Ciudadana,IND,1
+111,Valparaíso,5,6,Alexandra Pérez Cepeda,del Pueblo,IND,1
+112,Valparaíso,5,6,Alexis García Olivares,del Pueblo,IND,0
+113,Valparaíso,5,6,Corina Silva Figueroa,del Pueblo,IND,1
+114,Valparaíso,5,6,Cristóbal Andrade,del Pueblo,IND,0
+115,Valparaíso,5,6,Lisette Vergara R.,del Pueblo,IND,1
+116,Valparaíso,5,6,Lorena Vicencio,del Pueblo,IND,1
+117,Valparaíso,5,6,Manuel Gatica,del Pueblo,IND,0
+118,Valparaíso,5,6,Rubén Miranda,del Pueblo,IND,0
+119,Valparaíso,5,6,Valeria Retamales,del Pueblo,IND,1
+625,Valparaíso,5,6,Waleska Castillo,Lista del Apruebo,DC,1
+626,Valparaíso,5,6,Jorge Correa,Lista del Apruebo,DC,0
+627,Valparaíso,5,6,Claudia Espinoza,Lista del Apruebo,PS,1
+628,Valparaíso,5,6,Rolando Garrido,Lista del Apruebo,PL-IND,0
+629,Valparaíso,5,6,Maricel Martinez,Lista del Apruebo,PPD,1
+630,Valparaíso,5,6,Claudio Gomez,Lista del Apruebo,IND,0
+631,Valparaíso,5,6,Erika Matte,Lista del Apruebo,PR,1
+632,Valparaíso,5,6,Carlos Ominami,Lista del Apruebo,PRO-IND,0
+633,Valparaíso,5,6,Scarlett Valdes,Lista del Apruebo,PL,1
+120,Valparaíso,5,6,Daniela Albornoz,Mov. Sociales Independientes,IND,1
+121,Valparaíso,5,6,Hernán Ramírez,Mov. Sociales Independientes,IND,0
+122,Valparaíso,5,6,Janis Meneses,Mov. Sociales Independientes,IND,1
+123,Valparaíso,5,6,Mathías Martínez,Mov. Sociales Independientes,IND,0
+124,Valparaíso,5,6,Miguel Espinoza,Mov. Sociales Independientes,IND,0
+125,Valparaíso,5,6,Mirna Humeres,Mov. Sociales Independientes,IND,1
+126,Valparaíso,5,6,Natalia Zapata,Mov. Sociales Independientes,IND,1
+127,Valparaíso,5,6,Romina López,Mov. Sociales Independientes,IND,1
+128,Valparaíso,5,6,Rubén Pérez,Mov. Sociales Independientes,IND,0
+129,Valparaíso,5,6,Andrea Alfaro Lay,No Neutrales,IND,1
+130,Valparaíso,5,6,Daniela Aldoney,No Neutrales,IND,1
+131,Valparaíso,5,6,Juan Fernández O.,No Neutrales,IND,0
+132,Valparaíso,5,6,Miguel Á. Botto,No Neutrales,IND,0
+133,Valparaíso,5,6,Ramiro González F.,No Neutrales,IND,0
+134,Valparaíso,5,6,Ricardo Trigo Ulloa,No Neutrales,IND,0
+135,Valparaíso,5,6,Rocío Veas Solís,No Neutrales,IND,1
+136,Valparaíso,5,6,Carolina Contreras ,Vamos por Chile,EVO,0
+137,Valparaíso,5,6,José Antonio Valenzuela,Vamos por Chile,EVO-IND,0
+138,Valparaíso,5,6,Chiara Barchiesi,Vamos por Chile,REP,1
+139,Valparaíso,5,6,María de los Ángeles López,Vamos por Chile,REP,1
+140,Valparaíso,5,6,Francisca Desbordes,Vamos por Chile,RN,1
+141,Valparaíso,5,6,Juan Luis Tobar,Vamos por Chile,RN,0
+142,Valparaíso,5,6,Ruggero Cozzi,Vamos por Chile,RN-IND,0
+143,Valparaíso,5,6,Erica Muñoz,Vamos por Chile,UDI,1
+144,Valparaíso,5,6,Robert Knopp,Vamos por Chile,UDI-IND,0
+205,Valparaíso,5,7,Constanza Valdés,Apruebo Dignidad,COM,1
+206,Valparaíso,5,7,Jaime Bassa,Apruebo Dignidad,CS-IND,0
+207,Valparaíso,5,7,Constanza González,Apruebo Dignidad,PC-IND,1
+208,Valparaíso,5,7,Luis Cuello,Apruebo Dignidad,PC,0
+209,Valparaíso,5,7,María José Oyarzún,Apruebo Dignidad,RD,1
+210,Valparaíso,5,7,Cristian Bellei,Apruebo Dignidad,RD-IND,0
+211,Valparaíso,5,7,Gianina Figueroa,Apruebo Dignidad,FRVS-IND,1
+212,Valparaíso,5,7,Manuel Lanas,Apruebo Dignidad,FRVS-IND,0
+154,Valparaíso,5,7,Camila Zárate,del Pueblo,IND,1
+155,Valparaíso,5,7,Francisco Silva,del Pueblo,IND,0
+156,Valparaíso,5,7,Isaías Rojas,del Pueblo,IND,0
+157,Valparaíso,5,7,Pablo Donoso,del Pueblo,IND,0
+158,Valparaíso,5,7,Pamela Vivanco,del Pueblo,IND,1
+159,Valparaíso,5,7,Sonia Cáceres,del Pueblo,IND,1
+160,Valparaíso,5,7,Tania Madriaga,del Pueblo,IND,1
+161,Valparaíso,5,7,Tomás Lagomarsino,del Pueblo,IND,0
+162,Valparaíso,5,7,Bernardita Arqueros,Felices sin Partido,IND,1
+163,Valparaíso,5,7,Carla Allendes,Felices sin Partido,IND,1
+164,Valparaíso,5,7,Cecilia Lizama,Felices sin Partido,IND,1
+165,Valparaíso,5,7,Johan Pizarro,Felices sin Partido,IND,0
+166,Valparaíso,5,7,Luis Rojas,Felices sin Partido,IND,0
+167,Valparaíso,5,7,María Palominos,Felices sin Partido,IND,1
+168,Valparaíso,5,7,Ricardo Bonilla,Felices sin Partido,IND,0
+169,Valparaíso,5,7,Sebastián Olavarría,Felices sin Partido,IND,0
+170,Valparaíso,5,7,Barbarita Lara,Ind. por una Nueva Const.,IND,1
+171,Valparaíso,5,7,Carolina Torrejón,Ind. por una Nueva Const.,IND,1
+172,Valparaíso,5,7,Cecilia Echeñique,Ind. por una Nueva Const.,IND,1
+173,Valparaíso,5,7,Iván Zamora,Ind. por una Nueva Const.,IND,0
+174,Valparaíso,5,7,Patricio Young,Ind. por una Nueva Const.,IND,0
+175,Valparaíso,5,7,Roberto Torres,Ind. por una Nueva Const.,IND,0
+176,Valparaíso,5,7,Rodolfo Cornejo,Ind. por una Nueva Const.,IND,0
+177,Valparaíso,5,7,Sofía Bustos,Ind. por una Nueva Const.,IND,1
+634,Valparaíso,5,7,Paz Anastasiadis,Lista del Apruebo,DC,1
+635,Valparaíso,5,7,Raul Burgos,Lista del Apruebo,IND,0
+636,Valparaíso,5,7,Paula Gutierrez,Lista del Apruebo,PS,1
+637,Valparaíso,5,7,Pedro Cayuqueo,Lista del Apruebo,PS-IND,0
+638,Valparaíso,5,7,Paola Tapia,Lista del Apruebo,IND,1
+639,Valparaíso,5,7,Pablo Santander,Lista del Apruebo,PPD,0
+640,Valparaíso,5,7,Alejandra Zuñiga,Lista del Apruebo,PL-IND,1
+641,Valparaíso,5,7,Agustin Squella,Lista del Apruebo,PL-IND,0
+780,Valparaíso,5,7,Aurora Galleguillos,Pacto Social,IND,1
+781,Valparaíso,5,7,Rubén Parra,Pacto Social,IND,0
+782,Valparaíso,5,7,Alexandra Ramírez,Pacto Social,IND,1
+783,Valparaíso,5,7,Isidro Rodríguez,Pacto Social,IND,0
+784,Valparaíso,5,7,Josefina Rodríguez,Pacto Social,IND,1
+785,Valparaíso,5,7,Guisela Uribe,Pacto Social,IND,1
+786,Valparaíso,5,7,Diego Vidal,Pacto Social,IND,0
+178,Valparaíso,5,7,Alberto Ormeño,Poder Constituyente,IND,0
+179,Valparaíso,5,7,Daniel Chamorro,Poder Constituyente,IND,0
+180,Valparaíso,5,7,Dann Espinoza,Poder Constituyente,IND,0
+181,Valparaíso,5,7,Geraldine Chávez,Poder Constituyente,IND,1
+182,Valparaíso,5,7,María T. Olivera,Poder Constituyente,IND,1
+183,Valparaíso,5,7,Natalia Corrales,Poder Constituyente,IND,1
+184,Valparaíso,5,7,Patricia Brito,Poder Constituyente,IND,1
+185,Valparaíso,5,7,Rodrigo López,Poder Constituyente,IND,0
+186,Valparaíso,5,7,Tamaru Huke,Rapa Nui,IND,0
+187,Valparaíso,5,7,Tiare Aguilera,Rapa Nui,IND,1
+188,Valparaíso,5,7,Valeria Pakarati,Rapa Nui,IND,1
+189,Valparaíso,5,7,Bárbara Córdova,Soberanía Ciudadana,IND,1
+190,Valparaíso,5,7,Danixa Becerra,Soberanía Ciudadana,IND,1
+191,Valparaíso,5,7,Francisco Vergara,Soberanía Ciudadana,IND,0
+192,Valparaíso,5,7,Julio Prischt,Soberanía Ciudadana,IND,0
+193,Valparaíso,5,7,Leonardo Latorre,Soberanía Ciudadana,IND,0
+194,Valparaíso,5,7,Miguel Á. Espinoza,Soberanía Ciudadana,IND,0
+195,Valparaíso,5,7,Patricia Torres,Soberanía Ciudadana,IND,1
+196,Valparaíso,5,7,Romina Améstica,Soberanía Ciudadana,IND,1
+197,Valparaíso,5,7,Marlene Aroca,Vamos por Chile,EVO,1
+198,Valparaíso,5,7,Hotuiti Teao,Vamos por Chile,EVO-IND,0
+199,Valparaíso,5,7,Raúl Celis Montt,Vamos por Chile,RN,0
+200,Valparaíso,5,7,Tania Córdova Castro,Vamos por Chile,RN,1
+201,Valparaíso,5,7,Jeanette Bruna Jara,Vamos por Chile,RN-IND,1
+202,Valparaíso,5,7,Macarena Urenda,Vamos por Chile,UDI,1
+203,Valparaíso,5,7,Jorge Arancibia,Vamos por Chile,UDI-IND,0
+204,Valparaíso,5,7,Juan Pablo Rodríguez,Vamos por Chile,UDI-IND,0
+223,Metropolitana,5.5,8,Doris González,Apruebo Dignidad,COM-IND,1
+224,Metropolitana,5.5,8,Rene Naranjo,Apruebo Dignidad,COM-IND,0
+225,Metropolitana,5.5,8,Valentina Miranda,Apruebo Dignidad,PC,1
+226,Metropolitana,5.5,8,Juan Andrés Lagos,Apruebo Dignidad,PC,0
+227,Metropolitana,5.5,8,Paty López,Apruebo Dignidad,FRVS-IND,1
+228,Metropolitana,5.5,8,Andrés Giordano,Apruebo Dignidad,FRVS-IND,0
+229,Metropolitana,5.5,8,Tatiana Urrutia,Apruebo Dignidad,RD,1
+230,Metropolitana,5.5,8,Daniel Stingo,Apruebo Dignidad,RD-IND,0
+844,Metropolitana,5.5,8,Palomba Albarracín,del Pueblo,IND,1
+845,Metropolitana,5.5,8,Karen Orellana,del Pueblo,IND,1
+846,Metropolitana,5.5,8,Daniel Trujillo,del Pueblo,IND,0
+847,Metropolitana,5.5,8,Claudia Figueroa,del Pueblo,IND,1
+848,Metropolitana,5.5,8,Gerardo Iturra,del Pueblo,IND,0
+849,Metropolitana,5.5,8,Pablo Cruz,del Pueblo,IND,0
+850,Metropolitana,5.5,8,Marco Arellano,del Pueblo,IND,0
+851,Metropolitana,5.5,8,María Rivera,del Pueblo,IND,1
+642,Metropolitana,5.5,8,Bessy Gallardo,Lista del Apruebo,PRO-IND,1
+643,Metropolitana,5.5,8,Cesar Barrera,Lista del Apruebo,PRO-IND,0
+644,Metropolitana,5.5,8,Carolina Garrido,Lista del Apruebo,PS,1
+645,Metropolitana,5.5,8,Rene Cortazar,Lista del Apruebo,DC,0
+646,Metropolitana,5.5,8,Veronica Undurraga,Lista del Apruebo,IND,1
+647,Metropolitana,5.5,8,Francisco Reyes,Lista del Apruebo,IND,0
+648,Metropolitana,5.5,8,Cecilia Valdes,Lista del Apruebo,DC,1
+649,Metropolitana,5.5,8,Jaime Troncoso,Lista del Apruebo,PS,0
+213,Metropolitana,5.5,8,Alihuen Antileo,Mapuche,IND,0
+214,Metropolitana,5.5,8,Elisa Loncon,Mapuche,IND,0
+215,Metropolitana,5.5,8,Macarena Cornejo,Vamos por Chile,EVO,1
+216,Metropolitana,5.5,8,Bernardo de la Maza,Vamos por Chile,EVO-IND,0
+217,Metropolitana,5.5,8,Andrea Ojeda,Vamos por Chile,RN,1
+218,Metropolitana,5.5,8,Tomás Guevara,Vamos por Chile,RN,0
+219,Metropolitana,5.5,8,Francisco Moreno,Vamos por Chile,UDI,0
+220,Metropolitana,5.5,8,Kathy Medel,Vamos por Chile,UDI,1
+221,Metropolitana,5.5,8,Macarena Bravo,Vamos por Chile,UDI,1
+222,Metropolitana,5.5,8,Miguelo Esbir,Vamos por Chile,UDI-IND,0
+245,Metropolitana,5.5,9,Luz Vidal,Apruebo Dignidad,RD,1
+246,Metropolitana,5.5,9,Gonzalo Bacigalupe,Apruebo Dignidad,FRVS-IND,0
+247,Metropolitana,5.5,9,Haydee Oberreuter,Apruebo Dignidad,FRVS-IND,1
+248,Metropolitana,5.5,9,Rodrigo Mallea,Apruebo Dignidad,CS,0
+249,Metropolitana,5.5,9,Michelle Petaut,Apruebo Dignidad,CS-IND,1
+250,Metropolitana,5.5,9,Erick Campos,Apruebo Dignidad,PC,0
+251,Metropolitana,5.5,9,Bárbara Sepulveda,Apruebo Dignidad,PC,1
+852,Metropolitana,5.5,9,Alejandra Pérez,del Pueblo,IND,1
+853,Metropolitana,5.5,9,Patricio Cáceres,del Pueblo,IND,0
+854,Metropolitana,5.5,9,Natalia Henríquez,del Pueblo,IND,1
+855,Metropolitana,5.5,9,Matías Roa,del Pueblo,IND,0
+856,Metropolitana,5.5,9,Gloria Pinto,del Pueblo,IND,1
+857,Metropolitana,5.5,9,Marlene Soto,del Pueblo,IND,1
+231,Metropolitana,5.5,9,Andrés Lillo,Felices e Independientes,IND,0
+232,Metropolitana,5.5,9,Domingo Guerrero,Felices e Independientes,IND,0
+233,Metropolitana,5.5,9,Eduardo Magaña,Felices e Independientes,IND,0
+234,Metropolitana,5.5,9,Macarena Pacheco,Felices e Independientes,IND,1
+235,Metropolitana,5.5,9,Mariel San Martin,Felices e Independientes,IND,1
+236,Metropolitana,5.5,9,Rocío Macari,Felices e Independientes,IND,1
+237,Metropolitana,5.5,9,Roxana Azocar,Felices e Independientes,IND,1
+650,Metropolitana,5.5,9,Millarai Abelleira,Lista del Apruebo,IND,1
+651,Metropolitana,5.5,9,Jorge Cash,Lista del Apruebo,DC,0
+652,Metropolitana,5.5,9,Alejandra Acevedo,Lista del Apruebo,PRO-IND,1
+653,Metropolitana,5.5,9,Santiago Escobar,Lista del Apruebo,IND,0
+654,Metropolitana,5.5,9,Galit Agosin,Lista del Apruebo,PPD-IND,0
+655,Metropolitana,5.5,9,Cesar Valenzuela,Lista del Apruebo,PS,0
+656,Metropolitana,5.5,9,Fernanda Martin,Lista del Apruebo,IND,1
+238,Metropolitana,5.5,9,Duilio de Lapeyra,Vamos por Chile,EVO-IND,0
+239,Metropolitana,5.5,9,Fran Ayala,Vamos por Chile,EVO-IND,1
+240,Metropolitana,5.5,9,Felipe Obal,Vamos por Chile,RN,0
+241,Metropolitana,5.5,9,Ruth Olivera,Vamos por Chile,RN-IND,1
+242,Metropolitana,5.5,9,Arturo Zuñiga,Vamos por Chile,UDI,0
+243,Metropolitana,5.5,9,Sol Letelier,Vamos por Chile,UDI,1
+244,Metropolitana,5.5,9,Yuyuniz Navas,Vamos por Chile,UDI,1
+276,Metropolitana,5.5,10,Alejandra Jiménez,Apruebo Dignidad,PC,1
+277,Metropolitana,5.5,10,Fernando Atria,Apruebo Dignidad,RD-IND,0
+278,Metropolitana,5.5,10,Giovanna Roa,Apruebo Dignidad,RD,1
+279,Metropolitana,5.5,10,Pablo Selles,Apruebo Dignidad,CS,0
+280,Metropolitana,5.5,10,Antonia Orellana,Apruebo Dignidad,CS,1
+281,Metropolitana,5.5,10,Rafael Harvey,Apruebo Dignidad,FRVS-IND,0
+282,Metropolitana,5.5,10,Emilia Schneider,Apruebo Dignidad,COM,1
+283,Metropolitana,5.5,10,Carlos Ruiz,Apruebo Dignidad,COM-IND,0
+858,Metropolitana,5.5,10,Carlos Vega,del Pueblo,IND,0
+859,Metropolitana,5.5,10,Lonko Juanita Millal,del Pueblo,IND,1
+860,Metropolitana,5.5,10,Patricia Navarrete,del Pueblo,IND,1
+861,Metropolitana,5.5,10,Daniel Martínez,del Pueblo,IND,0
+862,Metropolitana,5.5,10,Andrés Saldías,del Pueblo,IND,0
+863,Metropolitana,5.5,10,Alexis Garrido,del Pueblo,IND,0
+864,Metropolitana,5.5,10,Manuel Woldarsky,del Pueblo,IND,0
+865,Metropolitana,5.5,10,Verónica Guzmán,del Pueblo,IND,1
+657,Metropolitana,5.5,10,Laura Albornoz,Lista del Apruebo,DC,1
+658,Metropolitana,5.5,10,Jorge Baradit,Lista del Apruebo,PS-IND,0
+659,Metropolitana,5.5,10,Catalina Lagos,Lista del Apruebo,PS,1
+660,Metropolitana,5.5,10,Darwin Loreto,Lista del Apruebo,PL-IND,0
+661,Metropolitana,5.5,10,Lucia Lopez,Lista del Apruebo,PPD-IND,1
+662,Metropolitana,5.5,10,Jose Parada,Lista del Apruebo,DC-IND,0
+663,Metropolitana,5.5,10,Carolina Parraguez,Lista del Apruebo,PL-IND,1
+664,Metropolitana,5.5,10,Patricio Zapata,Lista del Apruebo,DC,0
+252,Metropolitana,5.5,10,Andrea Gutiérrez,Mov. Sociales: Unidad de Ind.,IND,0
+253,Metropolitana,5.5,10,Francisca Fernández,Mov. Sociales: Unidad de Ind.,IND,1
+254,Metropolitana,5.5,10,Javier Pineda,Mov. Sociales: Unidad de Ind.,IND,0
+255,Metropolitana,5.5,10,Karina Nohales,Mov. Sociales: Unidad de Ind.,IND,1
+256,Metropolitana,5.5,10,Luis Mesina,Mov. Sociales: Unidad de Ind.,IND,0
+257,Metropolitana,5.5,10,Manuel Hidalgo,Mov. Sociales: Unidad de Ind.,IND,0
+258,Metropolitana,5.5,10,Pablo Sepúlveda,Mov. Sociales: Unidad de Ind.,IND,0
+259,Metropolitana,5.5,10,Pía Meza,Mov. Sociales: Unidad de Ind.,IND,1
+260,Metropolitana,5.5,10,Andrés Pérez,Podemos Cambiar Chile,IND,0
+261,Metropolitana,5.5,10,Carolina Arenas,Podemos Cambiar Chile,IND,1
+262,Metropolitana,5.5,10,Gabriel Gurovic,Podemos Cambiar Chile,IND,0
+263,Metropolitana,5.5,10,José Andrés Murillo,Podemos Cambiar Chile,IND,0
+264,Metropolitana,5.5,10,Macarena Lobos,Podemos Cambiar Chile,IND,1
+265,Metropolitana,5.5,10,Pablo Morris,Podemos Cambiar Chile,IND,0
+266,Metropolitana,5.5,10,Patricia Politzer,Podemos Cambiar Chile,IND,1
+267,Metropolitana,5.5,10,Roxana Espinoza,Podemos Cambiar Chile,IND,1
+268,Metropolitana,5.5,10,Gonzalo Blumel,Vamos por Chile,EVO,0
+269,Metropolitana,5.5,10,Paulina Lobos,Vamos por Chile,EVO,1
+270,Metropolitana,5.5,10,Teresa Marinovic,Vamos por Chile,REP-IND,1
+271,Metropolitana,5.5,10,Cristián Monckeberg,Vamos por Chile,RN,0
+272,Metropolitana,5.5,10,Sylvia Eyzaguirre,Vamos por Chile,RN-IND,1
+273,Metropolitana,5.5,10,Diego Riveaux Marcet,Vamos por Chile,UDI,0
+274,Metropolitana,5.5,10,Jaime Flores,Vamos por Chile,UDI-IND,0
+275,Metropolitana,5.5,10,Macarena Letelier,Vamos por Chile,UDI-IND,1
+306,Metropolitana,5.5,11,Constanza Schonhaut,Apruebo Dignidad,CS,1
+307,Metropolitana,5.5,11,Juan Vera,Apruebo Dignidad,FRVS-IND,0
+308,Metropolitana,5.5,11,Carolina Pérez,Apruebo Dignidad,RD,1
+309,Metropolitana,5.5,11,Mauricio Pesutic,Apruebo Dignidad,PC-IND,0
+310,Metropolitana,5.5,11,Natalia Garrido,Apruebo Dignidad,PI-IND,1
+311,Metropolitana,5.5,11,Diego Mardones,Apruebo Dignidad,PI-IND,0
+312,Metropolitana,5.5,11,Javiera Toro,Apruebo Dignidad,COM,1
+866,Metropolitana,5.5,11,María Soledad Mella,del Pueblo,IND,1
+867,Metropolitana,5.5,11,Juan Baeza,del Pueblo,IND,0
+868,Metropolitana,5.5,11,Sonia Ulloa,del Pueblo,IND,1
+869,Metropolitana,5.5,11,Amante Parraguez,del Pueblo,IND,0
+870,Metropolitana,5.5,11,Nicolás Romero,del Pueblo,IND,0
+871,Metropolitana,5.5,11,Daniela King,del Pueblo,IND,1
+872,Metropolitana,5.5,11,Carolina Cifuentes,del Pueblo,IND,1
+284,Metropolitana,5.5,11,Diego Bravo,Independiente,IND,0
+285,Metropolitana,5.5,11,Henry Boys,Independiente,IND,0
+286,Metropolitana,5.5,11,Mariana Aylwin,Independientes por Chile,IND,0
+287,Metropolitana,5.5,11,Clemente Pérez,Independientes por Chile,IND,1
+288,Metropolitana,5.5,11,Pilar Peña,Independientes por Chile,IND,0
+289,Metropolitana,5.5,11,Manuel Inostroza,Independientes por Chile,IND,1
+290,Metropolitana,5.5,11,Tomás Recart,Independientes por Chile,IND,0
+291,Metropolitana,5.5,11,Cristina Bastidas,Independientes por Chile,IND,0
+292,Metropolitana,5.5,11,Jorge de la Carrera,Independientes por Chile,IND,1
+665,Metropolitana,5.5,11,Sara Ruiz,Lista del Apruebo,PPD-IND,1
+666,Metropolitana,5.5,11,Cristobal Bellolio,Lista del Apruebo,CIU-IND,0
+667,Metropolitana,5.5,11,Paola Berlin,Lista del Apruebo,CIU-IND,1
+668,Metropolitana,5.5,11,Patricio Fernandez,Lista del Apruebo,PL-IND,0
+669,Metropolitana,5.5,11,Maria Jose Cumplido,Lista del Apruebo,PL,1
+670,Metropolitana,5.5,11,Juan Enrique Pi,Lista del Apruebo,DC,0
+671,Metropolitana,5.5,11,Elisa Walker,Lista del Apruebo,DC,1
+293,Metropolitana,5.5,11,Alejandra Sepúlveda,No Neutrales,IND,1
+294,Metropolitana,5.5,11,Carola Fredes,No Neutrales,IND,1
+295,Metropolitana,5.5,11,Claudio Guzmán,No Neutrales,IND,0
+296,Metropolitana,5.5,11,Felipe Vera,No Neutrales,IND,0
+297,Metropolitana,5.5,11,Milán Ivelic,No Neutrales,IND,0
+298,Metropolitana,5.5,11,Pablo Carrasco,No Neutrales,IND,0
+299,Metropolitana,5.5,11,Hernán Larraín Matte,Vamos por Chile,EVO,0
+300,Metropolitana,5.5,11,Pauline Kantor Pupkin,Vamos por Chile,EVO,1
+301,Metropolitana,5.5,11,Verónica Campino,Vamos por Chile,RN,1
+302,Metropolitana,5.5,11,Andrés Carey Carvallo,Vamos por Chile,RN-IND,0
+303,Metropolitana,5.5,11,Bernardo Fontaine Talavera,Vamos por Chile,RN-IND,0
+304,Metropolitana,5.5,11,Coni Hube,Vamos por Chile,UDI,1
+305,Metropolitana,5.5,11,Marcela Cubillos,Vamos por Chile,UDI-IND,1
+328,Metropolitana,5.5,12,Beatriz Sánchez,Apruebo Dignidad,RD-IND,1
+329,Metropolitana,5.5,12,Leonardo Parraguez,Apruebo Dignidad,RD,0
+330,Metropolitana,5.5,12,Bárbara Figueroa,Apruebo Dignidad,PC,1
+331,Metropolitana,5.5,12,Bastian Bodenhoffer,Apruebo Dignidad,PC-IND,0
+332,Metropolitana,5.5,12,Paola Villegas,Apruebo Dignidad,FRVS-IND,1
+333,Metropolitana,5.5,12,César Pizarro,Apruebo Dignidad,PI-IND,0
+334,Metropolitana,5.5,12,Marcela Mella,Apruebo Dignidad,PI-IND,1
+873,Metropolitana,5.5,12,Giovanna Grandón,del Pueblo,IND,1
+874,Metropolitana,5.5,12,Diego Infante,del Pueblo,IND,0
+875,Metropolitana,5.5,12,Tamara Avello,del Pueblo,IND,1
+876,Metropolitana,5.5,12,Rafael Sotomayor,del Pueblo,IND,0
+877,Metropolitana,5.5,12,Camila Cartes,del Pueblo,IND,1
+878,Metropolitana,5.5,12,Alex Flores,del Pueblo,IND,0
+313,Metropolitana,5.5,12,Isabel Ñanco,Feliz Democracia,IND,0
+314,Metropolitana,5.5,12,Juan P. Huitraiqueo,Feliz Democracia,IND,0
+315,Metropolitana,5.5,12,Karla Jara,Feliz Democracia,IND,1
+316,Metropolitana,5.5,12,Luis Ponce,Feliz Democracia,IND,0
+317,Metropolitana,5.5,12,Náyade Moraga,Feliz Democracia,IND,1
+318,Metropolitana,5.5,12,Nolberto Acevedo,Feliz Democracia,IND,0
+319,Metropolitana,5.5,12,Paola Contreras,Feliz Democracia,IND,1
+672,Metropolitana,5.5,12,Paulina Muñoz,Lista del Apruebo,PL-IND,1
+673,Metropolitana,5.5,12,Guillermo Larrain,Lista del Apruebo,DC,0
+674,Metropolitana,5.5,12,Pia Castelli,Lista del Apruebo,PPD,1
+675,Metropolitana,5.5,12,Christian Muñoz,Lista del Apruebo,PR,0
+676,Metropolitana,5.5,12,Romanina Morales,Lista del Apruebo,PS,1
+677,Metropolitana,5.5,12,Rodrigo Rettig,Lista del Apruebo,CIU,0
+678,Metropolitana,5.5,12,Carola Naranjo,Lista del Apruebo,PRO-IND,1
+320,Metropolitana,5.5,12,Camilo Pereira,Mapuche,IND,0
+321,Metropolitana,5.5,12,Macarena Venegas,Vamos por Chile,EVO,1
+322,Metropolitana,5.5,12,Shai Agosin,Vamos por Chile,EVO,0
+323,Metropolitana,5.5,12,Bernardita Paul Ossandón,Vamos por Chile,RN,1
+324,Metropolitana,5.5,12,Manuel José Ossandón Lira,Vamos por Chile,RN,0
+325,Metropolitana,5.5,12,Carol Espinaza,Vamos por Chile,RN-IND,1
+326,Metropolitana,5.5,12,Marcelo Alonso,Vamos por Chile,UDI,0
+327,Metropolitana,5.5,12,María Luisa Cordero ,Vamos por Chile,UDI-IND,1
+341,Metropolitana,5.5,13,Natalia Aravena,Apruebo Dignidad,CS,1
+342,Metropolitana,5.5,13,Marcos Barraza,Apruebo Dignidad,PC,0
+343,Metropolitana,5.5,13,Adriana Barrientos,Apruebo Dignidad,FRVS-IND,1
+344,Metropolitana,5.5,13,Mirko Jimenez,Apruebo Dignidad,PI-IND,0
+345,Metropolitana,5.5,13,Libertad Méndez,Apruebo Dignidad,COM,1
+346,Metropolitana,5.5,13,Daniel Andrade,Apruebo Dignidad,RD,0
+879,Metropolitana,5.5,13,Marcela Sarmiento,del Pueblo,IND,1
+880,Metropolitana,5.5,13,Rodrigo Rojas,del Pueblo,IND,0
+881,Metropolitana,5.5,13,Ingrid Villena,del Pueblo,IND,1
+882,Metropolitana,5.5,13,Jesús Colque,del Pueblo,IND,0
+883,Metropolitana,5.5,13,Andrés Cuevas,del Pueblo,IND,0
+884,Metropolitana,5.5,13,Camila Torres,del Pueblo,IND,1
+679,Metropolitana,5.5,13,Francisca Cabrera,Lista del Apruebo,PRO-IND,1
+680,Metropolitana,5.5,13,Nicolas Freire,Lista del Apruebo,PL-IND,0
+681,Metropolitana,5.5,13,Malucha Pinto,Lista del Apruebo,PS,1
+682,Metropolitana,5.5,13,Jorge Insunza,Lista del Apruebo,PPD,0
+683,Metropolitana,5.5,13,Valeria Villegas,Lista del Apruebo,PR,1
+684,Metropolitana,5.5,13,Rodolfo Seguel,Lista del Apruebo,DC,0
+335,Metropolitana,5.5,13,Carolina García,Vamos por Chile,EVO,0
+336,Metropolitana,5.5,13,Alejandro Pollo Fernández,Vamos por Chile,EVO-IND,0
+337,Metropolitana,5.5,13,Luis Alejandro Silva,Vamos por Chile,REP,0
+338,Metropolitana,5.5,13,Matías Poblete,Vamos por Chile,REP-IND,0
+339,Metropolitana,5.5,13,Susana  Hiplán,Vamos por Chile,RN,1
+340,Metropolitana,5.5,13,Eleonor Espinoza,Vamos por Chile,RN-IND,1
+360,Metropolitana,5.5,14,Sandra Saavedra,Apruebo Dignidad,PC,1
+361,Metropolitana,5.5,14,Ignacio Achurra,Apruebo Dignidad,CS-IND,0
+362,Metropolitana,5.5,14,Camila Musante,Apruebo Dignidad,RD-IND,1
+363,Metropolitana,5.5,14,Carlos Poblete,Apruebo Dignidad,PI-IND,0
+364,Metropolitana,5.5,14,Camila Navarro,Apruebo Dignidad,FRVS-IND,1
+365,Metropolitana,5.5,14,Sebastián Aylwin,Apruebo Dignidad,COM,0
+885,Metropolitana,5.5,14,Carolina Lassalle,del Pueblo,IND,1
+886,Metropolitana,5.5,14,Josefa Faúndez,del Pueblo,IND,1
+887,Metropolitana,5.5,14,Claudia Acevedo,del Pueblo,IND,1
+888,Metropolitana,5.5,14,Rodrigo Urzúa,del Pueblo,IND,0
+889,Metropolitana,5.5,14,Alan González,del Pueblo,IND,0
+890,Metropolitana,5.5,14,Francisco Caamaño,del Pueblo,IND,0
+347,Metropolitana,5.5,14,Rogelio Urbina,Independiente,IND,0
+348,Metropolitana,5.5,14,Claudia Leiva,Independientes Transparentes,IND,1
+349,Metropolitana,5.5,14,Claudio Farías,Independientes Transparentes,IND,0
+350,Metropolitana,5.5,14,Constanza Toro,Independientes Transparentes,IND,1
+351,Metropolitana,5.5,14,Luis Patricio Valdés,Independientes Transparentes,IND,0
+352,Metropolitana,5.5,14,Ramiro Iturra,Independientes Transparentes,IND,0
+353,Metropolitana,5.5,14,Teresa Armijo,Independientes Transparentes,IND,1
+685,Metropolitana,5.5,14,Maria Becerra,Lista del Apruebo,PS,1
+686,Metropolitana,5.5,14,Diego Calderon,Lista del Apruebo,DC,0
+687,Metropolitana,5.5,14,Camila Briceño,Lista del Apruebo,DC,1
+688,Metropolitana,5.5,14,Renato Garin,Lista del Apruebo,PR-IND,0
+689,Metropolitana,5.5,14,Denisse Martel,Lista del Apruebo,IND,1
+690,Metropolitana,5.5,14,Juan Moreno,Lista del Apruebo,PS,0
+354,Metropolitana,5.5,14,Andrea Iñiguez,Vamos por Chile,REP,1
+355,Metropolitana,5.5,14,Cristóbal Orrego,Vamos por Chile,REP,0
+356,Metropolitana,5.5,14,Karina Torres,Vamos por Chile,RN,1
+357,Metropolitana,5.5,14,Enrique Campino,Vamos por Chile,RN-IND,0
+358,Metropolitana,5.5,14,Claudia Castro,Vamos por Chile,UDI,1
+359,Metropolitana,5.5,14,Jaime Coloma,Vamos por Chile,UDI,0
+372,O'Higgins,6,15,Marta Molina,Apruebo Dignidad,FRVS,1
+373,O'Higgins,6,15,Diego Bustamante,Apruebo Dignidad,FRVS,0
+374,O'Higgins,6,15,Damaris Abarca,Apruebo Dignidad,COM,1
+375,O'Higgins,6,15,Nolberto Zuñiga,Apruebo Dignidad,CS,0
+376,O'Higgins,6,15,Ana Martínez,Apruebo Dignidad,RD,1
+377,O'Higgins,6,15,Fabián Rodríguez,Apruebo Dignidad,PC,0
+891,O'Higgins,6,15,Loreto Vallejos,del Pueblo,IND,1
+892,O'Higgins,6,15,Enrique López,del Pueblo,IND,0
+893,O'Higgins,6,15,Sebastián Tobar,del Pueblo,IND,0
+894,O'Higgins,6,15,Arturo Saldes,del Pueblo,IND,0
+895,O'Higgins,6,15,Solange Ortíz,del Pueblo,IND,1
+691,O'Higgins,6,15,Alicia Barrera,Lista del Apruebo,PPD,1
+692,O'Higgins,6,15,Matias Orellana,Lista del Apruebo,PS,0
+693,O'Higgins,6,15,Carmen Nogueira,Lista del Apruebo,PS,1
+694,O'Higgins,6,15,Mario Quijada,Lista del Apruebo,DC,0
+695,O'Higgins,6,15,Javiera Saldaña,Lista del Apruebo,DC,1
+696,O'Higgins,6,15,Jose Ramirez,Lista del Apruebo,PPD,0
+366,O'Higgins,6,15,Dionisio de la Cerda,Vamos por Chile,EVO,0
+367,O'Higgins,6,15,Sandra Cabezas,Vamos por Chile,RN,1
+368,O'Higgins,6,15,Federico Iglesias Muñoz,Vamos por Chile,RN-IND,0
+369,O'Higgins,6,15,Carol Bown,Vamos por Chile,UDI,1
+370,O'Higgins,6,15,Felipe García Huidobro,Vamos por Chile,UDI,0
+371,O'Higgins,6,15,Mariana Martínez Anich,Vamos por Chile,UDI-IND,1
+390,O'Higgins,6,16,Ximena Manil,Apruebo Dignidad,RD,1
+391,O'Higgins,6,16,Rodrigo Córdoba,Apruebo Dignidad,PC,0
+392,O'Higgins,6,16,Gisela Tapia,Apruebo Dignidad,FRVS,1
+393,O'Higgins,6,16,Nicolás Nuñez,Apruebo Dignidad,FRVS,0
+394,O'Higgins,6,16,Adriana Bastías,Apruebo Dignidad,COM,1
+395,O'Higgins,6,16,Leonardo Caris,Apruebo Dignidad,CS,0
+378,O'Higgins,6,16,Cadudzzi Salas,Corrientes Independientes,IND,1
+379,O'Higgins,6,16,Flor Ilic,Corrientes Independientes,IND,1
+380,O'Higgins,6,16,Francisco Valenzuela,Corrientes Independientes,IND,0
+381,O'Higgins,6,16,Gloria Alvarado,Corrientes Independientes,IND,1
+382,O'Higgins,6,16,Iancu Cordescu,Corrientes Independientes,IND,0
+383,O'Higgins,6,16,Katherine Villibares,Corrientes Independientes,IND,1
+697,O'Higgins,6,16,Adriana Cancino,Lista del Apruebo,IND,1
+698,O'Higgins,6,16,Hugo Barahona,Lista del Apruebo,PR,0
+699,O'Higgins,6,16,Maria Diaz,Lista del Apruebo,IND,1
+700,O'Higgins,6,16,Roberto Cruz,Lista del Apruebo,PS,0
+701,O'Higgins,6,16,Doris Rodriguez,Lista del Apruebo,PR,1
+702,O'Higgins,6,16,Bernardo Zapata,Lista del Apruebo,DC,0
+384,O'Higgins,6,16,Magdalena Barriga,Vamos por Chile,EVO,1
+385,O'Higgins,6,16,Natalia Tobar,Vamos por Chile,EVO,1
+386,O'Higgins,6,16,José María Hurtado,Vamos por Chile,RN,0
+387,O'Higgins,6,16,Juan de Dios Valdivieso Tagle,Vamos por Chile,RN-IND,0
+388,O'Higgins,6,16,Irma Greene,Vamos por Chile,UDI,1
+389,O'Higgins,6,16,Ricardo Neumann Bertín,Vamos por Chile,UDI,0
+416,Maule,7,17,Natalia González,Apruebo Dignidad,PI,1
+417,Maule,7,17,José González,Apruebo Dignidad,PI,0
+418,Maule,7,17,Romy Bernal,Apruebo Dignidad,PC,1
+419,Maule,7,17,Igor Villarroel,Apruebo Dignidad,PC,0
+420,Maule,7,17,Eliana Adams,Apruebo Dignidad,RD,1
+421,Maule,7,17,Fabián Farías,Apruebo Dignidad,RD,0
+422,Maule,7,17,Paola Grandón,Apruebo Dignidad,FRVS,1
+423,Maule,7,17,Roberto Celedón,Apruebo Dignidad,FRVS,0
+396,Maule,7,17,Aquiles Carrasco,Asamblea Popular por la Dignidad,IND,0
+397,Maule,7,17,Carlos Argaray,Asamblea Popular por la Dignidad,IND,0
+398,Maule,7,17,Carolina Manríquez,Asamblea Popular por la Dignidad,IND,1
+399,Maule,7,17,Claudia Cáceres,Asamblea Popular por la Dignidad,IND,1
+400,Maule,7,17,Claudia Rojas,Asamblea Popular por la Dignidad,IND,1
+401,Maule,7,17,José Jara,Asamblea Popular por la Dignidad,IND,0
+402,Maule,7,17,María Quinteros,Asamblea Popular por la Dignidad,IND,1
+403,Maule,7,17,Rigoberto Cárcamo,Asamblea Popular por la Dignidad,IND,0
+896,Maule,7,17,Luis Hernández,del Pueblo,IND,1
+897,Maule,7,17,Antonia Rosales,del Pueblo,IND,1
+898,Maule,7,17,Zev Tello,del Pueblo,IND,1
+899,Maule,7,17,Angélica Velásquez,del Pueblo,IND,1
+900,Maule,7,17,Carlos Grez,del Pueblo,IND,0
+901,Maule,7,17,Elsa Labraña,del Pueblo,IND,1
+902,Maule,7,17,Claudio Moya,del Pueblo,IND,0
+404,Maule,7,17,Alfonso Yañez,Independientes x la Nueva Const.,IND,0
+405,Maule,7,17,Alicia Aravena,Independientes x la Nueva Const.,IND,1
+406,Maule,7,17,Carolina Rojas,Independientes x la Nueva Const.,IND,1
+407,Maule,7,17,Juan Soto,Independientes x la Nueva Const.,IND,0
+703,Maule,7,17,Paulina Elissetche,Lista del Apruebo,PS,1
+704,Maule,7,17,Sergio Monsalve,Lista del Apruebo,PS,0
+705,Maule,7,17,Roxana Levenier,Lista del Apruebo,PRO-IND,1
+706,Maule,7,17,Rodrigo Poblete,Lista del Apruebo,IND,0
+707,Maule,7,17,Julieta Maureira,Lista del Apruebo,PR,1
+708,Maule,7,17,Hugo Veloso,Lista del Apruebo,IND,0
+709,Maule,7,17,Susana Zamorano,Lista del Apruebo,DC,1
+710,Maule,7,17,Christian Viera,Lista del Apruebo,IND,0
+408,Maule,7,17,Antonio Walker,Vamos por Chile,EVO-IND,0
+409,Maule,7,17,Barbara Rebolledo,Vamos por Chile,EVO-IND,1
+410,Maule,7,17,Sergio Correa,Vamos por Chile,REP,0
+411,Maule,7,17,Francisco Claver,Vamos por Chile,RN-IND,0
+412,Maule,7,17,Rosanna García,Vamos por Chile,RN-IND,1
+413,Maule,7,17,Alfredo Moreno,Vamos por Chile,UDI,0
+414,Maule,7,17,Constanza Gajardo,Vamos por Chile,UDI,1
+415,Maule,7,17,Irene Cortés,Vamos por Chile,UDI,1
+430,Maule,7,18,Consuelo Veloso,Apruebo Dignidad,RD,1
+431,Maule,7,18,Ricardo Tapia,Apruebo Dignidad,RD,0
+432,Maule,7,18,Gloria Parada,Apruebo Dignidad,RD,1
+433,Maule,7,18,Carlos Fuentes,Apruebo Dignidad,PC,0
+434,Maule,7,18,Denisa Cofré,Apruebo Dignidad,PC,1
+903,Maule,7,18,Francisca Arauna,del Pueblo,IND,1
+904,Maule,7,18,Rodrigo Norambuena,del Pueblo,IND,0
+905,Maule,7,18,Priscila González,del Pueblo,IND,1
+906,Maule,7,18,Manuel Cofré,del Pueblo,IND,0
+907,Maule,7,18,Fernando Salinas,del Pueblo,IND,0
+908,Maule,7,18,Camila Caballero,del Pueblo,IND,1
+711,Maule,7,18,Ana Aravena,Lista del Apruebo,IND,1
+712,Maule,7,18,Alejandro Araya,Lista del Apruebo,IND,0
+713,Maule,7,18,Maria Medel,Lista del Apruebo,DC,1
+714,Maule,7,18,Ernesto Garratt,Lista del Apruebo,IND,0
+715,Maule,7,18,Daniela Ortega,Lista del Apruebo,IND,1
+716,Maule,7,18,Ricardo Montero,Lista del Apruebo,PS,0
+424,Maule,7,18,Denise Mewe,Vamos por Chile,REP,1
+425,Maule,7,18,Juan Ariztía,Vamos por Chile,REP,0
+426,Maule,7,18,Leroy Ibáñez Huenur,Vamos por Chile,RN,0
+427,Maule,7,18,Patricia Labra Besserer,Vamos por Chile,RN,1
+428,Maule,7,18,Manuel Noman,Vamos por Chile,UDI,0
+429,Maule,7,18,María Eugenia Hormázabal,Vamos por Chile,UDI,1
+441,Ñuble,7.5,19,Mónica Llaveillán,Apruebo Dignidad,PI,1
+442,Ñuble,7.5,19,Miguel Lizana,Apruebo Dignidad,PI,0
+443,Ñuble,7.5,19,Rocío Hizmeri,Apruebo Dignidad,PC,1
+444,Ñuble,7.5,19,José Osvaldo Zúñiga,Apruebo Dignidad,PC,0
+445,Ñuble,7.5,19,Cristina Martin,Apruebo Dignidad,RD,1
+446,Ñuble,7.5,19,Jonathan Chandía,Apruebo Dignidad,RD,0
+909,Ñuble,7.5,19,Ximena Pacheco,del Pueblo,IND,1
+910,Ñuble,7.5,19,Nelsón Agurto,del Pueblo,IND,0
+911,Ñuble,7.5,19,María Villaseñor,del Pueblo,IND,1
+912,Ñuble,7.5,19,Sergio Fonseca,del Pueblo,IND,0
+913,Ñuble,7.5,19,César Uribe,del Pueblo,IND,0
+914,Ñuble,7.5,19,Misael Cortez,del Pueblo,IND,1
+717,Ñuble,7.5,19,Scarlet Hidalgo,Lista del Apruebo,PPD,1
+718,Ñuble,7.5,19,Felipe Harboe,Lista del Apruebo,PPD,0
+719,Ñuble,7.5,19,Rebeca Pavez,Lista del Apruebo,IND,1
+720,Ñuble,7.5,19,Sergio Hernandez,Lista del Apruebo,PRO-IND,0
+721,Ñuble,7.5,19,Marcia Wall,Lista del Apruebo,DC,1
+722,Ñuble,7.5,19,Ivan Paul,Lista del Apruebo,DC,0
+435,Ñuble,7.5,19,Lucas Vidal,Vamos por Chile,EVO,0
+436,Ñuble,7.5,19,Rossana Yáñez Fuller,Vamos por Chile,EVO,1
+437,Ñuble,7.5,19,Carlos Pinochet,Vamos por Chile,RN,0
+438,Ñuble,7.5,19,Natalia Reyes,Vamos por Chile,RN-IND,1
+439,Ñuble,7.5,19,Margarita Letelier,Vamos por Chile,UDI,1
+440,Ñuble,7.5,19,Martín Arrau,Vamos por Chile,UDI,0
+469,Bío-Bío,8,20,Pamela Hidalgo,Apruebo Dignidad,PI,1
+470,Bío-Bío,8,20,Carlos López,Apruebo Dignidad,PI,0
+471,Bío-Bío,8,20,María C. Acevedo,Apruebo Dignidad,PC,1
+472,Bío-Bío,8,20,Oscar Menares,Apruebo Dignidad,PC,0
+473,Bío-Bío,8,20,Millaray Saéz,Apruebo Dignidad,FRVS,1
+474,Bío-Bío,8,20,Hernán Cortés,Apruebo Dignidad,FRVS,0
+475,Bío-Bío,8,20,Amaya Alvez,Apruebo Dignidad,RD,1
+476,Bío-Bío,8,20,Eduardo Pacheco,Apruebo Dignidad,RD,0
+795,Bío-Bío,8,20,Sindy Salazar,Asamblea Popular por la Dignidad,IND,1
+796,Bío-Bío,8,20,Alexandra Machuca,Asamblea Popular por la Dignidad,IND,1
+797,Bío-Bío,8,20,Daniela Guzmán,Asamblea Popular por la Dignidad,IND,1
+798,Bío-Bío,8,20,Andrea Campos,Asamblea Popular por la Dignidad,IND,1
+799,Bío-Bío,8,20,Bastián Labbé,Asamblea Popular por la Dignidad,IND,0
+800,Bío-Bío,8,20,Sebastián Valdés,Asamblea Popular por la Dignidad,IND,0
+801,Bío-Bío,8,20,Luis Pérez,Asamblea Popular por la Dignidad,IND,0
+802,Bío-Bío,8,20,José López,Asamblea Popular por la Dignidad,IND,0
+803,Bío-Bío,8,20,Ricardo Mahnke,del Pueblo,IND,0
+804,Bío-Bío,8,20,Miguel Erices,del Pueblo,IND,0
+805,Bío-Bío,8,20,Fernando Daza,del Pueblo,IND,0
+806,Bío-Bío,8,20,Carlos Concha,del Pueblo,IND,0
+807,Bío-Bío,8,20,María Molina,del Pueblo,IND,1
+808,Bío-Bío,8,20,Roxana Vidal,del Pueblo,IND,1
+809,Bío-Bío,8,20,María Melgarejo,del Pueblo,IND,1
+810,Bío-Bío,8,20,Lidia Espinoza,del Pueblo,IND,1
+447,Bío-Bío,8,20,Carla Lara Gallardo,Ecologistas Verdes,PEV,1
+448,Bío-Bío,8,20,Fernando Sepúlveda,Ecologistas Verdes,PEV,0
+449,Bío-Bío,8,20,Francisco Vera,Ecologistas Verdes,PEV,0
+450,Bío-Bío,8,20,Javier Guerrero,Ecologistas Verdes,PEV,0
+451,Bío-Bío,8,20,Valentina Torres,Ecologistas Verdes,PEV,1
+452,Bío-Bío,8,20,María José Gormaz,Ecologistas Verdes,PEV-IND,1
+453,Bío-Bío,8,20,Alejandro Trigo,Felices sin Partido,IND,0
+454,Bío-Bío,8,20,Ana Burgos,Felices sin Partido,IND,1
+455,Bío-Bío,8,20,Boris Flores,Felices sin Partido,IND,0
+456,Bío-Bío,8,20,Juan Pablo Rojas,Felices sin Partido,IND,0
+457,Bío-Bío,8,20,Luis Moraga,Felices sin Partido,IND,0
+458,Bío-Bío,8,20,Martina Oppliger,Felices sin Partido,IND,1
+459,Bío-Bío,8,20,Patricia Riquelme,Felices sin Partido,IND,1
+460,Bío-Bío,8,20,Verónica Núñez,Felices sin Partido,IND,1
+477,Bío-Bío,8,20,Gerson Valdebenito,Felices sin Partido,IND,0
+723,Ñuble,7.5,20,Miriam Espinoza,Lista del Apruebo,PRO-IND,1
+724,Ñuble,7.5,20,Andres Cruz,Lista del Apruebo,IND,0
+725,Bío-Bío,8,20,Maria Fuentes,Lista del Apruebo,PPD,1
+726,Bío-Bío,8,20,Pavel Guiñez,Lista del Apruebo,IND,0
+727,Bío-Bío,8,20,Lorena Lobos,Lista del Apruebo,IND,1
+728,Bío-Bío,8,20,Guido Lillo,Lista del Apruebo,PRO-IND,0
+729,Bío-Bío,8,20,Fabiola Troncoso,Lista del Apruebo,DC,1
+730,Bío-Bío,8,20,Oscar Vega,Lista del Apruebo,DC,0
+593,Bío-Bío,8,20,Francisca Linconao,Mapuche,IND,1
+811,Bío-Bío,8,20,Hugo Alcaman,Mapuche,IND,0
+812,Bío-Bío,8,20,María Olmos Loncopan,Mapuche,IND,1
+787,Bío-Bío,8,20,Tammy Pustilnick,No Neutrales,IND,1
+788,Bío-Bío,8,20,Susana Herrera,No Neutrales,IND,1
+789,Bío-Bío,8,20,Magaly Mella,No Neutrales,IND,1
+790,Bío-Bío,8,20,Pablo Rodríguez,No Neutrales,IND,0
+791,Bío-Bío,8,20,Paulo San Martín,No Neutrales,IND,0
+792,Bío-Bío,8,20,Ana María Cavalerie,No Neutrales,IND,1
+793,Bío-Bío,8,20,Nicolás Felipos,No Neutrales,IND,0
+794,Bío-Bío,8,20,Antonio Mena,No Neutrales,IND,0
+461,Bío-Bío,8,20,Jorge Serón,Vamos por Chile,EVO-IND,0
+462,Bío-Bío,8,20,Rocío Cantuarias,Vamos por Chile,EVO-IND,1
+463,Bío-Bío,8,20,Luciano Ernesto Silva,Vamos por Chile,RN,0
+464,Bío-Bío,8,20,Yanina Contreras Álvarez,Vamos por Chile,RN,1
+465,Bío-Bío,8,20,Claudia Pavez,Vamos por Chile,RN-IND,1
+466,Bío-Bío,8,20,Elías Ramos,Vamos por Chile,UDI,0
+467,Bío-Bío,8,20,Alejandro Reyes,Vamos por Chile,UDI-IND,0
+468,Bío-Bío,8,20,María Paz Charpentier,Vamos por Chile,UDI-IND,1
+491,Bío-Bío,8,21,Patricia Valderas,Apruebo Dignidad,PC,1
+492,Bío-Bío,8,21,Alvaro Sanchez,Apruebo Dignidad,PC,0
+496,Bío-Bío,8,21,Claudio Castillo,Apruebo Dignidad,PI,0
+493,Bío-Bío,8,21,Vasili Carrillo,Coord. Nahuelbuta Bio Bio Const.,IND,1
+494,Bío-Bío,8,21,Marcela Saavedra,Coord. Nahuelbuta Bio Bio Const.,IND,1
+495,Bío-Bío,8,21,Vanessa Hoppe,Coord. Nahuelbuta Bio Bio Const.,IND,1
+813,Bío-Bío,8,21,Claudia Godoy,Ecologistas Verdes,PEV,1
+814,Bío-Bío,8,21,Álvaro San Martin,Ecologistas Verdes,PEV,0
+815,Bío-Bío,8,21,Loreto Bustos,Ecologistas Verdes,PEV,1
+816,Bío-Bío,8,21,Joaquín Saldivia,Ecologistas Verdes,PEV,0
+817,Bío-Bío,8,21,María Edith Almanza,Ecologistas Verdes,PEV,1
+818,Bío-Bío,8,21,Domingo Torres,Ecologistas Verdes,PEV,0
+478,Bío-Bío,8,21,Abelardo Muñoz,Independientes y Felices,IND,0
+479,Bío-Bío,8,21,Christel Uribe Kuncar,Independientes y Felices,IND,1
+480,Bío-Bío,8,21,Leticia Berrocal,Independientes y Felices,IND,1
+481,Bío-Bío,8,21,Lorena Urra A.,Independientes y Felices,IND,1
+482,Bío-Bío,8,21,Luis Vásquez,Independientes y Felices,IND,0
+731,Bío-Bío,8,21,Luis Barcelo,Lista del Apruebo,IND,0
+732,Bío-Bío,8,21,Norka Flores,Lista del Apruebo,DC,1
+733,Bío-Bío,8,21,Aurelia Ormeño,Lista del Apruebo,PR,1
+734,Bío-Bío,8,21,Oscar Burgos,Lista del Apruebo,IND,0
+735,Bío-Bío,8,21,Estefany Tisi,Lista del Apruebo,IND,1
+736,Bío-Bío,8,21,Marcelo Urrutia,Lista del Apruebo,DC,0
+483,Bío-Bío,8,21,Adolfo Millabur,Mapuche,IND,0
+484,Bío-Bío,8,21,Natividad Llanquileo,Mapuche,IND,1
+485,Bío-Bío,8,21,Ítalo Zunino ,Vamos por Chile,EVO,0
+486,Bío-Bío,8,21,Javiera Hormazábal,Vamos por Chile,EVO-IND,1
+487,Bío-Bío,8,21,Paulina Veloso,Vamos por Chile,RN,1
+488,Bío-Bío,8,21,Pablo Perelló Pérez,Vamos por Chile,RN-IND,0
+489,Bío-Bío,8,21,Tamara Rogers,Vamos por Chile,UDI,1
+490,Bío-Bío,8,21,Jorge Guzmán,Vamos por Chile,UDI-IND,0
+504,Araucanía,9,22,Haydee Ulloa,Apruebo Dignidad,PI,1
+505,Araucanía,9,22,Eduardo Cayupé,Apruebo Dignidad,PI,0
+915,Araucanía,9,22,Pablo Tapia,del Pueblo,IND,0
+916,Araucanía,9,22,Óscar Salazar,del Pueblo,IND,0
+917,Araucanía,9,22,Alejandra Depaoli,del Pueblo,IND,1
+918,Araucanía,9,22,Cristián Córdova,del Pueblo,IND,0
+737,Araucanía,9,22,Katherina Hidalgo,Lista del Apruebo,IND,1
+738,Araucanía,9,22,Alex Castillo,Lista del Apruebo,PR,0
+739,Araucanía,9,22,Waleska Morales,Lista del Apruebo,IND,1
+740,Araucanía,9,22,Fuad Chahin,Lista del Apruebo,DC,0
+741,Araucanía,9,22,Sofia Painiqueo,Lista del Apruebo,IND,1
+742,Araucanía,9,22,Hector Ulloa,Lista del Apruebo,IND,0
+497,Araucanía,9,22,Mauricio Lepin ,Mapuche,IND,0
+498,Araucanía,9,22,Genni Fulgeri,Vamos por Chile,EVO-IND,1
+499,Araucanía,9,22,Isabel Quiroz,Vamos por Chile,EVO-IND,1
+500,Araucanía,9,22,Cristian Greenhill,Vamos por Chile,RN,0
+501,Araucanía,9,22,Ruth Hurtado,Vamos por Chile,RN-IND,1
+502,Araucanía,9,22,Eduardo Cretton,Vamos por Chile,UDI,0
+503,Araucanía,9,22,Gonzalo Arenas,Vamos por Chile,UDI,0
+514,Araucanía,9,23,Manuela Royo,Apruebo Dignidad,PI,1
+515,Araucanía,9,23,Alfonso Espoz,Apruebo Dignidad,PI,0
+516,Araucanía,9,23,Camila Vergara,Apruebo Dignidad,PC,1
+517,Araucanía,9,23,Gonzalo Contreras,Apruebo Dignidad,PC,0
+518,Araucanía,9,23,Ericka Ñanco,Apruebo Dignidad,FRVS,1
+819,Araucanía,9,23,Jovita Rapiman,Ciudadanos Cristianos,PNC,1
+820,Araucanía,9,23,Peter Vermehren,Ciudadanos Cristianos,PNC,0
+821,Araucanía,9,23,Marco Ortega,Ciudadanos Cristianos,PNC,0
+822,Araucanía,9,23,Guisela Olate,Ciudadanos Cristianos,PNC,1
+823,Araucanía,9,23,Omar Ortiz,Ciudadanos Cristianos,PNC,0
+824,Araucanía,9,23,Andrea Punulef,Ciudadanos Cristianos,PNC,1
+825,Araucanía,9,23,Edgardo Sepulveda,Ciudadanos Cristianos,PNC-IND,0
+919,Araucanía,9,23,Luz Eliana Alca,del Pueblo,IND,1
+920,Araucanía,9,23,Rossana Betancur,del Pueblo,IND,1
+921,Araucanía,9,23,Helmuth Martínez,del Pueblo,IND,0
+922,Araucanía,9,23,Marcela Lepilaf,del Pueblo,IND,1
+923,Araucanía,9,23,Mario Flores,del Pueblo,IND,0
+924,Araucanía,9,23,Alejandro Mellado,del Pueblo,IND,0
+743,Araucanía,9,23,Jacqueline Burdiles,Lista del Apruebo,DC,1
+744,Araucanía,9,23,Eduardo Castillo,Lista del Apruebo,PPD,0
+745,Araucanía,9,23,Minerva Castañeda,Lista del Apruebo,PS,1
+746,Araucanía,9,23,Ilich Silva,Lista del Apruebo,PRO-IND,0
+747,Araucanía,9,23,Violeta Palavicino,Lista del Apruebo,IND,1
+748,Araucanía,9,23,Heinrich Von Baer,Lista del Apruebo,IND,0
+749,Araucanía,9,23,Eliana Roa,Lista del Apruebo,PRO-IND,1
+506,Araucanía,9,23,Ana Llao,Mapuche,IND,1
+507,Araucanía,9,23,Alejo Aprais,Vamos por Chile,EVO,0
+508,Araucanía,9,23,Elizabeth Brandt,Vamos por Chile,EVO-IND,1
+509,Araucanía,9,23,Luis Mayol,Vamos por Chile,RN,0
+510,Araucanía,9,23,Melisa Becker,Vamos por Chile,RN,1
+511,Araucanía,9,23,Angélica Tepper,Vamos por Chile,RN-IND,1
+512,Araucanía,9,23,Pablo Herdener,Vamos por Chile,UDI,0
+513,Araucanía,9,23,Pilar Errázuriz,Vamos por Chile,UDI,1
+526,Los Ríos,9.5,24,Aurora Delgado,Apruebo Dignidad,RD,1
+527,Los Ríos,9.5,24,Felipe Pino,Apruebo Dignidad,RD,0
+528,Los Ríos,9.5,24,Daniela Milanka,Apruebo Dignidad,RD,1
+529,Los Ríos,9.5,24,Wladimir Riesco,Apruebo Dignidad,PC,0
+530,Los Ríos,9.5,24,Marisol Torres,Apruebo Dignidad,PC,1
+531,Los Ríos,9.5,24,Wladimir Manzano,Apruebo Dignidad,PC,0
+925,Los Ríos,9.5,24,Vannia Pacheco,del Pueblo,IND,1
+926,Los Ríos,9.5,24,Ricardo Venegas,del Pueblo,IND,1
+927,Los Ríos,9.5,24,Freddy Sandoval,del Pueblo,IND,0
+928,Los Ríos,9.5,24,Nicole Cornejo,del Pueblo,IND,1
+929,Los Ríos,9.5,24,Eduardo Ramirez,del Pueblo,IND,0
+930,Los Ríos,9.5,24,Patricia Veloso,del Pueblo,IND,1
+519,Los Ríos,9.5,24,Vicente Gómez,Ecologistas Verdes,PEV-IND,0
+750,Los Ríos,9.5,24,Maria Reyes,Lista del Apruebo,PS,1
+751,Los Ríos,9.5,24,Marco Leal,Lista del Apruebo,PPD,0
+752,Los Ríos,9.5,24,Rita Soto,Lista del Apruebo,IND,1
+753,Los Ríos,9.5,24,Pedro Muñoz,Lista del Apruebo,PS,0
+754,Los Ríos,9.5,24,Diosa Villarroel,Lista del Apruebo,PR,1
+755,Los Ríos,9.5,24,Exequiel Silva,Lista del Apruebo,DC,0
+520,Los Ríos,9.5,24,Tomás Mandiola,Vamos por Chile,EVO,0
+521,Los Ríos,9.5,24,María Angélica Fernández,Vamos por Chile,EVO-IND,1
+522,Los Ríos,9.5,24,Cristhian Cancino,Vamos por Chile,RN,0
+523,Los Ríos,9.5,24,Marina Maipallán,Vamos por Chile,RN,1
+524,Los Ríos,9.5,24,Felipe Mena,Vamos por Chile,UDI,0
+525,Los Ríos,9.5,24,Andrea Petermann,Vamos por Chile,UDI-IND,1
+538,Los Lagos,10,25,Daniela Carvacho,Apruebo Dignidad,RD,1
+539,Los Lagos,10,25,Gustavo Salvo,Apruebo Dignidad,RD,0
+540,Los Lagos,10,25,Elba Vargas,Apruebo Dignidad,PC,1
+541,Los Lagos,10,25,Gonzalo Díaz,Apruebo Dignidad,PC,0
+542,Los Lagos,10,25,María Inés Barrera,Apruebo Dignidad,COM,1
+543,Los Lagos,10,25,Mario Gonzalez,Apruebo Dignidad,COM,0
+826,Los Lagos,10,25,Elisa Neira,Independiente,IND,1
+756,Los Lagos,10,25,Giovanna Moreira,Lista del Apruebo,PL,1
+757,Los Lagos,10,25,Juan Alvarez,Lista del Apruebo,DC,0
+758,Los Lagos,10,25,Luisa Prida,Lista del Apruebo,PL-IND,1
+759,Los Lagos,10,25,Enzo Jaramillo,Lista del Apruebo,PS,0
+760,Los Lagos,10,25,Cecilia Kramm,Lista del Apruebo,IND,1
+761,Los Lagos,10,25,Mario Vargas,Lista del Apruebo,PS,0
+532,Los Lagos,10,25,Alicia Vesperinas,Vamos por Chile,EVO-IND,1
+533,Los Lagos,10,25,René Merino,Vamos por Chile,EVO-IND,0
+534,Los Lagos,10,25,Marisol Bañares,Vamos por Chile,REP,1
+535,Los Lagos,10,25,Harry Jurgensen,Vamos por Chile,RN,0
+536,Los Lagos,10,25,Cecilia Ubilla,Vamos por Chile,UDI,1
+537,Los Lagos,10,25,Sergio Willer,Vamos por Chile,UDI,0
+550,Los Lagos,10,26,Patricia Rada,Apruebo Dignidad,RD,1
+551,Los Lagos,10,26,Esteban Vielma,Apruebo Dignidad,RD,0
+552,Los Lagos,10,26,María Olga Delgado,Apruebo Dignidad,PC,1
+553,Los Lagos,10,26,Cataldo Martínez,Apruebo Dignidad,PC,0
+554,Los Lagos,10,26,Pamela Espinoza,Apruebo Dignidad,COM,1
+555,Los Lagos,10,26,Francisco Vera,Apruebo Dignidad,COM,0
+827,Los Lagos,10,26,Adriana Ampuero,Insulares e Independientes,IND,1
+828,Los Lagos,10,26,Christian Ruiz,Insulares e Independientes,IND,0
+829,Los Lagos,10,26,Clementina Lepio,Insulares e Independientes,IND,1
+830,Los Lagos,10,26,Diego Vallejos,Insulares e Independientes,IND,0
+831,Los Lagos,10,26,Noelia Ojeda,Insulares e Independientes,IND,1
+832,Los Lagos,10,26,Miguel Maldonado,Insulares e Independientes,IND,0
+762,Los Lagos,10,26,Rosa Muñoz,Lista del Apruebo,PL-IND,1
+763,Los Lagos,10,26,Julio Alvarez,Lista del Apruebo,PS,0
+764,Los Lagos,10,26,Carmen Muñoz,Lista del Apruebo,DC,1
+765,Los Lagos,10,26,Samuel Galvez,Lista del Apruebo,PL,0
+766,Los Lagos,10,26,Jacquelin Paz,Lista del Apruebo,PS,1
+767,Los Lagos,10,26,Roberto Hurtado,Lista del Apruebo,IND,0
+544,Los Lagos,10,26,Alejandra Westermeyer,Vamos por Chile,EVO,1
+545,Los Lagos,10,26,Jairo Quinteros,Vamos por Chile,REP,0
+546,Los Lagos,10,26,Juan Ossa Santa Cruz,Vamos por Chile,RN-IND,0
+547,Los Lagos,10,26,Patricia Sanzana,Vamos por Chile,RN-IND,1
+548,Los Lagos,10,26,Kate Montealegre,Vamos por Chile,UDI,1
+549,Los Lagos,10,26,Marcos Emilfork Konow,Vamos por Chile,UDI-IND,0
+561,Aysén,11,27,Yarela Gómez,Apruebo Dignidad,RD,1
+562,Aysén,11,27,Julio Ñanco,Apruebo Dignidad,RD,0
+563,Aysén,11,27,Haley Durán,Apruebo Dignidad,RD,1
+564,Aysén,11,27,Samuel Navarro,Apruebo Dignidad,PC,0
+565,Aysén,11,27,Rosa Pesutic,Apruebo Dignidad,PC,1
+566,Aysén,11,27,Diego Salinas,Apruebo Dignidad,PC,0
+768,Aysén,11,27,Viviana Betancourt,Lista del Apruebo,PS,1
+769,Aysén,11,27,Tomas Laibe,Lista del Apruebo,PS,0
+770,Aysén,11,27,Paulina Ruz,Lista del Apruebo,PPD,1
+771,Aysén,11,27,Guillermo Martinez,Lista del Apruebo,PR,0
+772,Aysén,11,27,Jannette Salgado,Lista del Apruebo,DC,1
+773,Aysén,11,27,Mario Sandoval,Lista del Apruebo,DC,0
+556,Aysén,11,27,Geoconda Navarrete,Vamos por Chile,EVO,1
+557,Aysén,11,27,Alfredo Runin,Vamos por Chile,EVO-IND,0
+558,Aysén,11,27,Marcos Vargas,Vamos por Chile,RN,0
+559,Aysén,11,27,María Teresa Calvis,Vamos por Chile,UDI,1
+560,Aysén,11,27,Arístides Benavente,Vamos por Chile,UDI-IND,0
+585,Magallanes,12,28,Javiera Morales,Apruebo Dignidad,CS,1
+586,Magallanes,12,28,Carlos Abarzúa,Apruebo Dignidad,CS,0
+587,Magallanes,12,28,Daniela Panicucci,Apruebo Dignidad,CS,1
+588,Magallanes,12,28,Nikos Ortega,Apruebo Dignidad,PC,0
+589,Magallanes,12,28,Margarita Makuc,Apruebo Dignidad,PC,1
+590,Magallanes,12,28,Julio Contreras,Apruebo Dignidad,PC,0
+567,Magallanes,12,28,Elisa Giustinianovich,Coord. Social de Magallanes,IND,1
+568,Magallanes,12,28,Inés Vidal,Coord. Social de Magallanes,IND,1
+569,Magallanes,12,28,Javier Omar Aguilar,Coord. Social de Magallanes,IND,0
+570,Magallanes,12,28,Pablo Cifuentes,Coord. Social de Magallanes,IND,0
+571,Magallanes,12,28,Patricio Fuentes,Coord. Social de Magallanes,IND,0
+774,Magallanes,12,28,Adriana Marcela,Lista del Apruebo,PRO-IND,1
+775,Magallanes,12,28,Manuel Gallardo,Lista del Apruebo,DC,0
+776,Magallanes,12,28,Karin Escarate,Lista del Apruebo,IND,1
+777,Magallanes,12,28,Nelson Leiva,Lista del Apruebo,DC,0
+778,Magallanes,12,28,Maria Flores,Lista del Apruebo,PS,1
+779,Magallanes,12,28,Luis Navarro,Lista del Apruebo,PS,0
+572,Magallanes,12,28,Grissell González,Regionalismo Ciudadano Ind.,IND,1
+573,Magallanes,12,28,Jaime Ormeño,Regionalismo Ciudadano Ind.,IND,0
+574,Magallanes,12,28,Juan C. Kalasich,Regionalismo Ciudadano Ind.,IND,0
+575,Magallanes,12,28,Mauricio Daza,Regionalismo Ciudadano Ind.,IND,0
+576,Magallanes,12,28,Pamela Herrera,Regionalismo Ciudadano Ind.,IND,1
+577,Magallanes,12,28,Rodolfo Arecheta,Vamos por Chile,EVO-IND,0
+578,Magallanes,12,28,Silvana Camelio ,Vamos por Chile,EVO-IND,1
+579,Magallanes,12,28,Gabriela Casanueva,Vamos por Chile,RN-IND,0
+580,Magallanes,12,28,María Teresa Castallón,Vamos por Chile,RN-IND,1
+581,Magallanes,12,28,Rodrigo Álvarez,Vamos por Chile,UDI,0
+582,Magallanes,12,28,Marcelo Torche,Vamos por Chile,UDI-IND,0
+583,Magallanes,12,28,José González C.,Yagán,IND,0
+584,Magallanes,12,28,María Luisa Muñoz,Yagán,IND,1
+591,s/i,s/i,999,Catalina Cortés,Aymara,IND,1
+592,s/i,s/i,999,José Domingo Rojas,Diaguita,IND,0
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
