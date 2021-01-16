@@ -56,11 +56,6 @@
 836,Tarapacá,1,2,Jorge Díaz,Nobles Hijxs de Tarapacá,IND,0
 837,Tarapacá,1,2,Patricia López,Nobles Hijxs de Tarapacá,IND,1
 838,Tarapacá,1,2,Jaime Ceballos,Nobles Hijxs de Tarapacá,IND,0
-1230,Tarapacá,1,2,Grace Harris,Pueblo Unido Tarapacá,IND,1
-1231,Tarapacá,1,2,Luis Pérez R.,Pueblo Unido Tarapacá,IND,0
-1232,Tarapacá,1,2,Verónica Sepúlveda,Pueblo Unido Tarapacá,IND,1
-1233,Tarapacá,1,2,Gonzalo Sepúlveda,Pueblo Unido Tarapacá,IND,0
-1234,Tarapacá,1,2,Enrique Echeverría,Pueblo Unido Tarapacá,IND,0
 825,Tarapacá,1,2,Sara Pizarro Noel,Tarapacá Feliz,IND,1
 826,Tarapacá,1,2,Felipe Moya Sáez,Tarapacá Feliz,IND,0
 827,Tarapacá,1,2,Juanita Pardo Miranda,Tarapacá Feliz,IND,1
@@ -91,10 +86,6 @@
 32,Antofagasta,2,3,Luis Berger,Felices e Independientes,IND,0
 33,Antofagasta,2,3,Maritza Cerezo,Felices e Independientes,IND,1
 34,Antofagasta,2,3,Patricia Canales R.,Felices e Independientes,IND,1
-1226,Antofagasta,2,3,Nora Biaggini,Ind. del Norte Grande por una Nueva Const.,IND,1
-1227,Antofagasta,2,3,Raúl Catalán,Ind. del Norte Grande por una Nueva Const.,IND,0
-1228,Antofagasta,2,3,Catherine Sánchez,Ind. del Norte Grande por una Nueva Const.,IND,1
-1229,Antofagasta,2,3,Francisco Moll ,Ind. del Norte Grande por una Nueva Const.,IND,0
 1047,Antofagasta,2,3,Celia Gonzalez,Lista del Apruebo,PR ,1
 1048,Antofagasta,2,3,Jorge Alvarado,Lista del Apruebo,PR-IND,0
 1049,Antofagasta,2,3,Katherine Leyton,Lista del Apruebo,PRO-IND,1
@@ -155,11 +146,11 @@
 65,Atacama,3,4,Mario Maturana,No Neutrales,IND,0
 66,Atacama,3,4,Miriam Henríquez,No Neutrales,IND,1
 67,Atacama,3,4,Nolva Toro,No Neutrales,IND,1
-955,Atacama,3,4,Pamela Vargas Toledo,Partido Ecologista Verde,PEV,1
+955,Atacama,3,4,Pamela Vargas,Partido Ecologista Verde,PEV,1
 68,Atacama,3,4,María Francisca Plaza,Vamos por Chile,EVO,1
 69,Atacama,3,4,Miguel Fortt,Vamos por Chile,EVO,0
 70,Atacama,3,4,Cristina Bravo Bassi,Vamos por Chile,RN,1
-71,Atacama,3,4,Carlos Montalva Pérez,Vamos por Chile,RN-IND,0
+71,Atacama,3,4,Carlos Montalva,Vamos por Chile,RN-IND,0
 72,Atacama,3,4,Carlos Martin,Vamos por Chile,UDI,0
 73,Atacama,3,4,Wilma Jiménez,Vamos por Chile,UDI,1
 96,Coquimbo,4,5,Jennifer Mella,Apruebo Dignidad,CS,1
@@ -198,7 +189,7 @@
 90,Coquimbo,4,5,Gabriela Parot,Vamos por Chile,EVO-IND,1
 91,Coquimbo,4,5,Roberto Vega,Vamos por Chile,RN,0
 92,Coquimbo,4,5,Vinka Pusich,Vamos por Chile,RN,1
-93,Coquimbo,4,5,María Figari Barrera,Vamos por Chile,RN-IND,1
+93,Coquimbo,4,5,María Figari,Vamos por Chile,RN-IND,1
 94,Coquimbo,4,5,Alejandra Valdovinos,Vamos por Chile,UDI,1
 95,Coquimbo,4,5,Ronald Brandt,Vamos por Chile,UDI-IND,0
 145,Valparaíso,5,6,Carolina Vilches,Apruebo Dignidad,COM-IND,1
@@ -218,9 +209,9 @@
 108,Valparaíso,5,6,Gonzalo Araya,Decisión Ciudadana,IND,0
 109,Valparaíso,5,6,Katherine Alarcón,Decisión Ciudadana,IND,1
 110,Valparaíso,5,6,Nancy Camus,Decisión Ciudadana,IND,1
-111,Valparaíso,5,6,Alexandra Pérez Cepeda,Ind. Distrito 6 + Lista del Pueblo,IND,1
-112,Valparaíso,5,6,Alexis García Olivares,Ind. Distrito 6 + Lista del Pueblo,IND,0
-113,Valparaíso,5,6,Corina Silva Figueroa,Ind. Distrito 6 + Lista del Pueblo,IND,1
+111,Valparaíso,5,6,Alexandra Pérez,Ind. Distrito 6 + Lista del Pueblo,IND,1
+112,Valparaíso,5,6,Alexis García,Ind. Distrito 6 + Lista del Pueblo,IND,0
+113,Valparaíso,5,6,Corina Silva,Ind. Distrito 6 + Lista del Pueblo,IND,1
 114,Valparaíso,5,6,Cristóbal Andrade,Ind. Distrito 6 + Lista del Pueblo,IND,0
 115,Valparaíso,5,6,Lisette Vergara R.,Ind. Distrito 6 + Lista del Pueblo,IND,1
 116,Valparaíso,5,6,Lorena Vicencio,Ind. Distrito 6 + Lista del Pueblo,IND,1
@@ -253,9 +244,9 @@
 134,Valparaíso,5,6,Ricardo Trigo Ulloa,No Neutrales,IND,0
 135,Valparaíso,5,6,Rocío Veas Solís,No Neutrales,IND,1
 136,Valparaíso,5,6,Carolina Contreras ,Vamos por Chile,EVO,0
-137,Valparaíso,5,6,José Antonio Valenzuela,Vamos por Chile,EVO-IND,0
+137,Valparaíso,5,6,José Valenzuela,Vamos por Chile,EVO-IND,0
 138,Valparaíso,5,6,Chiara Barchiesi,Vamos por Chile,REP,1
-139,Valparaíso,5,6,María de los Ángeles López,Vamos por Chile,REP,1
+139,Valparaíso,5,6,María de los Á. López,Vamos por Chile,REP,1
 140,Valparaíso,5,6,Francisca Desbordes,Vamos por Chile,RN,1
 141,Valparaíso,5,6,Juan Luis Tobar,Vamos por Chile,RN,0
 142,Valparaíso,5,6,Ruggero Cozzi,Vamos por Chile,RN-IND,0
@@ -341,11 +332,11 @@
 858,Valparaíso,5,7,Natali Hinojosa,Trabajadores Revolucionarios,PTR,1
 859,Valparaíso,5,7,Libertad Moiroux,Trabajadores Revolucionarios,PTR,1
 860,Valparaíso,5,7,Pamela Contreras,Trabajadores Revolucionarios,PTR,1
-861,Valparaíso,5,7,Dario Gonzalez Pinto,Trabajadores Revolucionarios,PTR,0
+861,Valparaíso,5,7,Dario Gonzalez,Trabajadores Revolucionarios,PTR,0
 197,Valparaíso,5,7,Marlene Aroca,Vamos por Chile,EVO,1
 198,Valparaíso,5,7,Hotuiti Teao,Vamos por Chile,EVO-IND,0
 199,Valparaíso,5,7,Raúl Celis Montt,Vamos por Chile,RN,0
-200,Valparaíso,5,7,Tania Córdova Castro,Vamos por Chile,RN,1
+200,Valparaíso,5,7,Tania Córdova,Vamos por Chile,RN,1
 201,Valparaíso,5,7,Jeanette Bruna Jara,Vamos por Chile,RN-IND,1
 202,Valparaíso,5,7,Macarena Urenda,Vamos por Chile,UDI,1
 203,Valparaíso,5,7,Jorge Arancibia,Vamos por Chile,UDI-IND,0
@@ -369,7 +360,7 @@
 1083,Metropolitana,5.5,8,Bessy Gallardo,Lista del Apruebo,PRO-IND,1
 1084,Metropolitana,5.5,8,Cesar Barrera,Lista del Apruebo,PRO-IND,0
 1085,Metropolitana,5.5,8,Carolina Garrido,Lista del Apruebo,PS ,1
-1086,Metropolitana,5.5,8,Rene Cortazar Sanz,Lista del Apruebo,DC ,0
+1086,Metropolitana,5.5,8,Rene Cortazar,Lista del Apruebo,DC ,0
 1087,Metropolitana,5.5,8,Veronica Undurraga,Lista del Apruebo,PPD-IND,1
 1088,Metropolitana,5.5,8,Francisco Reyes,Lista del Apruebo,PPD-IND,0
 1089,Metropolitana,5.5,8,Cecilia Valdes Leon,Lista del Apruebo,DC ,1
@@ -475,14 +466,6 @@
 660,Metropolitana,5.5,10,Alexis Garrido,del Pueblo,IND,0
 661,Metropolitana,5.5,10,Manuel Woldarsky,del Pueblo,IND,0
 662,Metropolitana,5.5,10,Verónica Guzmán,del Pueblo,IND,1
-1239,Metropolitana,5.5,10,Karla Pinto,Independientes como Tú,IND,1
-1240,Metropolitana,5.5,10,Felipe Vargas,Independientes como Tú,IND,0
-1241,Metropolitana,5.5,10,Patricia Rubilar,Independientes como Tú,IND,1
-1242,Metropolitana,5.5,10,Felipe Rocha,Independientes como Tú,IND,0
-1243,Metropolitana,5.5,10,María Soledad Acuña,Independientes como Tú,IND,1
-1244,Metropolitana,5.5,10,Patricio González,Independientes como Tú,IND,0
-1245,Metropolitana,5.5,10,Paola Walker,Independientes como Tú,IND,1
-1246,Metropolitana,5.5,10,Sung Young,Independientes como Tú,IND,0
 1098,Metropolitana,5.5,10,Laura Albornoz,Lista del Apruebo,DC ,1
 1099,Metropolitana,5.5,10,Jorge Baradit,Lista del Apruebo,PS-IND,0
 1100,Metropolitana,5.5,10,Catalina Lagos,Lista del Apruebo,PS ,1
@@ -575,7 +558,7 @@
 299,Metropolitana,5.5,11,Pauline Kantor Pupkin,Vamos por Chile,EVO,1
 300,Metropolitana,5.5,11,Verónica Campino,Vamos por Chile,RN,1
 301,Metropolitana,5.5,11,Andrés Carey Carvallo,Vamos por Chile,RN-IND,0
-302,Metropolitana,5.5,11,Bernardo Fontaine Talavera,Vamos por Chile,RN-IND,0
+302,Metropolitana,5.5,11,Bernardo Fontaine,Vamos por Chile,RN-IND,0
 303,Metropolitana,5.5,11,Coni Hube,Vamos por Chile,UDI,1
 304,Metropolitana,5.5,11,Marcela Cubillos,Vamos por Chile,UDI-IND,1
 327,Metropolitana,5.5,12,Beatriz Sánchez,Apruebo Dignidad,RD-IND,1
@@ -615,7 +598,7 @@
 752,Metropolitana,5.5,12,Paola Romero,No Neutrales,IND,1
 753,Metropolitana,5.5,12,Pavel Araya,No Neutrales,IND,0
 981,Metropolitana,5.5,12,Monserrat Candia,Partido Ecologista Verde,PEV,1
-982,Metropolitana,5.5,12,Ronald Leblebici Garo,Partido Ecologista Verde,PEV,0
+982,Metropolitana,5.5,12,Ronald Leblebici,Partido Ecologista Verde,PEV,0
 983,Metropolitana,5.5,12,Rocio Miranda,Partido Ecologista Verde,PEV,1
 984,Metropolitana,5.5,12,Ronald Vargas,Partido Ecologista Verde,PEV,0
 985,Metropolitana,5.5,12,Carolina Leiva Garcia,Partido Ecologista Verde,PEV,1
@@ -629,8 +612,8 @@
 902,Metropolitana,5.5,12,Julio Hernandez,Trabajadores Revolucionarios,PTR,0
 320,Metropolitana,5.5,12,Macarena Venegas,Vamos por Chile,EVO,1
 321,Metropolitana,5.5,12,Shai Agosin,Vamos por Chile,EVO,0
-322,Metropolitana,5.5,12,Bernardita Paul Ossandón,Vamos por Chile,RN,1
-323,Metropolitana,5.5,12,Manuel José Ossandón Lira,Vamos por Chile,RN,0
+322,Metropolitana,5.5,12,Bernardita Paul,Vamos por Chile,RN,1
+323,Metropolitana,5.5,12,Manuel J. Ossandón,Vamos por Chile,RN,0
 324,Metropolitana,5.5,12,Carol Espinaza,Vamos por Chile,RN-IND,1
 325,Metropolitana,5.5,12,Marcelo Alonso,Vamos por Chile,UDI,0
 326,Metropolitana,5.5,12,María Luisa Cordero ,Vamos por Chile,UDI-IND,1
@@ -674,7 +657,7 @@
 988,Metropolitana,5.5,13,Valentina Bustamante,Partido Ecologista Verde,PEV,1
 989,Metropolitana,5.5,13,Ismael Mena Abrigo,Partido Ecologista Verde,PEV,0
 990,Metropolitana,5.5,13,Maria Jose Toro,Partido Ecologista Verde,PEV,1
-991,Metropolitana,5.5,13,Hans Alexis Hube Frias,Partido Ecologista Verde,PEV,0
+991,Metropolitana,5.5,13,Hans Hube Frias,Partido Ecologista Verde,PEV,0
 992,Metropolitana,5.5,13,Cristia Gonzalez,Partido Ecologista Verde,PEV,1
 993,Metropolitana,5.5,13,Mariana Sandoval,Partido Ecologista Verde,PEV,1
 908,Metropolitana,5.5,13,Valeria Yañez,Trabajadores Revolucionarios,PTR,1
@@ -683,7 +666,7 @@
 911,Metropolitana,5.5,13,Brisa Galvez,Trabajadores Revolucionarios,PTR,1
 912,Metropolitana,5.5,13,Alvaro Perez,Trabajadores Revolucionarios,PTR,0
 334,Metropolitana,5.5,13,Carolina García,Vamos por Chile,EVO,0
-335,Metropolitana,5.5,13,Alejandro Pollo Fernández,Vamos por Chile,EVO-IND,0
+335,Metropolitana,5.5,13,Alejandro Fernández,Vamos por Chile,EVO-IND,0
 336,Metropolitana,5.5,13,Luis Alejandro Silva,Vamos por Chile,REP,0
 337,Metropolitana,5.5,13,Matías Poblete,Vamos por Chile,REP-IND,0
 338,Metropolitana,5.5,13,Susana  Hiplán,Vamos por Chile,RN,1
@@ -716,11 +699,11 @@
 755,Metropolitana,5.5,14,Angelo Perrota,No Neutrales,IND,0
 756,Metropolitana,5.5,14,Claudio Vielma,No Neutrales,IND,0
 757,Metropolitana,5.5,14,Pamela Rodríguez,No Neutrales,IND,1
-758,Metropolitana,5.5,14,Juan Francisco Errázuriz,No Neutrales,IND,0
-994,Metropolitana,5.5,14,Karin Arevalo Jimenez,Partido Ecologista Verde,PEV,1
+758,Metropolitana,5.5,14,Juan F. Errázuriz,No Neutrales,IND,0
+994,Metropolitana,5.5,14,Karin Arevalo,Partido Ecologista Verde,PEV,1
 995,Metropolitana,5.5,14,Joel Rossa Gonzalez,Partido Ecologista Verde,PEV,0
 996,Metropolitana,5.5,14,Andrea Quinteros,Partido Ecologista Verde,PEV,1
-997,Metropolitana,5.5,14,Carlos Cortez Molina,Partido Ecologista Verde,PEV,0
+997,Metropolitana,5.5,14,Carlos Cortez,Partido Ecologista Verde,PEV,0
 353,Metropolitana,5.5,14,Andrea Iñiguez,Vamos por Chile,REP,1
 354,Metropolitana,5.5,14,Cristóbal Orrego,Vamos por Chile,REP,0
 355,Metropolitana,5.5,14,Karina Torres,Vamos por Chile,RN,1
@@ -757,10 +740,10 @@
 1003,O'Higgins,6,15,Carlos Miranda,Partido Ecologista Verde,PEV,0
 365,O'Higgins,6,15,Dionisio de la Cerda,Vamos por Chile,EVO,0
 366,O'Higgins,6,15,Sandra Cabezas,Vamos por Chile,RN,1
-367,O'Higgins,6,15,Federico Iglesias Muñoz,Vamos por Chile,RN-IND,0
+367,O'Higgins,6,15,Federico Iglesias,Vamos por Chile,RN-IND,0
 368,O'Higgins,6,15,Carol Bown,Vamos por Chile,UDI,1
 369,O'Higgins,6,15,Felipe García Huidobro,Vamos por Chile,UDI,0
-370,O'Higgins,6,15,Mariana Martínez Anich,Vamos por Chile,UDI-IND,1
+370,O'Higgins,6,15,Mariana Martínez,Vamos por Chile,UDI-IND,1
 389,O'Higgins,6,16,Ximena Manil,Apruebo Dignidad,RD,1
 390,O'Higgins,6,16,Rodrigo Córdoba,Apruebo Dignidad,PC,0
 391,O'Higgins,6,16,Gisela Tapia,Apruebo Dignidad,FRVS,1
@@ -773,11 +756,6 @@
 380,O'Higgins,6,16,Gloria Alvarado,Corrientes Independientes,IND,1
 381,O'Higgins,6,16,Iancu Cordescu,Corrientes Independientes,IND,0
 382,O'Higgins,6,16,Katherine Villibares,Corrientes Independientes,IND,1
-1221,O'Higgins,6,16,Marlene Duarte,La Sexta Unida,IND,1
-1222,O'Higgins,6,16,Dagoberto Huerta,La Sexta Unida,IND,0
-1223,O'Higgins,6,16,Pamela Morales,La Sexta Unida,IND,1
-1224,O'Higgins,6,16,Rodrigo Cumsille,La Sexta Unida,IND,0
-1225,O'Higgins,6,16,Aida Rojas,La Sexta Unida,IND,1
 1138,O'Higgins,6,16,Adriana Cancino,Lista del Apruebo,PS-IND,1
 1139,O'Higgins,6,16,Hugo Barahona,Lista del Apruebo,PR ,0
 1140,O'Higgins,6,16,Maria Diaz,Lista del Apruebo,PPD-IND,1
@@ -790,17 +768,9 @@
 383,O'Higgins,6,16,Magdalena Barriga,Vamos por Chile,EVO,1
 384,O'Higgins,6,16,Natalia Tobar,Vamos por Chile,EVO,1
 385,O'Higgins,6,16,José María Hurtado,Vamos por Chile,RN,0
-386,O'Higgins,6,16,Juan de Dios Valdivieso Tagle,Vamos por Chile,RN-IND,0
+386,O'Higgins,6,16,Juan Valdivieso,Vamos por Chile,RN-IND,0
 387,O'Higgins,6,16,Irma Greene,Vamos por Chile,UDI,1
-388,O'Higgins,6,16,Ricardo Neumann Bertín,Vamos por Chile,UDI,0
-395,Maule,7,17,Aquiles Carrasco,A. Popular por la Dignidad,IND,0
-396,Maule,7,17,Carlos Argaray,A. Popular por la Dignidad,IND,0
-397,Maule,7,17,Carolina Manríquez,A. Popular por la Dignidad,IND,1
-398,Maule,7,17,Claudia Cáceres,A. Popular por la Dignidad,IND,1
-399,Maule,7,17,Claudia Rojas,A. Popular por la Dignidad,IND,1
-400,Maule,7,17,José Jara,A. Popular por la Dignidad,IND,0
-401,Maule,7,17,María Quinteros,A. Popular por la Dignidad,IND,1
-402,Maule,7,17,Rigoberto Cárcamo,A. Popular por la Dignidad,IND,0
+388,O'Higgins,6,16,Ricardo Neumann,Vamos por Chile,UDI,0
 415,Maule,7,17,Natalia González,Apruebo Dignidad,PI,1
 416,Maule,7,17,José González,Apruebo Dignidad,PI,0
 417,Maule,7,17,Romy Bernal,Apruebo Dignidad,PC,1
@@ -809,6 +779,14 @@
 420,Maule,7,17,Fabián Farías,Apruebo Dignidad,RD,0
 421,Maule,7,17,Paola Grandón,Apruebo Dignidad,FRVS,1
 422,Maule,7,17,Roberto Celedón,Apruebo Dignidad,FRVS,0
+395,Maule,7,17,Aquiles Carrasco,A. Popular por la Dignidad,IND,0
+396,Maule,7,17,Carlos Argaray,A. Popular por la Dignidad,IND,0
+397,Maule,7,17,Carolina Manríquez,A. Popular por la Dignidad,IND,1
+398,Maule,7,17,Claudia Cáceres,A. Popular por la Dignidad,IND,1
+399,Maule,7,17,Claudia Rojas,A. Popular por la Dignidad,IND,1
+400,Maule,7,17,José Jara,A. Popular por la Dignidad,IND,0
+401,Maule,7,17,María Quinteros,A. Popular por la Dignidad,IND,1
+402,Maule,7,17,Rigoberto Cárcamo,A. Popular por la Dignidad,IND,0
 693,Maule,7,17,Luis Hernández,del Pueblo,IND,1
 694,Maule,7,17,Antonia Rosales,del Pueblo,IND,1
 695,Maule,7,17,Zev Tello,del Pueblo,IND,1
@@ -855,10 +833,10 @@
 1157,Maule,7,18,Ricardo Montero,Lista del Apruebo,PS ,0
 423,Maule,7,18,Denise Mewe,Vamos por Chile,REP,1
 424,Maule,7,18,Juan Ariztía,Vamos por Chile,REP,0
-425,Maule,7,18,Leroy Ibáñez Huenur,Vamos por Chile,RN,0
-426,Maule,7,18,Patricia Labra Besserer,Vamos por Chile,RN,1
+425,Maule,7,18,Leroy Ibáñez,Vamos por Chile,RN,0
+426,Maule,7,18,Patricia Labra,Vamos por Chile,RN,1
 427,Maule,7,18,Manuel Noman,Vamos por Chile,UDI,0
-428,Maule,7,18,María Eugenia Hormázabal,Vamos por Chile,UDI,1
+428,Maule,7,18,María E. Hormázabal,Vamos por Chile,UDI,1
 440,Ñuble,7.5,19,Mónica Llaveillán,Apruebo Dignidad,PI,1
 441,Ñuble,7.5,19,Miguel Lizana,Apruebo Dignidad,PI,0
 442,Ñuble,7.5,19,Rocío Hizmeri,Apruebo Dignidad,PC,1
@@ -871,12 +849,12 @@
 709,Ñuble,7.5,19,Sergio Fonseca,"F. Social de Ñuble, Lista del Pueblo",IND,0
 710,Ñuble,7.5,19,César Uribe,"F. Social de Ñuble, Lista del Pueblo",IND,0
 711,Ñuble,7.5,19,Misael Cortez,"F. Social de Ñuble, Lista del Pueblo",IND,1
-760,Ñuble,7.5,19,Carolina Sepúlveda,Ind. De Ñuble por la Nueva Const.,IND,1
-761,Ñuble,7.5,19,Clemente Marín,Ind. De Ñuble por la Nueva Const.,IND,0
-762,Ñuble,7.5,19,Cristián Claret,Ind. De Ñuble por la Nueva Const.,IND,0
-763,Ñuble,7.5,19,Elga Garrido,Ind. De Ñuble por la Nueva Const.,IND,1
-764,Ñuble,7.5,19,Ramón Solá,Ind. De Ñuble por la Nueva Const.,IND,0
-765,Ñuble,7.5,19,Virginia Ortega,Ind. De Ñuble por la Nueva Const.,IND,1
+760,Ñuble,7.5,19,Carolina Sepúlveda,Ind. de Ñuble por la Nueva Const.,IND,1
+761,Ñuble,7.5,19,Clemente Marín,Ind. de Ñuble por la Nueva Const.,IND,0
+762,Ñuble,7.5,19,Cristián Claret,Ind. de Ñuble por la Nueva Const.,IND,0
+763,Ñuble,7.5,19,Elga Garrido,Ind. de Ñuble por la Nueva Const.,IND,1
+764,Ñuble,7.5,19,Ramón Solá,Ind. de Ñuble por la Nueva Const.,IND,0
+765,Ñuble,7.5,19,Virginia Ortega,Ind. de Ñuble por la Nueva Const.,IND,1
 1158,Ñuble,7.5,19,Scarlet Hidalgo,Lista del Apruebo,PPD ,1
 1159,Ñuble,7.5,19,Felipe Harboe,Lista del Apruebo,PPD ,0
 1160,Ñuble,7.5,19,Sergio Hernandez,Lista del Apruebo,PRO-IND,0
@@ -888,7 +866,7 @@
 1008,Ñuble,7.5,19,Claudia Montecinos,Partido Ecologista Verde,PEV,1
 1009,Ñuble,7.5,19,Ruddy Figueroa,Partido Ecologista Verde,PEV,0
 434,Ñuble,7.5,19,Lucas Vidal,Vamos por Chile,EVO,0
-435,Ñuble,7.5,19,Rossana Yáñez Fuller,Vamos por Chile,EVO,1
+435,Ñuble,7.5,19,Rossana Yáñez,Vamos por Chile,EVO,1
 436,Ñuble,7.5,19,Carlos Pinochet,Vamos por Chile,RN,0
 437,Ñuble,7.5,19,Natalia Reyes,Vamos por Chile,RN-IND,1
 438,Ñuble,7.5,19,Margarita Letelier,Vamos por Chile,UDI,1
@@ -956,11 +934,11 @@
 1014,Bío-Bío,8,20,Fernando Sepulveda,Partido Ecologista Verde,PEV,0
 1015,Bío-Bío,8,20,Paula Avila Rivera,Partido Ecologista Verde,PEV,1
 1016,Bío-Bío,8,20,Francisco Vera,Partido Ecologista Verde,PEV,0
-1017,Bío-Bío,8,20,Carla Lara Gallardo,Partido Ecologista Verde,PEV,1
+1017,Bío-Bío,8,20,Carla Lara,Partido Ecologista Verde,PEV,1
 454,Bío-Bío,8,20,Jorge Serón,Vamos por Chile,EVO-IND,0
 455,Bío-Bío,8,20,Rocío Cantuarias,Vamos por Chile,EVO-IND,1
-456,Bío-Bío,8,20,Luciano Ernesto Silva,Vamos por Chile,RN,0
-457,Bío-Bío,8,20,Yanina Contreras Álvarez,Vamos por Chile,RN,1
+456,Bío-Bío,8,20,Luciano Silva,Vamos por Chile,RN,0
+457,Bío-Bío,8,20,Yanina Contreras,Vamos por Chile,RN,1
 458,Bío-Bío,8,20,Claudia Pavez,Vamos por Chile,RN-IND,1
 459,Bío-Bío,8,20,Elías Ramos,Vamos por Chile,UDI,0
 460,Bío-Bío,8,20,Alejandro Reyes,Vamos por Chile,UDI-IND,0
@@ -982,7 +960,7 @@
 472,Bío-Bío,8,21,Leticia Berrocal,Independientes y Felices,IND,1
 473,Bío-Bío,8,21,Lorena Urra A.,Independientes y Felices,IND,1
 474,Bío-Bío,8,21,Luis Vásquez,Independientes y Felices,IND,0
-1172,Bío-Bío,8,21,Luis Barcelo Amado,Lista del Apruebo,PPD-IND,0
+1172,Bío-Bío,8,21,Luis Barcelo,Lista del Apruebo,PPD-IND,0
 1173,Bío-Bío,8,21,Norka Flores Jara,Lista del Apruebo,DC ,1
 1174,Bío-Bío,8,21,Aurelia Ormeño,Lista del Apruebo,PR ,1
 1175,Bío-Bío,8,21,Oscar Burgos,Lista del Apruebo,PS-IND,0
@@ -1021,11 +999,11 @@
 1182,Araucanía,9,22,Sofia Painiqueo,Lista del Apruebo,PPD-IND,1
 1183,Araucanía,9,22,Hector Ulloa,Lista del Apruebo,PS-IND,0
 489,Araucanía,9,22,Mauricio Lepin ,Mapuche,IND,0
-929,Araucanía,9,22,Ximena Salgado,Org. Sociales y Territoriales Wallmapu,IND,1
-930,Araucanía,9,22,Felipe Venegas,Org. Sociales y Territoriales Wallmapu,IND,0
-931,Araucanía,9,22,Alejandra Rivas,Org. Sociales y Territoriales Wallmapu,IND,1
-932,Araucanía,9,22,Aliro Henríquez,Org. Sociales y Territoriales Wallmapu,IND,0
-933,Araucanía,9,22,Boris Salzar,Org. Sociales y Territoriales Wallmapu,IND,0
+929,Araucanía,9,22,Ximena Salgado,Org. Sociales y T. Wallmapu,IND,1
+930,Araucanía,9,22,Felipe Venegas,Org. Sociales y T. Wallmapu,IND,0
+931,Araucanía,9,22,Alejandra Rivas,Org. Sociales y T. Wallmapu,IND,1
+932,Araucanía,9,22,Aliro Henríquez,Org. Sociales y T. Wallmapu,IND,0
+933,Araucanía,9,22,Boris Salzar,Org. Sociales y T. Wallmapu,IND,0
 490,Araucanía,9,22,Genni Fulgeri,Vamos por Chile,EVO-IND,1
 491,Araucanía,9,22,Isabel Quiroz,Vamos por Chile,EVO-IND,1
 492,Araucanía,9,22,Cristian Greenhill,Vamos por Chile,RN,0
@@ -1044,19 +1022,19 @@
 620,Araucanía,9,23,Omar Ortiz,Ciudadanos Cristianos,PNC,0
 621,Araucanía,9,23,Andrea Punulef,Ciudadanos Cristianos,PNC,1
 622,Araucanía,9,23,Edgardo Sepulveda,Ciudadanos Cristianos,PNC-IND,0
-716,Araucanía,9,23,Luz Eliana Alca,Elige la lista del Pueblo,IND,1
-717,Araucanía,9,23,Rossana Betancur,Elige la lista del Pueblo,IND,1
-718,Araucanía,9,23,Helmuth Martínez,Elige la lista del Pueblo,IND,0
-719,Araucanía,9,23,Marcela Lepilaf,Elige la lista del Pueblo,IND,1
-720,Araucanía,9,23,Mario Flores,Elige la lista del Pueblo,IND,0
-721,Araucanía,9,23,Alejandro Mellado,Elige la lista del Pueblo,IND,0
+716,Araucanía,9,23,Luz Eliana Alca,del Pueblo,IND,1
+717,Araucanía,9,23,Rossana Betancur,del Pueblo,IND,1
+718,Araucanía,9,23,Helmuth Martínez,del Pueblo,IND,0
+719,Araucanía,9,23,Marcela Lepilaf,del Pueblo,IND,1
+720,Araucanía,9,23,Mario Flores,del Pueblo,IND,0
+721,Araucanía,9,23,Alejandro Mellado,del Pueblo,IND,0
 1184,Araucanía,9,23,Jacqueline Burdiles,Lista del Apruebo,DC ,1
 1185,Araucanía,9,23,Eduardo Castillo,Lista del Apruebo,PPD ,0
 1186,Araucanía,9,23,Minerva Castañeda,Lista del Apruebo,PS ,1
 1187,Araucanía,9,23,Ilich Silva Peña,Lista del Apruebo,PRO-IND,0
 1188,Araucanía,9,23,Violeta Palavicino,Lista del Apruebo,PPD-IND,1
 1189,Araucanía,9,23,Heinrich Von Baer,Lista del Apruebo,DC-IND,0
-1190,Araucanía,9,23,Eliana Roa Valenzuela,Lista del Apruebo,PRO-IND,1
+1190,Araucanía,9,23,Eliana Roa,Lista del Apruebo,PRO-IND,1
 498,Araucanía,9,23,Ana Llao,Mapuche,IND,1
 772,Araucanía,9,23,Daniela Vásquez,No Neutrales,IND,1
 773,Araucanía,9,23,Eva Caurapan,No Neutrales,IND,1
@@ -1064,18 +1042,18 @@
 775,Araucanía,9,23,Lorena Céspedes,No Neutrales,IND,1
 776,Araucanía,9,23,Paulo Gatica,No Neutrales,IND,0
 777,Araucanía,9,23,Richard Caamaño,No Neutrales,IND,0
-934,Araucanía,9,23,Sandra Marín,Org. Sociales y Territoriales Wallmapu,IND,1
-935,Araucanía,9,23,Carlos Mena,Org. Sociales y Territoriales Wallmapu,IND,0
-936,Araucanía,9,23,Ana María Vera,Org. Sociales y Territoriales Wallmapu,IND,1
-937,Araucanía,9,23,Claudio Díaz,Org. Sociales y Territoriales Wallmapu,IND,0
-938,Araucanía,9,23,Alejandra Parra,Org. Sociales y Territoriales Wallmapu,IND,1
-939,Araucanía,9,23,Eduardo Rapiman,Org. Sociales y Territoriales Wallmapu,IND,0
-940,Araucanía,9,23,Loreto Lagos,Org. Sociales y Territoriales Wallmapu,IND,1
+934,Araucanía,9,23,Sandra Marín,Org. Sociales y T. Wallmapu,IND,1
+935,Araucanía,9,23,Carlos Mena,Org. Sociales y T. Wallmapu,IND,0
+936,Araucanía,9,23,Ana María Vera,Org. Sociales y T. Wallmapu,IND,1
+937,Araucanía,9,23,Claudio Díaz,Org. Sociales y T. Wallmapu,IND,0
+938,Araucanía,9,23,Alejandra Parra,Org. Sociales y T. Wallmapu,IND,1
+939,Araucanía,9,23,Eduardo Rapiman,Org. Sociales y T. Wallmapu,IND,0
+940,Araucanía,9,23,Loreto Lagos,Org. Sociales y T. Wallmapu,IND,1
 1024,Araucanía,9,23,Soledad Irribarra,Partido Ecologista Verde,PEV,1
 1025,Araucanía,9,23,Ivan Rojas Villagra,Partido Ecologista Verde,PEV,0
 1026,Araucanía,9,23,Lorena Jara Jara,Partido Ecologista Verde,PEV,1
-1027,Araucanía,9,23,Hernan Caceres Avila,Partido Ecologista Verde,PEV,0
-1028,Araucanía,9,23,Monica Castro Canales,Partido Ecologista Verde,PEV,1
+1027,Araucanía,9,23,Hernan Caceres,Partido Ecologista Verde,PEV,0
+1028,Araucanía,9,23,Monica Castro,Partido Ecologista Verde,PEV,1
 1029,Araucanía,9,23,Edgardo Lovera,Partido Ecologista Verde,PEV,0
 941,Araucanía,9,23,Camila Delgado,Trabajadores Revolucionarios,PTR,1
 942,Araucanía,9,23,Daniel Lara,Trabajadores Revolucionarios,PTR,0
@@ -1094,11 +1072,11 @@
 520,Los Ríos,9.5,24,Wladimir Riesco,Apruebo Dignidad,PC,0
 521,Los Ríos,9.5,24,Marisol Torres,Apruebo Dignidad,PC,1
 522,Los Ríos,9.5,24,Wladimir Manzano,Apruebo Dignidad,PC,0
-815,Los Ríos,9.5,24,Gustavo Dávila Sepúlveda,Chile Independiente,IND,0
-816,Los Ríos,9.5,24,Carmen Gárate Silva,Chile Independiente,IND,1
-817,Los Ríos,9.5,24,Claudia Letelier Velásquez,Chile Independiente,IND,1
+815,Los Ríos,9.5,24,Gustavo Dávila,Chile Independiente,IND,0
+816,Los Ríos,9.5,24,Carmen Gárate,Chile Independiente,IND,1
+817,Los Ríos,9.5,24,Claudia Letelier,Chile Independiente,IND,1
 818,Los Ríos,9.5,24,José Núñez Jau,Chile Independiente,IND,0
-819,Los Ríos,9.5,24,Valeria Antimilla Pilquiante,Chile Independiente,IND,1
+819,Los Ríos,9.5,24,Valeria Antimilla,Chile Independiente,IND,1
 1191,Los Ríos,9.5,24,Maria Reyes,Lista del Apruebo,PS ,1
 1192,Los Ríos,9.5,24,Marco Leal Ruiz,Lista del Apruebo,PPD ,0
 1193,Los Ríos,9.5,24,Rita Soto Savando,Lista del Apruebo,DC-IND,1
@@ -1116,11 +1094,11 @@
 780,Los Ríos,9.5,24,José Escaida,No Neutrales,IND,0
 781,Los Ríos,9.5,24,Ximena Sabat,No Neutrales,IND,1
 1030,Los Ríos,9.5,24,Fabiola Leiva Trujillo,Partido Ecologista Verde,PEV,1
-1031,Los Ríos,9.5,24,Estefano Cancino Caceres,Partido Ecologista Verde,PEV,0
+1031,Los Ríos,9.5,24,Estefano Cancino,Partido Ecologista Verde,PEV,0
 1032,Los Ríos,9.5,24,Monica Provoste Vidal,Partido Ecologista Verde,PEV,1
 1033,Los Ríos,9.5,24,Luis Mancilla Peña,Partido Ecologista Verde,PEV,0
 511,Los Ríos,9.5,24,Tomás Mandiola,Vamos por Chile,EVO,0
-512,Los Ríos,9.5,24,María Angélica Fernández,Vamos por Chile,EVO-IND,1
+512,Los Ríos,9.5,24,María A. Fernández,Vamos por Chile,EVO-IND,1
 513,Los Ríos,9.5,24,Cristhian Cancino,Vamos por Chile,RN,0
 514,Los Ríos,9.5,24,Marina Maipallán,Vamos por Chile,RN,1
 515,Los Ríos,9.5,24,Felipe Mena,Vamos por Chile,UDI,0
@@ -1137,14 +1115,10 @@
 1200,Los Lagos,10,25,Enzo Jaramillo Hott,Lista del Apruebo,PS ,0
 1201,Los Lagos,10,25,Cecilia Kramm,Lista del Apruebo,DC-IND,1
 1202,Los Lagos,10,25,Mario Vargas Vidal,Lista del Apruebo,PS ,0
-623,Los Lagos,10,25,Elisa Neira,Lista del Pueblo Tranformando desde el Willy,IND,1
+623,Los Lagos,10,25,Elisa Neira,Lista del Pueblo T. desde el Willy,IND,1
 782,Los Lagos,10,25,Jorge Contreras,No Neutrales,IND,0
-783,Los Lagos,10,25,Juan Carlos Claret Pool,No Neutrales,IND,0
+783,Los Lagos,10,25,Juan C. Claret Pool,No Neutrales,IND,0
 784,Los Lagos,10,25,Carolina Lagos,No Neutrales,IND,1
-1235,Los Lagos,10,25,Cristina Añasco,Nuestras Voces,IND,1
-1236,Los Lagos,10,25,Felipe Matus,Nuestras Voces,IND,0
-1237,Los Lagos,10,25,Beatriz Bahamondes,Nuestras Voces,IND,1
-1238,Los Lagos,10,25,Claudio Pareja,Nuestras Voces,IND,0
 523,Los Lagos,10,25,Alicia Vesperinas,Vamos por Chile,EVO-IND,1
 524,Los Lagos,10,25,René Merino,Vamos por Chile,EVO-IND,0
 525,Los Lagos,10,25,Marisol Bañares,Vamos por Chile,REP,1
@@ -1185,7 +1159,7 @@
 537,Los Lagos,10,26,Juan Ossa Santa Cruz,Vamos por Chile,RN-IND,0
 538,Los Lagos,10,26,Patricia Sanzana,Vamos por Chile,RN-IND,1
 539,Los Lagos,10,26,Kate Montealegre,Vamos por Chile,UDI,1
-540,Los Lagos,10,26,Marcos Emilfork Konow,Vamos por Chile,UDI-IND,0
+540,Los Lagos,10,26,Marcos Emilfork,Vamos por Chile,UDI-IND,0
 945,Aysén,11,27,Luisa Ludwing,"A Pulso, por el buen vivir",IND,1
 946,Aysén,11,27,Ilsie Wolf,"A Pulso, por el buen vivir",IND,1
 947,Aysén,11,27,Deisy Avendaño,"A Pulso, por el buen vivir",IND,1
@@ -1204,11 +1178,6 @@
 1212,Aysén,11,27,Guillermo Martinez,Lista del Apruebo,PR ,0
 1213,Aysén,11,27,Jannette Salgado,Lista del Apruebo,DC ,1
 1214,Aysén,11,27,Mario Sandoval,Lista del Apruebo,DC ,0
-1247,Aysén,11,27,Mónica Mora,Patagonia Somos Todos,IND,1
-1248,Aysén,11,27,José Luis Sánchez,Patagonia Somos Todos,IND,0
-1249,Aysén,11,27,Macarena Medrano,Patagonia Somos Todos,IND,1
-1250,Aysén,11,27,Claudio Figueroa,Patagonia Somos Todos,IND,0
-1251,Aysén,11,27,Rolando del Río,Patagonia Somos Todos,IND,0
 547,Aysén,11,27,Geoconda Navarrete,Vamos por Chile,EVO,1
 548,Aysén,11,27,Alfredo Runin,Vamos por Chile,EVO-IND,0
 549,Aysén,11,27,Marcos Vargas,Vamos por Chile,RN,0
@@ -1227,7 +1196,7 @@
 562,Magallanes,12,28,Patricio Fuentes,Coord. Social de Magallanes,IND,0
 1215,Magallanes,12,28,Adriana Baratelli ,Lista del Apruebo,PRO-IND,1
 1216,Magallanes,12,28,Manuel Gallardo,Lista del Apruebo,DC ,0
-1217,Magallanes,12,28,Karin Escarate Fica,Lista del Apruebo,PR-IND,1
+1217,Magallanes,12,28,Karin Escarate,Lista del Apruebo,PR-IND,1
 1218,Magallanes,12,28,Nelson Leiva,Lista del Apruebo,DC ,0
 1219,Magallanes,12,28,Maria Flores,Lista del Apruebo,PS ,1
 1220,Magallanes,12,28,Luis Navarro,Lista del Apruebo,PS ,0
@@ -1250,3 +1219,5 @@
 573,Magallanes,12,28,Marcelo Torche,Vamos por Chile,UDI-IND,0
 574,Magallanes,12,28,José González C.,Yagán,IND,0
 575,Magallanes,12,28,María Luisa Muñoz,Yagán,IND,1
+,,,,,,,
+,,,,,,,
