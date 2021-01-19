@@ -243,6 +243,7 @@
 133,Valparaíso,5,6,Ramiro González F.,No Neutrales,IND,0
 134,Valparaíso,5,6,Ricardo Trigo Ulloa,No Neutrales,IND,0
 135,Valparaíso,5,6,Rocío Veas Solís,No Neutrales,IND,1
+1221,Valparaíso,5,6,Priscila Haydee,Partido Humanista,PH,1
 136,Valparaíso,5,6,Carolina Contreras ,Vamos por Chile,EVO,0
 137,Valparaíso,5,6,José Valenzuela,Vamos por Chile,EVO-IND,0
 138,Valparaíso,5,6,Chiara Barchiesi,Vamos por Chile,REP,1
@@ -299,6 +300,7 @@
 735,Valparaíso,5,7,Patricio Young,No Neutrales,IND,0
 736,Valparaíso,5,7,Rodrigo Reyes,No Neutrales,IND,0
 737,Valparaíso,5,7,Sofía Bustos,No Neutrales,IND,1
+1222,Valparaíso,5,7,Marcelo Herrera,Partido Humanista,PH,0
 583,Valparaíso,5,7,Aurora Galleguillos,Parto Social,IND,1
 584,Valparaíso,5,7,Rubén Parra,Parto Social,IND,0
 585,Valparaíso,5,7,Alexandra Ramírez,Parto Social,IND,1
@@ -382,6 +384,7 @@
 959,Metropolitana,5.5,8,Pedro Bustamante,Partido Ecologista Verde,PEV,0
 960,Metropolitana,5.5,8,Maria Hernandez,Partido Ecologista Verde,PEV,1
 961,Metropolitana,5.5,8,Hector Orellana,Partido Ecologista Verde,PEV,0
+1223,Metropolitana,5.5,8,Camila Paz Cáceres,Partido Humanista,PH,1
 862,Metropolitana,5.5,8,Beatriz Bravo Vaca,Trabajadores Revolucionarios,PTR,1
 863,Metropolitana,5.5,8,Sebastian Aviles Tapia,Trabajadores Revolucionarios,PTR,0
 864,Metropolitana,5.5,8,Javiera Marquez,Trabajadores Revolucionarios,PTR,1
@@ -554,6 +557,8 @@
 978,Metropolitana,5.5,11,Nicole Peñaloza,Partido Ecologista Verde,PEV,1
 979,Metropolitana,5.5,11,Ivo Vukusich,Partido Ecologista Verde,PEV,0
 980,Metropolitana,5.5,11,Cristina Femenias,Partido Ecologista Verde,PEV,1
+1224,Metropolitana,5.5,11,Gloria Córdova,Partido Humanista,PH,1
+1225,Metropolitana,5.5,11,Nora Buzeta,Partido Humanista,PH,1
 298,Metropolitana,5.5,11,Hernán Larraín Matte,Vamos por Chile,EVO,0
 299,Metropolitana,5.5,11,Pauline Kantor Pupkin,Vamos por Chile,EVO,1
 300,Metropolitana,5.5,11,Verónica Campino,Vamos por Chile,RN,1
@@ -604,6 +609,7 @@
 985,Metropolitana,5.5,12,Carolina Leiva Garcia,Partido Ecologista Verde,PEV,1
 986,Metropolitana,5.5,12,Rene Valdes Lopez,Partido Ecologista Verde,PEV,0
 987,Metropolitana,5.5,12,Camila Bustamante,Partido Ecologista Verde,PEV,1
+1226,Metropolitana,5.5,12,Luis Palma,Partido Humanista,PH,0
 897,Metropolitana,5.5,12,Joseffe Caceres,Trabajadores Revolucionarios,PTR,1
 898,Metropolitana,5.5,12,Victor Ibañez,Trabajadores Revolucionarios,PTR,0
 899,Metropolitana,5.5,12,Camila Meza,Trabajadores Revolucionarios,PTR,1
@@ -771,14 +777,6 @@
 386,O'Higgins,6,16,Juan Valdivieso,Vamos por Chile,RN-IND,0
 387,O'Higgins,6,16,Irma Greene,Vamos por Chile,UDI,1
 388,O'Higgins,6,16,Ricardo Neumann,Vamos por Chile,UDI,0
-415,Maule,7,17,Natalia González,Apruebo Dignidad,PI,1
-416,Maule,7,17,José González,Apruebo Dignidad,PI,0
-417,Maule,7,17,Romy Bernal,Apruebo Dignidad,PC,1
-418,Maule,7,17,Igor Villarroel,Apruebo Dignidad,PC,0
-419,Maule,7,17,Eliana Adams,Apruebo Dignidad,RD,1
-420,Maule,7,17,Fabián Farías,Apruebo Dignidad,RD,0
-421,Maule,7,17,Paola Grandón,Apruebo Dignidad,FRVS,1
-422,Maule,7,17,Roberto Celedón,Apruebo Dignidad,FRVS,0
 395,Maule,7,17,Aquiles Carrasco,A. Popular por la Dignidad,IND,0
 396,Maule,7,17,Carlos Argaray,A. Popular por la Dignidad,IND,0
 397,Maule,7,17,Carolina Manríquez,A. Popular por la Dignidad,IND,1
@@ -787,6 +785,14 @@
 400,Maule,7,17,José Jara,A. Popular por la Dignidad,IND,0
 401,Maule,7,17,María Quinteros,A. Popular por la Dignidad,IND,1
 402,Maule,7,17,Rigoberto Cárcamo,A. Popular por la Dignidad,IND,0
+415,Maule,7,17,Natalia González,Apruebo Dignidad,PI,1
+416,Maule,7,17,José González,Apruebo Dignidad,PI,0
+417,Maule,7,17,Romy Bernal,Apruebo Dignidad,PC,1
+418,Maule,7,17,Igor Villarroel,Apruebo Dignidad,PC,0
+419,Maule,7,17,Eliana Adams,Apruebo Dignidad,RD,1
+420,Maule,7,17,Fabián Farías,Apruebo Dignidad,RD,0
+421,Maule,7,17,Paola Grandón,Apruebo Dignidad,FRVS,1
+422,Maule,7,17,Roberto Celedón,Apruebo Dignidad,FRVS,0
 693,Maule,7,17,Luis Hernández,del Pueblo,IND,1
 694,Maule,7,17,Antonia Rosales,del Pueblo,IND,1
 695,Maule,7,17,Zev Tello,del Pueblo,IND,1
@@ -806,6 +812,11 @@
 1149,Maule,7,17,Hugo Veloso,Lista del Apruebo,PR-IND,0
 1150,Maule,7,17,Susana Zamorano,Lista del Apruebo,DC ,1
 1151,Maule,7,17,Christian Viera,Lista del Apruebo,DC-IND,0
+1227,Maule,7,17,Daniel Bustos,Partido Humanista,PH,0
+1228,Maule,7,17,Víctor Miranda,Partido Humanista,PH,0
+1229,Maule,7,17,Lorena Gutiérrez,Partido Humanista,PH,1
+1230,Maule,7,17,José Rojas Ponce,Partido Humanista,PH,0
+1231,Maule,7,17,Isabel Carvajal,Partido Humanista,PH,1
 407,Maule,7,17,Antonio Walker,Vamos por Chile,EVO-IND,0
 408,Maule,7,17,Barbara Rebolledo,Vamos por Chile,EVO-IND,1
 409,Maule,7,17,Sergio Correa,Vamos por Chile,REP,0
@@ -1202,6 +1213,7 @@
 1220,Magallanes,12,28,Luis Navarro,Lista del Apruebo,PS ,0
 791,Magallanes,12,28,Andrea Pivcevic,Magallanicos No Neutrales,IND,1
 792,Magallanes,12,28,Javier Solis,Magallanicos No Neutrales,IND,0
+1232,Magallanes,12,28,Jorge Bordolli,Partido Humanista,PH,0
 563,Magallanes,12,28,Grissell González,Regionalismo Ciudadano Ind.,IND,1
 564,Magallanes,12,28,Jaime Ormeño,Regionalismo Ciudadano Ind.,IND,0
 565,Magallanes,12,28,Juan C. Kalasich,Regionalismo Ciudadano Ind.,IND,0
@@ -1219,5 +1231,3 @@
 573,Magallanes,12,28,Marcelo Torche,Vamos por Chile,UDI-IND,0
 574,Magallanes,12,28,José González C.,Yagán,IND,0
 575,Magallanes,12,28,María Luisa Muñoz,Yagán,IND,1
-,,,,,,,
-,,,,,,,
