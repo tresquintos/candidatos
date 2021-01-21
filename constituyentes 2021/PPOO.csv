@@ -1,0 +1,52 @@
+﻿id,región,region2,distrito,distrito2,nombre,ppoo,sexo
+1,Antofagasta,2,3,Antofagasta,Sergio Cubillos,Atacameño,0
+2,Antofagasta,2,3,Antofagasta,Miguel Urrelo,Quechua,0
+3,Antofagasta,2,3,Antofagasta,Samuel Yupanqui,Quechua,0
+4,Atacama,3,4,Copiapó,Brenda Gutierrez,Changos,1
+5,Atacama,3,4,Copiapó,Marta Rodríguez,Changos,1
+6,Atacama,3,4,Copiapó,Luis Castro,Changos,0
+7,Atacama,3,4,Copiapó,Fernando Tirado,Changos,0
+8,Coquimbo,4,5,La Serena,Isabel Godoy,Colla,1
+9,Valparaíso,5,7,Valparaíso,Tiare Aguilera,Rapa Nui,1
+10,Valparaíso,5,7,Valparaíso,Valeria Pakarati,Rapa Nui,1
+11,Valparaíso,5,7,Valparaíso,Tamaru Huke,Rapa Nui,0
+12,Metropolitana,5.5,8,Maipú,Alihuen Antileo,Mapuche,0
+13,Metropolitana,5.5,8,Maipú,Elisa Loncon,Mapuche,0
+14,Metropolitana,5.5,12,Puente Alto,Camilo Pereira,Mapuche,0
+15,Bío-Bío,8,20,Concepción,Francisca Linconao,Mapuche,1
+16,Bío-Bío,8,20,Concepción,María Olmos Loncopan,Mapuche,1
+17,Bío-Bío,8,20,Concepción,Hugo Alcaman,Mapuche,0
+18,Bío-Bío,8,21,Los Ángeles,Natividad Llanquileo,Mapuche,1
+19,Bío-Bío,8,21,Los Ángeles,Adolfo Millabur,Mapuche,0
+20,Araucanía,9,22,Angol,Mauricio Lepin ,Mapuche,0
+21,Araucanía,9,23,Temuco,Ana Llao,Mapuche,1
+22,Magallanes,12,28,Punta Arenas,Lidia González,Yagán,1
+23,Magallanes,12,28,Punta Arenas,Luis Gómez,Yagán,0
+24,s/i,s/i,999,s/i,Oriana Mora,Atacameño,1
+25,s/i,s/i,999,s/i,Manuel Escalante,Atacameño,0
+46,s/i,s/i,999,s/i,Laureano Supanta,Aymara,0
+47,s/i,s/i,999,s/i,Catalina Cortés,Aymara,1
+48,s/i,s/i,999,s/i,Javier Supanta,Aymara,0
+49,s/i,s/i,999,s/i,Javier Vilca,Aymara,0
+50,s/i,s/i,999,s/i,Yanet Challapa,Aymara,1
+51,s/i,s/i,999,s/i,Naomi Calle,Aymara,1
+44,s/i,s/i,999,s/i,Inés Carvajal,Diaguita,1
+45,s/i,s/i,999,s/i,Felipe Retamal,Diaguita,0
+40,s/i,s/i,999,s/i,Michael Vargas,Kawésqar,0
+41,s/i,s/i,999,s/i,Lucia Uribe,Kawésqar,1
+42,s/i,s/i,999,s/i,Leticia Caro,Kawésqar,1
+43,s/i,s/i,999,s/i,Margarita Vargas,Kawésqar,1
+28,s/i,s/i,999,s/i,Carmen Caifil,Mapuche,1
+29,s/i,s/i,999,s/i,Victorino Antilef,Mapuche,0
+30,s/i,s/i,999,s/i,Augusto Manquelipe,Mapuche,0
+31,s/i,s/i,999,s/i,Jaime Marimán,Mapuche,0
+32,s/i,s/i,999,s/i,Orieta Llaica,Mapuche,1
+33,s/i,s/i,999,s/i,Juan Huentelicán,Mapuche,0
+34,s/i,s/i,999,s/i,Eric Vargas,Mapuche,0
+35,s/i,s/i,999,s/i,Hilda Guenteo,Mapuche,1
+36,s/i,s/i,999,s/i,Ingrid Conejeros,Mapuche,1
+37,s/i,s/i,999,s/i,Richard Caifal,Mapuche,0
+38,s/i,s/i,999,s/i,Carmen Jaramillo,Mapuche,1
+39,s/i,s/i,999,s/i,Alexis Caiguán,Mapuche,0
+26,s/i,s/i,999,s/i,Telma Ramos,Quechua,1
+27,s/i,s/i,999,s/i,Wilfredo Bacian,Quechua,0
