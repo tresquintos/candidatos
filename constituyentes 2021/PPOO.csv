@@ -1,12 +1,22 @@
 ﻿id,región,region2,distrito,distrito2,nombre,ppoo,sexo
+50,Arica,0.5,1,Arica,Luis Jiménez,Aymara,0
+44,Tarapacá,1,2,Iquique,Laureano Supanta,Aymara,0
+45,Tarapacá,1,2,Iquique,Catalina Cortés,Aymara,1
+51,Tarapacá,1,2,Iquique,Nélida Moscoso,Aymara,1
+26,Tarapacá,1,2,Iquique,Telma Ramos,Quechua,1
+27,Tarapacá,1,2,Iquique,Wilfredo Bacian,Quechua,0
 1,Antofagasta,2,3,Antofagasta,Sergio Cubillos,Atacameño,0
 2,Antofagasta,2,3,Antofagasta,Miguel Urrelo,Quechua,0
 3,Antofagasta,2,3,Antofagasta,Samuel Yupanqui,Quechua,0
+24,Atacama,3,4,Copiapó,Oriana Mora,Atacameño,1
+25,Atacama,3,4,Copiapó,Manuel Escalante,Atacameño,0
+52,Atacama,3,4,Copiapó,Ximena Anza,Atacameño,1
+53,Atacama,3,4,Copiapó,Cristián Varela,Atacameño,0
 4,Atacama,3,4,Copiapó,Brenda Gutierrez,Changos,1
-5,Atacama,3,4,Copiapó,Marta Rodríguez,Changos,1
 6,Atacama,3,4,Copiapó,Luis Castro,Changos,0
-7,Atacama,3,4,Copiapó,Fernando Tirado,Changos,0
-8,Coquimbo,4,5,La Serena,Isabel Godoy,Colla,1
+8,Atacama,3,4,Copiapó,Isabel Godoy,Colla,1
+5,Coquimbo,4,5,La Serena,Marta Rodríguez,Changos,1
+7,Coquimbo,4,5,La Serena,Fernando Tirado,Changos,0
 9,Valparaíso,5,7,Valparaíso,Tiare Aguilera,Rapa Nui,1
 10,Valparaíso,5,7,Valparaíso,Valeria Pakarati,Rapa Nui,1
 11,Valparaíso,5,7,Valparaíso,Tamaru Huke,Rapa Nui,0
@@ -20,22 +30,26 @@
 19,Bío-Bío,8,21,Los Ángeles,Adolfo Millabur,Mapuche,0
 20,Araucanía,9,22,Angol,Mauricio Lepin ,Mapuche,0
 21,Araucanía,9,23,Temuco,Ana Llao,Mapuche,1
+41,Magallanes,12,28,Punta Arenas,Lucia Uribe,Kawésqar,1
+42,Magallanes,12,28,Punta Arenas,Leticia Caro,Kawésqar,1
+43,Magallanes,12,28,Punta Arenas,Margarita Vargas,Kawésqar,1
+54,Magallanes,12,28,Punta Arenas,José Fernández,Kawésqar,0
+55,Magallanes,12,28,Punta Arenas,Felicia González,Kawésqar,1
 22,Magallanes,12,28,Punta Arenas,Lidia González,Yagán,1
 23,Magallanes,12,28,Punta Arenas,Luis Gómez,Yagán,0
-24,s/i,s/i,999,s/i,Oriana Mora,Atacameño,1
-25,s/i,s/i,999,s/i,Manuel Escalante,Atacameño,0
-46,s/i,s/i,999,s/i,Laureano Supanta,Aymara,0
-47,s/i,s/i,999,s/i,Catalina Cortés,Aymara,1
-48,s/i,s/i,999,s/i,Javier Supanta,Aymara,0
-49,s/i,s/i,999,s/i,Javier Vilca,Aymara,0
-50,s/i,s/i,999,s/i,Yanet Challapa,Aymara,1
-51,s/i,s/i,999,s/i,Naomi Calle,Aymara,1
-44,s/i,s/i,999,s/i,Inés Carvajal,Diaguita,1
-45,s/i,s/i,999,s/i,Felipe Retamal,Diaguita,0
+46,s/i,s/i,999,s/i,Javier Supanta,Aymara,0
+47,s/i,s/i,999,s/i,Javier Vilca,Aymara,0
+48,s/i,s/i,999,s/i,Yanet Challapa,Aymara,1
+49,s/i,s/i,999,s/i,Naomi Calle,Aymara,1
+56,s/i,s/i,999,s/i,Daniza Álvares,Diaguita,1
+57,s/i,s/i,999,s/i,Sergio Campusano,Diaguita,0
+58,s/i,s/i,999,s/i,Gabriela Calderón,Diaguita,1
+59,s/i,s/i,999,s/i,Erick Chinga,Diaguita,0
+60,s/i,s/i,999,s/i,Solange Bordones,Diaguita,1
+61,s/i,s/i,999,s/i,Ernesto Alcayaga,Diaguita,0
+62,s/i,s/i,999,s/i,Inés Carvajal,Diaguita,1
+63,s/i,s/i,999,s/i,Felipe Retamal,Diaguita,0
 40,s/i,s/i,999,s/i,Michael Vargas,Kawésqar,0
-41,s/i,s/i,999,s/i,Lucia Uribe,Kawésqar,1
-42,s/i,s/i,999,s/i,Leticia Caro,Kawésqar,1
-43,s/i,s/i,999,s/i,Margarita Vargas,Kawésqar,1
 28,s/i,s/i,999,s/i,Carmen Caifil,Mapuche,1
 29,s/i,s/i,999,s/i,Victorino Antilef,Mapuche,0
 30,s/i,s/i,999,s/i,Augusto Manquelipe,Mapuche,0
@@ -48,5 +62,3 @@
 37,s/i,s/i,999,s/i,Richard Caifal,Mapuche,0
 38,s/i,s/i,999,s/i,Carmen Jaramillo,Mapuche,1
 39,s/i,s/i,999,s/i,Alexis Caiguán,Mapuche,0
-26,s/i,s/i,999,s/i,Telma Ramos,Quechua,1
-27,s/i,s/i,999,s/i,Wilfredo Bacian,Quechua,0
