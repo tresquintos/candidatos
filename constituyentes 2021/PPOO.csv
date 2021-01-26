@@ -1,64 +1,185 @@
-﻿id,región,region2,distrito,distrito2,nombre,ppoo,sexo
-50,Arica,0.5,1,Arica,Luis Jiménez,Aymara,0
-44,Tarapacá,1,2,Iquique,Laureano Supanta,Aymara,0
-45,Tarapacá,1,2,Iquique,Catalina Cortés,Aymara,1
-51,Tarapacá,1,2,Iquique,Nélida Moscoso,Aymara,1
-26,Tarapacá,1,2,Iquique,Telma Ramos,Quechua,1
-27,Tarapacá,1,2,Iquique,Wilfredo Bacian,Quechua,0
-1,Antofagasta,2,3,Antofagasta,Sergio Cubillos,Atacameño,0
-2,Antofagasta,2,3,Antofagasta,Miguel Urrelo,Quechua,0
-3,Antofagasta,2,3,Antofagasta,Samuel Yupanqui,Quechua,0
-24,Atacama,3,4,Copiapó,Oriana Mora,Atacameño,1
-25,Atacama,3,4,Copiapó,Manuel Escalante,Atacameño,0
-52,Atacama,3,4,Copiapó,Ximena Anza,Atacameño,1
-53,Atacama,3,4,Copiapó,Cristián Varela,Atacameño,0
-4,Atacama,3,4,Copiapó,Brenda Gutierrez,Changos,1
-6,Atacama,3,4,Copiapó,Luis Castro,Changos,0
-8,Atacama,3,4,Copiapó,Isabel Godoy,Colla,1
-5,Coquimbo,4,5,La Serena,Marta Rodríguez,Changos,1
-7,Coquimbo,4,5,La Serena,Fernando Tirado,Changos,0
-9,Valparaíso,5,7,Valparaíso,Tiare Aguilera,Rapa Nui,1
-10,Valparaíso,5,7,Valparaíso,Valeria Pakarati,Rapa Nui,1
-11,Valparaíso,5,7,Valparaíso,Tamaru Huke,Rapa Nui,0
-12,Metropolitana,5.5,8,Maipú,Alihuen Antileo,Mapuche,0
-13,Metropolitana,5.5,8,Maipú,Elisa Loncon,Mapuche,0
-14,Metropolitana,5.5,12,Puente Alto,Camilo Pereira,Mapuche,0
-15,Bío-Bío,8,20,Concepción,Francisca Linconao,Mapuche,1
-16,Bío-Bío,8,20,Concepción,María Olmos Loncopan,Mapuche,1
-17,Bío-Bío,8,20,Concepción,Hugo Alcaman,Mapuche,0
-18,Bío-Bío,8,21,Los Ángeles,Natividad Llanquileo,Mapuche,1
-19,Bío-Bío,8,21,Los Ángeles,Adolfo Millabur,Mapuche,0
-20,Araucanía,9,22,Angol,Mauricio Lepin ,Mapuche,0
-21,Araucanía,9,23,Temuco,Ana Llao,Mapuche,1
-41,Magallanes,12,28,Punta Arenas,Lucia Uribe,Kawésqar,1
-42,Magallanes,12,28,Punta Arenas,Leticia Caro,Kawésqar,1
-43,Magallanes,12,28,Punta Arenas,Margarita Vargas,Kawésqar,1
-54,Magallanes,12,28,Punta Arenas,José Fernández,Kawésqar,0
-55,Magallanes,12,28,Punta Arenas,Felicia González,Kawésqar,1
-22,Magallanes,12,28,Punta Arenas,Lidia González,Yagán,1
-23,Magallanes,12,28,Punta Arenas,Luis Gómez,Yagán,0
-46,s/i,s/i,999,s/i,Javier Supanta,Aymara,0
-47,s/i,s/i,999,s/i,Javier Vilca,Aymara,0
-48,s/i,s/i,999,s/i,Yanet Challapa,Aymara,1
-49,s/i,s/i,999,s/i,Naomi Calle,Aymara,1
-56,s/i,s/i,999,s/i,Daniza Álvares,Diaguita,1
-57,s/i,s/i,999,s/i,Sergio Campusano,Diaguita,0
-58,s/i,s/i,999,s/i,Gabriela Calderón,Diaguita,1
-59,s/i,s/i,999,s/i,Erick Chinga,Diaguita,0
-60,s/i,s/i,999,s/i,Solange Bordones,Diaguita,1
-61,s/i,s/i,999,s/i,Ernesto Alcayaga,Diaguita,0
-62,s/i,s/i,999,s/i,Inés Carvajal,Diaguita,1
-63,s/i,s/i,999,s/i,Felipe Retamal,Diaguita,0
-40,s/i,s/i,999,s/i,Michael Vargas,Kawésqar,0
-28,s/i,s/i,999,s/i,Carmen Caifil,Mapuche,1
-29,s/i,s/i,999,s/i,Victorino Antilef,Mapuche,0
-30,s/i,s/i,999,s/i,Augusto Manquelipe,Mapuche,0
-31,s/i,s/i,999,s/i,Jaime Marimán,Mapuche,0
-32,s/i,s/i,999,s/i,Orieta Llaica,Mapuche,1
-33,s/i,s/i,999,s/i,Juan Huentelicán,Mapuche,0
-34,s/i,s/i,999,s/i,Eric Vargas,Mapuche,0
-35,s/i,s/i,999,s/i,Hilda Guenteo,Mapuche,1
-36,s/i,s/i,999,s/i,Ingrid Conejeros,Mapuche,1
-37,s/i,s/i,999,s/i,Richard Caifal,Mapuche,0
-38,s/i,s/i,999,s/i,Carmen Jaramillo,Mapuche,1
-39,s/i,s/i,999,s/i,Alexis Caiguán,Mapuche,0
+﻿id,región,region2,nombre,ppoo,sexo
+1,Arica,0.5,Luis Jiménez,Aymara,0
+2,Arica,0.5,Jennyfer Choque,Aymara,1
+3,Arica,0.5,Maritza Quispe,Aymara,1
+4,Arica,0.5,Eduardo Flores,Aymara,0
+5,Arica,0.5,José M. Troncoso,Aymara,0
+6,Arica,0.5,Leslie Villca,Aymara,1
+7,Arica,0.5,Naomi Calle,Aymara,1
+8,Arica,0.5,Carlos Cañari,Aymara,0
+9,Arica,0.5,Delia Condori,Aymara,1
+10,Arica,0.5,Leonel Teran,Aymara,0
+11,Arica,0.5,Marcela Gómez,Aymara,1
+12,Arica,0.5,Juan Cayo,Aymara,0
+13,Arica,0.5,Miguel Mamani,Aymara,0
+14,Arica,0.5,Erica Ríos,Aymara,1
+15,Arica,0.5,Marcelo Centella,Aymara,0
+16,Arica,0.5,Teresa Centella,Aymara,1
+17,Arica,0.5,Angelino Huanca,Aymara,0
+18,Arica,0.5,Alejandra Tapia,Aymara,1
+19,Tarapacá,1,Catalina Cortés,Aymara,1
+20,Tarapacá,1,Laureano Supanta,Aymara,0
+21,Tarapacá,1,Rolando Aguirre,Aymara,0
+22,Tarapacá,1,María Mollo,Aymara,1
+23,Tarapacá,1,Nélida Díaz,Aymara,1
+24,Tarapacá,1,Joel Díaz,Aymara,0
+25,Tarapacá,1,Isabella Mamani,Aymara,1
+26,Tarapacá,1,Franco Eyzaguirre,Aymara,0
+27,Tarapacá,1,Nélida Moscoso,Aymara,1
+28,Tarapacá,1,Pablo Butron,Aymara,0
+29,Tarapacá,1,Yanet Challapa,Aymara,1
+30,Tarapacá,1,Javier Vilca,Aymara,0
+31,Tarapacá,1,Marcelo Condore,Aymara,0
+32,Tarapacá,1,Aline Papic,Aymara,1
+33,Tarapacá,1,Richards Challapa,Aymara,0
+34,Tarapacá,1,Elizabeth Choque,Aymara,1
+35,Tarapacá,1,Bárbara Montecino,Aymara,1
+36,Tarapacá,1,Alexis Condori,Aymara,0
+37,Tarapacá,1,Ceferino Castro,Quechua,0
+38,Tarapacá,1,Luz Melchor,Quechua,1
+39,Tarapacá,1,Wilfredo Bacian,Quechua,0
+40,Tarapacá,1,Thelma Ramos,Quechua,1
+43,Antofagasta,2,René Panire,Atacameño,0
+44,Antofagasta,2,Laura Panire,Atacameño,1
+45,Antofagasta,2,Rolando Humire,Atacameño,0
+46,Antofagasta,2,Sara Berna,Atacameño,1
+47,Antofagasta,2,Lila Colamar,Atacameño,1
+48,Antofagasta,2,Wilson Segovia,Atacameño,0
+49,Antofagasta,2,Alejandra Ayabire,Atacameño,1
+50,Antofagasta,2,David Moreno,Atacameño,0
+51,Antofagasta,2,Cristián Varela,Atacameño,0
+52,Antofagasta,2,Melisa Espíndola,Atacameño,1
+53,Antofagasta,2,Ximena Anza,Atacameño,1
+54,Antofagasta,2,Felix Galleguillos,Atacameño,0
+55,Antofagasta,2,Pablo Madariaga,Atacameño,0
+56,Antofagasta,2,Aida Cruz,Atacameño,1
+57,Antofagasta,2,Oriana Mora,Atacameño,1
+58,Antofagasta,2,Manuel Escalante,Atacameño,0
+41,Antofagasta,2,Horacio Cortés,Changos,0
+42,Antofagasta,2,Lorena Cornejo,Changos,1
+59,Antofagasta,2,Pamela Oliden,Quechua,1
+60,Antofagasta,2,Alexis Vicentelo,Quechua,0
+61,Antofagasta,2,Evelyn Martínez,Quechua,1
+62,Antofagasta,2,Rodolfo Valdivia,Quechua,0
+63,Atacama,3,Brenda Gutierrez,Changos,1
+64,Atacama,3,Luis Castro,Changos,0
+73,Atacama,3,Isabel Godoy,Colla,1
+74,Atacama,3,Rafael Díaz,Colla,0
+75,Atacama,3,Lucinda Palacio,Colla,1
+76,Atacama,3,Francisco Cortés,Colla,0
+77,Atacama,3,Christian Milla,Colla,0
+78,Atacama,3,Zulema Mancilla,Colla,1
+79,Atacama,3,Elena Rivera,Colla,1
+80,Atacama,3,Juan Pérez,Colla,0
+81,Atacama,3,Héctor Salinas,Colla,0
+82,Atacama,3,Ximena Guerrero,Colla,1
+83,Atacama,3,Óscar González,Colla,0
+84,Atacama,3,Scarlett Rojas,Colla,1
+85,Atacama,3,Cristofer Castillo,Colla,0
+86,Atacama,3,Cristina Jerónimo,Colla,1
+65,Atacama,3,Daniza Álvares,Diaguita,1
+66,Atacama,3,Sergio Campusano,Diaguita,0
+67,Atacama,3,Wilma Campillay,Diaguita,1
+68,Atacama,3,Mariel Campillay,Diaguita,0
+69,Atacama,3,Solange Bordones,Diaguita,1
+70,Atacama,3,Ernesto Alcayaga,Diaguita,0
+71,Atacama,3,Inés Carvajal,Diaguita,1
+72,Atacama,3,Felipe Retamal,Diaguita,0
+87,Coquimbo,4,Marta Rodríguez,Changos,1
+88,Coquimbo,4,Fernando Tirado,Changos,0
+89,Coquimbo,4,Gabriel Calderón,Diaguita,0
+90,Coquimbo,4,Eric Chinga,Diaguita,0
+91,Valparaíso,5,Tiare Aguilera,Rapa Nui,1
+92,Valparaíso,5,Valeria Pakarati,Rapa Nui,1
+93,Valparaíso,5,Alejandro Tamaru,Rapa Nui,0
+94,Valparaíso,5,Ema Tuki,Rapa Nui,1
+95,Valparaíso,5,Pedro Fati,Rapa Nui,0
+96,Valparaíso,5,Tai A Rioroco,Rapa Nui,1
+97,Valparaíso,5,Zoilo Hucke,Rapa Nui,0
+98,Valparaíso,5,Rafael Tuki,Rapa Nui,0
+99,Valparaíso,5,Jackeline Rapu,Rapa Nui,1
+100,Metropolitana,5.5,Alihuen Antileo,Mapuche,0
+101,Metropolitana,5.5,Elisa Loncon,Mapuche,0
+102,Metropolitana,5.5,Camilo Pereira,Mapuche,0
+103,Metropolitana,5.5,Marcelina Llancapan,Mapuche,1
+104,Metropolitana,5.5,Claudio Alvarado,Mapuche,0
+105,Metropolitana,5.5,Isabel Cayul,Mapuche,1
+106,Metropolitana,5.5,Mariano Cayul,Mapuche,0
+107,Metropolitana,5.5,Iván Cheuquelaf,Mapuche,0
+108,Metropolitana,5.5,Mabel Salas,Mapuche,1
+109,Metropolitana,5.5,Luz Cheuquel,Mapuche,1
+110,Metropolitana,5.5,Ricardo Inalef,Mapuche,0
+111,Bío-Bío,8,María Olmos Loncopan,Mapuche,1
+112,Bío-Bío,8,Hugo Alcaman,Mapuche,0
+113,Bío-Bío,8,Natividad Llanquileo,Mapuche,1
+114,Bío-Bío,8,Adolfo Millabur,Mapuche,0
+115,Bío-Bío,8,Daniel Tobar,Mapuche,0
+116,Bío-Bío,8,Millaray Painemal,Mapuche,1
+117,Bío-Bío,8,Gabriel Huenteman,Mapuche,0
+118,Bío-Bío,8,Erika Inostroza,Mapuche,1
+119,Bío-Bío,8,Juan Pichilen,Mapuche,0
+120,Bío-Bío,8,Santo Reinao,Mapuche,0
+121,Bío-Bío,8,Karen Reinao,Mapuche,1
+122,Bío-Bío,8,Verónica Levi,Mapuche,1
+123,Bío-Bío,8,Juan Correa,Mapuche,0
+124,Araucanía,9,Francisca Linconao,Mapuche,1
+125,Araucanía,9,Francisco Painevilo,Mapuche,0
+126,Araucanía,9,Ingrid Conejeros,Mapuche,0
+127,Araucanía,9,Cristián Pacheco,Mapuche,0
+128,Araucanía,9,Mauricio Lepin,Mapuche,0
+129,Araucanía,9,Gabriela España,Mapuche,1
+130,Araucanía,9,Rosa Catrileo,Mapuche,1
+131,Araucanía,9,Benito Cumilaf,Mapuche,0
+132,Araucanía,9,Sofía Huenchumilla,Mapuche,1
+133,Araucanía,9,Samuel Gaete,Mapuche,0
+134,Araucanía,9,Gustavo Quilaqueo,Mapuche,0
+135,Araucanía,9,Yessica Huenteman,Mapuche,1
+136,Araucanía,9,Marcial Colin,Mapuche,0
+137,Araucanía,9,Myriam Colin,Mapuche,1
+138,Araucanía,9,Ana María Llao,Mapuche,1
+139,Araucanía,9,Manuel Curio,Mapuche,0
+140,Araucanía,9,Adan Romero,Mapuche,0
+141,Araucanía,9,Mariela Gatica,Mapuche,1
+142,Araucanía,9,Andrés Huirilef,Mapuche,0
+143,Araucanía,9,Josefina Fica,Mapuche,1
+144,Araucanía,9,Galvarino Reiman,Mapuche,0
+145,Araucanía,9,María I. Porma,Mapuche,1
+146,Araucanía,9,Luis Catrileo,Mapuche,0
+147,Araucanía,9,Doralisa Toro,Mapuche,1
+148,Araucanía,9,Manuek Santander,Mapuche,0
+149,Araucanía,9,Rosa Caniupil,Mapuche,1
+150,Araucanía,9,Richard Caifal,Mapuche,0
+151,Araucanía,9,Mery Cayuman,Mapuche,1
+152,Araucanía,9,Hans Curamil,Mapuche,0
+153,Araucanía,9,María Ancal,Mapuche,1
+154,Araucanía,9,Andrés Matta,Mapuche,0
+155,Araucanía,9,Elba Matuz,Mapuche,1
+156,Araucanía,9,Pedro Calbuñir,Mapuche,0
+157,Araucanía,9,Ingrid Pedraza,Mapuche,1
+158,Los Ríos,9.5,Vanessa Huaiquimilla,Mapuche,1
+159,Los Ríos,9.5,Augusto Manquelipe,Mapuche,0
+160,Los Ríos,9.5,Carmen Cafil,Mapuche,1
+161,Los Ríos,9.5,Victorino Antilef,Mapuche,0
+162,Los Lagos,10,Orieta Llauca,Mapuche,1
+163,Los Lagos,10,Juan Millaquipay,Mapuche,0
+164,Los Lagos,10,Yonathan Paillacheo,Mapuche,0
+165,Los Lagos,10,Maribel Varas,Mapuche,1
+166,Los Lagos,10,Carmen Jaramillo,Mapuche,1
+167,Los Lagos,10,Alexis Caiguan,Mapuche,0
+168,Los Lagos,10,Hilda Guenteo,Mapuche,1
+169,Los Lagos,10,Eric Vargas,Mapuche,0
+170,Los Lagos,10,Sonia Catepillan,Mapuche,1
+171,Los Lagos,10,Manuel Rauque,Mapuche,0
+183,Aysén,11,Ana Llaipen,Mapuche,1
+184,Aysén,11,Juan Vásquez,Mapuche,0
+172,Magallanes,12,Lucia Uribe,Kawésqar,1
+173,Magallanes,12,Leticia Caro,Kawésqar,1
+174,Magallanes,12,Margarita Vargas,Kawésqar,1
+175,Magallanes,12,José Fernández,Kawésqar,0
+176,Magallanes,12,Felicia González,Kawésqar,1
+177,Magallanes,12,Francisco Cuyul,Kawésqar,0
+178,Magallanes,12,Juan González,Kawésqar,0
+179,Magallanes,12,Celina Llanllan,Kawésqar,1
+182,Magallanes,12,Michael Vargas,Kawésqar,0
+180,Magallanes,12,Lidia González,Yagán,1
+181,Magallanes,12,Luis Gómez,Yagán,0
