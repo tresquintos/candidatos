@@ -1,9 +1,9 @@
 ﻿id,región,region2,distrito,distrito2,nombre,lista,tope_patrocinios,partido,sexo,lista2,n_listageneral,estado,ex_candidatoprez,subsecretario,ministro,senador,diputado,alcalde,concejal,intendente,abogado_constitucional,artista,familiar_de,académico,dirigente,trabajadores_salud,sub24,lgbtqia,feministas,promigrantes,cientificos,animalistas,candidatos_fuertes,cebra
 1,Arica,0.5,1,#D1 - Arica,Carolina Videla,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-2,Arica,0.5,1,#D1 - Arica,Sheila Sánchez,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+2,Arica,0.5,1,#D1 - Arica,Sheila Sánchez,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 3,Arica,0.5,1,#D1 - Arica,Carlos Yevenes,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-4,Arica,0.5,1,#D1 - Arica,Herman Mondaca,Apruebo Dignidad,,FRVS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-5,Arica,0.5,1,#D1 - Arica,Óscar Palleres,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+4,Arica,0.5,1,#D1 - Arica,Herman Mondaca,Apruebo Dignidad,,FRVS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+5,Arica,0.5,1,#D1 - Arica,Óscar Palleres,Apruebo Dignidad,,COM-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 6,Arica,0.5,1,#D1 - Arica,Gigliola Carlebarino,Arica Siempre Arica,500,IND,1,0,Arica Siempre Arica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 7,Arica,0.5,1,#D1 - Arica,Carmen Vergara,Arica Siempre Arica,500,IND,1,0,Arica Siempre Arica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 8,Arica,0.5,1,#D1 - Arica,Willi Zuchel,Arica Siempre Arica,500,IND,0,0,Arica Siempre Arica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -82,9 +82,9 @@
 81,Tarapacá,1,2,#D2 - Iquique,Freddy Araneda,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 82,Antofagasta,2,3,#D3 - Antofagasta,Romina Ávalos,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
 83,Antofagasta,2,3,#D3 - Antofagasta,María Ojeda,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-84,Antofagasta,2,3,#D3 - Antofagasta,Berta Torrejón,Apruebo Dignidad,,PI,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+84,Antofagasta,2,3,#D3 - Antofagasta,Berta Torrejón,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 85,Antofagasta,2,3,#D3 - Antofagasta,Hernán Velásquez,Apruebo Dignidad,,FRVS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-86,Antofagasta,2,3,#D3 - Antofagasta,Pablo Rojas,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1
+86,Antofagasta,2,3,#D3 - Antofagasta,Pablo Rojas,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1
 87,Antofagasta,2,3,#D3 - Antofagasta,Catherine Sánchez,Ind. del N. Grande por una Nueva Const.,900,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 88,Antofagasta,2,3,#D3 - Antofagasta,Nora Biaggini,Ind. del N. Grande por una Nueva Const.,900,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 89,Antofagasta,2,3,#D3 - Antofagasta,Raúl Catalán,Ind. del N. Grande por una Nueva Const.,900,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -123,7 +123,7 @@
 122,Antofagasta,2,3,#D3 - Antofagasta,Marcos Celedón,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 123,Atacama,3,4,#D4 - Copiapó,Ericka Portilla,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 124,Atacama,3,4,#D4 - Copiapó,Flavia Torrealba,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-125,Atacama,3,4,#D4 - Copiapó,Jorge Flores,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+125,Atacama,3,4,#D4 - Copiapó,Jorge Flores,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 126,Atacama,3,4,#D4 - Copiapó,Constanza San Juan,Asamblea Constituyente Atacama,504,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 127,Atacama,3,4,#D4 - Copiapó,Silvia Rodríguez,Asamblea Constituyente Atacama,504,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 128,Atacama,3,4,#D4 - Copiapó,María Pilar Triviño,Asamblea Constituyente Atacama,504,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
@@ -149,9 +149,9 @@
 148,Atacama,3,4,#D4 - Copiapó,Wilma Jiménez,Vamos por Chile,,UDI,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 149,Atacama,3,4,#D4 - Copiapó,Carlos Montalva,Vamos por Chile,,RN-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 150,Atacama,3,4,#D4 - Copiapó,Carlos Martin,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-151,Coquimbo,4,5,#D5 - La Serena,Jennifer Mella,Apruebo Dignidad,,CS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-152,Coquimbo,4,5,#D5 - La Serena,Marisol González,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-153,Coquimbo,4,5,#D5 - La Serena,Katharina Pavletich,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+151,Coquimbo,4,5,#D5 - La Serena,Jennifer Mella,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+152,Coquimbo,4,5,#D5 - La Serena,Marisol González,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+153,Coquimbo,4,5,#D5 - La Serena,Katharina Pavletich,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 154,Coquimbo,4,5,#D5 - La Serena,Mauricio Ugarte,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 155,Coquimbo,4,5,#D5 - La Serena,Claudio Quiroga,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 156,Coquimbo,4,5,#D5 - La Serena,Elena Bolados,Ind. Del Apruebo R. Coquimbo,1285,IND,1,0,Ind. Del Apruebo R. Coquimbo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -186,11 +186,11 @@
 185,Valparaíso,5,6,#D6 - Quilpué,Carolina Vilches,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 186,Valparaíso,5,6,#D6 - Quilpué,Mariela Serey,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 187,Valparaíso,5,6,#D6 - Quilpué,Javiera Viveros,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-188,Valparaíso,5,6,#D6 - Quilpué,Paula Freire,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+188,Valparaíso,5,6,#D6 - Quilpué,Paula Freire,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 189,Valparaíso,5,6,#D6 - Quilpué,Alejandra Toledo,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0
 190,Valparaíso,5,6,#D6 - Quilpué,Matías Gazmuri,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 191,Valparaíso,5,6,#D6 - Quilpué,David Aguilera,Apruebo Dignidad,,CS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-192,Valparaíso,5,6,#D6 - Quilpué,Daniel Garrido,Apruebo Dignidad,,FRVS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+192,Valparaíso,5,6,#D6 - Quilpué,Daniel Garrido,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 193,Valparaíso,5,6,#D6 - Quilpué,Roberto Parra,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 194,Valparaíso,5,6,#D6 - Quilpué,Nancy Camus,Decisión Ciudadana,1822,IND,1,0,Decisión Ciudadana,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 195,Valparaíso,5,6,#D6 - Quilpué,Gloria Morales,Decisión Ciudadana,1822,IND,1,0,Decisión Ciudadana,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -255,7 +255,7 @@
 254,Valparaíso,5,6,#D6 - Quilpué,José Valenzuela,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 255,Valparaíso,5,6,#D6 - Quilpué,Robert Knop,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 256,Valparaíso,5,7,#D7 - Valparaíso,Constanza Valdés,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
-257,Valparaíso,5,7,#D7 - Valparaíso,Constanza González,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+257,Valparaíso,5,7,#D7 - Valparaíso,M. Constanza González,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 258,Valparaíso,5,7,#D7 - Valparaíso,María José Oyarzún,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 259,Valparaíso,5,7,#D7 - Valparaíso,Gianina Figueroa,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 260,Valparaíso,5,7,#D7 - Valparaíso,Jaime Bassa,Apruebo Dignidad,,CS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -331,7 +331,7 @@
 330,Valparaíso,5,7,#D7 - Valparaíso,Juan Pablo Rodríguez,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 331,Valparaíso,5,7,#D7 - Valparaíso,Jorge Arancibia,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 332,Valparaíso,5,7,#D7 - Valparaíso,Hotuiti Teao,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-333,Metropolitana,5.5,8,#D8 - Maipú,Doris González,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+333,Metropolitana,5.5,8,#D8 - Maipú,Doris González,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
 334,Metropolitana,5.5,8,#D8 - Maipú,Valentina Miranda,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0
 335,Metropolitana,5.5,8,#D8 - Maipú,Paty López,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 336,Metropolitana,5.5,8,#D8 - Maipú,Tatiana Urrutia,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -390,7 +390,7 @@
 389,Metropolitana,5.5,8,#D8 - Maipú,Miguel Esbir,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 390,Metropolitana,5.5,8,#D8 - Maipú,Tomás Guevara,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
 391,Metropolitana,5.5,8,#D8 - Maipú,Bernardo de la Maza,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-392,Metropolitana,5.5,9,#D9 - Recoleta,Luz Vidal,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+392,Metropolitana,5.5,9,#D9 - Recoleta,Luz Vidal,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 393,Metropolitana,5.5,9,#D9 - Recoleta,Haydee Oberreuter,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 394,Metropolitana,5.5,9,#D9 - Recoleta,Michelle Peutat,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 395,Metropolitana,5.5,9,#D9 - Recoleta,Bárbara Sepúlveda,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -525,7 +525,7 @@
 524,Metropolitana,5.5,10,#D10 - Santiago,Gonzalo Blumel,Vamos por Chile,,EVO,0,1,Vamos por Chile,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 525,Metropolitana,5.5,11,#D11 - Las Condes,Constanza Schonhaut,Apruebo Dignidad,,CS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 526,Metropolitana,5.5,11,#D11 - Las Condes,Carolina Pérez,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-527,Metropolitana,5.5,11,#D11 - Las Condes,Natalia Garrido,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+527,Metropolitana,5.5,11,#D11 - Las Condes,Natalia Garrido,Apruebo Dignidad,,PI,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 528,Metropolitana,5.5,11,#D11 - Las Condes,Javiera Toro,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
 529,Metropolitana,5.5,11,#D11 - Las Condes,Juan Vera,Apruebo Dignidad,,FRVS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 530,Metropolitana,5.5,11,#D11 - Las Condes,Mauricio Pesutic,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -643,8 +643,8 @@
 642,Metropolitana,5.5,12,#D12 - Puente Alto,Lucio Cuenca,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 643,Metropolitana,5.5,12,#D12 - Puente Alto,Eduardo Gutiérrez,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 644,Metropolitana,5.5,12,#D12 - Puente Alto,Edgar Espergel,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-645,Metropolitana,5.5,13,#D13 - San Miguel,Natalia Aravena,Apruebo Dignidad,,CS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-646,Metropolitana,5.5,13,#D13 - San Miguel,Adriana Barrientos,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
+645,Metropolitana,5.5,13,#D13 - San Miguel,Natalia Aravena,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+646,Metropolitana,5.5,13,#D13 - San Miguel,Adriana Barrientos,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
 647,Metropolitana,5.5,13,#D13 - San Miguel,Libertad Méndez,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 648,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 649,Metropolitana,5.5,13,#D13 - San Miguel,Mirko Jiménez,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -695,8 +695,8 @@
 694,Metropolitana,5.5,14,#D14 - San Bernardo,Sandra Saavedra,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 695,Metropolitana,5.5,14,#D14 - San Bernardo,Camila Musante,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 696,Metropolitana,5.5,14,#D14 - San Bernardo,Camila Navarro,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-697,Metropolitana,5.5,14,#D14 - San Bernardo,Ignacio Achurra,Apruebo Dignidad,,CS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-698,Metropolitana,5.5,14,#D14 - San Bernardo,Carlos Poblete,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+697,Metropolitana,5.5,14,#D14 - San Bernardo,Ignacio Achurra,Apruebo Dignidad,,CS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+698,Metropolitana,5.5,14,#D14 - San Bernardo,Carlos Poblete,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 699,Metropolitana,5.5,14,#D14 - San Bernardo,Sebastián Aylwin,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 700,Metropolitana,5.5,14,#D14 - San Bernardo,Paulina Valenzuela,Ind. por la Nueva Constitución,1680,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 701,Metropolitana,5.5,14,#D14 - San Bernardo,Nadia Letelier,Ind. por la Nueva Constitución,1680,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -724,7 +724,7 @@
 723,Metropolitana,5.5,14,#D14 - San Bernardo,Cristóbal Orrego,Vamos por Chile,,REP,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 724,Metropolitana,5.5,14,#D14 - San Bernardo,Enrique Campino,Vamos por Chile,,RN-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 725,O'Higgins,6,15,#D15 - Rancagua,Marta Molina,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
-726,O'Higgins,6,15,#D15 - Rancagua,Damaris Abarca,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+726,O'Higgins,6,15,#D15 - Rancagua,Damaris Abarca,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 727,O'Higgins,6,15,#D15 - Rancagua,Diego Bustamante,Apruebo Dignidad,,FRVS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 728,O'Higgins,6,15,#D15 - Rancagua,Nolberto Zuñiga,Apruebo Dignidad,,CS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 729,O'Higgins,6,15,#D15 - Rancagua,Fabián Rodríguez,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -764,9 +764,9 @@
 763,O'Higgins,6,15,#D15 - Rancagua,Felipe García Huidobro,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 764,O'Higgins,6,15,#D15 - Rancagua,Dionisio de la Cerda,Vamos por Chile,,EVO,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 765,O'Higgins,6,15,#D15 - Rancagua,Federico Iglesias,Vamos por Chile,,RN-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-766,O'Higgins,6,16,#D16 - San Fernando,Ximena Maril,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-767,O'Higgins,6,16,#D16 - San Fernando,Gisela Tapia,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-768,O'Higgins,6,16,#D16 - San Fernando,Adriana Bastías,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+766,O'Higgins,6,16,#D16 - San Fernando,Ximena Maril,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+767,O'Higgins,6,16,#D16 - San Fernando,Gisela Tapia,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+768,O'Higgins,6,16,#D16 - San Fernando,Adriana Bastías,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
 769,O'Higgins,6,16,#D16 - San Fernando,Rodrigo Córdova,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 770,O'Higgins,6,16,#D16 - San Fernando,Nicolás Nuñez,Apruebo Dignidad,,FRVS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 771,O'Higgins,6,16,#D16 - San Fernando,Leonardo Caris,Apruebo Dignidad,,CS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -806,13 +806,13 @@
 805,Maule,7,17,#D17 - Talca,Rigoberto Cárcamo,A. Popular por la Dignidad,1369,IND,0,0,A. Popular por la Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 806,Maule,7,17,#D17 - Talca,José Jara,A. Popular por la Dignidad,1369,IND,0,0,A. Popular por la Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 807,Maule,7,17,#D17 - Talca,Carlos Agaray,A. Popular por la Dignidad,1369,IND,0,0,A. Popular por la Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
-808,Maule,7,17,#D17 - Talca,Natalia González,Apruebo Dignidad,,PI,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-809,Maule,7,17,#D17 - Talca,Romy Bernal,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-810,Maule,7,17,#D17 - Talca,Eliana Adams,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1
+808,Maule,7,17,#D17 - Talca,Natalia González,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+809,Maule,7,17,#D17 - Talca,Romy Bernal,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+810,Maule,7,17,#D17 - Talca,Eliana Adams,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1
 811,Maule,7,17,#D17 - Talca,Paola Grandón,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-812,Maule,7,17,#D17 - Talca,José González,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+812,Maule,7,17,#D17 - Talca,José González,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 813,Maule,7,17,#D17 - Talca,Fabián Farías,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-814,Maule,7,17,#D17 - Talca,Roberto Celedón,Apruebo Dignidad,,FRVS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+814,Maule,7,17,#D17 - Talca,Roberto Celedón,Apruebo Dignidad,,FRVS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
 815,Maule,7,17,#D17 - Talca,Clara Román,Comunidad Ind. Del Maule,1369,IND,1,0,Comunidad Ind. Del Maule,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 816,Maule,7,17,#D17 - Talca,Katherine Moya,Comunidad Ind. Del Maule,1369,IND,1,0,Comunidad Ind. Del Maule,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 817,Maule,7,17,#D17 - Talca,María José Poblete,Comunidad Ind. Del Maule,1369,IND,1,0,Comunidad Ind. Del Maule,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -851,9 +851,9 @@
 850,Maule,7,17,#D17 - Talca,Sergio Correa,Vamos por Chile,,REP,0,1,Vamos por Chile,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 851,Maule,7,17,#D17 - Talca,Francisco Claver,Vamos por Chile,,RN-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
 852,Maule,7,18,#D18 - Linares,Consuelo Veloso,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-853,Maule,7,18,#D18 - Linares,Gloria Parada,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+853,Maule,7,18,#D18 - Linares,Gloria Parada,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
 854,Maule,7,18,#D18 - Linares,Denisa Cofré,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-855,Maule,7,18,#D18 - Linares,Ricardo Tapia,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+855,Maule,7,18,#D18 - Linares,Ricardo Tapia,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 856,Maule,7,18,#D18 - Linares,Carlos Fuentes,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 857,Maule,7,18,#D18 - Linares,Francisca Arauna,La lista del Pueblo Maule Sur,680,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 858,Maule,7,18,#D18 - Linares,Priscila González,La lista del Pueblo Maule Sur,680,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -872,12 +872,12 @@
 871,Maule,7,18,#D18 - Linares,Leroy Ibáñez,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 872,Maule,7,18,#D18 - Linares,Juan Ariztía,Vamos por Chile,,REP,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 873,Maule,7,18,#D18 - Linares,Manuel Noman,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-874,Ñuble,7.5,19,#D19 - Chillán,Mónica Llaveillán,Apruebo Dignidad,,PI,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+874,Ñuble,7.5,19,#D19 - Chillán,Mónica Llaveillán,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 875,Ñuble,7.5,19,#D19 - Chillán,Rocío Hizmeri,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-876,Ñuble,7.5,19,#D19 - Chillán,Cristina Martin,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-877,Ñuble,7.5,19,#D19 - Chillán,Miguel Lizana,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+876,Ñuble,7.5,19,#D19 - Chillán,Cristina Martin,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+877,Ñuble,7.5,19,#D19 - Chillán,Miguel Lizana,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 878,Ñuble,7.5,19,#D19 - Chillán,José Osvaldo Zúñiga,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-879,Ñuble,7.5,19,#D19 - Chillán,Jonathan Chandía,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+879,Ñuble,7.5,19,#D19 - Chillán,Jonathan Chandía,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 880,Ñuble,7.5,19,#D19 - Chillán,Cristina González,Ciudadanos Cristianos,,PCC-IND,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 881,Ñuble,7.5,19,#D19 - Chillán,Sara Concha,Ciudadanos Cristianos,,PCC,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 882,Ñuble,7.5,19,#D19 - Chillán,Elizabeth San Martín,Ciudadanos Cristianos,,PCC-IND,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -912,14 +912,14 @@
 911,Ñuble,7.5,19,#D19 - Chillán,Martín Arrau,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 912,Ñuble,7.5,19,#D19 - Chillán,Lucas Vidal,Vamos por Chile,,EVO,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 913,Ñuble,7.5,19,#D19 - Chillán,Carlos Pinochet,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-914,Bío-Bío,8,20,#D20 - Concepción,Pamela Hidalgo,Apruebo Dignidad,,PI,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+914,Bío-Bío,8,20,#D20 - Concepción,Pamela Hidalgo,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 915,Bío-Bío,8,20,#D20 - Concepción,María C. Acevedo,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-916,Bío-Bío,8,20,#D20 - Concepción,Millaray Saéz,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+916,Bío-Bío,8,20,#D20 - Concepción,Millaray Saéz,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 917,Bío-Bío,8,20,#D20 - Concepción,Amaya Alvez,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
 918,Bío-Bío,8,20,#D20 - Concepción,Carlos López,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-919,Bío-Bío,8,20,#D20 - Concepción,Óscar Menares,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+919,Bío-Bío,8,20,#D20 - Concepción,Óscar Menares,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 920,Bío-Bío,8,20,#D20 - Concepción,Hernán Cortés,Apruebo Dignidad,,FRVS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-921,Bío-Bío,8,20,#D20 - Concepción,Eduardo Pacheco,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+921,Bío-Bío,8,20,#D20 - Concepción,Eduardo Pacheco,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 922,Bío-Bío,8,20,#D20 - Concepción,Daniela Guzmán,Asamblea Popular Constituyente,1888,IND,1,0,Asamblea Popular Constituyente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 923,Bío-Bío,8,20,#D20 - Concepción,Sindy Salazar,Asamblea Popular Constituyente,1888,IND,1,0,Asamblea Popular Constituyente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 924,Bío-Bío,8,20,#D20 - Concepción,Andrea Campos,Asamblea Popular Constituyente,1888,IND,1,0,Asamblea Popular Constituyente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -974,8 +974,8 @@
 973,Bío-Bío,8,20,#D20 - Concepción,Elias Ramos,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 974,Bío-Bío,8,21,#D21 - Los Ángeles,Vanessa Hoppe,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 975,Bío-Bío,8,21,#D21 - Los Ángeles,Marcela Saavedra,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-976,Bío-Bío,8,21,#D21 - Los Ángeles,Álvaro Sánchez,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-977,Bío-Bío,8,21,#D21 - Los Ángeles,Vasili Carrillo,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+976,Bío-Bío,8,21,#D21 - Los Ángeles,Álvaro Sánchez,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+977,Bío-Bío,8,21,#D21 - Los Ángeles,Vasili Carrillo,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 978,Bío-Bío,8,21,#D21 - Los Ángeles,Paz Quevedo,Bíobio sin Partidos,1068,IND,1,0,Bíobio sin Partidos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 979,Bío-Bío,8,21,#D21 - Los Ángeles,Milem Soto,Bíobio sin Partidos,1068,IND,1,0,Bíobio sin Partidos,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
 980,Bío-Bío,8,21,#D21 - Los Ángeles,Yeny Díaz,Bíobio sin Partidos,1068,IND,1,0,Bíobio sin Partidos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1039,11 +1039,11 @@
 1038,Araucanía,9,22,#D22 - Angol,Cristián Greenhill,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1039,Araucanía,9,22,#D22 - Angol,Gonzalo Arenas,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1040,Araucanía,9,22,#D22 - Angol,Eduardo Crettón,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1041,Araucanía,9,23,#D23 - Temuco,Manuela Royo,Apruebo Dignidad,,PI,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1041,Araucanía,9,23,#D23 - Temuco,Manuela Royo,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1042,Araucanía,9,23,#D23 - Temuco,Camila Vergara,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1043,Araucanía,9,23,#D23 - Temuco,Ericka Ñanco,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
-1044,Araucanía,9,23,#D23 - Temuco,Alfonso Espoz,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1045,Araucanía,9,23,#D23 - Temuco,Gonzalo Contreras,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1043,Araucanía,9,23,#D23 - Temuco,Ericka Ñanco,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
+1044,Araucanía,9,23,#D23 - Temuco,Alfonso Espoz,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1045,Araucanía,9,23,#D23 - Temuco,Gonzalo Contreras,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1046,Araucanía,9,23,#D23 - Temuco,Guisela Olate,Ciudadanos Cristianos,,PCC,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1047,Araucanía,9,23,#D23 - Temuco,Jovita Rapiman,Ciudadanos Cristianos,,PCC,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1048,Araucanía,9,23,#D23 - Temuco,Andrea Punulef,Ciudadanos Cristianos,,PCC,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1095,10 +1095,10 @@
 1094,Araucanía,9,23,#D23 - Temuco,Luis Mayol,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1095,Araucanía,9,23,#D23 - Temuco,Pablo Herdener,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1096,Araucanía,9,23,#D23 - Temuco,Alejo Apraiz,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1097,Los Ríos,9.5,24,#D24 - Valdivia,Aurora Delgado,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1098,Los Ríos,9.5,24,#D24 - Valdivia,Daniela Milanka,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1097,Los Ríos,9.5,24,#D24 - Valdivia,Aurora Delgado,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1098,Los Ríos,9.5,24,#D24 - Valdivia,Daniela Milanka,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1099,Los Ríos,9.5,24,#D24 - Valdivia,Marisol Torres,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1100,Los Ríos,9.5,24,#D24 - Valdivia,Felipe Pino,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1100,Los Ríos,9.5,24,#D24 - Valdivia,Felipe Pino,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1101,Los Ríos,9.5,24,#D24 - Valdivia,Wladimir Manzano,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1102,Los Ríos,9.5,24,#D24 - Valdivia,Vladimir Riesco,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1103,Los Ríos,9.5,24,#D24 - Valdivia,Claudia Letelier,Chile Independiente,,IND,1,0,Chile Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1137,10 +1137,10 @@
 1136,Los Ríos,9.5,24,#D24 - Valdivia,Christhian Cancino,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1137,Los Lagos,10,25,#D25 - Osorno,Daniela Carvacho,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1138,Los Lagos,10,25,#D25 - Osorno,Elba Vargas,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1139,Los Lagos,10,25,#D25 - Osorno,María Inés Barrera,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1140,Los Lagos,10,25,#D25 - Osorno,Gustavo Salvo,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1141,Los Lagos,10,25,#D25 - Osorno,Gonzalo Díaz,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1142,Los Lagos,10,25,#D25 - Osorno,Mario González,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1139,Los Lagos,10,25,#D25 - Osorno,María Inés Barrera,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1140,Los Lagos,10,25,#D25 - Osorno,Gustavo Salvo,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1141,Los Lagos,10,25,#D25 - Osorno,Gonzalo Díaz,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1142,Los Lagos,10,25,#D25 - Osorno,Mario González,Apruebo Dignidad,,COM-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1143,Los Lagos,10,25,#D25 - Osorno,Carolina Lagos,Ind. por la Nueva Constitución,718,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1144,Los Lagos,10,25,#D25 - Osorno,Juan C. Claret Pool,Ind. por la Nueva Constitución,718,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1145,Los Lagos,10,25,#D25 - Osorno,Jorge Contreras,Ind. por la Nueva Constitución,718,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -1162,12 +1162,12 @@
 1161,Los Lagos,10,25,#D25 - Osorno,Marisol Bañares,Vamos por Chile,,REP,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1162,Los Lagos,10,25,#D25 - Osorno,Sergio Willer,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1163,Los Lagos,10,25,#D25 - Osorno,Harry Jurgensen C.,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
-1164,Los Lagos,10,26,#D26 - Puerto Montt,Patricia Rada,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1165,Los Lagos,10,26,#D26 - Puerto Montt,María Olga Delgado,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1166,Los Lagos,10,26,#D26 - Puerto Montt,Pamela Espinoza,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1164,Los Lagos,10,26,#D26 - Puerto Montt,Patricia Rada,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1165,Los Lagos,10,26,#D26 - Puerto Montt,María Olga Delgado,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1166,Los Lagos,10,26,#D26 - Puerto Montt,Pamela Espinoza,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1167,Los Lagos,10,26,#D26 - Puerto Montt,Esteban Vielma,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1168,Los Lagos,10,26,#D26 - Puerto Montt,Cataldo Martínez,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1169,Los Lagos,10,26,#D26 - Puerto Montt,Francisco Vera,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1169,Los Lagos,10,26,#D26 - Puerto Montt,Francisco Vera,Apruebo Dignidad,,COM-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1170,Los Lagos,10,26,#D26 - Puerto Montt,Josefa Belmar,Ciudadanos Cristianos,,PCC,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1171,Los Lagos,10,26,#D26 - Puerto Montt,Aracely Cáceres,Ciudadanos Cristianos,,PCC,1,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1172,Los Lagos,10,26,#D26 - Puerto Montt,Rubén Bustos,Ciudadanos Cristianos,,PCC,0,1,Ciudadanos Cristianos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1201,9 +1201,9 @@
 1200,Aysén,11,27,#D27 - Coyhaique,Patricio Segura,"A Pulso, por el buen vivir",500,IND,0,0,"A Pulso, por el buen vivir",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1201,Aysén,11,27,#D27 - Coyhaique,Cecilio Aguilar,"A Pulso, por el buen vivir",500,IND,0,0,"A Pulso, por el buen vivir",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1202,Aysén,11,27,#D27 - Coyhaique,Jorge Contreras M.,"A Pulso, por el buen vivir",500,IND,0,0,"A Pulso, por el buen vivir",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-1203,Aysén,11,27,#D27 - Coyhaique,Yarela Gómez,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+1203,Aysén,11,27,#D27 - Coyhaique,Yarela Gómez,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1204,Aysén,11,27,#D27 - Coyhaique,Rosa Pesutic,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-1205,Aysén,11,27,#D27 - Coyhaique,Julio Ñanco,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+1205,Aysén,11,27,#D27 - Coyhaique,Julio Ñanco,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1206,Aysén,11,27,#D27 - Coyhaique,Samuel Navarro,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1207,Aysén,11,27,#D27 - Coyhaique,Diego Salinas,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1208,Aysén,11,27,#D27 - Coyhaique,Viviana Betancourt,Lista del Apruebo,,PS ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1222,12 +1222,12 @@
 1221,Aysén,11,27,#D27 - Coyhaique,Cinthia Pantanalli,Vamos por Chile,,EVO,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1222,Aysén,11,27,#D27 - Coyhaique,Marcos Vargas,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1223,Aysén,11,27,#D27 - Coyhaique,Arístides Benavente,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-1224,Magallanes,12,28,#D28 - Punta Arenas,Javiera Morales,Apruebo Dignidad,,CS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1225,Magallanes,12,28,#D28 - Punta Arenas,Daniela Panicucci,Apruebo Dignidad,,CS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1224,Magallanes,12,28,#D28 - Punta Arenas,Javiera Morales,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1225,Magallanes,12,28,#D28 - Punta Arenas,Daniela Panicucci,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1226,Magallanes,12,28,#D28 - Punta Arenas,Margarita Makuc,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1227,Magallanes,12,28,#D28 - Punta Arenas,Carlos Abarzúa,Apruebo Dignidad,,CS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1227,Magallanes,12,28,#D28 - Punta Arenas,Carlos Abarzúa,Apruebo Dignidad,,CS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1228,Magallanes,12,28,#D28 - Punta Arenas,Nikos Ortega,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0
-1229,Magallanes,12,28,#D28 - Punta Arenas,Julio Contreras,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1229,Magallanes,12,28,#D28 - Punta Arenas,Julio Contreras,Apruebo Dignidad,,PC-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1230,Magallanes,12,28,#D28 - Punta Arenas,Elisa Giustinianovich,Coord. Social de Magallanes,500,IND,1,0,Coord. Social de Magallanes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,1
 1231,Magallanes,12,28,#D28 - Punta Arenas,Inés Vidal,Coord. Social de Magallanes,500,IND,1,0,Coord. Social de Magallanes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 1232,Magallanes,12,28,#D28 - Punta Arenas,Pablo Cifuentes,Coord. Social de Magallanes,500,IND,0,0,Coord. Social de Magallanes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
