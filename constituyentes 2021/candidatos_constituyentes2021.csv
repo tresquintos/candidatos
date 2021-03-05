@@ -16,11 +16,11 @@
 15,Arica,0.5,1,#D1 - Arica,Rodrigo Venegas,Ind. por una Nueva Const.,500,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 16,Arica,0.5,1,#D1 - Arica,Romina Le Blac,Independiente,300,IFP,1,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 17,Arica,0.5,1,#D1 - Arica,Rodrigo Muñoz,Independiente,300,IFP,0,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-18,Arica,0.5,1,#D1 - Arica,Hortencia Hidalgo,Lista del Apruebo,,PS ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
-19,Arica,0.5,1,#D1 - Arica,Jorge Abarca,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,candidato de Vlado,0
-20,Arica,0.5,1,#D1 - Arica,Iris Rubio,Lista del Apruebo,,PR ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-21,Arica,0.5,1,#D1 - Arica,Raúl Castro Letelier,Lista del Apruebo,,PL-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Segundo con más aportes,0
-22,Arica,0.5,1,#D1 - Arica,Ernestina Silva,Lista del Apruebo,,DC ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+18,Arica,0.5,1,#D1 - Arica,Hortencia Hidalgo,Lista del Apruebo,,PS,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+19,Arica,0.5,1,#D1 - Arica,Jorge Abarca,Lista del Apruebo,,PL-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,candidato de Vlado,0
+20,Arica,0.5,1,#D1 - Arica,Iris Rubio,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+21,Arica,0.5,1,#D1 - Arica,Raúl Castro Letelier,Lista del Apruebo,,DC,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Segundo con más aportes,0
+22,Arica,0.5,1,#D1 - Arica,Ernestina Silva,Lista del Apruebo,,PR,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 23,Arica,0.5,1,#D1 - Arica,Enzo Varens,Lista del Apruebo,,PS ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 24,Arica,0.5,1,#D1 - Arica,Milene Molina,Sumate Ahora,500,IND,1,0,Sumate Ahora,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 25,Arica,0.5,1,#D1 - Arica,José Barraza,Sumate Ahora,500,IND,0,0,Sumate Ahora,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -391,7 +391,7 @@
 390,Metropolitana,5.5,8,#D8 - Maipú,Miguel Fonseca,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 391,Metropolitana,5.5,8,#D8 - Maipú,Arturo Pérez,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 392,Metropolitana,5.5,8,#D8 - Maipú,Fabián Caballero,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-393,Metropolitana,5.5,8,#D8 - Maipú,Macarena Bravo,Vamos por Chile,,RN-IND,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+393,Metropolitana,5.5,8,#D8 - Maipú,Macarena Bravo,Vamos por Chile,,RN-IND,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,candidato Cathy Barriga,0
 394,Metropolitana,5.5,8,#D8 - Maipú,Katerine Medel,Vamos por Chile,,UDI,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 395,Metropolitana,5.5,8,#D8 - Maipú,Andrea Ojeda,Vamos por Chile,,RN,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 396,Metropolitana,5.5,8,#D8 - Maipú,Macarena Cornejo,Vamos por Chile,,EVO,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -495,7 +495,7 @@
 494,Metropolitana,5.5,10,#D10 - Santiago,Darwin Loreto Johns,Lista del Apruebo,,PL-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0
 495,Metropolitana,5.5,10,#D10 - Santiago,Jaime Parada Hoyl,Lista del Apruebo,,PPD-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 496,Metropolitana,5.5,10,#D10 - Santiago,Patricio Zapata,Lista del Apruebo,,DC ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-497,Metropolitana,5.5,10,#D10 - Santiago,Karina Nohales,Mov. Sociales: Unidad de Ind.,2345,IND,1,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,1
+497,Metropolitana,5.5,10,#D10 - Santiago,Karina Nohales,Mov. Sociales: Unidad de Ind.,2345,IND,1,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,junto muchas firmas para inscripción,1
 498,Metropolitana,5.5,10,#D10 - Santiago,Andrea Gutiérrez,Mov. Sociales: Unidad de Ind.,2345,IND,1,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 499,Metropolitana,5.5,10,#D10 - Santiago,Francisca Fernández,Mov. Sociales: Unidad de Ind.,2345,IND,1,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1
 500,Metropolitana,5.5,10,#D10 - Santiago,Luis Mesina,Mov. Sociales: Unidad de Ind.,2345,IND,0,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
@@ -1089,9 +1089,9 @@
 1088,Araucanía,9,23,#D23 - Temuco,Eliana Roa,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1089,Araucanía,9,23,#D23 - Temuco,Eduardo Castillo,Lista del Apruebo,,PPD ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1090,Araucanía,9,23,#D23 - Temuco,Ilich Silva Peña,Lista del Apruebo,,PRO-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1091,Araucanía,9,23,#D23 - Temuco,Heinrich Von Baer,Lista del Apruebo,,DC-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1091,Araucanía,9,23,#D23 - Temuco,Heinrich Von Baer,Lista del Apruebo,,DC-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,ex rector UFRO,0
 1092,Araucanía,9,23,#D23 - Temuco,Loreto Lagos,Org. Sociales y T. del Wallmapu,1262,IND,1,0,Org. Sociales y T. del Wallmapu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1093,Araucanía,9,23,#D23 - Temuco,Alejandra Parra,Org. Sociales y T. del Wallmapu,1262,IND,1,0,Org. Sociales y T. del Wallmapu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0
+1093,Araucanía,9,23,#D23 - Temuco,Alejandra Parra,Org. Sociales y T. del Wallmapu,1262,IND,1,0,Org. Sociales y T. del Wallmapu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,dato discord,0
 1094,Araucanía,9,23,#D23 - Temuco,Ana María Vera,Org. Sociales y T. del Wallmapu,1262,IND,1,0,Org. Sociales y T. del Wallmapu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1095,Araucanía,9,23,#D23 - Temuco,Carlos Mena,Org. Sociales y T. del Wallmapu,1262,IND,0,0,Org. Sociales y T. del Wallmapu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1096,Araucanía,9,23,#D23 - Temuco,Claudio Díaz,Org. Sociales y T. del Wallmapu,1262,IND,0,0,Org. Sociales y T. del Wallmapu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
