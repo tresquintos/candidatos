@@ -94,9 +94,15 @@
 93,Antofagasta,2,3,#D3 - Antofagasta,Daniel Muñoz,Independiente,360,IFP,0,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 94,Antofagasta,2,3,#D3 - Antofagasta,Dayyana González,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 95,Antofagasta,2,3,#D3 - Antofagasta,Dalila Peña,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+<<<<<<< Updated upstream
 96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+=======
+96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+>>>>>>> Stashed changes
 99,Antofagasta,2,3,#D3 - Antofagasta,Celia González,Lista del Apruebo,,PR ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 100,Antofagasta,2,3,#D3 - Antofagasta,Katherine Leyton,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 101,Antofagasta,2,3,#D3 - Antofagasta,Fabiola Rivero,Lista del Apruebo,,PS-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -657,7 +663,11 @@
 656,Metropolitana,5.5,13,#D13 - San Miguel,Natalia Aravena,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
 657,Metropolitana,5.5,13,#D13 - San Miguel,Adriana Barrientos,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 658,Metropolitana,5.5,13,#D13 - San Miguel,Libertad Méndez,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+<<<<<<< Updated upstream
 659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
+=======
+659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
+>>>>>>> Stashed changes
 660,Metropolitana,5.5,13,#D13 - San Miguel,Mirko Jiménez,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 661,Metropolitana,5.5,13,#D13 - San Miguel,Daniel Andrade,Apruebo Dignidad,,RD-IND,0,,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 662,Metropolitana,5.5,13,#D13 - San Miguel,Sandra Huentemilla,Independientes sin Padrinos,1385,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
