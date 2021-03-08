@@ -95,9 +95,15 @@
 94,Antofagasta,2,3,#D3 - Antofagasta,Dayyana González,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 95,Antofagasta,2,3,#D3 - Antofagasta,Dalila Peña,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+=======
+96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+>>>>>>> Stashed changes
 =======
 96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
 97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -664,7 +670,11 @@
 657,Metropolitana,5.5,13,#D13 - San Miguel,Adriana Barrientos,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 658,Metropolitana,5.5,13,#D13 - San Miguel,Libertad Méndez,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
+=======
+659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
+>>>>>>> Stashed changes
 =======
 659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
 >>>>>>> Stashed changes
