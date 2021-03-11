@@ -10,9 +10,9 @@
 9,Arica,0.5,1,#D1 - Arica,Cristián Pinto,Arica Siempre Arica,500,IND,0,0,Arica Siempre Arica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 10,Arica,0.5,1,#D1 - Arica,Catalina Cabrera,Ind. por una Nueva Const.,500,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 11,Arica,0.5,1,#D1 - Arica,Edwin Briceño,Ind. por una Nueva Const.,500,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-12,Arica,0.5,1,#D1 - Arica,Judith Luna,Ind. por una Nueva Const.,500,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+12,Arica,0.5,1,#D1 - Arica,Judith Luna,Ind. por una Nueva Const.,500,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 13,Arica,0.5,1,#D1 - Arica,Rafael Vargas,Ind. por una Nueva Const.,500,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-14,Arica,0.5,1,#D1 - Arica,Sara Villarroel,Ind. por una Nueva Const.,500,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+14,Arica,0.5,1,#D1 - Arica,Sara Villarroel,Ind. por una Nueva Const.,500,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 15,Arica,0.5,1,#D1 - Arica,Rodrigo Venegas,Ind. por una Nueva Const.,500,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 16,Arica,0.5,1,#D1 - Arica,Romina Le Blac,Independiente,300,IFP,1,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 17,Arica,0.5,1,#D1 - Arica,Rodrigo Muñoz,Independiente,300,IFP,0,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -38,7 +38,7 @@
 37,Arica,0.5,1,#D1 - Arica,Brunella Vinet,Vamos por Chile,,EVO-IND,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 38,Arica,0.5,1,#D1 - Arica,Francisco González,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Primero con más aportes,0
 39,Tarapacá,1,2,#D2 - Iquique,Alejandra Ceballos,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
-40,Tarapacá,1,2,#D2 - Iquique,Camila Castillo,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,0
+40,Tarapacá,1,2,#D2 - Iquique,Camila Castillo,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,,0
 41,Tarapacá,1,2,#D2 - Iquique,Odette López,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 42,Tarapacá,1,2,#D2 - Iquique,Waldo Aguilar,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 43,Tarapacá,1,2,#D2 - Iquique,Hugo Gutiérrez,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex diputado,0
@@ -94,21 +94,9 @@
 93,Antofagasta,2,3,#D3 - Antofagasta,Daniel Muñoz,Independiente,360,IFP,0,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 94,Antofagasta,2,3,#D3 - Antofagasta,Dayyana González,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 95,Antofagasta,2,3,#D3 - Antofagasta,Dalila Peña,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
-=======
-96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
-97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
->>>>>>> Stashed changes
-=======
-96,Antofagasta,2,3,#D3 - Antofagasta,Rosana Olivares,La Lista del Pueblo,900,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
-97,Antofagasta,2,3,#D3 - Antofagasta,Wilfredo Lobos,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-98,Antofagasta,2,3,#D3 - Antofagasta,Carlos Hernández,La Lista del Pueblo,900,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
->>>>>>> Stashed changes
 99,Antofagasta,2,3,#D3 - Antofagasta,Celia González,Lista del Apruebo,,PR ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 100,Antofagasta,2,3,#D3 - Antofagasta,Katherine Leyton,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 101,Antofagasta,2,3,#D3 - Antofagasta,Fabiola Rivero,Lista del Apruebo,,PS-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -162,7 +150,7 @@
 149,Atacama,3,4,#D4 - Copiapó,Carlos Montalva,Vamos por Chile,,RN-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 150,Atacama,3,4,#D4 - Copiapó,Carlos Martin,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 151,Atacama,3,4,#D4 - Copiapó,Miguel Fort,Vamos por Chile,,EVO-IND,0,,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-152,Coquimbo,4,5,#D5 - La Serena,Jennifer Mella,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+152,Coquimbo,4,5,#D5 - La Serena,Jennifer Mella,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 153,Coquimbo,4,5,#D5 - La Serena,Marisol González,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 154,Coquimbo,4,5,#D5 - La Serena,Katharina Pavletich,Apruebo Dignidad,,COM-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0
 155,Coquimbo,4,5,#D5 - La Serena,Mauricio Ugarte,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -192,7 +180,7 @@
 179,Coquimbo,4,5,#D5 - La Serena,Consuelo Infante,Mov. Territorial Constituyente,1285,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 180,Coquimbo,4,5,#D5 - La Serena,Nancy Duman,Mov. Territorial Constituyente,1285,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 181,Coquimbo,4,5,#D5 - La Serena,Daniel Bravo,Mov. Territorial Constituyente,1285,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-182,Coquimbo,4,5,#D5 - La Serena,Diego Figueroa,Mov. Territorial Constituyente,1285,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1
+182,Coquimbo,4,5,#D5 - La Serena,Diego Figueroa,Mov. Territorial Constituyente,1285,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,,1
 183,Coquimbo,4,5,#D5 - La Serena,Alex Cortés,Mov. Territorial Constituyente,1285,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 184,Coquimbo,4,5,#D5 - La Serena,Leonardo Pastén,Mov. Territorial Constituyente,1285,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 185,Coquimbo,4,5,#D5 - La Serena,Claudia Valenzuela,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -260,7 +248,7 @@
 247,Valparaíso,5,6,#D6 - Quilpué,Víctor Araya,Partido Humanista,,PH,0,1,Partido Humanista,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 248,Valparaíso,5,6,#D6 - Quilpué,Gisella Cortés,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
 249,Valparaíso,5,6,#D6 - Quilpué,Karen Inostroza,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-250,Valparaíso,5,6,#D6 - Quilpué,Lirit Brignardello,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+250,Valparaíso,5,6,#D6 - Quilpué,Lirit Brignardello,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0
 251,Valparaíso,5,6,#D6 - Quilpué,Joselyn Peña,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 252,Valparaíso,5,6,#D6 - Quilpué,Cristián Urra,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
 253,Valparaíso,5,6,#D6 - Quilpué,Jesus Gómez,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -285,7 +273,7 @@
 272,Valparaíso,5,7,#D7 - Valparaíso,Manuel Lanas,Apruebo Dignidad,,FRVS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 273,Valparaíso,5,7,#D7 - Valparaíso,Barbarita Lara,Ind. por una Nueva Const.,1801,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0
 274,Valparaíso,5,7,#D7 - Valparaíso,Sofía Bustos,Ind. por una Nueva Const.,1801,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-275,Valparaíso,5,7,#D7 - Valparaíso,Cecilia Echeñique,Ind. por una Nueva Const.,1801,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+275,Valparaíso,5,7,#D7 - Valparaíso,Cecilia Echeñique,Ind. por una Nueva Const.,1801,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 276,Valparaíso,5,7,#D7 - Valparaíso,Carolina Torrejón,Ind. por una Nueva Const.,1801,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 277,Valparaíso,5,7,#D7 - Valparaíso,Rodrigo Reyes,Ind. por una Nueva Const.,1801,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 278,Valparaíso,5,7,#D7 - Valparaíso,Iván Zamora,Ind. por una Nueva Const.,1801,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -295,7 +283,7 @@
 282,Valparaíso,5,7,#D7 - Valparaíso,Tania Madriaga,La Lista del Pueblo,1801,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 283,Valparaíso,5,7,#D7 - Valparaíso,Pamela Vivanco,La Lista del Pueblo,1801,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0
 284,Valparaíso,5,7,#D7 - Valparaíso,Sonia Cáceres,La Lista del Pueblo,1801,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-285,Valparaíso,5,7,#D7 - Valparaíso,Pablo Donoso,La Lista del Pueblo,1801,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+285,Valparaíso,5,7,#D7 - Valparaíso,Pablo Donoso,La Lista del Pueblo,1801,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 286,Valparaíso,5,7,#D7 - Valparaíso,Tomás Lagomarsino,La Lista del Pueblo,1801,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
 287,Valparaíso,5,7,#D7 - Valparaíso,Isaías Rojas,La Lista del Pueblo,1801,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 288,Valparaíso,5,7,#D7 - Valparaíso,Francisco Silva,La Lista del Pueblo,1801,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -332,7 +320,7 @@
 319,Valparaíso,5,7,#D7 - Valparaíso,Natali Hinojosa,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 320,Valparaíso,5,7,#D7 - Valparaíso,Kelly Cerda,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 321,Valparaíso,5,7,#D7 - Valparaíso,Libertad Moiroux,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-322,Valparaíso,5,7,#D7 - Valparaíso,Pamela Contreras,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+322,Valparaíso,5,7,#D7 - Valparaíso,Pamela Contreras,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 323,Valparaíso,5,7,#D7 - Valparaíso,Antonio Páez,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 324,Valparaíso,5,7,#D7 - Valparaíso,Lyam Riveros,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 325,Valparaíso,5,7,#D7 - Valparaíso,Dario González,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -353,7 +341,7 @@
 340,Valparaíso,5,7,#D7 - Valparaíso,Jorge Arancibia,Vamos por Chile,,UDI-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 341,Valparaíso,5,7,#D7 - Valparaíso,Hotuiti Teao,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 342,Metropolitana,5.5,8,#D8 - Maipú,Doris González,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,conocida,0
-343,Metropolitana,5.5,8,#D8 - Maipú,Valentina Miranda,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+343,Metropolitana,5.5,8,#D8 - Maipú,Valentina Miranda,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0
 344,Metropolitana,5.5,8,#D8 - Maipú,Paty López,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 345,Metropolitana,5.5,8,#D8 - Maipú,Tatiana Urrutia,Apruebo Dignidad,,RD,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 346,Metropolitana,5.5,8,#D8 - Maipú,René Naranjo,Apruebo Dignidad,,COM-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -496,7 +484,7 @@
 483,Metropolitana,5.5,10,#D10 - Santiago,Paulina Acevedo,La lista del Pueblo,,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 484,Metropolitana,5.5,10,#D10 - Santiago,Nadya Torres,La lista del Pueblo,,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 485,Metropolitana,5.5,10,#D10 - Santiago,Manuel Woldarsky,La lista del Pueblo,,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
-486,Metropolitana,5.5,10,#D10 - Santiago,Andrés Saldías,La lista del Pueblo,,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+486,Metropolitana,5.5,10,#D10 - Santiago,Andrés Saldías,La lista del Pueblo,,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0
 487,Metropolitana,5.5,10,#D10 - Santiago,Alexis Garrido,La lista del Pueblo,,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 488,Metropolitana,5.5,10,#D10 - Santiago,Daniel Martínez,La lista del Pueblo,,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,0
 489,Metropolitana,5.5,10,#D10 - Santiago,Laura Albornoz,Lista del Apruebo,,DC ,1,1,Lista del Apruebo,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministra,0
@@ -505,7 +493,7 @@
 492,Metropolitana,5.5,10,#D10 - Santiago,Carolina Parraguez,Lista del Apruebo,,PL-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 493,Metropolitana,5.5,10,#D10 - Santiago,Jorge Baradit,Lista del Apruebo,,PS-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,conocido,0
 494,Metropolitana,5.5,10,#D10 - Santiago,Darwin Loreto Johns,Lista del Apruebo,,PL-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0
-495,Metropolitana,5.5,10,#D10 - Santiago,Jaime Parada Hoyl,Lista del Apruebo,,PPD-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+495,Metropolitana,5.5,10,#D10 - Santiago,Jaime Parada Hoyl,Lista del Apruebo,,PPD-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 496,Metropolitana,5.5,10,#D10 - Santiago,Patricio Zapata,Lista del Apruebo,,DC ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 497,Metropolitana,5.5,10,#D10 - Santiago,Karina Nohales,Mov. Sociales: Unidad de Ind.,2345,IND,1,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,junto muchas firmas para inscripción,1
 498,Metropolitana,5.5,10,#D10 - Santiago,Andrea Gutiérrez,Mov. Sociales: Unidad de Ind.,2345,IND,1,0,Movimientos Sociales,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -521,14 +509,14 @@
 508,Metropolitana,5.5,10,#D10 - Santiago,Gregorio Correa ,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 509,Metropolitana,5.5,10,#D10 - Santiago,Phelippe Romero,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 510,Metropolitana,5.5,10,#D10 - Santiago,Claudio Rosello,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-511,Metropolitana,5.5,10,#D10 - Santiago,Suely Arancibia,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+511,Metropolitana,5.5,10,#D10 - Santiago,Suely Arancibia,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 512,Metropolitana,5.5,10,#D10 - Santiago,Carolina Toledo,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-513,Metropolitana,5.5,10,#D10 - Santiago,Rafaella Ruilova,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+513,Metropolitana,5.5,10,#D10 - Santiago,Rafaella Ruilova,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 514,Metropolitana,5.5,10,#D10 - Santiago,María V. Torres,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 515,Metropolitana,5.5,10,#D10 - Santiago,Dauno Totoro,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 516,Metropolitana,5.5,10,#D10 - Santiago,José Romero,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 517,Metropolitana,5.5,10,#D10 - Santiago,Julio Mancilla,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-518,Metropolitana,5.5,10,#D10 - Santiago,Javier Ayarza,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+518,Metropolitana,5.5,10,#D10 - Santiago,Javier Ayarza,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 519,Metropolitana,5.5,10,#D10 - Santiago,Sofía Lara,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 520,Metropolitana,5.5,10,#D10 - Santiago,Valentina Vargas,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 521,Metropolitana,5.5,10,#D10 - Santiago,Nicoll Rojas,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -578,7 +566,7 @@
 565,Metropolitana,5.5,11,#D11 - Las Condes,Jorge de la Carrera,Independientes con Chile,2036,IND,0,0,Independientes con Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 566,Metropolitana,5.5,11,#D11 - Las Condes,Sara Larraín,Lista del Apruebo,,PPD-IND,1,1,Lista del Apruebo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 567,Metropolitana,5.5,11,#D11 - Las Condes,Paola Berlín,Lista del Apruebo,,CIU-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-568,Metropolitana,5.5,11,#D11 - Las Condes,María José Cumplido,Lista del Apruebo,,PL ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+568,Metropolitana,5.5,11,#D11 - Las Condes,María José Cumplido,Lista del Apruebo,,PL ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 569,Metropolitana,5.5,11,#D11 - Las Condes,Elisa Walker ,Lista del Apruebo,,DC ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0
 570,Metropolitana,5.5,11,#D11 - Las Condes,Cristóbal Bellolio,Lista del Apruebo,,CIU-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 571,Metropolitana,5.5,11,#D11 - Las Condes,Patricio Fernández,Lista del Apruebo,,PL-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -664,20 +652,12 @@
 651,Metropolitana,5.5,12,#D12 - Puente Alto,Tania Alfaro,Voces Constituyentes,1938,IND,1,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 652,Metropolitana,5.5,12,#D12 - Puente Alto,Lucio Cuenca,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 653,Metropolitana,5.5,12,#D12 - Puente Alto,Eduardo Gutiérrez,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-654,Metropolitana,5.5,12,#D12 - Puente Alto,Edgar Espergel,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+654,Metropolitana,5.5,12,#D12 - Puente Alto,Edgar Espergel,Voces Constituyentes,1938,IND,0,0,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 655,Metropolitana,5.5,12,#D12 - Puente Alto,Maite Durán,Voces Constituyentes,,IND,1,,Voces Constituyentes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 656,Metropolitana,5.5,13,#D13 - San Miguel,Natalia Aravena,Apruebo Dignidad,,CS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
 657,Metropolitana,5.5,13,#D13 - San Miguel,Adriana Barrientos,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 658,Metropolitana,5.5,13,#D13 - San Miguel,Libertad Méndez,Apruebo Dignidad,,COM,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
-=======
-659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
->>>>>>> Stashed changes
-=======
-659,Metropolitana,5.5,13,#D13 - San Miguel,Marcos Barraza,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ex ministro,0
->>>>>>> Stashed changes
 660,Metropolitana,5.5,13,#D13 - San Miguel,Mirko Jiménez,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 661,Metropolitana,5.5,13,#D13 - San Miguel,Daniel Andrade,Apruebo Dignidad,,RD-IND,0,,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 662,Metropolitana,5.5,13,#D13 - San Miguel,Sandra Huentemilla,Independientes sin Padrinos,1385,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -691,7 +671,7 @@
 670,Metropolitana,5.5,13,#D13 - San Miguel,Camila Torres,La lista del Pueblo,1385,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 671,Metropolitana,5.5,13,#D13 - San Miguel,Rodrigo Rojas,La lista del Pueblo,1385,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
 672,Metropolitana,5.5,13,#D13 - San Miguel,Jesús Colque,La lista del Pueblo,1385,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-673,Metropolitana,5.5,13,#D13 - San Miguel,Andrés Cuevas,La lista del Pueblo,1385,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+673,Metropolitana,5.5,13,#D13 - San Miguel,Andrés Cuevas,La lista del Pueblo,1385,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 674,Metropolitana,5.5,13,#D13 - San Miguel,Francisca Cabrera,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
 675,Metropolitana,5.5,13,#D13 - San Miguel,Malucha Pinto,Lista del Apruebo,,PS ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,conocida ,0
 676,Metropolitana,5.5,13,#D13 - San Miguel,Valeria Villegas,Lista del Apruebo,,PR ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -705,13 +685,13 @@
 684,Metropolitana,5.5,13,#D13 - San Miguel,Ricardo González,Lista por la Justicia Social,1385,IND,0,0,Lista por la Justicia Social,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 685,Metropolitana,5.5,13,#D13 - San Miguel,Valentina Bustamante,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 686,Metropolitana,5.5,13,#D13 - San Miguel,María José Toro,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-687,Metropolitana,5.5,13,#D13 - San Miguel,Cristina González,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+687,Metropolitana,5.5,13,#D13 - San Miguel,Cristina González,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 688,Metropolitana,5.5,13,#D13 - San Miguel,Mariana Sandoval,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 689,Metropolitana,5.5,13,#D13 - San Miguel,Ismael Mena Abrigo,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,0
 690,Metropolitana,5.5,13,#D13 - San Miguel,Hans Hube Frías,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 691,Metropolitana,5.5,13,#D13 - San Miguel,Valeria Yáñez,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 692,Metropolitana,5.5,13,#D13 - San Miguel,Brisa Galvez,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-693,Metropolitana,5.5,13,#D13 - San Miguel,Emilia Villalobos,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+693,Metropolitana,5.5,13,#D13 - San Miguel,Emilia Villalobos,Trabajadores Revolucionarios,,PTR,1,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0
 694,Metropolitana,5.5,13,#D13 - San Miguel,Kevin Bustamante,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 695,Metropolitana,5.5,13,#D13 - San Miguel,Álvaro Pérez,Trabajadores Revolucionarios,,PTR,0,1,Trabajadores Revolucionarios,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 696,Metropolitana,5.5,13,#D13 - San Miguel,Varinia Aravena,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -725,13 +705,13 @@
 704,Metropolitana,5.5,13,#D13 - San Miguel,Luis Silva,Vamos por Chile,,REP-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 705,Metropolitana,5.5,13,#D13 - San Miguel,Alejandro Fernández,Vamos por Chile,,EVO-IND,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Primero con más aportes,0
 706,Metropolitana,5.5,14,#D14 - San Bernardo,Sandra Saavedra,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-707,Metropolitana,5.5,14,#D14 - San Bernardo,Camila Musante,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+707,Metropolitana,5.5,14,#D14 - San Bernardo,Camila Musante,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 708,Metropolitana,5.5,14,#D14 - San Bernardo,Camila Navarro,Apruebo Dignidad,,FRVS-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 709,Metropolitana,5.5,14,#D14 - San Bernardo,Ignacio Achurra,Apruebo Dignidad,,CS,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 710,Metropolitana,5.5,14,#D14 - San Bernardo,Carlos Poblete,Apruebo Dignidad,,PI,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 711,Metropolitana,5.5,14,#D14 - San Bernardo,Sebastián Aylwin,Apruebo Dignidad,,COM,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 712,Metropolitana,5.5,14,#D14 - San Bernardo,Paulina Valenzuela,Ind. por la Nueva Constitución,1680,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-713,Metropolitana,5.5,14,#D14 - San Bernardo,Nadia Letelier,Ind. por la Nueva Constitución,1680,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+713,Metropolitana,5.5,14,#D14 - San Bernardo,Nadia Letelier,Ind. por la Nueva Constitución,1680,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 714,Metropolitana,5.5,14,#D14 - San Bernardo,Pamela Rodríguez,Ind. por la Nueva Constitución,1680,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 715,Metropolitana,5.5,14,#D14 - San Bernardo,Claudio Vielma,Ind. por la Nueva Constitución,1680,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 716,Metropolitana,5.5,14,#D14 - San Bernardo,Angelo Perrotta,Ind. por la Nueva Constitución,1680,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
@@ -787,7 +767,7 @@
 766,O'Higgins,6,15,#D15 - Rancagua,César Ortiz Garrido,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 767,O'Higgins,6,15,#D15 - Rancagua,Carlos Miranda,Partido Ecologista Verde,,PEV,0,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 768,O'Higgins,6,15,#D15 - Rancagua,Catalina Barrientos,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
-769,O'Higgins,6,15,#D15 - Rancagua,Lorraine Salvo,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+769,O'Higgins,6,15,#D15 - Rancagua,Lorraine Salvo,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 770,O'Higgins,6,15,#D15 - Rancagua,Viviana Abud,Unión Patriotica,,UPA,1,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 771,O'Higgins,6,15,#D15 - Rancagua,Christopher Chacana,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 772,O'Higgins,6,15,#D15 - Rancagua,Marcelo Herrera Oñate,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -806,7 +786,7 @@
 785,O'Higgins,6,16,#D16 - San Fernando,Gloria Alvarado,Corrientes Independientes,749,IND,1,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 786,O'Higgins,6,16,#D16 - San Fernando,Flor Ilic,Corrientes Independientes,749,IND,1,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 787,O'Higgins,6,16,#D16 - San Fernando,Katherine Villibares,Corrientes Independientes,749,IND,1,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-788,O'Higgins,6,16,#D16 - San Fernando,Iancu Cordescu,Corrientes Independientes,749,IND,0,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+788,O'Higgins,6,16,#D16 - San Fernando,Iancu Cordescu,Corrientes Independientes,749,IND,0,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 789,O'Higgins,6,16,#D16 - San Fernando,Cadudzzi Salas,Corrientes Independientes,749,IND,0,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 790,O'Higgins,6,16,#D16 - San Fernando,Francisco Valenzuela,Corrientes Independientes,749,IND,0,0,Corrientes Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 791,O'Higgins,6,16,#D16 - San Fernando,Evelyn Echague,Independiente,300,IFP,1,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -822,7 +802,7 @@
 801,O'Higgins,6,16,#D16 - San Fernando,Marlene Duarte,Sexta Unida,749,IND,1,0,Sexta Unida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 802,O'Higgins,6,16,#D16 - San Fernando,Pamela Morales,Sexta Unida,749,IND,1,0,Sexta Unida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 803,O'Higgins,6,16,#D16 - San Fernando,Aida Rojas,Sexta Unida,749,IND,1,0,Sexta Unida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-804,O'Higgins,6,16,#D16 - San Fernando,Dagoberto Huerta,Sexta Unida,749,IND,0,0,Sexta Unida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+804,O'Higgins,6,16,#D16 - San Fernando,Dagoberto Huerta,Sexta Unida,749,IND,0,0,Sexta Unida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 805,O'Higgins,6,16,#D16 - San Fernando,Rodrigo Cumsille,Sexta Unida,749,IND,0,0,Sexta Unida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 806,O'Higgins,6,16,#D16 - San Fernando,Cristián Martínez,Unión Patriotica,,UPA,0,1,Unión Patriotica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0
 807,O'Higgins,6,16,#D16 - San Fernando,Natalia Tobar,Vamos por Chile,,EVO,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -844,7 +824,7 @@
 823,Maule,7,17,#D17 - Talca,Eliana Adams,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1
 824,Maule,7,17,#D17 - Talca,Paola Grandón,Apruebo Dignidad,,FRVS,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 825,Maule,7,17,#D17 - Talca,José González,Apruebo Dignidad,,PI-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-826,Maule,7,17,#D17 - Talca,Fabián Farías,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,1
+826,Maule,7,17,#D17 - Talca,Fabián Farías,Apruebo Dignidad,,RD,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,,1
 827,Maule,7,17,#D17 - Talca,Roberto Celedón,Apruebo Dignidad,,FRVS-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
 828,Maule,7,17,#D17 - Talca,Igor Villarreal,Apruebo Dignidad,,PC-IND,1,,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 829,Maule,7,17,#D17 - Talca,Clara Román,Comunidad Ind. Del Maule,1369,IND,1,0,Comunidad Ind. Del Maule,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -865,7 +845,7 @@
 844,Maule,7,17,#D17 - Talca,Elsa Labraña,La lista del Pueblo,1369,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 845,Maule,7,17,#D17 - Talca,Antonia Rosales,La lista del Pueblo,1369,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 846,Maule,7,17,#D17 - Talca,Zev Catalina Tello,La lista del Pueblo,1369,IND,1,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
-847,Maule,7,17,#D17 - Talca,Luis Hernández,La lista del Pueblo,1369,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+847,Maule,7,17,#D17 - Talca,Luis Hernández,La lista del Pueblo,1369,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 848,Maule,7,17,#D17 - Talca,Carlos Grez,La lista del Pueblo,1369,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 849,Maule,7,17,#D17 - Talca,Claudio Moya,La lista del Pueblo,1369,IND,0,0,Lista del Pueblo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 850,Maule,7,17,#D17 - Talca,Paulina Elissetche,Lista del Apruebo,,PS ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,esposa de  Gazmuri; ex candidata,0
@@ -905,7 +885,7 @@
 884,Maule,7,18,#D18 - Linares,María E. Hormázabal,Vamos por Chile,,UDI,1,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 885,Maule,7,18,#D18 - Linares,Leroy Ibáñez,Vamos por Chile,,RN,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 886,Maule,7,18,#D18 - Linares,Juan Ariztía,Vamos por Chile,,REP,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Primero con más aportes,0
-887,Maule,7,18,#D18 - Linares,Manuel Noman,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,hermano del diputado,0
+887,Maule,7,18,#D18 - Linares,Manuel Noman,Vamos por Chile,,UDI,0,1,Vamos por Chile,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,padre del diputado,0
 888,Ñuble,7.5,19,#D19 - Chillán,Mónica Llaveillán,Apruebo Dignidad,,PI-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 889,Ñuble,7.5,19,#D19 - Chillán,Rocío Hizmeri,Apruebo Dignidad,,PC,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 890,Ñuble,7.5,19,#D19 - Chillán,Cristina Martin,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -964,8 +944,8 @@
 943,Bío-Bío,8,20,#D20 - Concepción,Sebastián Valdés,Asamblea Popular Constituyente,1888,IND,0,0,Asamblea Popular Constituyente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 944,Bío-Bío,8,20,#D20 - Concepción,Tammy Pustilnick,Ind. del Bíobío por una Nueva Const.,1888,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
 945,Bío-Bío,8,20,#D20 - Concepción,Susana Herrera,Ind. del Bíobío por una Nueva Const.,1888,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-946,Bío-Bío,8,20,#D20 - Concepción,Ana María Cavalerie,Ind. del Bíobío por una Nueva Const.,1888,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
-947,Bío-Bío,8,20,#D20 - Concepción,Pablo Rodríguez,Ind. del Bíobío por una Nueva Const.,1888,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
+946,Bío-Bío,8,20,#D20 - Concepción,Ana María Cavalerie,Ind. del Bíobío por una Nueva Const.,1888,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1
+947,Bío-Bío,8,20,#D20 - Concepción,Pablo Rodríguez,Ind. del Bíobío por una Nueva Const.,1888,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1
 948,Bío-Bío,8,20,#D20 - Concepción,Paulo San Martín,Ind. del Bíobío por una Nueva Const.,1888,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 949,Bío-Bío,8,20,#D20 - Concepción,Nicolás Felipos,Ind. del Bíobío por una Nueva Const.,1888,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
 950,Bío-Bío,8,20,#D20 - Concepción,Antonio Mena,Ind. del Bíobío por una Nueva Const.,1888,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -987,7 +967,7 @@
 966,Bío-Bío,8,20,#D20 - Concepción,Paula Álvarez,Lista del Apruebo,,PRO-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 967,Bío-Bío,8,20,#D20 - Concepción,Andrés Cruz,Lista del Apruebo,,PS-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 968,Bío-Bío,8,20,#D20 - Concepción,Pavel Guiñez,Lista del Apruebo,,PR-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-969,Bío-Bío,8,20,#D20 - Concepción,Guido Lillo,Lista del Apruebo,,PRO-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+969,Bío-Bío,8,20,#D20 - Concepción,Guido Lillo,Lista del Apruebo,,PRO-IND,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 970,Bío-Bío,8,20,#D20 - Concepción,Oscar Vega O.,Lista del Apruebo,,DC ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 971,Bío-Bío,8,20,#D20 - Concepción,Elizabeth Mujica,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 972,Bío-Bío,8,20,#D20 - Concepción,María José Gormaz,Partido Ecologista Verde,,PEV,1,1,Partido Ecologista Verde,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,0
@@ -1024,7 +1004,7 @@
 1003,Bío-Bío,8,21,#D21 - Los Ángeles,Clara Sagardía,Ind. por una Nueva Const.,1068,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1004,Bío-Bío,8,21,#D21 - Los Ángeles,Elizabeth Aguilera,Ind. por una Nueva Const.,1068,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1005,Bío-Bío,8,21,#D21 - Los Ángeles,Alejandra Navarrete,Ind. por una Nueva Const.,1068,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1006,Bío-Bío,8,21,#D21 - Los Ángeles,Javier Fuchslocher,Ind. por una Nueva Const.,1068,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1006,Bío-Bío,8,21,#D21 - Los Ángeles,Javier Fuchslocher,Ind. por una Nueva Const.,1068,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 1007,Bío-Bío,8,21,#D21 - Los Ángeles,Luis Gutiérrez,Ind. por una Nueva Const.,1068,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1008,Bío-Bío,8,21,#D21 - Los Ángeles,Germán Ríos,Ind. por una Nueva Const.,1068,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
 1009,Bío-Bío,8,21,#D21 - Los Ángeles,Norka Flores Jara,Lista del Apruebo,,DC,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1
@@ -1136,7 +1116,7 @@
 1115,Los Ríos,9.5,24,#D24 - Valdivia,Aurora Delgado,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1116,Los Ríos,9.5,24,#D24 - Valdivia,Daniela Milanka,Apruebo Dignidad,,RD-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1117,Los Ríos,9.5,24,#D24 - Valdivia,Marisol Torres,Apruebo Dignidad,,PC-IND,1,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1118,Los Ríos,9.5,24,#D24 - Valdivia,Felipe Pino,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1118,Los Ríos,9.5,24,#D24 - Valdivia,Felipe Pino,Apruebo Dignidad,,RD-IND,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 1119,Los Ríos,9.5,24,#D24 - Valdivia,Wladimir Manzano,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1120,Los Ríos,9.5,24,#D24 - Valdivia,Vladimir Riesco,Apruebo Dignidad,,PC,0,1,Apruebo Dignidad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1121,Los Ríos,9.5,24,#D24 - Valdivia,Claudia Letelier,Chile Independiente,,IND,1,0,Chile Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1213,7 +1193,7 @@
 1192,Los Lagos,10,26,#D26 - Puerto Montt,Mariela Núñez,Ind. Nueva Const.,802,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0
 1193,Los Lagos,10,26,#D26 - Puerto Montt,Inés Cardenas,Ind. Nueva Const.,802,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1194,Los Lagos,10,26,#D26 - Puerto Montt,Marcela Linzmayer,Ind. Nueva Const.,802,IND,1,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1195,Los Lagos,10,26,#D26 - Puerto Montt,Gaspar Domínguez,Ind. Nueva Const.,802,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+1195,Los Lagos,10,26,#D26 - Puerto Montt,Gaspar Domínguez,Ind. Nueva Const.,802,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0
 1196,Los Lagos,10,26,#D26 - Puerto Montt,Javier Gallardo,Ind. Nueva Const.,802,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1197,Los Lagos,10,26,#D26 - Puerto Montt,Víctor Riquelme,Ind. Nueva Const.,802,IND,0,0,No Neutrales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1198,Los Lagos,10,26,#D26 - Puerto Montt,Romina Borquéz,Independiente,321,IFP,1,0,Independiente,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1222,7 +1202,7 @@
 1201,Los Lagos,10,26,#D26 - Puerto Montt,Noelia Ojeda,Insulares e Independientes,802,IND,1,0,Insulares e Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1202,Los Lagos,10,26,#D26 - Puerto Montt,Christian Ruiz,Insulares e Independientes,802,IND,0,0,Insulares e Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1203,Los Lagos,10,26,#D26 - Puerto Montt,Diego Vallejos,Insulares e Independientes,802,IND,0,0,Insulares e Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0
-1204,Los Lagos,10,26,#D26 - Puerto Montt,Miguel Maldonado,Insulares e Independientes,802,IND,0,0,Insulares e Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+1204,Los Lagos,10,26,#D26 - Puerto Montt,Miguel Maldonado,Insulares e Independientes,802,IND,0,0,Insulares e Independientes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0
 1205,Los Lagos,10,26,#D26 - Puerto Montt,Rosabetty Muñoz Serón,Lista del Apruebo,,PL-IND,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1206,Los Lagos,10,26,#D26 - Puerto Montt,Carmen Muñoz,Lista del Apruebo,,DC ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1207,Los Lagos,10,26,#D26 - Puerto Montt,Jacquelin Cabrera,Lista del Apruebo,,PS ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
@@ -1248,7 +1228,7 @@
 1227,Aysén,11,27,#D27 - Coyhaique,Viviana Betancourt,Lista del Apruebo,,PS ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1228,Aysén,11,27,#D27 - Coyhaique,Paulina Ruz Delfin,Lista del Apruebo,,PPD ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1229,Aysén,11,27,#D27 - Coyhaique,Jannette Salgado,Lista del Apruebo,,DC ,1,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-1230,Aysén,11,27,#D27 - Coyhaique,Tomás Laibe Sáez,Lista del Apruebo,,PS ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1230,Aysén,11,27,#D27 - Coyhaique,Tomás Laibe Sáez,Lista del Apruebo,,PS ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
 1231,Aysén,11,27,#D27 - Coyhaique,Guillermo Martínez,Lista del Apruebo,,PR ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1232,Aysén,11,27,#D27 - Coyhaique,Mario Sandoval,Lista del Apruebo,,DC ,0,1,Lista del Apruebo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 1233,Aysén,11,27,#D27 - Coyhaique,Macarena Medrano,Patagonia Somos Todos,,IND,1,0,Patagonia Somos Todos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
