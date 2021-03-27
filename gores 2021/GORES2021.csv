@@ -28,10 +28,10 @@
 27,6,5,Valparaíso,U200,Marco Oyanedel,Igualdad para Chile,IND,0
 28,6,5,Valparaíso,YN204,Aldo Valle,Unidad Constituyente,PS,0
 29,6,5,Valparaíso,ZB205,Luis Aravena,Unión Patriotica,UPA,0
-30,15,5.5,Metropolitana,XX202,Catalina Parot,Chile Vamos,EVO-IND,1
+30,15,5.5,Metropolitana,XX202,Catalina Parot,Chile Vamos,EVO,1
+33,15,5.5,Metropolitana,XZ203,Nathalie Joignant,Ecologistas e Independientes,PEV,1
 31,15,5.5,Metropolitana,XS201,Karina Oliva,Frente Amplio,COM,1
 32,15,5.5,Metropolitana,YA204,Pablo Maltés,Humanicemos Chile,PH,0
-33,15,5.5,Metropolitana,XZ203,Nathalie Joignant,Partido Ecologista Verde,PEV,1
 37,15,5.5,Metropolitana,ZX207,Ricardo Martínez,Regionalistas Verdes,FRVS,0
 34,15,5.5,Metropolitana,XO200,Rojo Edwards,Republicanos,REP,0
 35,15,5.5,Metropolitana,YN205,Claudio Orrego,Unidad Constituyente,DC,0
@@ -57,10 +57,10 @@
 56,9.5,7.5,Ñuble,YN206,Óscar Crisóstomo,Unidad Constituyente,PS,0
 57,9,8,Bío Bío,XX201,Flor Weisse,Chile Vamos,UDI,1
 58,9,8,Bío Bío,ZV206,Tania Concha,Dignidad Regional,PC,1
+61,9,8,Bío Bío,ZX202,Ana Araneda,Ecologistas e Independientes,PEV,1
 64,9,8,Bío Bío,YA203,Pedro Neira,Humanicemos Chile,PH,0
 59,9,8,Bío Bío,U200,Francisco Sandoval,Igualdad para Chile,PI,0
 60,9,8,Bío Bío,207,Rodrigo Díaz,Independiente,IND,0
-61,9,8,Bío Bío,ZX202,Ana Araneda,Regionalistas Verdes,PEV,1
 62,9,8,Bío Bío,YN204,Eric Aedo,Unidad Constituyente,DC,0
 63,9,8,Bío Bío,ZB205,Gastón Flores,Unión Patriotica,UPA,0
 65,10,9,Araucanía,XX202,Luciano Rivas Stepke,Chile Vamos,IND,0
@@ -78,8 +78,8 @@
 77,11,9.5,Los Ríos,YN202,Luis Cuvertino,Unidad Constituyente,PS,0
 78,12,10,Los Lagos,XX201,Ricardo Kuschel Silva,Chile Vamos,RN,0
 79,12,10,Los Lagos,ZV204,Paola Venegas,Dignidad Regional,PC,1
+81,12,10,Los Lagos,XZ202,Alfonso Belmar,Ecologistas e Independientes,PEV,0
 80,12,10,Los Lagos,XS200,Jaime Sáez,Frente Amplio,RD,0
-81,12,10,Los Lagos,XZ202,Alfonso Belmar,Partido Ecologista Verde,PEV,0
 82,12,10,Los Lagos,YN203,Patricio Vallespin,Unidad Constituyente,DC,0
 83,13,11,Aysén,XX200,Raúl Rudolphi,Chile Vamos,RN,0
 84,13,11,Aysén,202,Jorge Sepúlveda,Independiente,IND,0
