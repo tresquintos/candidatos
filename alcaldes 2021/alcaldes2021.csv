@@ -1,0 +1,1448 @@
+﻿id,región,región1,comuna,nombre,sexo,pacto,partido
+1,Arica,0.5,Arica,Luis Paredes Fierro,0,Chile Digno Verde Y Soberano,IND
+2,Arica,0.5,Arica,Giancarlo Baltolu Quintano,0,Chile Vamos,EVO
+3,Arica,0.5,Arica,Paul Carvajal Quiroz,0,Dignidad Ahora,PH
+4,Arica,0.5,Arica,Gerardo Espindola Rojas,0,Frente Amplio,PL
+5,Arica,0.5,Arica,Leonardo Borquez Castillo,0,Independientes,IFP
+6,Arica,0.5,Arica,Ricardo Sanzana Oteiza,0,Independientes,IFP
+7,Arica,0.5,Arica,Carlos Valcarce Medina,0,Independientes,IFP
+8,Arica,0.5,Arica,Rafael Ortega Aliaga,0,Independientes,IFP
+9,Arica,0.5,Arica,Rayko Karmelic Pavlov,0,Independientes,IFP
+10,Arica,0.5,Camarones,Ricardo Cepeda Soto,0,Chile Vamos,UDI
+11,Arica,0.5,Camarones,Vladimir Caceres Salinas,0,Independientes,IFP
+12,Arica,0.5,Camarones,Martin Montecinos Romero,0,Independientes,IFP
+13,Arica,0.5,Camarones,Javier Diaz Calderon,0,Independientes,IFP
+14,Arica,0.5,Camarones,Cristian Zavala Soto,0,Unidos Por La Dignidad,DC
+15,Arica,0.5,General Lagos,Alex Castillo Blas,0,Chile Vamos,RN
+16,Arica,0.5,General Lagos,Florencio Villanueva Sarco,0,Independientes,IFP
+17,Arica,0.5,General Lagos,Rosa Maita Querquezana,1,Unidad Por El Apruebo,IND
+18,Arica,0.5,Putre,Sergio Gamboa Morales,0,Chile Digno Verde Y Soberano,IND
+19,Arica,0.5,Putre,Maricel Gutierrez Castro,1,Independientes,IFP
+20,Arica,0.5,Putre,Cristian Bilbao Apata,0,Independientes,IFP
+21,Arica,0.5,Putre,Lino Mamani Vicente,0,Unidad Por El Apruebo,PPD
+22,Tarapacá,1,Alto Hospicio,Camila Arce Fajardo,1,Chile Vamos,IND
+23,Tarapacá,1,Alto Hospicio,Rene Caceres Araya,0,Independientes,IFP
+24,Tarapacá,1,Alto Hospicio,Jorge Zavala Valenzuela,0,Independientes,IFP
+25,Tarapacá,1,Alto Hospicio,German Quiroz Cancino,0,Independientes,IFP
+26,Tarapacá,1,Alto Hospicio,Paula Astudillo Diaz,1,Independientes,IFP
+27,Tarapacá,1,Alto Hospicio,Patricio Ferreira Rivera,0,Unidos Por La Dignidad,DC
+28,Tarapacá,1,Camiña,Alex Carlos Sanchez,0,Chile Digno Verde Y Soberano,IND
+29,Tarapacá,1,Camiña,Marina Luna Platero,1,Chile Vamos,RN
+30,Tarapacá,1,Camiña,Evelyn Mamani Viza,1,Independientes,IFP
+31,Tarapacá,1,Colchane,Andres Garcia Flores,0,Chile Vamos,UDI
+32,Tarapacá,1,Colchane,Javier Garcia Choque,0,Unidos Por La Dignidad,IND
+33,Tarapacá,1,Huara,Jose Bartolo Vinaya,0,Chile Vamos,UDI
+34,Tarapacá,1,Huara,Pamela Carvajal Carlos,1,Independientes,IFP
+35,Tarapacá,1,Huara,Carlos Silva Riquelme,0,Independientes,IFP
+36,Tarapacá,1,Huara,Oscar Pantoja Toro,0,Unidad Por El Apruebo,PS
+37,Tarapacá,1,Iquique,Matias Ramirez Pascal,0,Chile Digno Verde Y Soberano,PC
+38,Tarapacá,1,Iquique,Daniela Solari Vega,1,Chile Vamos,IND
+39,Tarapacá,1,Iquique,Francisco Alcayaga Motta,0,Ecologistas E Independientes,IND
+40,Tarapacá,1,Iquique,Mauricio Soria Macchiavello,0,Unidad Por El Apruebo,IND
+41,Tarapacá,1,Pica,Ivan Infante Chacon,0,Chile Vamos,IND
+42,Tarapacá,1,Pica,Leonel Vilaxa Ramirez,0,Dignidad Ahora,IND
+43,Tarapacá,1,Pica,Rodrigo Vargas Briones,0,Unidad Por El Apruebo,PR
+44,Tarapacá,1,Pozo Almonte,Jose Muñoz Caceres,0,Chile Vamos,IND
+45,Tarapacá,1,Pozo Almonte,Edwin Lopez Pavez,0,Independientes,IFP
+46,Tarapacá,1,Pozo Almonte,Richard Godoy Aguirre,0,Unidos Por La Dignidad,DC
+47,Antofagasta,3,Antofagasta,Pablo Iriarte Ramirez,0,Chile Digno Verde Y Soberano,PC
+48,Antofagasta,3,Antofagasta,Roberto Soto Alballay,0,Chile Vamos,UDI
+49,Antofagasta,3,Antofagasta,Fabian Ossandon Briceño,0,Independientes,IFP
+50,Antofagasta,3,Antofagasta,Jonathan Velasquez Ramirez,0,Independientes,IFP
+51,Antofagasta,3,Antofagasta,Sebastian Videla Castillo,0,Independientes,IFP
+52,Antofagasta,3,Antofagasta,Maria Verdugo Escobar,1,Independientes,IFP
+53,Antofagasta,3,Antofagasta,Wilson Diaz Vasquez,0,Unidad Por El Apruebo,PS
+54,Antofagasta,3,Calama,Eliecer Chamorro Vargas,0,Chile Digno Verde Y Soberano,FRVS
+55,Antofagasta,3,Calama,Daniel Agusto Perez,0,Chile Vamos,RN
+56,Antofagasta,3,Calama,Miguel Ballesteros Candia,0,Frente Amplio,RD
+57,Antofagasta,3,Calama,Jorge Olivares Puentes,0,Independientes,IFP
+58,Antofagasta,3,Calama,Ledy Osandon Ferrer,1,Independientes,IFP
+59,Antofagasta,3,Calama,Dinka Lopez Duran,1,Nuevo Tiempo,NT
+60,Antofagasta,3,Calama,Carolina Latorre Cruz,1,Unidos Por La Dignidad,DC
+61,Antofagasta,3,Maria Elena,Omar Norambuena Rivera,0,Chile Vamos,IND
+62,Antofagasta,3,Maria Elena,Cristian Garrido Garrido,0,Dignidad Ahora,PH
+63,Antofagasta,3,Maria Elena,Viviana Cuello Rivera,1,Independientes,IFP
+64,Antofagasta,3,Maria Elena,Jorge Godoy Bolvaran,0,Unidad Por El Apruebo,PS
+65,Antofagasta,3,Mejillones,Rodrigo Sanchez Alvarez,0,Chile Vamos,RN
+66,Antofagasta,3,Mejillones,Enrique Venegas Avendaño,0,Independientes,IFP
+67,Antofagasta,3,Mejillones,Sergio Vega Venegas,0,Independientes,IFP
+68,Antofagasta,3,Mejillones,Marcelino Carvajal Ferreira,0,Unidad Por El Apruebo,PPD
+69,Antofagasta,3,Ollagüe,Yessica Mamani Morales,1,Chile Digno Verde Y Soberano,FRVS
+70,Antofagasta,3,Ollagüe,Marcos Gaete Flores,0,Chile Vamos,UDI
+71,Antofagasta,3,Ollagüe,Marlene Hurtado Mendoza,1,Frente Amplio,IND
+72,Antofagasta,3,Ollagüe,Humberto Flores Gonzalez,0,Independientes,IFP
+73,Antofagasta,3,Ollagüe,Victor Nina Huanca,0,Unidad Por El Apruebo,PPD
+74,Antofagasta,3,San Pedro De Atacama,Justo Zuleta Santander,0,Chile Digno Verde Y Soberano,IND
+75,Antofagasta,3,San Pedro De Atacama,Aliro Catur Zuleta,0,Chile Vamos,IND
+76,Antofagasta,3,San Pedro De Atacama,Manuel Garrido Hermosilla,0,Independientes,IFP
+77,Antofagasta,3,San Pedro De Atacama,Sergio Cubillos Verasay,0,Independientes,IFP
+78,Antofagasta,3,San Pedro De Atacama,Maria Veliz Guerra,1,Unidad Por El Apruebo,PR
+79,Antofagasta,3,Sierra Gorda,Adriana Rivera Vega,1,Chile Vamos,RN
+80,Antofagasta,3,Sierra Gorda,Deborah Paredes Cuevas,1,Independientes,IFP
+81,Antofagasta,3,Sierra Gorda,Ingrid Guerrero Guerrero,1,Unidad Por El Apruebo,PS
+82,Antofagasta,3,Taltal,Mario Acuña Villalobos,0,Independientes,IFP
+83,Antofagasta,3,Taltal,Guillermo Hidalgo Ocampo,0,Independientes,IFP
+84,Antofagasta,3,Taltal,Patricia Mujica Silva,1,Independientes,IFP
+85,Antofagasta,3,Taltal,Mesac Molgas Mustafa,0,Independientes,IFP
+86,Antofagasta,3,Taltal,Sergio Orellana Montejo,0,Unidad Por El Apruebo,PR
+87,Antofagasta,3,Tocopilla,Jorge Perez Guaman,0,Chile Vamos,RN
+88,Antofagasta,3,Tocopilla,Jaime Rojas Alata,0,Frente Amplio,COM
+89,Antofagasta,3,Tocopilla,Juan Arriaza Gajardo,0,Independientes,IFP
+90,Antofagasta,3,Tocopilla,Ljubica Kurtovic Cortes,1,Independientes,IFP
+91,Antofagasta,3,Tocopilla,Luis Moyano Cruz,0,Independientes,IFP
+92,Antofagasta,3,Tocopilla,Gonzalo Covarrubias Figueroa,0,Independientes,IFP
+93,Antofagasta,3,Tocopilla,Pablo Pinasco Yañez,0,Unidad Por El Apruebo,PPD
+94,Atacama,4,Alto Del Carmen,Diana Lobos Gajardo,1,Chile Vamos,RN
+95,Atacama,4,Alto Del Carmen,Cristian Olivares Iriarte,0,Unidad Por El Apruebo,PR
+96,Coquimbo,4,Andacollo,Angela Guerra Araya,1,Chile Vamos,IND
+97,Coquimbo,4,Andacollo,Eduardo Duarte Yañez,0,Dignidad Ahora,PI
+98,Coquimbo,4,Andacollo,Gerald Cerda Pizarro,0,Independientes,IFP
+99,Coquimbo,4,Andacollo,Cristian Escalante Vega,0,Independientes,IFP
+100,Coquimbo,4,Andacollo,Wilson Nuñez Zepeda,0,Unidad Por El Apruebo,PS
+101,Atacama,4,Caldera,Emilio Bianchi Cañas,0,Chile Vamos,RN
+102,Atacama,4,Caldera,Bernardo Hevia Garrido,0,Ecologistas E Independientes,IND
+103,Atacama,4,Caldera,Carolina Gonzalez Hernandez,1,Independientes,IFP
+104,Atacama,4,Caldera,Brunilda Gonzalez Anjel,1,Unidad Por El Apruebo,PPD
+105,Coquimbo,4,Canela,Bernardo Leyton Lemus,0,Chile Digno Verde Y Soberano,PC
+106,Coquimbo,4,Canela,Marcial Salas Cortes,0,Chile Vamos,RN
+107,Coquimbo,4,Canela,Ruben Cortes Campusano,0,Unidos Por La Dignidad,IND
+108,Atacama,4,Chañaral,Raul Salas Aguilera,0,Chile Vamos,IND
+109,Atacama,4,Chañaral,Nelida Valencia Figueroa,1,Independientes,IFP
+110,Atacama,4,Chañaral,Melissa Varas Monsalve,1,Independientes,IFP
+111,Atacama,4,Chañaral,Margarita Flores Salazar,1,Unidad Por El Apruebo,PR
+112,Coquimbo,4,Combarbala,Sergio Araya Ramirez,0,Chile Digno Verde Y Soberano,PC
+113,Coquimbo,4,Combarbala,Katherine Galleguillos Zepeda,1,Frente Amplio,IND
+114,Coquimbo,4,Combarbala,Renan Ugalde Meza,0,Independientes,IFP
+115,Coquimbo,4,Combarbala,Egidio Ugalde Gomez,0,Independientes,IFP
+116,Coquimbo,4,Combarbala,Pedro Castillo Diaz,0,Unidos Por La Dignidad,DC
+117,Atacama,4,Copiapo,Luis Marcos Perez,0,Chile Digno Verde Y Soberano,IND
+118,Atacama,4,Copiapo,Maximiliano Barrionuevo Garcia,0,Chile Vamos,IND
+119,Atacama,4,Copiapo,Oscar Araya Campos,0,Dignidad Ahora,IND
+120,Atacama,4,Copiapo,Inti Salamanca Fernandez,0,Frente Amplio,COM
+121,Atacama,4,Copiapo,Marcos Lopez Rivera,0,Unidos Por La Dignidad,IND
+122,Coquimbo,4,Coquimbo,Fernando Viveros Reyes,0,Chile Digno Verde Y Soberano,PC
+123,Coquimbo,4,Coquimbo,Pedro Castillo Castillo,0,Chile Vamos,UDI
+124,Coquimbo,4,Coquimbo,Ricardo Ledezma Jimenez,0,Independientes,IFP
+125,Coquimbo,4,Coquimbo,Ali Kashan Lobos,0,Independientes,IFP
+126,Coquimbo,4,Coquimbo,Moira Navea Diaz,1,Independientes,IFP
+127,Coquimbo,4,Coquimbo,Marcelo Pereira Peralta,0,Unidos Por La Dignidad,DC
+128,Atacama,4,Diego De Almagro,Maria Torrejon Rojas,1,Chile Digno Verde Y Soberano,PC
+129,Atacama,4,Diego De Almagro,Mario Araya Rojas,0,Chile Vamos,RN
+130,Atacama,4,Diego De Almagro,Alonso Guerra Rivera,0,Unidad Por El Apruebo,PR
+131,Atacama,4,Freirina,Nicolas Gallardo Martinez,0,Chile Vamos,RN
+132,Atacama,4,Freirina,Cesar Orellana Orellana,0,Unidad Por El Apruebo,PS
+133,Atacama,4,Huasco,Rony Acuña Borquez,0,Chile Vamos,UDI
+134,Atacama,4,Huasco,Daniel Diaz Tirado,0,Independientes,IFP
+135,Atacama,4,Huasco,Genaro Briceño Tapia,0,Independientes,IFP
+136,Atacama,4,Huasco,Carmen Hidalgo Narrias,1,Unidad Por El Apruebo,PPD
+137,Coquimbo,4,Illapel,Ernestina Sarmiento Rivera,1,Chile Vamos,IND
+138,Coquimbo,4,Illapel,Patricio Astudillo Valencia,0,Frente Amplio,CS
+139,Coquimbo,4,Illapel,Ricardo Castillo Castillo,0,Independientes,IFP
+140,Coquimbo,4,Illapel,Luis Lemus Aracena,0,Independientes,IFP
+141,Coquimbo,4,Illapel,Denis Cortes Aguilera,0,Unidos Por La Dignidad,DC
+142,Coquimbo,4,La Higuera,Yerko Galleguillos Ossandon,0,Chile Vamos,UDI
+143,Coquimbo,4,La Higuera,Uberlinda Aquea Barraza,1,Unidad Por El Apruebo,PS
+144,Coquimbo,4,La Serena,Victor Castañeda Vargas,0,Chile Vamos,IND
+145,Coquimbo,4,La Serena,Alex Garrido Tapia,0,Frente Amplio,COM
+146,Coquimbo,4,La Serena,Juan Thenoux Ciudad,0,Independientes,IFP
+147,Coquimbo,4,La Serena,Claudio Piña Novoa,0,Independientes,IFP
+148,Coquimbo,4,La Serena,Roberto Jacob Jure,0,Unidad Por El Apruebo,PR
+149,Coquimbo,4,Los Vilos,Manuel Marcarian Julio,0,Chile Digno Verde Y Soberano,PC
+150,Coquimbo,4,Los Vilos,Macarena Navea Espinoza,1,Chile Vamos,RN
+151,Coquimbo,4,Los Vilos,Patricio Arauco Reyes,0,Frente Amplio,CS
+152,Coquimbo,4,Los Vilos,Christian Gross Hidalgo,0,Independientes,IFP
+153,Coquimbo,4,Los Vilos,Oscar Pereira Peralta,0,Independientes,IFP
+154,Coquimbo,4,Los Vilos,Juan Hisi Espinoza,0,Independientes,IFP
+155,Coquimbo,4,Los Vilos,Jocelyn Tordecilla Jorquera,1,Independientes,IFP
+156,Coquimbo,4,Monte Patria,Hernan Borquez Castillo,0,Chile Digno Verde Y Soberano,PC
+157,Coquimbo,4,Monte Patria,Dario Molina Sanhueza,0,Chile Vamos,IND
+158,Coquimbo,4,Monte Patria,Cristian Herrera Peña,0,Independientes,IFP
+159,Coquimbo,4,Monte Patria,Camilo Ossandon Espinoza,0,Unidos Por La Dignidad,DC
+160,Coquimbo,4,Ovalle,Miguel Solis Viera,0,Chile Digno Verde Y Soberano,PC
+161,Coquimbo,4,Ovalle,Rodrigo Galvez Perez,0,Dignidad Ahora,PH
+162,Coquimbo,4,Ovalle,Mario Barrios Rojas,0,Frente Amplio,IND
+163,Coquimbo,4,Ovalle,Claudio Renteria Larrondo,0,Independientes,IFP
+164,Coquimbo,4,Ovalle,Hector Maluenda Cañete,0,Independientes,IFP
+165,Coquimbo,4,Ovalle,Jeannette Medina Araya,1,Independientes,IFP
+166,Coquimbo,4,Ovalle,Wladimir Pleticosic Orellana,0,Unidos Por La Dignidad,DC
+167,Coquimbo,4,Paihuano,Hernan Ahumada Ahumada,0,Chile Vamos,RN
+168,Coquimbo,4,Paihuano,Mario Rojas Rojas,0,Independientes,IFP
+169,Coquimbo,4,Paihuano,Lorenzo Torres Medina,0,Unidad Por El Apruebo,IND
+170,Coquimbo,4,Punitaqui,Hermes Diaz Rivera,0,Chile Vamos,EVO
+171,Coquimbo,4,Punitaqui,Hugo Bolados Tapia,0,Frente Amplio,CS
+172,Coquimbo,4,Punitaqui,Pedro Araya Zepeda,0,Independientes,IFP
+173,Coquimbo,4,Punitaqui,Marta Carvajal Cortes,1,Independientes,IFP
+174,Coquimbo,4,Punitaqui,Pedro Valdivia Ramirez,0,Independientes,IFP
+175,Coquimbo,4,Punitaqui,Carlos Araya Bugueño,0,Independientes,IFP
+176,Coquimbo,4,Punitaqui,Cedelinda Valdivia Moreno,1,Independientes,IFP
+177,Coquimbo,4,Rio Hurtado,Solano Rivera Cortes,0,Chile Vamos,UDI
+178,Coquimbo,4,Rio Hurtado,Carmen La Rivera,1,Independientes,IFP
+179,Coquimbo,4,Rio Hurtado,Edgard Anjel Veliz,0,Independientes,IFP
+180,Coquimbo,4,Rio Hurtado,Rosa Urqueta Gahona,1,Unidos Por La Dignidad,DC
+181,Coquimbo,4,Salamanca,Luis Alegre Alcota,0,Chile Digno Verde Y Soberano,PC
+182,Coquimbo,4,Salamanca,Alejandro Tello Arata,0,Independientes,IFP
+183,Coquimbo,4,Salamanca,Gerardo Rojas Escudero,0,Independientes,IFP
+184,Coquimbo,4,Salamanca,Marcela Diaz Palacio,1,Independientes,IFP
+185,Coquimbo,4,Salamanca,Angel Gonzalez Aguilera,0,Independientes,IFP
+186,Coquimbo,4,Salamanca,Johnny Vinet Sias,0,Independientes,IFP
+187,Coquimbo,4,Salamanca,Yerko Avalos Villarroel,0,Independientes,IFP
+188,Coquimbo,4,Salamanca,Fernando Gallardo Pereira,0,Independientes,IFP
+189,Coquimbo,4,Salamanca,Mario Chavez Ramirez,0,Independientes,IFP
+190,Atacama,4,Tierra Amarilla,Cristobal Zuñiga Arancibia,0,Chile Digno Verde Y Soberano,PC
+191,Atacama,4,Tierra Amarilla,Carolina Gangas Sobarzo,1,Chile Vamos,IND
+192,Atacama,4,Tierra Amarilla,Carlos Campbell Araya,0,Frente Amplio,RD
+193,Atacama,4,Tierra Amarilla,Yhanss Delgado Quevedo,0,Independientes,IFP
+194,Atacama,4,Tierra Amarilla,Luis Pacheco Pacheco,0,Independientes,IFP
+195,Atacama,4,Tierra Amarilla,Monica Fuentes Rubilar,1,Independientes,IFP
+196,Atacama,4,Tierra Amarilla,Joel Carrizo Diaz,0,Unidad Por El Apruebo,PS
+197,Atacama,4,Vallenar,Pedro Ogalde Meneses,0,Chile Vamos,IND
+198,Atacama,4,Vallenar,Alexis Lemus Campillay,0,Independientes,IFP
+199,Atacama,4,Vallenar,Victor Isla Lutz,0,Independientes,IFP
+200,Atacama,4,Vallenar,Ivan Mascareña Santana,0,Independientes,IFP
+201,Atacama,4,Vallenar,Armando Flores Jimenez,0,Independientes,IFP
+202,Atacama,4,Vallenar,Karina Zarate Rodriguez,1,Unidad Por El Apruebo,IND
+203,Coquimbo,4,Vicuña,Mario Aros Carvajal,0,Chile Vamos,IND
+204,Coquimbo,4,Vicuña,Eugenia Cifuentes Lillo,1,Independientes,IFP
+205,Coquimbo,4,Vicuña,Rafael Vera Castillo,0,Unidos Por La Dignidad,DC
+206,Valparaíso,5,Algarrobo,Jose Yañez Maldonado,0,Chile Vamos,UDI
+207,Valparaíso,5,Algarrobo,Jessica Garcia Phillips,1,Independientes,IFP
+208,Valparaíso,5,Algarrobo,Santiago Vera Torrealba,0,Independientes,IFP
+209,Valparaíso,5,Algarrobo,Eduardo Salgado Reyes,0,Union Patriotica,UPA
+210,Valparaíso,5,Cabildo,Luis Rodriguez Sanhueza,0,Chile Vamos,RN
+211,Valparaíso,5,Cabildo,Claudio Godoy Toro,0,Frente Amplio,CS
+212,Valparaíso,5,Cabildo,Alberto Aliaga Diaz,0,Independientes,IFP
+213,Valparaíso,5,Cabildo,Mario Alvarado Osorio,0,Independientes,IFP
+214,Valparaíso,5,Cabildo,Victor Donoso Oyanedel,0,Unidos Por La Dignidad,DC
+215,Valparaíso,5,Calera,Cinthy Miskulini Araya,1,Chile Digno Verde Y Soberano,PC
+216,Valparaíso,5,Calera,Trinidad Rojo Augusto,1,Chile Vamos,RN
+217,Valparaíso,5,Calera,Ivanna Gonzalez Villalobos,1,Frente Amplio,CS
+218,Valparaíso,5,Calera,Johnny Piraino Meneses,0,Independientes,IFP
+219,Valparaíso,5,Calera,Nicolas Chahuan Veliz,0,Independientes,IFP
+220,Valparaíso,5,Calera,Claudio Merino Cereijo,0,Independientes,IFP
+221,Valparaíso,5,Calera,Eduardo Martinez Machuca,0,Unidos Por La Dignidad,DC
+222,Valparaíso,5,Calle Larga,Juan Villarroel Salinas,0,Chile Vamos,RN
+223,Valparaíso,5,Calle Larga,Marcelo Castillo Varas,0,Dignidad Ahora,PH
+224,Valparaíso,5,Calle Larga,Dina Gonzalez Alfaro,1,Unidad Por El Apruebo,PS
+225,Valparaíso,5,Cartagena,Raul Lorca Merino,0,Chile Vamos,PRI
+226,Valparaíso,5,Cartagena,Bernardo Alvarez Garcia,0,Frente Amplio,COM
+227,Valparaíso,5,Cartagena,Rodrigo Garcia Tapia,0,Unidad Por El Apruebo,PPD
+228,Valparaíso,5,Casablanca,Rodrigo Martinez Roca,0,Chile Vamos,RN
+229,Valparaíso,5,Casablanca,Francisco Riquelme Lopez,0,Frente Amplio,RD
+230,Valparaíso,5,Casablanca,Ivan Duran Palma,0,Unidad Por El Apruebo,IND
+231,Valparaíso,5,Catemu,Harry Bailey Valenzuela,0,Chile Vamos,IND
+232,Valparaíso,5,Catemu,Benjamin Koch Chacon,0,Independientes,IFP
+233,Valparaíso,5,Catemu,Rodrigo Diaz Brito,0,Independientes,IFP
+234,Valparaíso,5,Catemu,Manuel Arancibia Morales,0,Independientes,IFP
+235,Valparaíso,5,Catemu,Felipe Gonzalez Arancibia,0,Unidos Por La Dignidad,DC
+236,Valparaíso,5,Concon,Jorge Valdovinos Gomez,0,Chile Vamos,IND
+237,Valparaíso,5,Concon,Luis Rivera Caneo,0,Independientes,IFP
+238,Valparaíso,5,Concon,Freddy Ramirez Villalobos,0,Independientes,IFP
+239,Valparaíso,5,Concon,Pablo Rojas Daydi,0,Independientes,IFP
+240,Valparaíso,5,Concon,Ricardo Urenda Herencia,0,Independientes,IFP
+241,Valparaíso,5,Concon,Marcial Ortiz Flores,0,Unidos Por La Dignidad,DC
+242,Valparaíso,5,Concon,Marcia Tapia Navia,1,Union Patriotica,UPA
+243,Valparaíso,5,El Quisco,Mario Perez Barrera,0,Chile Digno Verde Y Soberano,PC
+244,Valparaíso,5,El Quisco,Karime Chamal Ormeño,1,Chile Vamos,RN
+245,Valparaíso,5,El Quisco,Jose Jofre Bustos,0,Independientes,IFP
+246,Valparaíso,5,El Quisco,Dania Contreras Jimenez,1,Unidos Por La Dignidad,DC
+247,Valparaíso,5,El Tabo,Gloria Carrasco Nuñez,1,Chile Vamos,RN
+248,Valparaíso,5,El Tabo,Luis Garcia Jofre,0,Independientes,IFP
+249,Valparaíso,5,El Tabo,Rodrigo Tobar Gallardo,0,Independientes,IFP
+250,Valparaíso,5,El Tabo,Veronica Rojas Arenas,1,Independientes,IFP
+251,Valparaíso,5,El Tabo,Yuri Ravest Fritz,0,Independientes,IFP
+252,Valparaíso,5,El Tabo,Alfonso Muñoz Aravena,0,Unidad Por El Apruebo,PS
+253,Valparaíso,5,Hijuelas,Karen Figueroa Lopez,1,Chile Vamos,IND
+254,Valparaíso,5,Hijuelas,Fernando Carrasco Cabrera,0,Dignidad Ahora,PH
+255,Valparaíso,5,Hijuelas,Jose Saavedra Ibacache,0,Independientes,IFP
+256,Valparaíso,5,Hijuelas,Sergio Sanchez Rojas,0,Independientes,IFP
+257,Valparaíso,5,Isla De Pascua,Julio Araki Tepano,0,Chile Vamos,UDI
+258,Valparaíso,5,Isla De Pascua,Ivonne Nahoe Zamora,1,Independientes,IFP
+259,Valparaíso,5,Isla De Pascua,Pedro Edmunds Paoa,0,Unidos Por La Dignidad,PRO
+260,Valparaíso,5,Juan Fernandez,Diego Leon Tudela,0,Chile Vamos,IND
+261,Valparaíso,5,Juan Fernandez,Pablo Manriquez Angulo,0,Unidad Por El Apruebo,IND
+262,Valparaíso,5,La Cruz,Mirentxu Arraztoa Larrondo,1,Chile Vamos,UDI
+263,Valparaíso,5,La Cruz,Andres Leiva Valencia,0,Independientes,IFP
+264,Valparaíso,5,La Cruz,Filomena Navia Hevia,1,Unidad Por El Apruebo,PS
+265,Valparaíso,5,La Ligua,Ruben Diaz Tapia,0,Chile Digno Verde Y Soberano,PC
+266,Valparaíso,5,La Ligua,Juan Ibacache Ibacache,0,Chile Vamos,RN
+267,Valparaíso,5,La Ligua,Gary Leiva Rojo,0,Independientes,IFP
+268,Valparaíso,5,La Ligua,Patricio Pallares Valenzuela,0,Independientes,IFP
+269,Valparaíso,5,La Ligua,Ricardo Ferreira Ferreira,0,Unidad Por El Apruebo,PS
+270,Valparaíso,5,La Ligua,Clarisa Seco Tapia,1,Union Patriotica,UPA
+271,Valparaíso,5,Limache,Daniel Morales Espindola,0,Chile Vamos,RN
+272,Valparaíso,5,Limache,Sebastian Balbontin Bustamante,0,Frente Amplio,RD
+273,Valparaíso,5,Limache,Danilo Sandoval Sarabia,0,Independientes,IFP
+274,Valparaíso,5,Limache,Francisco Arias Teruel,0,Union Patriotica,UPA
+275,Valparaíso,5,Llaillay,Carlos Miranda Rozas,0,Chile Digno Verde Y Soberano,PC
+276,Valparaíso,5,Llaillay,Fernando Astorga Terraza,0,Chile Vamos,IND
+277,Valparaíso,5,Llaillay,Edgardo Gonzalez Arancibia,0,Unidos Por La Dignidad,DC
+278,Valparaíso,5,Los Andes,Miguel Henriquez Celedon,0,Chile Digno Verde Y Soberano,PC
+279,Valparaíso,5,Los Andes,Manuel Rivera Martinez,0,Chile Vamos,UDI
+280,Valparaíso,5,Los Andes,Benigno Retamal Rodriguez,0,Frente Amplio,IND
+281,Valparaíso,5,Los Andes,Marcelo Merino Vergara,0,Unidad Por El Apruebo,PR
+282,Valparaíso,5,Nogales,Jonathan Vasquez Leon,0,Chile Digno Verde Y Soberano,PC
+283,Valparaíso,5,Nogales,Margarita Osorio Pizarro,1,Chile Vamos,IND
+284,Valparaíso,5,Nogales,Ricardo Aliaga Gomez,0,Unidos Por La Dignidad,DC
+285,Valparaíso,5,Olmue,Javier Puiggros Vogel,0,Chile Vamos,EVO
+286,Valparaíso,5,Olmue,Jorge Jil Herrera,0,Dignidad Ahora,PH
+287,Valparaíso,5,Olmue,Noemi Caceres Rojas,1,Independientes,IFP
+288,Valparaíso,5,Olmue,Anita Vergara Estay,1,Independientes,IFP
+289,Valparaíso,5,Olmue,Ramon Frez Arancibia,0,Republicanos,PREP
+290,Valparaíso,5,Olmue,Alejandro Collao Reyes,0,Unidos Por La Dignidad,IND
+291,Valparaíso,5,Panquehue,Margarita Velez Malgue,1,Chile Vamos,UDI
+292,Valparaíso,5,Panquehue,Magali Sepulveda Contreras,1,Independientes,IFP
+293,Valparaíso,5,Panquehue,Gonzalo Vergara Lizana,0,Unidos Por La Dignidad,DC
+294,Valparaíso,5,Papudo,Claudia Adasme Donoso,1,Chile Vamos,RN
+295,Valparaíso,5,Papudo,Raquel Gonzalez Espinosa,1,Frente Amplio,RD
+296,Valparaíso,5,Papudo,Rodolfo Fernandez Alfaro,0,Independientes,IFP
+297,Valparaíso,5,Papudo,Manuel Berrios Morales,0,Independientes,IFP
+298,Valparaíso,5,Papudo,Jaime Ahumada Robles,0,Unidos Por La Dignidad,DC
+299,Valparaíso,5,Papudo,Marcel Claude Reyes,0,Union Patriotica,UPA
+300,Valparaíso,5,Petorca,Gustavo Henriquez Toledo,0,Chile Vamos,IND
+301,Valparaíso,5,Petorca,Monica Flores Vivanco,1,Dignidad Ahora,PI
+302,Valparaíso,5,Petorca,Gonzalo Arenas Flores,0,Independientes,IFP
+303,Valparaíso,5,Petorca,Moises Saavedra Castro,0,Independientes,IFP
+304,Valparaíso,5,Petorca,Ignacio Villalobos Henriquez,0,Independientes,IFP
+305,Valparaíso,5,Petorca,Rodrigo Cuevas Vivanco,0,Unidos Por La Dignidad,DC
+306,Valparaíso,5,Puchuncavi,Marcos Morales Ureta,0,Chile Vamos,IND
+307,Valparaíso,5,Puchuncavi,Ana Villarroel Pacheco,1,Independientes,IFP
+308,Valparaíso,5,Puchuncavi,Eliana Olmos Solis,1,Independientes,IFP
+309,Valparaíso,5,Puchuncavi,Hugo Rojas Julio,0,Independientes,IFP
+310,Valparaíso,5,Puchuncavi,Eduardo Veas Ogaz,0,Independientes,IFP
+311,Valparaíso,5,Puchuncavi,Javiera Gaete Mendoza,1,Unidad Por El Apruebo,PR
+312,Valparaíso,5,Putaendo,Javier Pizarro Gajardo,0,Chile Digno Verde Y Soberano,PC
+313,Valparaíso,5,Putaendo,Julio Aravena Cespedes,0,Chile Vamos,RN
+314,Valparaíso,5,Putaendo,Veronica Barrera Alfaro,1,Frente Amplio,CS
+315,Valparaíso,5,Putaendo,Julio Calderon Cortes,0,Independientes,IFP
+316,Valparaíso,5,Putaendo,Patricio Gonzalez Nuñez,0,Independientes,IFP
+317,Valparaíso,5,Putaendo,Mauricio Quiroz Chamorro,0,Independientes,IFP
+318,Valparaíso,5,Putaendo,Lorena Veliz Flores,1,Independientes,IFP
+319,Valparaíso,5,Putaendo,Fabian Muñoz Diaz,0,Unidad Por El Apruebo,PS
+320,Valparaíso,5,Putaendo,Ulises Tobar Cassi,0,Unidos Por La Dignidad,DC
+321,Valparaíso,5,Quillota,Yerko Gutierrez Alvarez,0,Chile Digno Verde Y Soberano,FRVS
+322,Valparaíso,5,Quillota,Cristian Cerda Schneider,0,Chile Vamos,RN
+323,Valparaíso,5,Quillota,Oscar Calderon Sanchez,0,Independientes,IFP
+324,Valparaíso,5,Quillota,Mauricio Avila Pino,0,Unidos Por La Dignidad,DC
+325,Valparaíso,5,Quilpue,Cesar Torres Chinchon,0,Chile Digno Verde Y Soberano,PC
+326,Valparaíso,5,Quilpue,Amelia Herrera Silva,1,Chile Vamos,RN
+327,Valparaíso,5,Quilpue,Claudio Galarce Gonzalez,0,Dignidad Ahora,PH
+328,Valparaíso,5,Quilpue,Valeria Melipillan Figueroa,1,Frente Amplio,CS
+329,Valparaíso,5,Quilpue,Mauricio Oyarce Vera,0,Independientes,IFP
+330,Valparaíso,5,Quilpue,Rosa Hormazabal Rodriguez,1,Independientes,IFP
+331,Valparaíso,5,Quilpue,Christian Cardenas Silva,0,Unidos Por La Dignidad,DC
+332,Valparaíso,5,Quilpue,Veronica Sotomayor Perez,1,Union Patriotica,UPA
+333,Valparaíso,5,Quintero,Felipe Vergara Lucero,0,Chile Vamos,RN
+334,Valparaíso,5,Quintero,Jorge Martin Gutierrez,0,Independientes,IFP
+335,Valparaíso,5,Quintero,Mauricio Carrasco Pardo,0,Independientes,IFP
+336,Valparaíso,5,Quintero,Oscar Riveros Mena,0,Independientes,IFP
+337,Valparaíso,5,Quintero,Eduardo Carreño Pinto,0,Independientes,IFP
+338,Valparaíso,5,Quintero,Oscar Poblete Inostroza,0,Independientes,IFP
+339,Valparaíso,5,Rinconada,Juan Galdames Carmona,0,Chile Vamos,IND
+340,Valparaíso,5,Rinconada,Julio Bucarey Zelaya,0,Independientes,IFP
+341,Valparaíso,5,Rinconada,Juan Lobos Viguera,0,Independientes,IFP
+342,Valparaíso,5,Rinconada,Gabriela Rubilar Lopez,1,Independientes,IFP
+343,Valparaíso,5,Rinconada,Pedro Caballeria Diaz,0,Unidos Por La Dignidad,DC
+344,Valparaíso,5,San Antonio,Marcelo Muñoz Morales,0,Chile Vamos,RN
+345,Valparaíso,5,San Antonio,Juan Olivares Meza,0,Dignidad Ahora,IND
+346,Valparaíso,5,San Antonio,Caroline Sireau Guajardo,1,Frente Amplio,COM
+347,Valparaíso,5,San Antonio,Constanza Lizana Sierra,1,Independientes,IFP
+348,Valparaíso,5,San Antonio,Manuel Villatoro Jerez,0,Independientes,IFP
+349,Valparaíso,5,San Antonio,Jorge Jorquera Castro,0,Unidos Por La Dignidad,DC
+350,Valparaíso,5,San Esteban,Sergio Reyes Colarte,0,Independientes,IFP
+351,Valparaíso,5,San Esteban,Jose Bravo Hidalgo,0,Independientes,IFP
+352,Valparaíso,5,San Esteban,Christian Ortega Villagras,0,Independientes,IFP
+353,Valparaíso,5,San Esteban,Julio Contreras Tapia,0,Unidad Por El Apruebo,PS
+354,Valparaíso,5,San Felipe,Boris Aedo Torres,0,Chile Digno Verde Y Soberano,PC
+355,Valparaíso,5,San Felipe,Christian Beals Campos,0,Chile Vamos,RN
+356,Valparaíso,5,San Felipe,Francisca Bello Campos,1,Frente Amplio,CS
+357,Valparaíso,5,San Felipe,Patricio Freire Canto,0,Independientes,IFP
+358,Valparaíso,5,San Felipe,Carmen Castillo Taucher,1,Unidad Por El Apruebo,IND
+359,Valparaíso,5,Santa Maria,Matias Gonzalez Morales,0,Chile Digno Verde Y Soberano,IND
+360,Valparaíso,5,Santa Maria,Marisol Ponce Cisterna,1,Chile Vamos,UDI
+361,Valparaíso,5,Santa Maria,Marco Cortez Llopis,0,Independientes,IFP
+362,Valparaíso,5,Santa Maria,Manuel Leon Saa,0,Unidad Por El Apruebo,PPD
+363,Valparaíso,5,Santo Domingo,Dino Lotito Flores,0,Chile Vamos,RN
+364,Valparaíso,5,Santo Domingo,Romy Farias Caballero,1,Unidos Por La Dignidad,DC
+365,Valparaíso,5,Valparaiso,Carlos Bannen Gonzalez,0,Chile Vamos,UDI
+366,Valparaíso,5,Valparaiso,Claudio Reyes Stevens,0,Independientes,IFP
+367,Valparaíso,5,Valparaiso,Marcela Cortes Gonzalez,1,Independientes,IFP
+368,Valparaíso,5,Valparaiso,Jorge Sharp Fajardo,0,Independientes,IFP
+369,Valparaíso,5,Valparaiso,Marcelo Barraza Vivar,0,Unidos Por La Dignidad,DC
+370,Valparaíso,5,Valparaiso,Luis Schwaiger Rivera,0,Union Patriotica,UPA
+371,Valparaíso,5,Villa Alemana,Jose Sabat Srur,0,Chile Vamos,IND
+372,Valparaíso,5,Villa Alemana,Cristian Luna Salinas,0,Frente Amplio,IND
+373,Valparaíso,5,Villa Alemana,Nelson Estay Molina,0,Independientes,IFP
+374,Valparaíso,5,Villa Alemana,Javiera Toledo Muñoz,1,Independientes,IFP
+375,Valparaíso,5,Villa Alemana,Angelo Barchiesi Chavez,0,Republicanos,PREP
+376,Valparaíso,5,Villa Alemana,Heinrich Wittig Barreto,0,Unidad Por El Apruebo,PR
+377,Valparaíso,5,Viña Del Mar,Andrea Molina Oliva,1,Chile Vamos,IND
+378,Valparaíso,5,Viña Del Mar,Macarena Ripamonti Serrano,1,Frente Amplio,RD
+379,Valparaíso,5,Viña Del Mar,Jorge Escudero Salinas,0,Independientes,IFP
+380,Valparaíso,5,Viña Del Mar,Aland San Cristobal,0,Independientes,IFP
+381,Valparaíso,5,Viña Del Mar,Marlen Olivari Mayer,1,Independientes,IFP
+382,Valparaíso,5,Viña Del Mar,Rodrigo Vattuone Garces,0,Independientes,IFP
+383,Valparaíso,5,Viña Del Mar,Paula Arriagada Ortiz,1,Independientes,IFP
+384,Valparaíso,5,Viña Del Mar,Cristian Mayorga Hevia,0,Independientes,IFP
+385,Valparaíso,5,Viña Del Mar,Marcela Varas Fuentes,1,Unidad Por El Apruebo,PPD
+386,Valparaíso,5,Viña Del Mar,Jorge Estay Olguin,0,Union Patriotica,UPA
+387,Valparaíso,5,Zapallar,Gustavo Alessandri Bascuñan,0,Chile Vamos,IND
+388,Valparaíso,5,Zapallar,Guillermo Marcone Osorio,0,Independientes,IFP
+389,Metropolitana,5.5,Alhue,Eugenia Garate Ponce,1,Independientes,IFP
+390,Metropolitana,5.5,Alhue,Miriam Bravo Soto,1,Independientes,IFP
+391,Metropolitana,5.5,Alhue,Roberto Torres Huerta,0,Unidos Por La Dignidad,DC
+392,Metropolitana,5.5,Buin,Miguel Araya Lobos,0,Chile Vamos,UDI
+393,Metropolitana,5.5,Buin,Rolando Meza Roman,0,Dignidad Ahora,PH
+394,Metropolitana,5.5,Buin,Rodrigo Cerda Candia,0,Ecologistas E Independientes,PEV
+395,Metropolitana,5.5,Buin,Nibaldo Flores Navarro,0,Independientes,IFP
+396,Metropolitana,5.5,Buin,Juan Prat Allendes,0,Independientes,IFP
+397,Metropolitana,5.5,Buin,Patricio Silva Gonzalez,0,Unidad Por El Apruebo,PPD
+398,Metropolitana,5.5,Calera De Tango,Hortensia Mora Catalan,1,Chile Vamos,UDI
+399,Metropolitana,5.5,Calera De Tango,Marco Jofre Muñoz,0,Independientes,IFP
+400,Metropolitana,5.5,Calera De Tango,Constanza Valenzuela Rocuant,1,Unidos Por La Dignidad,IND
+401,Metropolitana,5.5,Cerrillos,Alfredo Peñaloza Figueroa,0,Chile Digno Verde Y Soberano,PC
+402,Metropolitana,5.5,Cerrillos,Alejandro Almendares Calderon,0,Chile Vamos,IND
+403,Metropolitana,5.5,Cerrillos,Maria Figueroa Garrido,1,Frente Amplio,COM
+404,Metropolitana,5.5,Cerrillos,Lorena Facuse Rojas,1,Independientes,IFP
+405,Metropolitana,5.5,Cerrillos,Arturo Aguirre Gacitua,0,Unidad Por El Apruebo,PS
+406,Metropolitana,5.5,Cerro Navia,Magaly Acevedo Escarate,1,Chile Vamos,EVO
+407,Metropolitana,5.5,Cerro Navia,Mauro Tamayo Rozas,0,Independientes,IFP
+408,Metropolitana,5.5,Cerro Navia,Iris Morales Olivares,1,Independientes,IFP
+409,Metropolitana,5.5,Colina,Isabel Valenzuela Ahumada,1,Chile Vamos,UDI
+410,Metropolitana,5.5,Colina,Rigoberto Mansilla Mansilla,0,Dignidad Ahora,IND
+411,Metropolitana,5.5,Colina,Elisa Galvez Espinace,1,Frente Amplio,RD
+412,Metropolitana,5.5,Colina,Alejandra Bravo Hidalgo,1,Independientes,IFP
+413,Metropolitana,5.5,Colina,Mauricio Moran Avendaño,0,Independientes,IFP
+414,Metropolitana,5.5,Colina,Alejandra Alvarez Chaparro,1,Independientes,IFP
+415,Metropolitana,5.5,Colina,Gonzalo Torres Ferrari,0,Independientes,IFP
+416,Metropolitana,5.5,Colina,Andres Vasquez Medina,0,Unidos Por La Dignidad,DC
+417,Metropolitana,5.5,Conchali,Jeannette Jara Roman,1,Chile Digno Verde Y Soberano,PC
+418,Metropolitana,5.5,Conchali,Rodrigo Caramori Donoso,0,Chile Vamos,PRI
+419,Metropolitana,5.5,Conchali,Erick Coñoman Garay,0,Dignidad Ahora,PH
+420,Metropolitana,5.5,Conchali,Rene Vega Fuentes,0,Independientes,IFP
+421,Metropolitana,5.5,Conchali,Marcela Rosales Belmar,1,Independientes,IFP
+422,Metropolitana,5.5,Conchali,Maria Valenzuela Pino,1,Independientes,IFP
+423,Metropolitana,5.5,Conchali,Alejandro Vargas Gonzalez,0,Unidos Por La Dignidad,DC
+424,Metropolitana,5.5,Curacavi,Ariadne Chassin-Trubert,1,Chile Digno Verde Y Soberano,PC
+425,Metropolitana,5.5,Curacavi,Juan Barros Basso,0,Chile Vamos,IND
+426,Metropolitana,5.5,Curacavi,Rafael Jimenez Salazar,0,Independientes,IFP
+427,Metropolitana,5.5,Curacavi,Christian Hernandez Villanueva,0,Independientes,IFP
+428,Metropolitana,5.5,Curacavi,Cesar Retamal Monsalves,0,Union Patriotica,UPA
+429,Metropolitana,5.5,El Bosque,Hector Cataldo Gonzalez,0,Chile Digno Verde Y Soberano,IND
+430,Metropolitana,5.5,El Bosque,Patricia Arriagada Nuñez,1,Chile Vamos,UDI
+431,Metropolitana,5.5,El Bosque,Marcelo Olivares Figueroa,0,Ecologistas E Independientes,PEV
+432,Metropolitana,5.5,El Bosque,Ramona Miranda Espinoza,1,Frente Amplio,IND
+433,Metropolitana,5.5,El Bosque,Sebastian Vega Umatino,0,Independientes,IFP
+434,Metropolitana,5.5,El Bosque,Manuel Zuñiga Aguilar,0,Unidad Por El Apruebo,PS
+435,Metropolitana,5.5,El Bosque,Rafael Henriquez Sotelo,0,Union Patriotica,UPA
+436,Metropolitana,5.5,El Monte,John General Alvarez,0,Chile Vamos,UDI
+437,Metropolitana,5.5,El Monte,Francisco Valdes Reyes,0,Dignidad Ahora,PI
+438,Metropolitana,5.5,El Monte,Rossana Sanhueza Muñoz,1,Independientes,IFP
+439,Metropolitana,5.5,El Monte,Fernando Armijo Muñoz,0,Independientes,IFP
+440,Metropolitana,5.5,El Monte,Francisco Gomez Ramirez,0,Unidad Por El Apruebo,PS
+441,Metropolitana,5.5,Estacion Central,Gustavo Hasbun Selume,0,Chile Vamos,UDI
+442,Metropolitana,5.5,Estacion Central,Felipe Muñoz Vallejos,0,Frente Amplio,IND
+443,Metropolitana,5.5,Estacion Central,Angelica Cid Venegas,1,Unidad Por El Apruebo,PS
+444,Metropolitana,5.5,Huechuraba,Remza Delic Sasso,1,Chile Vamos,IND
+445,Metropolitana,5.5,Huechuraba,Daniel Bustos Aguayo,0,Dignidad Ahora,IND
+446,Metropolitana,5.5,Huechuraba,Miguel Ramirez Miranda,0,Frente Amplio,IND
+447,Metropolitana,5.5,Huechuraba,Carlos Cuadrado Prats,0,Unidad Por El Apruebo,PPD
+448,Metropolitana,5.5,Independencia,Juan Gazmuri Barker,0,Chile Vamos,IND
+449,Metropolitana,5.5,Independencia,Rene Miranda Barrales,0,Dignidad Ahora,PI
+450,Metropolitana,5.5,Independencia,Gonzalo Duran Baronti,0,Independientes,IFP
+451,Metropolitana,5.5,Independencia,Margarita Garrido Acevedo,1,Independientes,IFP
+452,Metropolitana,5.5,Independencia,America Lopez Moris,1,Unidos Por La Dignidad,DC
+453,Metropolitana,5.5,Isla De Maipo,Juan Olave Cambara,0,Chile Vamos,IND
+454,Metropolitana,5.5,Isla De Maipo,Carlos Maureira Navarrete,0,Dignidad Ahora,IND
+455,Metropolitana,5.5,Isla De Maipo,Pedro Kunstmann Perez,0,Independientes,IFP
+456,Metropolitana,5.5,Isla De Maipo,Carlos Adasme Godoy,0,Unidos Por La Dignidad,DC
+457,Metropolitana,5.5,La Cisterna,Patricia Acevedo Gonzalez,1,Chile Vamos,UDI
+458,Metropolitana,5.5,La Cisterna,Irma Perez Llanquin,1,Ecologistas E Independientes,PEV
+459,Metropolitana,5.5,La Cisterna,Lorena Meneses Quiroz,1,Frente Amplio,CS
+460,Metropolitana,5.5,La Cisterna,Maria Mora Guzman,1,Independientes,IFP
+461,Metropolitana,5.5,La Cisterna,Joel Olmos Espinoza,0,Independientes,IFP
+462,Metropolitana,5.5,La Cisterna,Orlando Morales Becerra,0,Unidad Por El Apruebo,PPD
+463,Metropolitana,5.5,La Florida,Nicolas Hurtado Acuña,0,Chile Digno Verde Y Soberano,PC
+464,Metropolitana,5.5,La Florida,Rodolfo Carter Fernandez,0,Chile Vamos,IND
+465,Metropolitana,5.5,La Florida,Juan Zurita Medina,0,Ecologistas E Independientes,PEV
+466,Metropolitana,5.5,La Florida,Camilo Bastias Flores,0,Unidos Por La Dignidad,CIU
+467,Metropolitana,5.5,La Granja,Claudio Arriagada Macaya,0,Chile Digno Verde Y Soberano,IND
+468,Metropolitana,5.5,La Granja,Carlos Seaman Ponce,0,Chile Vamos,RN
+469,Metropolitana,5.5,La Granja,German Pino Maturana,0,Frente Amplio,COM
+470,Metropolitana,5.5,La Granja,Luis Delpin Aguilar,0,Unidos Por La Dignidad,DC
+471,Metropolitana,5.5,La Granja,Patricia Valenzuela Sandoval,1,Union Patriotica,UPA
+472,Metropolitana,5.5,La Pintana,Robin Bustamante Molina,0,Chile Vamos,UDI
+473,Metropolitana,5.5,La Pintana,Guillermo Benavides Aguirre,0,Independientes,IFP
+474,Metropolitana,5.5,La Pintana,Rene Diaz Jorquera,0,Independientes,IFP
+475,Metropolitana,5.5,La Pintana,Jorge Nuñez Sandoval,0,Independientes,IFP
+476,Metropolitana,5.5,La Pintana,Claudia Pizarro Peña,1,Unidos Por La Dignidad,DC
+477,Metropolitana,5.5,La Reina,Jose Palacios Parra,0,Chile Vamos,UDI
+478,Metropolitana,5.5,La Reina,Sara Campos Sallato,1,Unidos Por La Dignidad,DC
+479,Metropolitana,5.5,Lampa,Camilo Escobar Ortuzar,0,Chile Vamos,RN
+480,Metropolitana,5.5,Lampa,Giordano Delpin Pino,0,Frente Amplio,RD
+481,Metropolitana,5.5,Lampa,Jonathan Opazo Carrasco,0,Independientes,IFP
+482,Metropolitana,5.5,Lampa,Carlos Escobar Tobler,0,Unidos Por La Dignidad,DC
+483,Metropolitana,5.5,Lampa,Ricardo Reyes Cifuentes,0,Union Patriotica,UPA
+484,Metropolitana,5.5,Las Condes,Marcela Cubillos Hevia,1,Chile Digno Verde Y Soberano,IND
+485,Metropolitana,5.5,Las Condes,Daniela Peñaloza Ramos,1,Chile Vamos,UDI
+486,Metropolitana,5.5,Las Condes,Catalina Valenzuela Maureira,1,Dignidad Ahora,PH
+487,Metropolitana,5.5,Las Condes,Gonzalo Carrera Correa,0,Republicanos,PREP
+488,Metropolitana,5.5,Las Condes,Nicolas Preuss Herrera,0,Unidos Por La Dignidad,DC
+489,Metropolitana,5.5,Lo Barnechea,Cristobal Lira Ibañez,0,Chile Vamos,UDI
+490,Metropolitana,5.5,Lo Barnechea,Cristobal Rodriguez Olivares,0,Dignidad Ahora,IND
+491,Metropolitana,5.5,Lo Espejo,Javiera Reyes Jara,1,Chile Digno Verde Y Soberano,PC
+492,Metropolitana,5.5,Lo Espejo,Luis Serey Provoste,0,Chile Vamos,RN
+493,Metropolitana,5.5,Lo Espejo,Paula Cancino Cancino,1,Dignidad Ahora,PI
+494,Metropolitana,5.5,Lo Espejo,Osman Yeomans Jimenez,0,Frente Amplio,CS
+495,Metropolitana,5.5,Lo Espejo,Juan Zambrano Duarte,0,Independientes,IFP
+496,Metropolitana,5.5,Lo Espejo,Miguel Bruna Silva,0,Independientes,IFP
+497,Metropolitana,5.5,Lo Espejo,Pedro Mallea Vergara,0,Independientes,IFP
+498,Metropolitana,5.5,Lo Espejo,Jose Silva Diaz,0,Independientes,IFP
+499,Metropolitana,5.5,Lo Espejo,Carlos Gardel Berrios,0,Unidos Por La Dignidad,DC
+500,Metropolitana,5.5,Lo Espejo,Manuel Molina Tapia,0,Union Patriotica,UPA
+501,Metropolitana,5.5,Lo Prado,Sebastian Romero Santibañez,0,Chile Vamos,IND
+502,Metropolitana,5.5,Lo Prado,Alejandro Chanique Soto,0,Dignidad Ahora,PH
+503,Metropolitana,5.5,Lo Prado,Maximiliano Rios Galleguillos,0,Unidad Por El Apruebo,PPD
+504,Metropolitana,5.5,Macul,Savka Pollak Tomasevich,1,Chile Vamos,IND
+505,Metropolitana,5.5,Macul,Gonzalo Montoya Riquelme,0,Independientes,IFP
+506,Metropolitana,5.5,Macul,Eduardo Espinoza Gaete,0,Independientes,IFP
+507,Metropolitana,5.5,Macul,Ximena Zuleta Dinamarca,1,Unidos Por La Dignidad,DC
+508,Metropolitana,5.5,Maipu,Cathy Barriga Guerra,1,Chile Vamos,IND
+509,Metropolitana,5.5,Maipu,Viviana Delgado Riquelme,1,Ecologistas E Independientes,IND
+510,Metropolitana,5.5,Maipu,Tomas Vodanovic Escudero,0,Frente Amplio,RD
+511,Metropolitana,5.5,Maipu,Alejandra Bustamante Neira,1,Unidos Por La Dignidad,DC
+512,Metropolitana,5.5,Maipu,Danilo Ramirez Cortes,0,Union Patriotica,UPA
+513,Metropolitana,5.5,Maria Pinto,Pablo Gutierrez Ramirez,0,Chile Digno Verde Y Soberano,PC
+514,Metropolitana,5.5,Maria Pinto,Jessica Mualim Fajuri,1,Chile Vamos,RN
+515,Metropolitana,5.5,Maria Pinto,Rodrigo Portuguez Fuentes,0,Independientes,IFP
+516,Metropolitana,5.5,Melipilla,Ivan Campos Aravena,0,Chile Vamos,IND
+517,Metropolitana,5.5,Melipilla,Alvaro Tobar Gomez,0,Ecologistas E Independientes,PEV
+518,Metropolitana,5.5,Melipilla,Lorena Olavarria Baeza,1,Frente Amplio,CS
+519,Metropolitana,5.5,Melipilla,Claudio Zuñiga Cortes,0,Independientes,IFP
+520,Metropolitana,5.5,Melipilla,Juan Gonzalez Alarcon,0,Unidos Por La Dignidad,DC
+521,Metropolitana,5.5,Ñuñoa,Alejandra Placencia Cabello,1,Chile Digno Verde Y Soberano,PC
+522,Metropolitana,5.5,Ñuñoa,Guido Benavides Araneda,0,Chile Vamos,RN
+523,Metropolitana,5.5,Ñuñoa,Emilia Rios Saavedra,1,Frente Amplio,RD
+524,Metropolitana,5.5,Ñuñoa,Juan Saez Rey,0,Unidos Por La Dignidad,DC
+525,Metropolitana,5.5,Ñuñoa,Rodrigo Maureira Vasquez,0,Union Patriotica,UPA
+526,Metropolitana,5.5,Padre Hurtado,Amaro Fuentes Vargas,0,Chile Vamos,RN
+527,Metropolitana,5.5,Padre Hurtado,Julio Bravo Villarroel,0,Independientes,IFP
+528,Metropolitana,5.5,Padre Hurtado,Francisco Cartagena Jessen,0,Independientes,IFP
+529,Metropolitana,5.5,Padre Hurtado,Felipe Muñoz Heredia,0,Unidad Por El Apruebo,PS
+530,Metropolitana,5.5,Padre Hurtado,Ronnie Barria Gatica,0,Union Patriotica,UPA
+531,Metropolitana,5.5,Paine,Mario Arros Muñoz,0,Chile Digno Verde Y Soberano,FRVS
+532,Metropolitana,5.5,Paine,Rodrigo Contreras Gutierrez,0,Chile Vamos,UDI
+533,Metropolitana,5.5,Paine,Elizabeth Lazo Quezada,1,Ecologistas E Independientes,IND
+534,Metropolitana,5.5,Paine,Jaime Aranguiz Miranda,0,Independientes,IFP
+535,Metropolitana,5.5,Paine,Ana Santis Gonzalez,1,Independientes,IFP
+536,Metropolitana,5.5,Paine,Loreto Galindo Sazo,1,Unidos Por La Dignidad,DC
+537,Metropolitana,5.5,Pedro Aguirre Cerda,Claudina Nuñez Jimenez,1,Chile Digno Verde Y Soberano,PC
+538,Metropolitana,5.5,Pedro Aguirre Cerda,Hector Anabalon Zurita,0,Dignidad Ahora,PH
+539,Metropolitana,5.5,Pedro Aguirre Cerda,Juan Rozas Romero,0,Independientes,IFP
+540,Metropolitana,5.5,Pedro Aguirre Cerda,Felipe Olivares Vergara,0,Independientes,IFP
+541,Metropolitana,5.5,Pedro Aguirre Cerda,Luis Astudillo Peiretti,0,Independientes,IFP
+542,Metropolitana,5.5,Peñaflor,Manuel Fuentes Rosales,0,Chile Vamos,UDI
+543,Metropolitana,5.5,Peñaflor,Emma Morales Arzola,1,Dignidad Ahora,PI
+544,Metropolitana,5.5,Peñaflor,Juan Mena Jil,0,Ecologistas E Independientes,IND
+545,Metropolitana,5.5,Peñaflor,Diego Martin Velasco,0,Independientes,IFP
+546,Metropolitana,5.5,Peñaflor,Nibaldo Meza Garfia,0,Unidos Por La Dignidad,DC
+547,Metropolitana,5.5,Peñalolen,Raul Moraga Lagarrigue,0,Chile Digno Verde Y Soberano,PC
+548,Metropolitana,5.5,Peñalolen,Carlos Alarcon Castro,0,Chile Vamos,IND
+549,Metropolitana,5.5,Peñalolen,Lautaro Guanca Vallejos,0,Dignidad Ahora,PI
+550,Metropolitana,5.5,Peñalolen,Miguel Concha Manso,0,Frente Amplio,RD
+551,Metropolitana,5.5,Peñalolen,Carolina Alvarez-Salamanca,1,Unidos Por La Dignidad,DC
+552,Metropolitana,5.5,Peñalolen,Salvador Aravena Perez,0,Union Patriotica,UPA
+553,Metropolitana,5.5,Pirque,Natalia Perez Cerda,1,Chile Vamos,RN
+554,Metropolitana,5.5,Pirque,Martin Lecaros Fernandez,0,Independientes,IFP
+555,Metropolitana,5.5,Pirque,Daniel Diaz Gallardo,0,Independientes,IFP
+556,Metropolitana,5.5,Pirque,Jaime Escudero Ramos,0,Unidad Por El Apruebo,IND
+557,Metropolitana,5.5,Providencia,Evelyn Matthei Fornet,1,Chile Vamos,UDI
+558,Metropolitana,5.5,Providencia,Veronica Pardo Lagos,1,Independientes,IFP
+559,Metropolitana,5.5,Pudahuel,Gonzalo Lizana Cofre,0,Chile Digno Verde Y Soberano,PC
+560,Metropolitana,5.5,Pudahuel,Cristian Norambuena Castro,0,Chile Vamos,UDI
+561,Metropolitana,5.5,Pudahuel,Italo Bravo Lizana,0,Dignidad Ahora,PI
+562,Metropolitana,5.5,Pudahuel,Manuel Ibarra Mondaca,0,Independientes,IFP
+563,Metropolitana,5.5,Pudahuel,Monica Sanchez Aceituno,1,Unidos Por La Dignidad,IND
+564,Metropolitana,5.5,Pudahuel,Alejandro Barra Orellana,0,Union Patriotica,UPA
+565,Metropolitana,5.5,Puente Alto,Rodrigo Gonzalez Gonzalez,0,Chile Digno Verde Y Soberano,PC
+566,Metropolitana,5.5,Puente Alto,German Codina Powers,0,Chile Vamos,RN
+567,Metropolitana,5.5,Puente Alto,Matias Toledo Herrera,0,Dignidad Ahora,PI
+568,Metropolitana,5.5,Puente Alto,Luis Escanilla Benavides,0,Unidad Por El Apruebo,PS
+569,Metropolitana,5.5,Quilicura,Paulina Bobadilla Navarrete,1,Frente Amplio,IND
+570,Metropolitana,5.5,Quilicura,Oscar Saldaña Abarca,0,Independientes,IFP
+571,Metropolitana,5.5,Quilicura,Alejandro Martinez Gonzalez,0,Independientes,IFP
+572,Metropolitana,5.5,Quilicura,Cesar Vega Lazo,0,Independientes,IFP
+573,Metropolitana,5.5,Quilicura,Paola Romero Valdivia,1,Independientes,IFP
+574,Metropolitana,5.5,Quilicura,Jaime Aceiton Vasquez,0,Independientes,IFP
+575,Metropolitana,5.5,Quilicura,Mario Alvear Gilberto,0,Independientes,IFP
+576,Metropolitana,5.5,Quinta Normal,Pablo Reyes Flores,0,Chile Digno Verde Y Soberano,PC
+577,Metropolitana,5.5,Quinta Normal,Felipe Mora Morgado,0,Chile Vamos,UDI
+578,Metropolitana,5.5,Quinta Normal,Juan Sanhueza Tortella,0,Frente Amplio,COM
+579,Metropolitana,5.5,Quinta Normal,Sergio Montrone Troncoso,0,Independientes,IFP
+580,Metropolitana,5.5,Quinta Normal,Veronica Montecinos Ortiz,1,Independientes,IFP
+581,Metropolitana,5.5,Quinta Normal,Karina Delfino Mussa,1,Unidad Por El Apruebo,PS
+582,Metropolitana,5.5,Quinta Normal,Francisco Duarte Diaz,0,Unidos Por La Dignidad,DC
+583,Metropolitana,5.5,Recoleta,Oscar Jadue Jadue,0,Chile Digno Verde Y Soberano,PC
+584,Metropolitana,5.5,Recoleta,Mauricio Smok Allemandi,0,Chile Vamos,UDI
+585,Metropolitana,5.5,Recoleta,Jose Meza Pereira,0,Republicanos,PREP
+586,Metropolitana,5.5,Renca,Cesar Monsalve Ortega,0,Chile Vamos,PRI
+587,Metropolitana,5.5,Renca,Claudio Castro Salas,0,Independientes,IFP
+588,Metropolitana,5.5,San Bernardo,Wladimir Bolton Muñoz,0,Chile Digno Verde Y Soberano,PC
+589,Metropolitana,5.5,San Bernardo,Amparo Garcia Saldias,1,Chile Vamos,IND
+590,Metropolitana,5.5,San Bernardo,Juan Villavicencio Pasten,0,Dignidad Ahora,PH
+591,Metropolitana,5.5,San Bernardo,Alvaro Soto Ibañez,0,Independientes,IFP
+592,Metropolitana,5.5,San Bernardo,Jovanka Collao Martinez,1,Independientes,IFP
+593,Metropolitana,5.5,San Bernardo,Christian Pino Lopez,0,Independientes,IFP
+594,Metropolitana,5.5,San Bernardo,Victor Mol Alcantara,0,Independientes,IFP
+595,Metropolitana,5.5,San Bernardo,Christopher White Bahamondes,0,Unidad Por El Apruebo,PS
+596,Metropolitana,5.5,San Joaquin,Bruno Ñeguey Carrillo,0,Chile Vamos,IND
+597,Metropolitana,5.5,San Joaquin,Cristobal Labra Bassa,0,Independientes,IFP
+598,Metropolitana,5.5,San Joaquin,Marcela Cortes Trujillo,1,Unidad Por El Apruebo,IND
+599,Metropolitana,5.5,San Joaquin,Tatiana Marin Oliva,1,Union Patriotica,UPA
+600,Metropolitana,5.5,San Jose De Maipo,Alberto Alday Salinas,0,Chile Vamos,RN
+601,Metropolitana,5.5,San Jose De Maipo,Veronica Seguel Oyarzun,1,Dignidad Ahora,IND
+602,Metropolitana,5.5,San Jose De Maipo,Benjamin Bustos Gonzalez,0,Frente Amplio,CS
+603,Metropolitana,5.5,San Jose De Maipo,Maite Birke Abaroa,1,Independientes,IFP
+604,Metropolitana,5.5,San Jose De Maipo,Roberto Perez Catalan,0,Unidad Por El Apruebo,PR
+605,Metropolitana,5.5,San Miguel,Luis Sanhueza Bravo,0,Chile Vamos,RN
+606,Metropolitana,5.5,San Miguel,Leonel Jaramillo Coumerme,0,Dignidad Ahora,PH
+607,Metropolitana,5.5,San Miguel,Erika Martinez Osorio,1,Frente Amplio,IND
+608,Metropolitana,5.5,San Miguel,Matias Freire Vallejos,0,Independientes,IFP
+609,Metropolitana,5.5,San Miguel,Danilo Panes Alvarez,0,Independientes,IFP
+610,Metropolitana,5.5,San Miguel,Cristian Arevalo Ruz,0,Independientes,IFP
+611,Metropolitana,5.5,San Miguel,Francisco Herrera Riquelme,0,Independientes,IFP
+612,Metropolitana,5.5,San Miguel,David Navarro Carachi,0,Unidad Por El Apruebo,PR
+613,Metropolitana,5.5,San Pedro,Manuel Devia Vilches,0,Chile Vamos,UDI
+614,Metropolitana,5.5,San Pedro,Matilde Armijo Landa,1,Independientes,IFP
+615,Metropolitana,5.5,San Pedro,Emilio Cerda Sagurie,0,Unidad Por El Apruebo,PPD
+616,Metropolitana,5.5,San Ramon,David Cabedo Rosas,0,Chile Vamos,RN
+617,Metropolitana,5.5,San Ramon,Miguel Bustamante Araneda,0,Frente Amplio,CS
+618,Metropolitana,5.5,San Ramon,Miguel Aguilera Sanhueza,0,Independientes,IFP
+619,Metropolitana,5.5,San Ramon,Miguel Pino Leyton,0,Independientes,IFP
+620,Metropolitana,5.5,San Ramon,Genaro Balladares Schwaner,0,Independientes,IFP
+621,Metropolitana,5.5,San Ramon,Gustavo Toro Quintana,0,Unidos Por La Dignidad,DC
+622,Metropolitana,5.5,Santiago,Iraci Hassler Jacob,1,Chile Digno Verde Y Soberano,PC
+623,Metropolitana,5.5,Santiago,Felipe Alessandri Vergara,0,Chile Vamos,RN
+624,Metropolitana,5.5,Santiago,Helmut Kramer Angel,0,Dignidad Ahora,PH
+625,Metropolitana,5.5,Santiago,Fernando Neira Pezoa,0,Ecologistas E Independientes,PEV
+626,Metropolitana,5.5,Santiago,Alfredo Morgado Travezan,0,Unidad Por El Apruebo,PPD
+627,Metropolitana,5.5,Santiago,Boris Araos Cancino,0,Union Patriotica,UPA
+628,Metropolitana,5.5,Talagante,Patricio Huerta Moraga,0,Chile Vamos,RN
+629,Metropolitana,5.5,Talagante,Nancy Stowhas Rodriguez,1,Independientes,IFP
+630,Metropolitana,5.5,Talagante,Carlos Alvarez Esteban,0,Unidad Por El Apruebo,PS
+631,Metropolitana,5.5,Tiltil,Eva Vargas Aburto,1,Chile Vamos,IND
+632,Metropolitana,5.5,Tiltil,Luis Valenzuela Cruzat,0,Frente Amplio,RD
+633,Metropolitana,5.5,Tiltil,Sergio Tapia Sandoval,0,Independientes,IFP
+634,Metropolitana,5.5,Tiltil,Barbara Gonzalez Zuñiga,1,Unidad Por El Apruebo,PPD
+635,Metropolitana,5.5,Vitacura,Camila Merino Catalan,1,Chile Vamos,EVO
+636,Metropolitana,5.5,Vitacura,Cristian De Tejada,0,Republicanos,IND
+637,Metropolitana,5.5,Vitacura,Darko Von Bergen,0,Unidos Por La Dignidad,CIU
+638,O'Higgins,6,Chepica,Ivan Valenzuela Palacios,0,Chile Vamos,UDI
+639,O'Higgins,6,Chepica,Carlos Gonzalez Abrigo,0,Independientes,IFP
+640,O'Higgins,6,Chepica,Fabian Soto Gonzalez,0,Unidad Por El Apruebo,PS
+641,O'Higgins,6,Chimbarongo,Marco Contreras Jorquera,0,Chile Vamos,IND
+642,O'Higgins,6,Chimbarongo,Patricio Donoso Gutierrez,0,Independientes,IFP
+643,O'Higgins,6,Chimbarongo,Loredana Guajardo Barahona,1,Unidad Por El Apruebo,PR
+644,O'Higgins,6,Codegua,Jose Flores Osorio,0,Independientes,IFP
+645,O'Higgins,6,Codegua,Joaquin Valenzuela Baeza,0,Independientes,IFP
+646,O'Higgins,6,Codegua,Ivan Acevedo Silva,0,Unidos Por La Dignidad,DC
+647,O'Higgins,6,Coinco,Hector Orellana Sanchez,0,Chile Vamos,RN
+648,O'Higgins,6,Coinco,Juan Abarca Padilla,0,Independientes,IFP
+649,O'Higgins,6,Coinco,Claudia Guajardo Valenzuela,1,Unidos Por La Dignidad,DC
+650,O'Higgins,6,Coltauco,Felix Sanchez Vergara,0,Chile Vamos,RN
+651,O'Higgins,6,Coltauco,Jemael Perez Franco,0,Ecologistas E Independientes,IND
+652,O'Higgins,6,Coltauco,Jorge Cerda Muñoz,0,Independientes,IFP
+653,O'Higgins,6,Coltauco,Cristopher Vidal Medina,0,Independientes,IFP
+654,O'Higgins,6,Coltauco,Pilar Abarca Osorio,1,Independientes,IFP
+655,O'Higgins,6,Coltauco,Jonathan Vasquez Lagos,0,Unidad Por El Apruebo,IND
+656,O'Higgins,6,Doñihue,Paulo Morales Arriagada,0,Chile Vamos,IND
+657,O'Higgins,6,Doñihue,Deysi Navarro Padilla,1,Independientes,IFP
+658,O'Higgins,6,Doñihue,Pabla Ponce Valle,1,Independientes,IFP
+659,O'Higgins,6,Doñihue,Boris Acuña Gonzalez,0,Unidad Por El Apruebo,PPD
+660,O'Higgins,6,Graneros,Gabriel Mendoza Ibarra,0,Chile Vamos,IND
+661,O'Higgins,6,Graneros,Claudio Segovia Cofre,0,Independientes,IFP
+662,O'Higgins,6,Graneros,Jorge Gonzalez Farias,0,Independientes,IFP
+663,O'Higgins,6,Graneros,Teresa Elgueta Moreno,1,Unidad Por El Apruebo,PR
+664,O'Higgins,6,La Estrella,Valentin Vidal Rubio,0,Chile Digno Verde Y Soberano,IND
+665,O'Higgins,6,La Estrella,Andres Fernandez Tapia,0,Chile Vamos,UDI
+666,O'Higgins,6,La Estrella,Angelica Silva Arrue,1,Independientes,IFP
+667,O'Higgins,6,La Estrella,Hector Osorio Monrreal,0,Independientes,IFP
+668,O'Higgins,6,Las Cabras,Rigoberto Leiva Parra,0,Chile Vamos,UDI
+669,O'Higgins,6,Las Cabras,Leandro Carreño Vargas,0,Independientes,IFP
+670,O'Higgins,6,Las Cabras,Jaime Fabia Reyes,0,Independientes,IFP
+671,O'Higgins,6,Las Cabras,Juan Flores Astorga,0,Unidos Por La Dignidad,PRO
+672,O'Higgins,6,Litueche,Gabriel Palma Donoso,0,Chile Digno Verde Y Soberano,FRVS
+673,O'Higgins,6,Litueche,Rene Acuña Echeverria,0,Chile Vamos,UDI
+674,O'Higgins,6,Litueche,Julio Peña Tobar,0,Unidad Por El Apruebo,IND
+675,O'Higgins,6,Lolol,Jose Roman Chavez,0,Independientes,IFP
+676,O'Higgins,6,Lolol,Corina Diaz Arancibia,1,Independientes,IFP
+677,O'Higgins,6,Lolol,Jose Diaz Salas,0,Unidos Por La Dignidad,DC
+678,O'Higgins,6,Machali,Hector Labbe Valenzuela,0,Chile Vamos,UDI
+679,O'Higgins,6,Machali,Sara Ramirez Cruz,1,Independientes,IFP
+680,O'Higgins,6,Machali,Doris Valdivia Monsalve,1,Independientes,IFP
+681,O'Higgins,6,Machali,Juan Abud Parra,0,Independientes,IFP
+682,O'Higgins,6,Machali,Gonzalo Lopez Lopez,0,Unidad Por El Apruebo,PS
+683,O'Higgins,6,Malloa,Lorenzo Abarca Ubilla,0,Independientes,IFP
+684,O'Higgins,6,Malloa,Alejandro Palominos Venegas,0,Independientes,IFP
+685,O'Higgins,6,Malloa,Juan Magaña Rubio,0,Independientes,IFP
+686,O'Higgins,6,Malloa,Luis Barra Villanueva,0,Unidad Por El Apruebo,IND
+687,O'Higgins,6,Marchigüe,Jose Gonzalez Pino,0,Chile Vamos,UDI
+688,O'Higgins,6,Marchigüe,Cristian Salinas Herrera,0,Dignidad Ahora,PH
+689,O'Higgins,6,Marchigüe,Patricia Carreño Silva,1,Independientes,IFP
+690,O'Higgins,6,Marchigüe,Rodrigo Veliz Farias,0,Unidad Por El Apruebo,IND
+691,O'Higgins,6,Mostazal,Gonzalo Meza Vannini,0,Chile Vamos,IND
+692,O'Higgins,6,Mostazal,Santiago Garate Espinoza,0,Independientes,IFP
+693,O'Higgins,6,Mostazal,Cecilia Viveros Castillo,1,Independientes,IFP
+694,O'Higgins,6,Mostazal,Claudia Caroca Contreras,1,Independientes,IFP
+695,O'Higgins,6,Mostazal,Teresita Reyes Ovalle,1,Independientes,IFP
+696,O'Higgins,6,Mostazal,Giovanna Flores Pinto,1,Independientes,IFP
+697,O'Higgins,6,Mostazal,Jose Hurtado Barahona,0,Independientes,IFP
+698,O'Higgins,6,Mostazal,Veronica Arroyo Arancibia,1,Unidos Por La Dignidad,DC
+699,O'Higgins,6,Nancagua,Maria Riva Dutzan,1,Chile Vamos,IND
+700,O'Higgins,6,Nancagua,Mario Bustamante Salinas,0,Independientes,IFP
+701,O'Higgins,6,Nancagua,Hugo Arias Gonzalez,0,Independientes,IFP
+702,O'Higgins,6,Nancagua,Eduardo Escanilla Gaete,0,Unidad Por El Apruebo,PS
+703,O'Higgins,6,Navidad,Yanko Blumen Antivilo,0,Chile Digno Verde Y Soberano,IND
+704,O'Higgins,6,Navidad,Gonzalo Ortega Prieto,0,Chile Vamos,UDI
+705,O'Higgins,6,Navidad,Daniel Olivares Vidal,0,Frente Amplio,IND
+706,O'Higgins,6,Navidad,Prissila Farias Morales,1,Independientes,IFP
+707,O'Higgins,6,Navidad,Mario Gonzalez Soto,0,Independientes,IFP
+708,O'Higgins,6,Navidad,Patricia Arias Rodriguez,1,Independientes,IFP
+709,O'Higgins,6,Navidad,Fidel Torres Aguilera,0,Unidad Por El Apruebo,PS
+710,O'Higgins,6,Olivar,Maria Montero Carrasco,1,Chile Vamos,IND
+711,O'Higgins,6,Olivar,Jorge Peña Bruce,0,Independientes,IFP
+712,O'Higgins,6,Olivar,Evaristo Orellana Correa,0,Independientes,IFP
+713,O'Higgins,6,Olivar,Praxedes Perez Aranguiz,1,Unidad Por El Apruebo,PS
+714,O'Higgins,6,Palmilla,Claudio Cabrera Marambio,0,Chile Vamos,IND
+715,O'Higgins,6,Palmilla,Gloria Paredes Valdes,1,Unidos Por La Dignidad,DC
+716,O'Higgins,6,Paredones,Moises Carvacho Vargas,0,Chile Vamos,RN
+717,O'Higgins,6,Paredones,Jose Reyes Poblete,0,Unidad Por El Apruebo,IND
+718,O'Higgins,6,Peralillo,Carlos Utman Goldschmidt,0,Chile Vamos,UDI
+719,O'Higgins,6,Peralillo,Froilan Nuñez Cumsille,0,Independientes,IFP
+720,O'Higgins,6,Peralillo,Claudio Cumsille Chomali,0,Unidad Por El Apruebo,PS
+721,O'Higgins,6,Peumo,Esteban Martinez Rubio,0,Chile Digno Verde Y Soberano,FRVS
+722,O'Higgins,6,Peumo,Pedro Rubio Gonzalez,0,Chile Vamos,EVO
+723,O'Higgins,6,Peumo,Jose Martinez Pardo,0,Independientes,IFP
+724,O'Higgins,6,Peumo,Carlos Aliaga Donoso,0,Independientes,IFP
+725,O'Higgins,6,Peumo,Rigoberto Perez Huenuman,0,Independientes,IFP
+726,O'Higgins,6,Peumo,Rosa Rubio Ugalde,1,Unidad Por El Apruebo,IND
+727,O'Higgins,6,Pichidegua,Ismael Gonzalez Gutierrez,0,Chile Digno Verde Y Soberano,IND
+728,O'Higgins,6,Pichidegua,Tamara Jofre Salinas,1,Chile Vamos,UDI
+729,O'Higgins,6,Pichidegua,Cristian Pavez Herrera,0,Independientes,IFP
+730,O'Higgins,6,Pichidegua,Guillermo Gonzalez Cueto,0,Independientes,IFP
+731,O'Higgins,6,Pichidegua,Marcos Fuentes Ulloa,0,Unidos Por La Dignidad,DC
+732,O'Higgins,6,Pichilemu,Manuel Cofre Perez,0,Chile Digno Verde Y Soberano,PC
+733,O'Higgins,6,Pichilemu,Pablo Martinez Quinteros,0,Chile Vamos,UDI
+734,O'Higgins,6,Pichilemu,Hipolito Solano Rubio,0,Independientes,IFP
+735,O'Higgins,6,Pichilemu,Jorge Urzua Garcia,0,Independientes,IFP
+736,O'Higgins,6,Pichilemu,Cristian Pozo Parraguez,0,Independientes,IFP
+737,O'Higgins,6,Pichilemu,Julio Ibarra Maldonado,0,Independientes,IFP
+738,O'Higgins,6,Pichilemu,Marcelo Cabrera Martinez,0,Independientes,IFP
+739,O'Higgins,6,Placilla,Christian Contreras Orellana,0,Independientes,IFP
+740,O'Higgins,6,Placilla,Manuel Contreras Alvarez,0,Unidos Por La Dignidad,DC
+741,O'Higgins,6,Pumanque,Francisco Castro Galvez,0,Chile Vamos,RN
+742,O'Higgins,6,Pumanque,Gonzalo Baraona Bezanilla,0,Independientes,IFP
+743,O'Higgins,6,Quinta De Tilcoco,Sebastian Rodriguez Fuenzalida,0,Chile Vamos,IND
+744,O'Higgins,6,Quinta De Tilcoco,Roberto Arenas Vasquez,0,Frente Amplio,CS
+745,O'Higgins,6,Quinta De Tilcoco,Mario Galvez Palma,0,Independientes,IFP
+746,O'Higgins,6,Quinta De Tilcoco,Heli Carrasco Ureta,0,Unidos Por La Dignidad,DC
+747,O'Higgins,6,Rancagua,Danilo Jorquera Vidal,0,Chile Digno Verde Y Soberano,PC
+748,O'Higgins,6,Rancagua,Pamela Jadell Echague,1,Chile Vamos,IND
+749,O'Higgins,6,Rancagua,Ricardo Cerda Arancibia,0,Dignidad Ahora,IND
+750,O'Higgins,6,Rancagua,Marta Gonzalez Olea,1,Ecologistas E Independientes,IND
+751,O'Higgins,6,Rancagua,Roberto Villagra Reyes,0,Frente Amplio,IND
+752,O'Higgins,6,Rancagua,Raimundo Agliati Marchant,0,Independientes,IFP
+753,O'Higgins,6,Rancagua,Juan Godoy Muñoz,0,Unidad Por El Apruebo,PS
+754,O'Higgins,6,Rengo,Marcos Gatica Muñoz,0,Chile Vamos,RN
+755,O'Higgins,6,Rengo,Alvaro Lizana Fuentes,0,Frente Amplio,RD
+756,O'Higgins,6,Rengo,Julio Ibarra Maripangue,0,Independientes,IFP
+757,O'Higgins,6,Rengo,Yosselin Moyano Calabrano,1,Independientes,IFP
+758,O'Higgins,6,Rengo,Carlos Soto Gonzalez,0,Unidad Por El Apruebo,IND
+759,O'Higgins,6,Requinoa,Maria Cavieres Paiva,1,Chile Vamos,UDI
+760,O'Higgins,6,Requinoa,Waldo Valdivia Montecinos,0,Unidad Por El Apruebo,IND
+761,O'Higgins,6,San Fernando,Gabriel Rojas Oyarce,0,Chile Digno Verde Y Soberano,PC
+762,O'Higgins,6,San Fernando,Alejandro Riquelme Calvo,0,Chile Vamos,UDI
+763,O'Higgins,6,San Fernando,Pablo Silva Perez,0,Independientes,IFP
+764,O'Higgins,6,San Fernando,Pablo Orellana Rivas,0,Independientes,IFP
+765,O'Higgins,6,San Fernando,Luis Berwart Araya,0,Independientes,IFP
+766,O'Higgins,6,San Fernando,Cristian Silva Rosales,0,Independientes,IFP
+767,O'Higgins,6,San Fernando,Ximena Flores Peñaloza,1,Independientes,IFP
+768,O'Higgins,6,San Fernando,Fiorina Gonzalez Moya,1,Independientes,IFP
+769,O'Higgins,6,San Fernando,Luis Orellana Rojas,0,Unidad Por El Apruebo,PR
+770,O'Higgins,6,San Vicente,Guido Carreño Reyes,0,Chile Vamos,UDI
+771,O'Higgins,6,San Vicente,Jaime Gonzalez Ramirez,0,Unidad Por El Apruebo,IND
+772,O'Higgins,6,Santa Cruz,Jose Guajardo Reyes,0,Chile Digno Verde Y Soberano,FRVS
+773,O'Higgins,6,Santa Cruz,William Arevalo Cornejo,0,Chile Vamos,IND
+774,O'Higgins,6,Santa Cruz,Yoshi Guajardo Amaya,1,Frente Amplio,IND
+775,O'Higgins,6,Santa Cruz,Manuel Palma Varas,0,Independientes,IFP
+776,O'Higgins,6,Santa Cruz,Bernardo Morell Piñeda,0,Independientes,IFP
+777,O'Higgins,6,Santa Cruz,Carlos Cisterna Pavez,0,Unidad Por El Apruebo,PS
+778,Maule,7,Cauquenes,Jorge Muñoz Saavedra,0,Chile Vamos,IND
+779,Maule,7,Cauquenes,Alejandra Ramirez Verdugo,1,Independientes,IFP
+780,Maule,7,Cauquenes,Nery Rodriguez Dominguez,1,Independientes,IFP
+781,Maule,7,Cauquenes,Domingo Leiva Mena,0,Unidad Por El Apruebo,PS
+782,Maule,7,Chanco,Rosauro Elgueta Valenzuela,0,Chile Vamos,RN
+783,Maule,7,Chanco,Alfonso Meza Meza,0,Independientes,IFP
+784,Maule,7,Chanco,Jose Espinosa Campos,0,Independientes,IFP
+785,Maule,7,Chanco,Jose Perez Meza,0,Independientes,IFP
+786,Maule,7,Chanco,David Sanchez Arellano,0,Republicanos,PREP
+787,Maule,7,Chanco,Marcelo Waddington Guajardo,0,Unidad Por El Apruebo,PR
+788,Maule,7,Colbun,Claudio Rosson Muñoz,0,Chile Vamos,UDI
+789,Maule,7,Colbun,Pedro Muñoz Oses,0,Independientes,IFP
+790,Maule,7,Colbun,Gustavo Rojas Aravena,0,Independientes,IFP
+791,Maule,7,Colbun,Jonathan Norambuena Barros,0,Independientes,IFP
+792,Maule,7,Constitucion,Carlos Valenzuela Gajardo,0,Chile Vamos,IND
+793,Maule,7,Constitucion,Franco Aravena Gonzalez,0,Independientes,IFP
+794,Maule,7,Constitucion,Fabian Perez Herrera,0,Unidad Por El Apruebo,PR
+795,Maule,7,Curepto,Carlos Henriquez Ramirez,0,Chile Digno Verde Y Soberano,IND
+796,Maule,7,Curepto,Juan Retamal Gutierrez,0,Chile Vamos,IND
+797,Maule,7,Curepto,Rene Concha Gonzalez,0,Unidad Por El Apruebo,PPD
+798,Maule,7,Curico,Macarena Pons Porcile,1,Chile Vamos,IND
+799,Maule,7,Curico,Pamela Henriquez Rojas,1,Dignidad Ahora,IND
+800,Maule,7,Curico,Javier Muñoz Riquelme,0,Unidos Por La Dignidad,DC
+801,Maule,7,Empedrado,Manuel Baez Gajardo,0,Chile Vamos,UDI
+802,Maule,7,Empedrado,Gonzalo Tejos Perez,0,Independientes,IFP
+803,Maule,7,Empedrado,Carlos Correa Miños,0,Independientes,IFP
+804,Maule,7,Empedrado,Ricardo Opazo Fierro,0,Unidad Por El Apruebo,PPD
+805,Maule,7,Hualañe,Marisol Perez Saavedra,1,Chile Digno Verde Y Soberano,FRVS
+806,Maule,7,Hualañe,Patricia Quezada Moreno,1,Chile Vamos,IND
+807,Maule,7,Hualañe,Sergio Nuñez Aliaga,0,Independientes,IFP
+808,Maule,7,Hualañe,Carolina Muñoz Nuñez,1,Unidos Por La Dignidad,DC
+809,Maule,7,Licanten,Bruno Gonzalez Acuña,0,Chile Vamos,UDI
+810,Maule,7,Licanten,Marcelo Fernandez Vilos,0,Independientes,IFP
+811,Maule,7,Linares,Mario Meza Vasquez,0,Chile Vamos,RN
+812,Maule,7,Linares,Alamiro Garrido Caceres,0,Independientes,IFP
+813,Maule,7,Linares,Carlos Gajardo Yañez,0,Independientes,IFP
+814,Maule,7,Linares,Waldo Alfaro Martinez,0,Unidos Por La Dignidad,DC
+815,Maule,7,Longavi,Cristian Menchaca Pinochet,0,Chile Vamos,UDI
+816,Maule,7,Longavi,Ruth Flores Campos,1,Dignidad Ahora,IND
+817,Maule,7,Longavi,Danilo Barra Mendez,0,Independientes,IFP
+818,Maule,7,Longavi,Manuel Martin Romero,0,Independientes,IFP
+819,Maule,7,Longavi,Jaime Briones Jorquera,0,Independientes,IFP
+820,Maule,7,Longavi,Robin Araya Acevedo,0,Independientes,IFP
+821,Maule,7,Longavi,Gonzalo Jara Reyes,0,Unidad Por El Apruebo,PPD
+822,Maule,7,Maule,Brian Villalobos Retamal,0,Chile Vamos,PRI
+823,Maule,7,Maule,Carlos Ovalle Rojas,0,Independientes,IFP
+824,Maule,7,Maule,Luis Vasquez Galvez,0,Unidos Por La Dignidad,DC
+825,Maule,7,Molina,Nicolas Santana Rivera,0,Independientes,IFP
+826,Maule,7,Molina,Felipe Mendez Guzman,0,Independientes,IFP
+827,Maule,7,Molina,Priscilla Castillo Gerli,1,Unidos Por La Dignidad,DC
+828,Maule,7,Parral,Paula Retamal Urrutia,1,Chile Vamos,UDI
+829,Maule,7,Parral,Juan Benavente Meza,0,Independientes,IFP
+830,Maule,7,Parral,Guido Castilla Mora,0,Independientes,IFP
+831,Maule,7,Parral,Rodrigo Castro Sepulveda,0,Independientes,IFP
+832,Maule,7,Parral,Guillermo Ceroni Fuentes,0,Unidad Por El Apruebo,PPD
+833,Maule,7,Pelarco,Cristofer Retamal Lara,0,Chile Digno Verde Y Soberano,IND
+834,Maule,7,Pelarco,Luis Vasquez Bobadilla,0,Chile Vamos,UDI
+835,Maule,7,Pelarco,Roberto Silva Adi,0,Unidad Por El Apruebo,IND
+836,Maule,7,Pelluhue,Daniel Bustos Leal,0,Chile Vamos,IND
+837,Maule,7,Pelluhue,Maria Reyes Orellana,1,Unidos Por La Dignidad,IND
+838,Maule,7,Pencahue,Jose Correa Correa,0,Chile Vamos,UDI
+839,Maule,7,Pencahue,Jose Tobar Aravena,0,Independientes,IFP
+840,Maule,7,Pencahue,Marcelo Viedma Villaman,0,Unidos Por La Dignidad,DC
+841,Maule,7,Rauco,Manuel Poblete Navarro,0,Chile Vamos,UDI
+842,Maule,7,Rauco,Pascual Arevalos Martinez,0,Independientes,IFP
+843,Maule,7,Rauco,Enrique Olivares Farias,0,Unidad Por El Apruebo,PR
+844,Maule,7,Retiro,Rodrigo Ramirez Parra,0,Chile Vamos,RN
+845,Maule,7,Retiro,Luis Pino Andrades,0,Independientes,IFP
+846,Maule,7,Retiro,Ignacio Luna Vallejos,0,Independientes,IFP
+847,Maule,7,Retiro,Viviana Landaeta Parra,1,Unidad Por El Apruebo,PS
+848,Maule,7,Retiro,Juan Contreras Contreras,0,Unidos Por La Dignidad,DC
+849,Maule,7,Rio Claro,Americo Guajardo Oyarce,0,Chile Vamos,RN
+850,Maule,7,Rio Claro,Rosa Navarro Amigo,1,Independientes,IFP
+851,Maule,7,Rio Claro,Eduardo Poblete Navarro,0,Unidad Por El Apruebo,PR
+852,Maule,7,Romeral,Claudio Pino Ulloa,0,Chile Vamos,IND
+853,Maule,7,Romeral,Carlos Vergara Zerega,0,Unidad Por El Apruebo,PS
+854,Maule,7,Sagrada Familia,Martin Arriagada Urrutia,0,Chile Vamos,UDI
+855,Maule,7,Sagrada Familia,Paulo Avalos Sepulveda,0,Independientes,IFP
+856,Maule,7,Sagrada Familia,Juan Badilla Ramirez,0,Independientes,IFP
+857,Maule,7,Sagrada Familia,Jose Gonzalez Ramirez,0,Independientes,IFP
+858,Maule,7,Sagrada Familia,Josselyn Oyarzun Naranjo,1,Unidos Por La Dignidad,IND
+859,Maule,7,San Clemente,Pablo Amaro Valenzuela,0,Chile Vamos,UDI
+860,Maule,7,San Clemente,Maria Sepulveda Fuentes,1,Independientes,IFP
+861,Maule,7,San Clemente,Pablo Hernandez Morales,0,Unidos Por La Dignidad,DC
+862,Maule,7,San Javier,Williams Valenzuela Villalobos,0,Chile Vamos,EVO
+863,Maule,7,San Javier,German Herrera Dinamarca,0,Frente Amplio,RD
+864,Maule,7,San Javier,Pedro Fernandez Chavarri,0,Independientes,IFP
+865,Maule,7,San Javier,Jorge Silva Sepulveda,0,Unidos Por La Dignidad,DC
+866,Maule,7,San Rafael,Cesar Cantuarias Chazarro,0,Chile Vamos,IND
+867,Maule,7,San Rafael,Claudia Diaz Bravo,1,Unidos Por La Dignidad,DC
+868,Maule,7,Talca,Sixto Gonzalez Soto,0,Chile Digno Verde Y Soberano,PC
+869,Maule,7,Talca,Juan Diaz Avendaño,0,Chile Vamos,RN
+870,Maule,7,Talca,Silvia Cabello Letelier,1,Dignidad Ahora,IND
+871,Maule,7,Talca,Andrea Camargo Pino,1,Independientes,IFP
+872,Maule,7,Talca,Rodrigo Sepulveda Espinoza,0,Unidad Por El Apruebo,IND
+873,Maule,7,Teno,Angela Muñoz Venegas,1,Chile Vamos,RN
+874,Maule,7,Teno,Sandra Amestica Gaete,1,Independientes,IFP
+875,Maule,7,Vichuquen,Roberto Rivera Pino,0,Chile Vamos,IND
+876,Maule,7,Vichuquen,Patricio Rivera Bravo,0,Independientes,IFP
+877,Maule,7,Vichuquen,Cristian Bravo Cabezas,0,Independientes,IFP
+878,Maule,7,Vichuquen,Roman Pavez Lopez,0,Independientes,IFP
+879,Maule,7,Vichuquen,Mauricio Correa Urzua,0,Unidos Por La Dignidad,IND
+880,Maule,7,Villa Alegre,Pablo Fuentes Vallejos,0,Chile Vamos,IND
+881,Maule,7,Villa Alegre,Ricardo Lizama Soto,0,Independientes,IFP
+882,Maule,7,Villa Alegre,Jorge Peña Vargas,0,Independientes,IFP
+883,Maule,7,Villa Alegre,Luis Alegria Acuña,0,Independientes,IFP
+884,Maule,7,Villa Alegre,Fabiola Arenas Sepulveda,1,Independientes,IFP
+885,Maule,7,Villa Alegre,Alvaro Dieguez Angulo,0,Independientes,IFP
+886,Maule,7,Villa Alegre,Carla Manosalva Reyes,1,Unidad Por El Apruebo,PR
+887,Maule,7,Yerbas Buenas,Eva Palma Leal,1,Chile Vamos,RN
+888,Maule,7,Yerbas Buenas,Jaime Claret Arias,0,Independientes,IFP
+889,Maule,7,Yerbas Buenas,Luis Cadegan Moran,0,Unidos Por La Dignidad,IND
+890,Ñuble,7.5,Bulnes,Thelma Guzman Asencio,1,Chile Digno Verde Y Soberano,PC
+891,Ñuble,7.5,Bulnes,Eugenio Medina Parra,0,Chile Vamos,IND
+892,Ñuble,7.5,Bulnes,Guillermo Yeber Rodriguez,0,Independientes,IFP
+893,Ñuble,7.5,Bulnes,Jorge Hidalgo Oñate,0,Unidad Por El Apruebo,IND
+894,Ñuble,7.5,Chillan,Paola Becker Villa,1,Chile Vamos,IND
+895,Ñuble,7.5,Chillan,Patricia Pino Ceballos,1,Dignidad Ahora,PH
+896,Ñuble,7.5,Chillan,Marcelo Contreras Muñoz,0,Ecologistas E Independientes,PEV
+897,Ñuble,7.5,Chillan,Manuel Reyes Pinochet,0,Republicanos,IND
+898,Ñuble,7.5,Chillan,Camilo Benavente Jimenez,0,Unidad Por El Apruebo,PPD
+899,Ñuble,7.5,Chillan Viejo,Rodrigo Arzola Helo,0,Chile Vamos,IND
+900,Ñuble,7.5,Chillan Viejo,Jorge Pozo Pastene,0,Independientes,IFP
+901,Ñuble,7.5,Chillan Viejo,Rodolfo Gazmuri Sanchez,0,Independientes,IFP
+902,Ñuble,7.5,Chillan Viejo,Carlos Hernandez Muñoz,0,Independientes,IFP
+903,Ñuble,7.5,Chillan Viejo,Esteban Misle Muñoz,0,Independientes,IFP
+904,Ñuble,7.5,Chillan Viejo,Jose Silva Espinoza,0,Unidad Por El Apruebo,PS
+905,Ñuble,7.5,Cobquecura,Fernanda Torres Orellana,1,Chile Vamos,IND
+906,Ñuble,7.5,Cobquecura,Jorge Romero Villalobos,0,Independientes,IFP
+907,Ñuble,7.5,Cobquecura,Julio Fuentes Alarcon,0,Unidad Por El Apruebo,IND
+908,Ñuble,7.5,Coelemu,Laura Aravena Alarcon,1,Chile Vamos,RN
+909,Ñuble,7.5,Coelemu,Juan Escalona Gonzalez,0,Ecologistas E Independientes,IND
+910,Ñuble,7.5,Coelemu,Alejandro Pedreros Urrutia,0,Unidad Por El Apruebo,IND
+911,Ñuble,7.5,Coihueco,Cristian Herrera Caro,0,Chile Digno Verde Y Soberano,PC
+912,Ñuble,7.5,Coihueco,Carlos Chandia Alarcon,0,Chile Vamos,RN
+913,Ñuble,7.5,Coihueco,Juan Olave Pedraza,0,Unidad Por El Apruebo,IND
+914,Ñuble,7.5,El Carmen,Renan Cabezas Arroyo,0,Chile Vamos,RN
+915,Ñuble,7.5,El Carmen,Jose Martin Rubilar,0,Unidos Por La Dignidad,DC
+916,Ñuble,7.5,Ninhue,Daniel Arriagada Jara,0,Chile Vamos,UDI
+917,Ñuble,7.5,Ninhue,Ronald Tassara Espinoza,0,Independientes,IFP
+918,Ñuble,7.5,Ninhue,Roberto Contreras Contreras,0,Independientes,IFP
+919,Ñuble,7.5,Ninhue,Luis Molina Melo,0,Unidos Por La Dignidad,IND
+920,Ñuble,7.5,Ñiquen,Manuel Pino Turra,0,Chile Vamos,UDI
+921,Ñuble,7.5,Ñiquen,Jose Fica Peña,0,Frente Amplio,IND
+922,Ñuble,7.5,Ñiquen,Pablo Jimenez Acuña,0,Unidad Por El Apruebo,PS
+923,Ñuble,7.5,Pemuco,Johnnson Guiñez Nuñez,0,Chile Vamos,IND
+924,Ñuble,7.5,Pemuco,Ismael Palma Guiñez,0,Unidos Por La Dignidad,DC
+925,Ñuble,7.5,Pinto,Manuel Guzman Aedo,0,Chile Vamos,UDI
+926,Ñuble,7.5,Pinto,Juan Saez Freire,0,Independientes,IFP
+927,Ñuble,7.5,Pinto,Gabriela Rodriguez Bustamante,1,Independientes,IFP
+928,Ñuble,7.5,Pinto,Jorge Arias Zumaeta,0,Unidad Por El Apruebo,IND
+929,Ñuble,7.5,Portezuelo,Rene Schuffeneger Salas,0,Chile Vamos,RN
+930,Ñuble,7.5,Quillon,Hilda Quezada Bravo,1,Chile Vamos,RN
+931,Ñuble,7.5,Quillon,Jose Guzman Fernandez,0,Dignidad Ahora,IND
+932,Ñuble,7.5,Quillon,Ignacio Sanhueza Patiño,0,Independientes,IFP
+933,Ñuble,7.5,Quillon,Miguel Peña Jara,0,Unidos Por La Dignidad,DC
+934,Ñuble,7.5,Quirihue,Sebastian Godoy Bustos,0,Chile Vamos,UDI
+935,Ñuble,7.5,Quirihue,Jose Hadi Pino,0,Independientes,IFP
+936,Ñuble,7.5,Quirihue,Richard Irribarra Ramirez,0,Unidad Por El Apruebo,PR
+937,Ñuble,7.5,Ranquil,Nicolas Torres Ovalle,0,Chile Vamos,RN
+938,Ñuble,7.5,Ranquil,Carlos Garcia Vera,0,Independientes,IFP
+939,Ñuble,7.5,Ranquil,Christian Astudillo Muñoz,0,Independientes,IFP
+940,Ñuble,7.5,Ranquil,Benito Bravo Delgado,0,Unidad Por El Apruebo,PPD
+941,Ñuble,7.5,San Carlos,Lorena Jardua Campos,1,Chile Vamos,IND
+942,Ñuble,7.5,San Carlos,Gisselle Avila Bustos,1,Ecologistas E Independientes,IND
+943,Ñuble,7.5,San Carlos,Maria Garcia Navarrete,1,Independientes,IFP
+944,Ñuble,7.5,San Carlos,Ruben Mendez Venegas,0,Independientes,IFP
+945,Ñuble,7.5,San Carlos,Cesar Ortiz Gallegos,0,Republicanos,IND
+946,Ñuble,7.5,San Carlos,Williams Suazo Soto,0,Unidad Por El Apruebo,PS
+947,Ñuble,7.5,San Fabian,Claudio Almuna Garrido,0,Chile Vamos,RN
+948,Ñuble,7.5,San Fabian,Fernando Correa Sandoval,0,Independientes,IFP
+949,Ñuble,7.5,San Fabian,Cristofer Valdes Gonzalez,0,Independientes,IFP
+950,Ñuble,7.5,San Fabian,Enrique Olivares Landaeta,0,Unidad Por El Apruebo,IND
+951,Ñuble,7.5,San Ignacio,Martin Figueroa Ponce,0,Chile Vamos,IND
+952,Ñuble,7.5,San Ignacio,Sergio Gonzalez Mendez,0,Independientes,IFP
+953,Ñuble,7.5,San Ignacio,Cesar Figueroa Betancourt,0,Independientes,IFP
+954,Ñuble,7.5,San Nicolas,Victor Rice Sanchez,0,Chile Vamos,RN
+955,Ñuble,7.5,San Nicolas,Jaime Bustos Espinoza,0,Independientes,IFP
+956,Ñuble,7.5,San Nicolas,Manuel Bello Nuñez,0,Independientes,IFP
+957,Ñuble,7.5,San Nicolas,Silvana Neira Llanos,1,Unidos Por La Dignidad,DC
+958,Ñuble,7.5,Treguaco,Jorge Morales Sanhueza,0,Chile Vamos,UDI
+959,Ñuble,7.5,Treguaco,Victor Chandia Arce,0,Independientes,IFP
+960,Ñuble,7.5,Treguaco,Raul Espejo Escobar,0,Independientes,IFP
+961,Ñuble,7.5,Treguaco,Eduardo Valenzuela Salazar,0,Unidos Por La Dignidad,DC
+962,Ñuble,7.5,Yungay,Juan Lopez Rivas,0,Independientes,IFP
+963,Ñuble,7.5,Yungay,Francisco Guiñez Arriagada,0,Independientes,IFP
+964,Ñuble,7.5,Yungay,Rodrigo Stuardo Hernandez,0,Independientes,IFP
+965,Ñuble,7.5,Yungay,Juana Sandoval Rojas,1,Independientes,IFP
+966,Ñuble,7.5,Yungay,Sebastian Baeza Baeza,0,Independientes Cristianos,IND
+967,Ñuble,7.5,Yungay,Rafael Cifuentes Rodriguez,0,Unidad Por El Apruebo,PS
+968,Biobío,8,Alto Biobio,Jose Pereira Canio,0,Chile Digno Verde Y Soberano,IND
+969,Biobío,8,Alto Biobio,Pedro Manquepi Vivanco,0,Chile Vamos,UDI
+970,Biobío,8,Alto Biobio,Felix Vita Manquepi,0,Independientes,IFP
+971,Biobío,8,Alto Biobio,Rogelio Marihuan Ancanao,0,Independientes,IFP
+972,Biobío,8,Alto Biobio,Nivaldo Piñaleo Llaulen,0,Unidad Por El Apruebo,PPD
+973,Biobío,8,Antuco,Diego Peña Gutierrez,0,Chile Vamos,RN
+974,Biobío,8,Antuco,Miguel Abuter Leon,0,Independientes,IFP
+975,Biobío,8,Antuco,Sandra Bobadilla Cisterna,1,Independientes,IFP
+976,Biobío,8,Antuco,Claudio Reyes Jelves,0,Independientes,IFP
+977,Biobío,8,Antuco,Jorge Correa Rios,0,Independientes,IFP
+978,Biobío,8,Arauco,Walter Rodriguez Leal,0,Independientes,IFP
+979,Biobío,8,Arauco,Elizabeth Marican Rivas,1,Independientes,IFP
+980,Biobío,8,Arauco,Hector Ulloa Machuca,0,Independientes,IFP
+981,Biobío,8,Arauco,Hector Bravo Barrales,0,Independientes,IFP
+982,Biobío,8,Arauco,Miguel Saldias Sepulveda,0,Independientes Cristianos,PCC
+983,Biobío,8,Arauco,Gonzalo Gayoso Saez,0,Unidad Por El Apruebo,PS
+984,Biobío,8,Cabrero,Yusef Sabag Araneda,0,Independientes,IFP
+985,Biobío,8,Cabrero,Mario Gierke Quevedo,0,Independientes,IFP
+986,Biobío,8,Cabrero,Claudio Gonzalez Rivera,0,Unidad Por El Apruebo,IND
+987,Biobío,8,Cañete,Jorge Radonich Barra,0,Chile Vamos,RN
+988,Biobío,8,Cañete,Olga Salgado Molina,1,Unidad Por El Apruebo,PR
+989,Biobío,8,Chiguayante,Jessica Flores Reyes,1,Chile Vamos,IND
+990,Biobío,8,Chiguayante,Jorge Lozano Zapata,0,Independientes,IFP
+991,Biobío,8,Chiguayante,Antonio Rivas Villalobos,0,Unidad Por El Apruebo,PS
+992,Biobío,8,Concepcion,Marlene Perez Cartes,1,Chile Vamos,IND
+993,Biobío,8,Concepcion,Eric Pinto Viguera,0,Ecologistas E Independientes,IND
+994,Biobío,8,Concepcion,Camila Polizzi Fonceca,1,Frente Amplio,IND
+995,Biobío,8,Concepcion,Camilo Riffo Quintana,0,Independientes,IFP
+996,Biobío,8,Concepcion,Alvaro Ortiz Vera,0,Unidos Por La Dignidad,DC
+997,Biobío,8,Contulmo,Mauricio Lebrecht Sperberg,0,Chile Vamos,UDI
+998,Biobío,8,Contulmo,Carlos Leal Neira,0,Independientes,IFP
+999,Biobío,8,Contulmo,Diego Ibañez Burgos,0,Unidos Por La Dignidad,PRO
+1000,Biobío,8,Coronel,Luis Rodriguez Campos,0,Chile Vamos,RN
+1001,Biobío,8,Coronel,Jose Suazo Muñoz,0,Independientes,IFP
+1002,Biobío,8,Coronel,Boris Chamorro Rebolledo,0,Independientes,IFP
+1003,Biobío,8,Coronel,Gonzalo Osorio Rioseco,0,Independientes,IFP
+1004,Biobío,8,Coronel,Luis Chamorro Barrientos,0,Republicanos,PREP
+1005,Biobío,8,Curanilahue,Luis Gengnagel Gutierrez,0,Chile Vamos,IND
+1006,Biobío,8,Curanilahue,Alejandra Burgos Bizama,1,Independientes,IFP
+1007,Biobío,8,Florida,Cristian Peña Pasten,0,Chile Vamos,RN
+1008,Biobío,8,Florida,Luis Torres Gamboa,0,Independientes,IFP
+1009,Biobío,8,Florida,Jorge Roa Villegas,0,Unidos Por La Dignidad,DC
+1010,Biobío,8,Hualpen,Hector Torres Fuentes,0,Chile Digno Verde Y Soberano,PC
+1011,Biobío,8,Hualpen,Gabriel Torres Hermosilla,0,Chile Vamos,IND
+1012,Biobío,8,Hualpen,Sandra Velasquez Palma,1,Dignidad Ahora,PH
+1013,Biobío,8,Hualpen,Claudio Pradena Barrientos,0,Ecologistas E Independientes,IND
+1014,Biobío,8,Hualpen,Ornella Concha Hermosilla,1,Frente Amplio,RD
+1015,Biobío,8,Hualpen,Ismael Olmos Alarcon,0,Independientes,IFP
+1016,Biobío,8,Hualpen,Katherine Torres Machuca,1,Independientes,IFP
+1017,Biobío,8,Hualpen,Juan Cruz Rivera,0,Independientes,IFP
+1018,Biobío,8,Hualpen,Marcela Weber Jara,1,Republicanos,PREP
+1019,Biobío,8,Hualpen,Miguel Rivera Morales,0,Unidad Por El Apruebo,PPD
+1020,Biobío,8,Hualqui,Jorge Contanzo Bravo,0,Independientes,IFP
+1021,Biobío,8,Hualqui,Erika Montoya Llanos,1,Unidad Por El Apruebo,IND
+1022,Biobío,8,Laja,Ernesto Fica Toledo,0,Chile Digno Verde Y Soberano,PC
+1023,Biobío,8,Laja,Vladimir Fica Toledo,0,Chile Vamos,RN
+1024,Biobío,8,Laja,Roberto Quintana Inostroza,0,Independientes,IFP
+1025,Biobío,8,Laja,Hector Perez Aguayo,0,Independientes,IFP
+1026,Biobío,8,Laja,Alex Osses Osses,0,Independientes,IFP
+1027,Biobío,8,Laja,Jose Sanhueza Villaman,0,Unidos Por La Dignidad,IND
+1028,Biobío,8,Lebu,Marcela Tiznado Fernandez,1,Chile Vamos,IND
+1029,Biobío,8,Lebu,Cristian Peña Morales,0,Unidos Por La Dignidad,IND
+1030,Biobío,8,Los Alamos,Pablo Vegas Verdugo,0,Chile Vamos,UDI
+1031,Biobío,8,Los Alamos,Pedro Valenzuela Castro,0,Ecologistas E Independientes,IND
+1032,Biobío,8,Los Alamos,Paola Melita Vinett,1,Independientes,IFP
+1033,Biobío,8,Los Alamos,Alvaro Alarcon Jerez,0,Independientes,IFP
+1034,Biobío,8,Los Alamos,Viviana Olave Rosales,1,Unidad Por El Apruebo,PS
+1035,Biobío,8,Los Angeles,Bruno Vyhmeister Lopez,0,Chile Vamos,UDI
+1036,Biobío,8,Los Angeles,Esteban Krause Salazar,0,Unidad Por El Apruebo,PR
+1037,Biobío,8,Lota,Tamara Concha Cabrera,1,Chile Digno Verde Y Soberano,PC
+1038,Biobío,8,Lota,Carla Ceballos Santibañez,1,Chile Vamos,EVO
+1039,Biobío,8,Lota,Carlos Olave Garrido,0,Independientes,IFP
+1040,Biobío,8,Lota,Patricio Marchant Ulloa,0,Independientes,IFP
+1041,Biobío,8,Lota,Mauricio Velasquez Valenzuela,0,Unidad Por El Apruebo,IND
+1042,Biobío,8,Mulchen,Guillermo Brevis Pereira,0,Chile Vamos,RN
+1043,Biobío,8,Mulchen,Jose Ulloa Morgenstern,0,Independientes,IFP
+1044,Biobío,8,Mulchen,Sandra Duhalde Arriagada,1,Independientes,IFP
+1045,Biobío,8,Mulchen,Jorge Rivas Figueroa,0,Unidos Por La Dignidad,DC
+1046,Biobío,8,Nacimiento,Carlos Toloza Soto,0,Chile Vamos,UDI
+1047,Biobío,8,Nacimiento,Hugo Inostroza Ramirez,0,Unidad Por El Apruebo,PPD
+1048,Biobío,8,Negrete,Placido Vidal Barnachea,0,Chile Vamos,UDI
+1049,Biobío,8,Negrete,Alfredo Peña Peña,0,Unidad Por El Apruebo,PR
+1050,Biobío,8,Penco,Hector Peñailillo Nuñez,0,Chile Vamos,UDI
+1051,Biobío,8,Penco,Victor Figueroa Rebolledo,0,Unidos Por La Dignidad,DC
+1052,Biobío,8,Quilaco,Fredy Barrueto Viveros,0,Chile Vamos,IND
+1053,Biobío,8,Quilaco,Pablo Urrutia Maldonado,0,Unidos Por La Dignidad,IND
+1054,Biobío,8,Quilleco,Rodrigo Tapia Avello,0,Independientes,IFP
+1055,Biobío,8,Quilleco,Jaime Quilodran Acuña,0,Independientes,IFP
+1056,Biobío,8,San Pedro De La Paz,Juan Spoerer Brito,0,Chile Vamos,EVO
+1057,Biobío,8,San Pedro De La Paz,Luis Jara Abadia,0,Ecologistas E Independientes,IND
+1058,Biobío,8,San Pedro De La Paz,Ignacio Sapiain Martinez,0,Independientes,IFP
+1059,Biobío,8,San Pedro De La Paz,Maria Ojeda Sanhueza,1,Independientes,IFP
+1060,Biobío,8,San Pedro De La Paz,Javier Guiñez Castro,0,Independientes,IFP
+1061,Biobío,8,San Pedro De La Paz,Rene Betanzo Gomez,0,Independientes,IFP
+1062,Biobío,8,San Pedro De La Paz,Gabriel Perez Benavides,0,Independientes,IFP
+1063,Biobío,8,San Pedro De La Paz,David Gaete Meza,0,Republicanos,IND
+1064,Biobío,8,San Pedro De La Paz,Andrea Muñoz Araya,1,Unidad Por El Apruebo,PPD
+1065,Biobío,8,San Rosendo,Julian Espinoza Guzman,0,Chile Vamos,IND
+1066,Biobío,8,San Rosendo,Rabindranath Acuña Olate,0,Independientes,IFP
+1067,Biobío,8,San Rosendo,Gabriel Sepulveda Mora,0,Unidos Por La Dignidad,IND
+1068,Biobío,8,Santa Barbara,Cristian Oses Abuter,0,Chile Vamos,RN
+1069,Biobío,8,Santa Barbara,Daniel Salamanca Perez,0,Unidos Por La Dignidad,DC
+1070,Biobío,8,Santa Juana,Francisco Soto Recabal,0,Chile Vamos,UDI
+1071,Biobío,8,Santa Juana,Ana Albornoz Cuevas,1,Independientes,IFP
+1072,Biobío,8,Santa Juana,Jocsan Sanhueza Valdebenito,0,Unidos Por La Dignidad,DC
+1073,Biobío,8,Talcahuano,Henry Campos Coa,0,Chile Vamos,UDI
+1074,Biobío,8,Talcahuano,Cristhian Lagos Palma,0,Ecologistas E Independientes,IND
+1075,Biobío,8,Talcahuano,Leocan Portus Urbina,0,Independientes,IFP
+1076,Biobío,8,Talcahuano,Juan Venegas Villa,0,Independientes,IFP
+1077,Biobío,8,Talcahuano,Cristian Campos Jara,0,Independientes,IFP
+1078,Biobío,8,Talcahuano,Eduardo Saavedra Bustos,0,Unidad Por El Apruebo,PS
+1079,Biobío,8,Tirua,Jorge Lincopi Marihuen,0,Chile Vamos,UDI
+1080,Biobío,8,Tirua,Jose Linco Garrido,0,Independientes,IFP
+1081,Biobío,8,Tirua,Andrea Reinao Millahual,1,Unidad Por El Apruebo,PPD
+1082,Biobío,8,Tome,Larry Sandoval Lara,0,Chile Vamos,UDI
+1083,Biobío,8,Tome,Sandra Oliva Jimenez,1,Dignidad Ahora,PI
+1084,Biobío,8,Tome,Italo Caceres Lizana,0,Independientes,IFP
+1085,Biobío,8,Tome,Soledad Portales Pacheco,1,Independientes,IFP
+1086,Biobío,8,Tome,Luis Molina Vega,0,Independientes,IFP
+1087,Biobío,8,Tome,Eduardo Aguilera Aguilera,0,Independientes,IFP
+1088,Biobío,8,Tome,Carlos Lopez Sanchez,0,Independientes,IFP
+1089,Biobío,8,Tome,Ivonne Rivas Ortiz,1,Unidos Por La Dignidad,DC
+1090,Biobío,8,Tucapel,Jaime Veloso Jara,0,Chile Vamos,RN
+1091,Biobío,8,Tucapel,Carlos Cruz Vargas,0,Unidad Por El Apruebo,PS
+1092,Biobío,8,Yumbel,Cristian Cerro Garrido,0,Dignidad Ahora,IND
+1093,Biobío,8,Yumbel,Carlos Pinilla Pinilla,0,Independientes,IFP
+1094,Biobío,8,Yumbel,Juan Cabezas Vega,0,Independientes,IFP
+1095,Biobío,8,Yumbel,Jose Saez Vinet,0,Independientes,IFP
+1096,Biobío,8,Yumbel,Raul Vargas Sanzana,0,Independientes,IFP
+1097,Biobío,8,Yumbel,Yolanda Romero Peña,1,Unidos Por La Dignidad,DC
+1098,Los Ríos,9.5,Corral,Violeta Perez Pavie,1,Chile Digno Verde Y Soberano,IND
+1099,Los Ríos,9.5,Corral,Jesica Barrientos Duran,1,Chile Vamos,EVO
+1100,Los Ríos,9.5,Corral,Rosiel Gonzalez Galindo,0,Frente Amplio,IND
+1101,Los Ríos,9.5,Corral,Juan Galindo Lavados,0,Independientes,IFP
+1102,Los Ríos,9.5,Corral,Miguel Hernandez Mella,0,Independientes,IFP
+1103,Los Ríos,9.5,Corral,Marila Barrientos Triviños,1,Unidad Por El Apruebo,PPD
+1104,Los Ríos,9.5,Futrono,Claudio Lavado Castro,0,Chile Vamos,UDI
+1105,Los Ríos,9.5,Futrono,Jose Alvarado Cuevas,0,Frente Amplio,IND
+1106,Los Ríos,9.5,Futrono,Sarita Jaramillo Arismendi,1,Unidad Por El Apruebo,PPD
+1107,Los Ríos,9.5,La Union,Aldo Pinuer Solis,0,Chile Vamos,IND
+1108,Los Ríos,9.5,La Union,Saturnino Quezada Solis,0,Independientes,IFP
+1109,Los Ríos,9.5,La Union,Andres Reinoso Carrillo,0,Unidad Por El Apruebo,PS
+1110,Los Ríos,9.5,Lago Ranco,Miguel Meza Shwenke,0,Chile Vamos,RN
+1111,Los Ríos,9.5,Lago Ranco,Jorge Figueroa Fuentes,0,Unidad Por El Apruebo,PPD
+1112,Los Ríos,9.5,Lanco,Rolando Peña Riquelme,0,Chile Vamos,RN
+1113,Los Ríos,9.5,Lanco,Wilson Cantero Michillanca,0,Ecologistas E Independientes,PEV
+1114,Los Ríos,9.5,Lanco,Jaime Garrido Ramos,0,Independientes,IFP
+1115,Los Ríos,9.5,Lanco,Marcela Olivera Montero,1,Independientes,IFP
+1116,Los Ríos,9.5,Lanco,Juan Rocha Aguilera,0,Unidad Por El Apruebo,PS
+1117,Los Ríos,9.5,Los Lagos,Aldo Retamal Arriagada,0,Chile Digno Verde Y Soberano,PC
+1118,Los Ríos,9.5,Los Lagos,Hugo Silva Sanchez,0,Chile Vamos,RN
+1119,Los Ríos,9.5,Los Lagos,Samuel Torres Sepulveda,0,Independientes,IFP
+1120,Los Ríos,9.5,Mafil,Leonardo Muñoz Vallejos,0,Chile Digno Verde Y Soberano,IND
+1121,Los Ríos,9.5,Mafil,Guillermo Soto Ortega,0,Chile Vamos,RN
+1122,Los Ríos,9.5,Mafil,Claudio Sepulveda Miranda,0,Unidad Por El Apruebo,PPD
+1123,Los Ríos,9.5,Mariquina,Guillermo Mitre Gatica,0,Chile Vamos,IND
+1124,Los Ríos,9.5,Mariquina,Erwin Pacheco Ayala,0,Independientes,IFP
+1125,Los Ríos,9.5,Mariquina,Pamela Dornemann Rojas,1,Unidad Por El Apruebo,IND
+1126,Los Ríos,9.5,Paillaco,Jose Aravena Perez,0,Chile Digno Verde Y Soberano,PC
+1127,Los Ríos,9.5,Paillaco,Mario Schmeisser Muñoz,0,Chile Vamos,RN
+1128,Los Ríos,9.5,Paillaco,Miguel Carrasco Garcia,0,Independientes,IFP
+1129,Los Ríos,9.5,Paillaco,Ruth Castillo Prieto,1,Unidos Por La Dignidad,DC
+1130,Los Ríos,9.5,Panguipulli,Rodrigo Manzano Barrientos,0,Chile Digno Verde Y Soberano,PC
+1131,Los Ríos,9.5,Panguipulli,Pablo Sandoval Jara,0,Chile Vamos,IND
+1132,Los Ríos,9.5,Panguipulli,Sandra Añual Henriquez,1,Independientes,IFP
+1133,Los Ríos,9.5,Panguipulli,Pedro Burgos Vasquez,0,Independientes,IFP
+1134,Los Ríos,9.5,Panguipulli,Rodrigo Valdivia Orias,0,Unidad Por El Apruebo,PS
+1135,Los Ríos,9.5,Rio Bueno,Carolina Silva Perez,1,Chile Vamos,IND
+1136,Los Ríos,9.5,Rio Bueno,Carlos Burgos Martinez,0,Frente Amplio,RD
+1137,Los Ríos,9.5,Rio Bueno,Alvaro Ramirez Medina,0,Independientes,IFP
+1138,Los Ríos,9.5,Rio Bueno,Victor Vidal Mujica,0,Independientes,IFP
+1139,Los Ríos,9.5,Rio Bueno,Diego Flores Vera,0,Unidad Por El Apruebo,PS
+1140,Los Ríos,9.5,Valdivia,Omar Sabat Guzman,0,Chile Vamos,IND
+1141,Los Ríos,9.5,Valdivia,Cesar Collao Alvarez,0,Ecologistas E Independientes,IND
+1142,Los Ríos,9.5,Valdivia,Carla Amtmann Fecci,1,Frente Amplio,RD
+1143,Los Ríos,9.5,Valdivia,Felipe Riffo Maechel,0,Independientes,IFP
+1144,Los Ríos,9.5,Valdivia,Gonzalo Espinoza Perez,0,Unidos Por La Dignidad,DC
+1145,Los Lagos,10,Ancud,Aliro Caimapo Oyarzo,0,Chile Vamos,UDI
+1146,Los Lagos,10,Ancud,Ricardo Lagno Cruces,0,Independientes,IFP
+1147,Los Lagos,10,Ancud,Carlos Gomez Miranda,0,Independientes,IFP
+1148,Los Lagos,10,Ancud,Andres Ojeda Care,0,Independientes,IFP
+1149,Los Lagos,10,Ancud,Selim Barria Barria,0,Independientes,IFP
+1150,Los Lagos,10,Ancud,Jose Barria Barria,0,Unidos Por La Dignidad,PRO
+1151,Los Lagos,10,Calbuco,Pedro Yañez Uribe,0,Chile Vamos,IND
+1152,Los Lagos,10,Calbuco,Maria Velasquez Caico,1,Frente Amplio,IND
+1153,Los Lagos,10,Calbuco,Juan Calbucoy Guerrero,0,Independientes,IFP
+1154,Los Lagos,10,Calbuco,Tania Bermudez Oyarzo,1,Independientes,IFP
+1155,Los Lagos,10,Calbuco,Juan Mansilla Villarroel,0,Independientes,IFP
+1156,Los Lagos,10,Calbuco,Jaime Cardenas Alvarado,0,Independientes,IFP
+1157,Los Lagos,10,Calbuco,Paulino Diaz Ruiz,0,Independientes,IFP
+1158,Los Lagos,10,Calbuco,Felipe Maluenda Araya,0,Independientes,IFP
+1159,Los Lagos,10,Calbuco,Marco Silva Maldonado,0,Unidos Por La Dignidad,DC
+1160,Los Lagos,10,Castro,Juan Vera Sanhueza,0,Chile Vamos,IND
+1161,Los Lagos,10,Castro,Marcelo Malagueño Maira,0,Unidad Por El Apruebo,PR
+1162,Los Lagos,10,Chaiten,Maria Lazcano Fernandez,1,Chile Vamos,RN
+1163,Los Lagos,10,Chaiten,Pedro Vasquez Celedon,0,Unidad Por El Apruebo,IND
+1164,Los Lagos,10,Chonchi,Fernando Oyarzun Macias,0,Chile Vamos,RN
+1165,Los Lagos,10,Chonchi,Pedro Andrade Oyarzun,0,Independientes,IFP
+1166,Los Lagos,10,Chonchi,Jose Navarro Oyarzo,0,Independientes,IFP
+1167,Los Lagos,10,Chonchi,Carola Chamia Diaz,1,Unidos Por La Dignidad,DC
+1168,Los Lagos,10,Cochamo,Sergio Tellez Barria,0,Chile Vamos,PRI
+1169,Los Lagos,10,Cochamo,Felipe Cielorko Berrios,0,Ecologistas E Independientes,IND
+1170,Los Lagos,10,Cochamo,Eliseo Bahamonde Turra,0,Independientes,IFP
+1171,Los Lagos,10,Cochamo,Victor Vaccaro Escudero,0,Independientes,IFP
+1172,Los Lagos,10,Cochamo,Mario Muñoz Delgado,0,Independientes,IFP
+1173,Los Lagos,10,Cochamo,Jesus Morales Rosales,0,Independientes,IFP
+1174,Los Lagos,10,Cochamo,Marcela Chavez Chavez,1,Unidad Por El Apruebo,PPD
+1175,Los Lagos,10,Curaco De Velez,Victor Ilnao Ilnao,0,Chile Vamos,IND
+1176,Los Lagos,10,Curaco De Velez,Javiera Yañez Rebolledo,1,Unidad Por El Apruebo,IND
+1177,Los Lagos,10,Dalcahue,Juan Hijerra Seron,0,Chile Vamos,IND
+1178,Los Lagos,10,Dalcahue,Juan Soto Cardenas,0,Independientes,IFP
+1179,Los Lagos,10,Dalcahue,Ramiro Barria Borquez,0,Unidad Por El Apruebo,PR
+1180,Los Lagos,10,Fresia,Cesar Negron Barria,0,Chile Vamos,RN
+1181,Los Lagos,10,Fresia,Fabian Nail Alvarez,0,Frente Amplio,IND
+1182,Los Lagos,10,Fresia,Jose Cardenas Barria,0,Unidos Por La Dignidad,DC
+1183,Los Lagos,10,Frutillar,Claus Lindemann Vierth,0,Chile Vamos,RN
+1184,Los Lagos,10,Frutillar,Cesar Huenuqueo Maldonado,0,Unidad Por El Apruebo,PS
+1185,Los Lagos,10,Futaleufu,Patricia Aguila Rosas,1,Chile Vamos,IND
+1186,Los Lagos,10,Futaleufu,Alejandro Avello Bascur,0,Independientes,IFP
+1187,Los Lagos,10,Futaleufu,Fernando Grandon Domke,0,Independientes,IFP
+1188,Los Lagos,10,Futaleufu,Maria Navarrete Ortega,1,Independientes,IFP
+1189,Los Lagos,10,Futaleufu,Juan Gatica Barrientos,0,Unidad Por El Apruebo,PR
+1190,Los Lagos,10,Hualaihue,Felix Vargas Cotiart,0,Chile Vamos,RN
+1191,Los Lagos,10,Hualaihue,Victor Salazar Zarate,0,Frente Amplio,IND
+1192,Los Lagos,10,Hualaihue,Cristina Espinoza Ojeda,1,Independientes,IFP
+1193,Los Lagos,10,Hualaihue,Rolando Uribe Ruiz,0,Independientes,IFP
+1194,Los Lagos,10,Hualaihue,Sergio Antiñirre Gallardo,0,Unidos Por La Dignidad,DC
+1195,Los Lagos,10,Llanquihue,Juan Andrade Barria,0,Chile Vamos,RN
+1196,Los Lagos,10,Llanquihue,Francisco Vasquez Almonacid,0,Independientes,IFP
+1197,Los Lagos,10,Llanquihue,Victor Angulo Muñoz,0,Unidos Por La Dignidad,DC
+1198,Los Lagos,10,Los Muermos,Sergio Haeger Yunge,0,Chile Vamos,UDI
+1199,Los Lagos,10,Los Muermos,Antonio Gallardo Caileo,0,Unidad Por El Apruebo,IND
+1200,Los Lagos,10,Maullin,Nabih Soza Cardenas,0,Chile Vamos,IND
+1201,Los Lagos,10,Maullin,Jorge Westermeier Estrada,0,Unidos Por La Dignidad,DC
+1202,Los Lagos,10,Osorno,Ximena Acuña Mansilla,1,Chile Vamos,RN
+1203,Los Lagos,10,Osorno,Osvaldo Hernandez Krause,0,Independientes,IFP
+1204,Los Lagos,10,Osorno,Marcelo Anuch Medina,0,Independientes,IFP
+1205,Los Lagos,10,Osorno,Emeterio Carrillo Torres,0,Unidos Por La Dignidad,DC
+1206,Los Lagos,10,Palena,Julio Delgado Retamal,0,Chile Vamos,RN
+1207,Los Lagos,10,Palena,Jaime Chavez Alarcon,0,Independientes,IFP
+1208,Los Lagos,10,Palena,Willy Rosas Delgado,0,Independientes,IFP
+1209,Los Lagos,10,Palena,Ricardo Soto Said,0,Unidos Por La Dignidad,DC
+1210,Los Lagos,10,Puerto Montt,Rodrigo Wainraihgt Galilea,0,Chile Vamos,RN
+1211,Los Lagos,10,Puerto Montt,Gervoy Paredes Rojas,0,Unidad Por El Apruebo,PS
+1212,Los Lagos,10,Puerto Octay,Maria Ojeda Betancourt,1,Chile Vamos,UDI
+1213,Los Lagos,10,Puerto Octay,Gerardo Gunckel Arriagada,0,Unidad Por El Apruebo,IND
+1214,Los Lagos,10,Puerto Varas,Ramon Bahamonde Cea,0,Independientes,IFP
+1215,Los Lagos,10,Puerto Varas,Victor Irribarra Villagran,0,Independientes,IFP
+1216,Los Lagos,10,Puerto Varas,Luis Becerra Vargas,0,Independientes,IFP
+1217,Los Lagos,10,Puerto Varas,Renato Aichele Horn,0,Independientes,IFP
+1218,Los Lagos,10,Puerto Varas,Tomas Garate Silva,0,Independientes,IFP
+1219,Los Lagos,10,Puerto Varas,Victor Nail Alvarado,0,Unidad Por El Apruebo,PS
+1220,Los Lagos,10,Puqueldon,Alejandro Cardenas Quezada,0,Chile Vamos,IND
+1221,Los Lagos,10,Puqueldon,Elson Carcamo Barria,0,Independientes,IFP
+1222,Los Lagos,10,Puqueldon,Rodrigo Ruiz Diaz,0,Independientes,IFP
+1223,Los Lagos,10,Puqueldon,Jose Ojeda Cardenas,0,Unidos Por La Dignidad,IND
+1224,Los Lagos,10,Purranque,Selma Silva Oyarzun,1,Chile Vamos,IND
+1225,Los Lagos,10,Purranque,Isidoro Barquin Pardo,0,Ciudadanos Independientes,IND
+1226,Los Lagos,10,Purranque,Cesar Crot Vargas,0,Unidos Por La Dignidad,DC
+1227,Los Lagos,10,Puyehue,Jimena Nuñez Morales,1,Chile Vamos,UDI
+1228,Los Lagos,10,Puyehue,Renato Uribe Manzano,0,Unidad Por El Apruebo,PS
+1229,Los Lagos,10,Queilen,Manuel Godoy Velasquez,0,Chile Vamos,UDI
+1230,Los Lagos,10,Queilen,Romelio Borquez Hidalgo,0,Independientes,IFP
+1231,Los Lagos,10,Queilen,Marcos Vargas Oyarzun,0,Unidos Por La Dignidad,DC
+1232,Los Lagos,10,Quellon,Patricio Altamirano Barrias,0,Chile Vamos,RN
+1233,Los Lagos,10,Quellon,Paula Millacura Torres,1,Independientes,IFP
+1234,Los Lagos,10,Quellon,Cristian Ojeda Chiguay,0,Unidos Por La Dignidad,DC
+1235,Los Lagos,10,Quemchi,Gustavo Lobos Marin,0,Chile Vamos,UDI
+1236,Los Lagos,10,Quemchi,Patricio Barria Alvarez,0,Independientes,IFP
+1237,Los Lagos,10,Quemchi,Luis Macias Demarchi,0,Unidad Por El Apruebo,IND
+1238,Los Lagos,10,Quinchao,Washington Ulloa Villarroel,0,Chile Vamos,UDI
+1239,Los Lagos,10,Quinchao,Rene Garces Alvarez,0,Independientes,IFP
+1240,Los Lagos,10,Quinchao,Sergio Aguero Diaz,0,Unidad Por El Apruebo,IND
+1241,Los Lagos,10,Rio Negro,Sebastian Cruzat Carcamo,0,Chile Vamos,RN
+1242,Los Lagos,10,Rio Negro,Marcos Guzman Vargas,0,Independientes,IFP
+1243,Los Lagos,10,Rio Negro,Claudio Gavilan Diaz,0,Independientes,IFP
+1244,Los Lagos,10,Rio Negro,Claudia Pailalef Montiel,1,Unidad Por El Apruebo,PS
+1245,Los Lagos,10,San Juan De La Costa,Margot Barrientos Molina,1,Independientes,IFP
+1246,Los Lagos,10,San Juan De La Costa,Prosperina Queupuan Cheuquian,1,Independientes,IFP
+1247,Los Lagos,10,San Juan De La Costa,Bernardo Candia Henriquez,0,Unidos Por La Dignidad,DC
+1248,Los Lagos,10,San Pablo,Juan Soto Caucau,0,Chile Vamos,RN
+1249,Los Lagos,10,San Pablo,Enrique Cardenas Chandia,0,Independientes,IFP
+1250,Los Lagos,10,San Pablo,Brenda Jara Sepulveda,1,Independientes,IFP
+1251,Los Lagos,10,San Pablo,Elias Huanquilen Ancatripay,0,Unidad Por El Apruebo,PS
+1252,Aysén,11,Aysen,Fernando Miranda Monsalve,0,Chile Digno Verde Y Soberano,PC
+1253,Aysén,11,Aysen,Luis Martinez Gallardo,0,Chile Vamos,UDI
+1254,Aysén,11,Aysen,Guido Jaramillo Vera,0,Independientes,IFP
+1255,Aysén,11,Aysen,Julio Uribe Alvarado,0,Unidad Por El Apruebo,IND
+1256,Aysén,11,Chile Chico,Lilian Inostroza Parra,1,Chile Vamos,UDI
+1257,Aysén,11,Chile Chico,Luperciano Muñoz Gonzalez,0,Independientes,IFP
+1258,Aysén,11,Chile Chico,Erwin Aguila Marin,0,Independientes,IFP
+1259,Aysén,11,Chile Chico,Ricardo Ibarra Valdebenito,0,Unidos Por La Dignidad,DC
+1260,Aysén,11,Cisnes,Francisco Roncagliolo Lepio,0,Chile Vamos,RN
+1261,Aysén,11,Cisnes,Sonia Vargas Parada,1,Independientes,IFP
+1262,Aysén,11,Cisnes,Gloria Cadagan Opazo,1,Unidad Por El Apruebo,IND
+1263,Aysén,11,Cochrane,Ada Figueroa Gallardo,1,Chile Vamos,RN
+1264,Aysén,11,Cochrane,Jorge Calderon Nuñez,0,Unidad Por El Apruebo,PR
+1265,Aysén,11,Coyhaique,Juan Catalan Jara,0,Chile Digno Verde Y Soberano,PC
+1266,Aysén,11,Coyhaique,Eugenio Canales Canales,0,Chile Vamos,IND
+1267,Aysén,11,Coyhaique,Carlos Gatica Villegas,0,Unidos Por La Dignidad,DC
+1268,Aysén,11,Guaitecas,Juan Barria Cardenas,0,Chile Vamos,RN
+1269,Aysén,11,Guaitecas,Anita Bello Aburto,1,Independientes,IFP
+1270,Aysén,11,Guaitecas,Victorino Saavedra Garcia,0,Independientes,IFP
+1271,Aysén,11,Guaitecas,Marcos Silva Miranda,0,Unidad Por El Apruebo,PPD
+1272,Aysén,11,Guaitecas,Victor Alvarez Heredia,0,Unidos Por La Dignidad,IND
+1273,Aysén,11,Lago Verde,Nelson Opazo Lopez,0,Chile Vamos,UDI
+1274,Aysén,11,Lago Verde,Luis Oyarzo Loncochino,0,Independientes,IFP
+1275,Aysén,11,Lago Verde,Claudia Valdes Vasquez,1,Unidad Por El Apruebo,PR
+1276,Aysén,11,O'Higgins,Roberto Recabal Carcamo,0,Chile Vamos,IND
+1277,Aysén,11,O'Higgins,Hans Silva Gomez,0,Independientes,IFP
+1278,Aysén,11,O'Higgins,Jose Fica Gomez,0,Unidos Por La Dignidad,DC
+1279,Aysén,11,Rio Ibañez,Marcelo Santana Vargas,0,Chile Vamos,UDI
+1280,Aysén,11,Rio Ibañez,Paulo Vera Fuentes,0,Independientes,IFP
+1281,Aysén,11,Tortel,Maria Cruces Chodil,1,Chile Vamos,EVO
+1282,Aysén,11,Tortel,Nelida Muñoz Vargas,1,Independientes,IFP
+1283,Aysén,11,Tortel,Abel Becerra Vidal,0,Unidad Por El Apruebo,IND
+1284,Magallanes,12,Cabo De Hornos (Ex - Navarino),Angela Barria Barrientos,1,Chile Vamos,RN
+1285,Magallanes,12,Cabo De Hornos (Ex - Navarino),Julio Flanega Palma,0,Independientes,IFP
+1286,Magallanes,12,Cabo De Hornos (Ex - Navarino),Patricio Fernandez Alarcon,0,Unidos Por La Dignidad,DC
+1287,Magallanes,12,Laguna Blanca,Nelson Caniu Colivoro,0,Chile Vamos,UDI
+1288,Magallanes,12,Laguna Blanca,Jaime Arteaga Vera,0,Independientes,IFP
+1289,Magallanes,12,Laguna Blanca,Fernando Ojeda Gonzalez,0,Unidad Por El Apruebo,PS
+1290,Magallanes,12,Natales,Ana Mayorga Bahamonde,1,Chile Vamos,UDI
+1291,Magallanes,12,Natales,Antonieta Oyarzo Alvarado,1,Independientes,IFP
+1292,Magallanes,12,Natales,Felipe Muñoz Muñoz,0,Independientes,IFP
+1293,Magallanes,12,Natales,Jose Cuyul Rogel,0,Unidad Por El Apruebo,PS
+1294,Magallanes,12,Porvenir,Andrea Cuevas Cardenas,1,Chile Vamos,IND
+1295,Magallanes,12,Porvenir,Mario Carcamo Norambuena,0,Independientes,IFP
+1296,Magallanes,12,Porvenir,Jose Parada Aguilar,0,Independientes,IFP
+1297,Magallanes,12,Porvenir,Marisol Andrade Cardenas,1,Unidos Por La Dignidad,DC
+1298,Magallanes,12,Primavera,Juan Vergara Garay,0,Chile Vamos,IND
+1299,Magallanes,12,Primavera,Pablo Tascon España,0,Independientes,IFP
+1300,Magallanes,12,Primavera,Blagomir Brztilo Avendaño,0,Unidos Por La Dignidad,DC
+1301,Magallanes,12,Punta Arenas,Claudio Radonich Jimenez,0,Chile Vamos,RN
+1302,Magallanes,12,Punta Arenas,Arturo Diaz Valderrama,0,Frente Amplio,IND
+1303,Magallanes,12,Punta Arenas,Luis Legaza Soto,0,Independientes,IFP
+1304,Magallanes,12,Rio Verde,Sabina Ballesteros Vargas,1,Chile Vamos,UDI
+1305,Magallanes,12,Rio Verde,Ljubica Drpic Ivelich,1,Independientes,IFP
+1306,Magallanes,12,San Gregorio,Edgar Carcamo Alderete,0,Chile Vamos,IND
+1307,Magallanes,12,San Gregorio,Jeannette Andrade Ruiz,1,Unidos Por La Dignidad,DC
+1308,Magallanes,12,Timaukel,Marcos Martic Haros,0,Chile Vamos,RN
+1309,Magallanes,12,Timaukel,Luis Barria Andrade,0,Independientes,IFP
+1310,Magallanes,12,Torres Del Paine,Roberto Cardenas Silva,0,Chile Vamos,IND
+1311,Magallanes,12,Torres Del Paine,Anahi Cardenas Rodriguez,1,Independientes,IFP
+1312,Magallanes,12,Torres Del Paine,Juan Barria Bahamonde,0,Unidad Por El Apruebo,PS
+1313,Araucanía,22,Angol,Enrique Neira Neira,0,Chile Vamos,IND
+1314,Araucanía,22,Angol,Sergio Paredes Montoya,0,Independientes,IFP
+1315,Araucanía,22,Angol,Rolando Garces Nuñez,0,Independientes,IFP
+1316,Araucanía,22,Angol,Americo Lantaño Muñoz,0,Independientes,IFP
+1317,Araucanía,22,Angol,Obdulio Valdebenito Burgos,0,Independientes,IFP
+1318,Araucanía,22,Angol,Eduardo Contreras Diaz,0,Unidad Por El Apruebo,PR
+1319,Araucanía,22,Carahue,Gerson Cayuqueo Riquelme,0,Chile Digno Verde Y Soberano,FRVS
+1320,Araucanía,22,Carahue,Alejandro Saez Veliz,0,Chile Vamos,UDI
+1321,Araucanía,22,Carahue,Samir Manukian Zuñiga,0,Independientes,IFP
+1322,Araucanía,22,Carahue,Pedro Vera Paredes,0,Unidad Por El Apruebo,PPD
+1323,Araucanía,22,Cholchol,Silvia Aniñir Curivil,1,Chile Vamos,UDI
+1324,Araucanía,22,Cholchol,Luis Huirilef Barra,0,Independientes,IFP
+1325,Araucanía,22,Cholchol,Veronica Salas Carrasco,1,Independientes,IFP
+1326,Araucanía,22,Cholchol,Luis Huenchuleo Gallegos,0,Independientes,IFP
+1327,Araucanía,22,Cholchol,Manuel Levio Acuña,0,Unidad Por El Apruebo,PPD
+1328,Araucanía,22,Collipulli,Manuel Macaya Ramirez,0,Chile Vamos,IND
+1329,Araucanía,22,Collipulli,Francisco Quiduleo Cabrera,0,Independientes,IFP
+1330,Araucanía,22,Collipulli,Alejandra Malian Collio,1,Independientes,IFP
+1331,Araucanía,22,Collipulli,Ema Vidal Diaz,1,Republicanos,PREP
+1332,Araucanía,22,Collipulli,Leopoldo Rosales Neira,0,Unidad Por El Apruebo,PS
+1333,Araucanía,22,Cunco,Carlos Ocampo Herrera,0,Independientes,IFP
+1334,Araucanía,22,Cunco,Alfonso Coke Candia,0,Independientes,IFP
+1335,Araucanía,22,Cunco,Rodrigo Pacheco Burgos,0,Unidad Por El Apruebo,PPD
+1336,Araucanía,22,Curacautin,David Sandoval Beroiza,0,Chile Vamos,RN
+1337,Araucanía,22,Curacautin,Victor Barrera Barrera,0,Independientes,IFP
+1338,Araucanía,22,Curacautin,Gabriela Maldonado Bastias,1,Independientes,IFP
+1339,Araucanía,22,Curacautin,Alejandra Aqueveque Guerrero,1,Independientes,IFP
+1340,Araucanía,22,Curacautin,Anibal Carrillo Huaiquilaf,0,Unidos Por La Dignidad,IND
+1341,Araucanía,22,Curarrehue,Hector Carrasco Ruiz,0,Chile Vamos,RN
+1342,Araucanía,22,Curarrehue,Gaston Arriagada Sierra,0,Ecologistas E Independientes,PEV
+1343,Araucanía,22,Curarrehue,Abel Painefilo Barriga,0,Unidad Por El Apruebo,PPD
+1344,Araucanía,22,Ercilla,Fredy Avello Perez,0,Chile Vamos,IND
+1345,Araucanía,22,Ercilla,Luis Orellana Rocha,0,Independientes,IFP
+1346,Araucanía,22,Ercilla,Rode Obreque Villegas,0,Independientes,IFP
+1347,Araucanía,22,Ercilla,Herbert Paredes Toledo,0,Independientes,IFP
+1348,Araucanía,22,Ercilla,Valentin Vidal Hernandez,0,Unidos Por La Dignidad,IND
+1349,Araucanía,22,Freire,Jose Bravo Burgos,0,Chile Vamos,RN
+1350,Araucanía,22,Freire,Erwin Orellana Saez,0,Independientes,IFP
+1351,Araucanía,22,Freire,Dilon Alvarez Moran,0,Independientes,IFP
+1352,Araucanía,22,Freire,Pilar Lagos Retamal,1,Independientes,IFP
+1353,Araucanía,22,Freire,Luis Arias Lopez,0,Unidos Por La Dignidad,DC
+1354,Araucanía,22,Galvarino,Segundo Millalen Paillal,0,Chile Digno Verde Y Soberano,IND
+1355,Araucanía,22,Galvarino,Hans Gonzalez Espinoza,0,Chile Vamos,RN
+1356,Araucanía,22,Galvarino,Marcos Hernandez Rojas,0,Unidos Por La Dignidad,IND
+1357,Araucanía,22,Gorbea,Guido Siegmund Gonzalez,0,Chile Vamos,UDI
+1358,Araucanía,22,Gorbea,Gerardo Rodriguez Hidalgo,0,Independientes,IFP
+1359,Araucanía,22,Gorbea,Jorge Romero Martinez,0,Unidos Por La Dignidad,DC
+1360,Araucanía,22,Lautaro,Fernando Garrido Mera,0,Chile Vamos,RN
+1361,Araucanía,22,Lautaro,Guillermo Jaramillo Salazar,0,Dignidad Ahora,IND
+1362,Araucanía,22,Lautaro,Raul Schifferli Diaz,0,Unidos Por La Dignidad,IND
+1363,Araucanía,22,Loncoche,Julia Cares Pineda,1,Independientes,IFP
+1364,Araucanía,22,Loncoche,Sandra Granzotto Mardones,1,Independientes,IFP
+1365,Araucanía,22,Loncoche,Alexis Pineda Ruiz,0,Independientes,IFP
+1366,Araucanía,22,Loncoche,Nelson Fuentes Acuña,0,Independientes,IFP
+1367,Araucanía,22,Loncoche,Alberto Velasquez Castro,0,Independientes,IFP
+1368,Araucanía,22,Lonquimay,Jose Barria Oyarzun,0,Chile Vamos,IND
+1369,Araucanía,22,Lonquimay,Evaristo Curical Ñanco,0,Independientes,IFP
+1370,Araucanía,22,Lonquimay,Jorge Aroca Meliñir,0,Independientes,IFP
+1371,Araucanía,22,Lonquimay,Nibaldo Alegria Alegria,0,Unidos Por La Dignidad,IND
+1372,Araucanía,22,Los Sauces,Gaston Mella Arzola,0,Chile Vamos,UDI
+1373,Araucanía,22,Los Sauces,Pablo Rodriguez Castillo,0,Independientes,IFP
+1374,Araucanía,22,Los Sauces,Victor Gonzalez Rodriguez,0,Independientes,IFP
+1375,Araucanía,22,Los Sauces,Valeska Sanhueza Cid,1,Unidos Por La Dignidad,IND
+1376,Araucanía,22,Lumaco,Claudio Molina Nahuelpi,0,Chile Digno Verde Y Soberano,PC
+1377,Araucanía,22,Lumaco,Richard Leonelli Contreras,0,Chile Vamos,IND
+1378,Araucanía,22,Lumaco,Evans Curin Huenchuñir,0,Independientes,IFP
+1379,Araucanía,22,Lumaco,Irenia Quintana Gonzalez,1,Unidad Por El Apruebo,PS
+1380,Araucanía,22,Melipeuco,Eduardo Navarrete Fuentes,0,Chile Vamos,UDI
+1381,Araucanía,22,Melipeuco,Miguel Cerda Vetter,0,Independientes,IFP
+1382,Araucanía,22,Melipeuco,Carlos Sepulveda Molina,0,Independientes,IFP
+1383,Araucanía,22,Melipeuco,Alejandro Cuminao Barros,0,Unidad Por El Apruebo,IND
+1384,Araucanía,22,Nueva Imperial,Gregoriana Cayuqueo Trarupil,1,Chile Digno Verde Y Soberano,IND
+1385,Araucanía,22,Nueva Imperial,Marisol Muñoz Canobi,1,Chile Vamos,UDI
+1386,Araucanía,22,Nueva Imperial,Paola Aguilera Torres,1,Independientes,IFP
+1387,Araucanía,22,Nueva Imperial,Miguel Suarez Molina,0,Independientes,IFP
+1388,Araucanía,22,Nueva Imperial,Rodrigo Pacheco Aguilera,0,Independientes,IFP
+1389,Araucanía,22,Nueva Imperial,Claudia Lecerf Henriquez,1,Independientes,IFP
+1390,Araucanía,22,Nueva Imperial,Cesar Sepulveda Huerta,0,Unidos Por La Dignidad,DC
+1391,Araucanía,22,Padre Las Casas,Roberto Meliqueo Diego,0,Chile Digno Verde Y Soberano,FRVS
+1392,Araucanía,22,Padre Las Casas,Raul Henriquez Burgos,0,Chile Vamos,RN
+1393,Araucanía,22,Padre Las Casas,David Espinoza Salamanca,0,Dignidad Ahora,PI
+1394,Araucanía,22,Padre Las Casas,Mario Gonzalez Rebolledo,0,Independientes,IFP
+1395,Araucanía,22,Padre Las Casas,Alex Henriquez Araneda,0,Independientes,IFP
+1396,Araucanía,22,Padre Las Casas,Gustavo Satarain Valenzuela,0,Independientes Cristianos,PCC
+1397,Araucanía,22,Padre Las Casas,Eduardo Vicencio Salgado,0,Unidos Por La Dignidad,DC
+1398,Araucanía,22,Perquenco,Ricardo Green Rivera,0,Independientes,IFP
+1399,Araucanía,22,Perquenco,Domingo Nahuelcura Antilao,0,Independientes,IFP
+1400,Araucanía,22,Perquenco,Luis Escobar Gallardo,0,Independientes,IFP
+1401,Araucanía,22,Perquenco,Alejandro Sepulveda Tapia,0,Unidad Por El Apruebo,PPD
+1402,Araucanía,22,Pitrufquen,Jacqueline Romero Inzunza,1,Chile Vamos,RN
+1403,Araucanía,22,Pitrufquen,Humberto Catalan Candia,0,Independientes,IFP
+1404,Araucanía,22,Pitrufquen,Jorge Jaramillo Hott,0,Unidad Por El Apruebo,PPD
+1405,Araucanía,22,Pucon,Carlos Barra Matamala,0,Chile Vamos,RN
+1406,Araucanía,22,Pucon,Edita Mansilla Barria,1,Independientes,IFP
+1407,Araucanía,22,Pucon,Mario Peñafiel Espinoza,0,Independientes,IFP
+1408,Araucanía,22,Pucon,Blanca Beraud Fernandez,1,Unidos Por La Dignidad,DC
+1409,Araucanía,22,Puren,Juan Alonso Levio,0,Chile Vamos,RN
+1410,Araucanía,22,Puren,Benigno Quiñones Lara,0,Independientes,IFP
+1411,Araucanía,22,Puren,Renato Alarcon Boisier,0,Independientes,IFP
+1412,Araucanía,22,Puren,Sandra Valderrama Beltran,1,Independientes,IFP
+1413,Araucanía,22,Puren,Pedro Orellana Molina,0,Independientes,IFP
+1414,Araucanía,22,Puren,Jorge Rivera Leal,0,Unidad Por El Apruebo,PPD
+1415,Araucanía,22,Renaico,Marcelo Veloso Aguilar,0,Chile Vamos,RN
+1416,Araucanía,22,Renaico,Antonio Jimenez Gatica,0,Independientes,IFP
+1417,Araucanía,22,Renaico,Juan Reinao Marilao,0,Independientes,IFP
+1418,Araucanía,22,Renaico,Patricio Belmar Fuentes,0,Independientes,IFP
+1419,Araucanía,22,Saavedra,Juan Paillafil Calfulen,0,Independientes,IFP
+1420,Araucanía,22,Saavedra,Ricardo Tripainao Calfulaf,0,Unidad Por El Apruebo,PPD
+1421,Araucanía,22,Temuco,Miguel Cortes Ibarra,0,Chile Digno Verde Y Soberano,IND
+1422,Araucanía,22,Temuco,Daniel Mc Lachlan,0,Chile Vamos,IND
+1423,Araucanía,22,Temuco,Jessica Mendez Canaves,1,Ecologistas E Independientes,PEV
+1424,Araucanía,22,Temuco,Felipe Valdebenito Leiva,0,Independientes,IFP
+1425,Araucanía,22,Temuco,Roberto Neira Aburto,0,Unidad Por El Apruebo,PPD
+1426,Araucanía,22,Teodoro Schmidt,Baldomero Santos Vidal,0,Chile Vamos,UDI
+1427,Araucanía,22,Teodoro Schmidt,Irenio Montecinos Henriquez,0,Independientes,IFP
+1428,Araucanía,22,Teodoro Schmidt,Patricia Iturra Apablaza,1,Independientes,IFP
+1429,Araucanía,22,Teodoro Schmidt,Alfredo Riquelme Arriagada,0,Unidad Por El Apruebo,PPD
+1430,Araucanía,22,Tolten,Guillermo Martinez Soto,0,Chile Vamos,UDI
+1431,Araucanía,22,Tolten,Jose Ormeño Troncoso,0,Ecologistas E Independientes,IND
+1432,Araucanía,22,Tolten,Sandra Alfaro Chavez,1,Unidos Por La Dignidad,PRO
+1433,Araucanía,22,Traiguén,Luis Alvarez Valenzuela,0,Chile Vamos,IND
+1434,Araucanía,22,Traiguén,Ricardo Sanhueza Pirce,0,Unidad Por El Apruebo,IND
+1435,Araucanía,22,Victoria,Hugo Monsalves Castillo,0,Chile Vamos,IND
+1436,Araucanía,22,Victoria,Javier Jaramillo Soto,0,Independientes,IFP
+1437,Araucanía,22,Victoria,Ariel Guzman Iturra,0,Independientes,IFP
+1438,Araucanía,22,Victoria,Jorge Saffirio Espinoza,0,Unidos Por La Dignidad,DC
+1439,Araucanía,22,Vilcún,Katherinne Migueles Muñoz,1,Chile Vamos,RN
+1440,Araucanía,22,Vilcún,Luis Figueroa Huecho,0,Independientes,IFP
+1441,Araucanía,22,Vilcún,Susana Aguilera Vega,1,Unidad Por El Apruebo,PPD
+1442,Araucanía,22,Villarrica,Manuel Ansaldo Hill,0,Chile Digno Verde Y Soberano,IND
+1443,Araucanía,22,Villarrica,Ronal Seiffert Aguilera,0,Chile Vamos,RN
+1444,Araucanía,22,Villarrica,Ruben Esparza Jara,0,Ciudadanos Independientes,PNC
+1445,Araucanía,22,Villarrica,German Vergara Lagos,0,Independientes,IFP
+1446,Araucanía,22,Villarrica,Alejandra Aillapan Huiriqueo,1,Independientes,IFP
+1447,Araucanía,22,Villarrica,Ingrid Prambs Klocker,1,Unidos Por La Dignidad,DC
