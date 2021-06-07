@@ -1,0 +1,156 @@
+﻿id,región,distrito,nombre,partido
+1,Arica,1,Vlado Mirosevic,PL
+2,Arica,1,Nino Baltolú,UDI
+3,Arica,1,Luis Rocafull,PS
+4,Tarapacá,2,Renzo Trisotti,UDI
+5,Tarapacá,2,Ramón Galleguillos,RN
+6,Tarapacá,2,Rubén Moraga*,PC
+7,Antofagasta,3,Paulina Núñez,RN
+8,Antofagasta,3,Marcela Hernando,PR
+9,Antofagasta,3,Esteban Velásquez,FRVS
+10,Antofagasta,3,Catalina Pérez,RD
+11,Antofagasta,3,José Miguel Castro,RN
+12,Atacama,4,Daniella Cicardini,PS
+13,Atacama,4,Sofía Cid,RN
+14,Atacama,4,Jaime Mulet,FRVS
+15,Atacama,4,Juan Rubén Santana,PS
+16,Atacama,4,Nicolás Noman,UDI
+17,Coquimbo,5,Sergio Gahona,UDI
+18,Coquimbo,5,Pedro Velasquez,FRVS
+19,Coquimbo,5,Matias Walker,DC
+20,Coquimbo,5,Daniel Núñez,PC
+21,Coquimbo,5,Francisco Eguiguren,RN
+22,Coquimbo,5,Raúl Saldívar,PS
+23,Coquimbo,5,Juan Manuel Fuenzalida,UDI
+24,Valparaíso,6,Andrés Longton,RN
+25,Valparaíso,6,Pablo Kast,EVO
+26,Valparaíso,6,Marcelo Schilling,PS
+27,Valparaíso,6,Luis Pardo,RN
+28,Valparaíso,6,Camila Flores,RN
+29,Valparaíso,6,Carolina Marzán,PPD
+30,Valparaíso,6,Daniel Verdessi,DC
+31,Valparaíso,6,Diego Ibañez,PH
+32,Valparaíso,7,Maria José Hoffmann,UDI
+33,Valparaíso,7,Andrés Celis,RN
+34,Valparaíso,7,Osvaldo Urrutia,UDI
+35,Valparaíso,7,Rodrigo González,PPD
+36,Valparaíso,7,Marcelo Díaz,PS
+37,Valparaíso,7,Víctor Torres,DC
+38,Valparaíso,7,Camila Rojas,PI
+39,Valparaíso,7,Jorge Brito,RD
+40,Metropolitana,8,Joaquín Lavín,UDI
+41,Metropolitana,8,Gabriel Silber,DC
+42,Metropolitana,8,Pepe Auth,PR
+43,Metropolitana,8,Cristián Labbé*,UDI
+44,Metropolitana,8,Claudia Mix,PODER
+45,Metropolitana,8,Camilo Morán*,RN
+46,Metropolitana,8,Carmen Hertz,PC
+47,Metropolitana,8,Pablo Vidal,RD
+48,Metropolitana,9,Karol Cariola,PC
+49,Metropolitana,9,Erika Olivera,RN
+50,Metropolitana,9,Sebastián Keitel,EVO
+51,Metropolitana,9,Maite Orsini,RD
+52,Metropolitana,9,Jorge Durán,RN
+53,Metropolitana,9,Cristina Girardi,PPD
+54,Metropolitana,9,Boris Barrera,PC
+55,Metropolitana,10,Giorgio Jackson,RD
+56,Metropolitana,10,Tomás Fuentes*,RN
+57,Metropolitana,10,Luciano Cruz-Coke,EVO
+58,Metropolitana,10,Jorge Alessandri,UDI
+59,Metropolitana,10,Maya Fernández,PS
+60,Metropolitana,10,Sebastián Torrealba,RN
+61,Metropolitana,10,Gonzalo Winter,RD
+62,Metropolitana,10,Natalia Castillo,RD
+63,Metropolitana,11,Gonzalo Fuenzalida,RN
+64,Metropolitana,11,Francisco Undurraga,EVO
+65,Metropolitana,11,Catalina Del Real,RN
+66,Metropolitana,11,Guillermo Ramírez,UDI
+67,Metropolitana,11,Tomás Hirsch,PH
+68,Metropolitana,11,Karin Luck,RN
+69,Metropolitana,12,Ximena Ossandón,RN
+70,Metropolitana,12,Camila Vallejo,PC
+71,Metropolitana,12,Pamela Jiles,PH
+72,Metropolitana,12,Leopoldo Pérez,RN
+73,Metropolitana,12,Álvaro Carter,UDI
+74,Metropolitana,12,Miguel Crispi,RD
+75,Metropolitana,12,Amaro Labra,PC
+76,Metropolitana,13,Guillermo Teillier del,PC
+77,Metropolitana,13,Tucapel Jiménez,PPD
+78,Metropolitana,13,Eduardo Durán,RN
+79,Metropolitana,13,Cristián Moreira,UDI
+80,Metropolitana,13,Gael Yeomans,RD
+81,Metropolitana,14,Raúl Leiva,PS
+82,Metropolitana,14,Marisela Santibáñez,PRO
+83,Metropolitana,14,Juan Antonio Coloma,UDI
+84,Metropolitana,14,Nora Cuevas*,UDI
+85,Metropolitana,14,Leonardo Soto,PS
+86,Metropolitana,14,Marcela Sandoval*,RD
+87,O' Higgins,15,Javier Macaya,UDI
+88,O' Higgins,15,Diego Schalper,RN
+89,O' Higgins,15,Juan Luis Castro,PS
+90,O' Higgins,15,Isaa Kort,UDI
+91,O' Higgins,15,Raúl Soto,DC
+92,O' Higgins,16,Alejandra Sepúlveda,FRVS
+93,O' Higgins,16,Ramón Barros,UDI
+94,O' Higgins,16,Cosme Mellado,PR
+95,O' Higgins,16,Virginia Troncoso,UDI
+96,Maule,17,Celso Morales,UDI
+97,Maule,17,Pedro Alvarez-Salamanca,UDI
+98,Maule,17,Hugo Rey,RN
+99,Maule,17,Pablo Lorenzini,DC
+100,Maule,17,Alexis Sepúlveda,PR
+101,Maule,17,Pablo Prieto,RN
+102,Maule,17,Raúl Florcita Alarcón,PH
+103,Maule,18,Ignacio Urrutia,UDI
+104,Maule,18,Rolando Rentería,UDI
+105,Maule,18,Jaime Naranjo,PS
+106,Maule,18,Manuel Matta,DC
+107,Ñuble,19,Jorge Sabag,DC
+108,Ñuble,19,Frank Sauerbaum,RN
+109,Ñuble,19,Gustavo Sanhueza,UDI
+110,Ñuble,19,Carlos Abel Jarpa,PR
+111,Ñuble,19,Patricia Rubio,PPD
+112,Biobío,20,Gastón Saavedra,PS
+113,Biobío,20,José Miguel Ortiz,DC
+114,Biobío,20,Enrique Van Rysselberghe,UDI
+115,Biobío,20,Francesca Muñoz,RN
+116,Biobío,20,Sergio Bobadilla,UDI
+117,Biobío,20,Félix González,PEV
+118,Biobío,20,Laonidas Romero,RN
+119,Biobío,20,Jaime Tohá,PS
+120,Biobío,21,Iván Norambuena,UDI
+121,Biobío,21,José Pérez,PR
+122,Biobío,21,Cristobal Urruticoechea,RN
+123,Biobío,21,Manuel Monsalve,PS
+124,Biobío,21,Joanna Pérez,DC
+125,Araucanía,22,Diego Paulsen,RN
+126,Araucanía,22,Jorge Rathgeb,RN
+127,Araucanía,22,Mario Venegas,DC
+128,Araucanía,22,Andrea Parra,PPD
+129,Araucanía,23,Rene Saffirio,IND
+130,Araucanía,23,Andrés Molina,EVO
+131,Araucanía,23,René Manuel García,RN
+132,Araucanía,23,Ricardo Celis,PPD
+133,Araucanía,23,Miguel Mellado,RN
+134,Araucanía,23,Fernando Meza,PR
+135,Araucanía,23,Sebastían Álvarez,EVO
+136,Los Ríos,24,Bernardo Berger,RN
+137,Los Ríos,24,Marcos Ilabaca,PS
+138,Los Ríos,24,Patricio Rosas,PS
+139,Los Ríos,24,Iván Flores,DC
+140,Los Ríos,24,Gastón Von Muhlenbrock,UDI
+141,Los Lagos,25,Fidel Espinoza,PS
+142,Los Lagos,25,Harry Jurgensen,RN
+143,Los Lagos,25,Javier Hernández,UDI
+144,Los Lagos,25,Emilia Nuyado,PS
+145,Los Lagos,26,Alejandro Santana,RN
+146,Los Lagos,26,Carlos Ignacio Kuschel,RN
+147,Los Lagos,26,Jenny Álvarez,PS
+148,Los Lagos,26,Gabriel Ascencio,DC
+149,Los Lagos,26,Alejandro Bernales,PL
+150,Aysén,27,Miguel Calisto,DC
+151,Aysén,27,Aracely Leuquén,RN
+152,Aysén,27,Rene Alinco,PPD
+153,Magallanes,28,Gabriel Boric,PH
+154,Magallanes,28,Sandra Amar,UDI
+155,Magallanes,28,Karim Bianchi,IND

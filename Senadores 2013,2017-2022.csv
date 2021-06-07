@@ -1,0 +1,44 @@
+﻿id,región,circunscripción,nombre,partido
+1,Arica,1,José Durana,UDI
+2,Arica,1,José Miguel Insulza,PS
+3,Tarapacá,2,Jorge Soria,PPD
+4,Tarapacá,2,Luz Ebensperger,UDI
+5,Antofagasta,3,Alejandro Guillier,IND
+6,Antofagasta,3,Pedro Araya,IND
+7,Atacama,4,Rafael Prohens,RN
+8,Atacama,4,Yasna Provoste,DC
+9,Coquimbo,5,Adriana Muñoz,PPD
+10,Coquimbo,5,Jorge Pizarro,DC
+11,Valparaíso,6,Francisco Chahuan,RN
+12,Valparaíso,6,Isabel Allende,PS
+13,Valparaíso,6,Juan Ignacio Latorre,RD
+14,Valparaíso,6,Kenneth Pugh,IND
+15,Valparaíso,6,Ricardo Lagos,PPD
+16,Metropolitana,7,Guido Girardi,PPD
+17,Metropolitana,7,Marcela Sabat*,RN
+18,Metropolitana,7,Carlos Montes,PS
+19,Metropolitana,7,Manuel José Ossandón,RN
+20,O´Higgins,8,Alejandro García-Huidobro,UDI
+21,O´Higgins,8,Juan Pablo Letelier,PS
+22,Maule,9,Álvaro Elizalde,PS
+23,Maule,9,Juan Antonio Coloma,UDI
+24,Maule,9,Juan Castro,IND
+25,Maule,9,Rodrigo Galilea,RN
+26,Maule,9,Ximena Rincón,DC
+27,Biobío,10,Alejandro Navarro,MAS
+28,Biobío,10,Jacqueline Van Rysselberghe,UDI
+29,Araucanía,11,Carmen Aravena,EVO
+30,Araucanía,11,Felipe Kast,EVO
+31,Araucanía,11,Francisco Huenchumilla,DC
+32,Araucanía,11,Jaime Quintana,PPD
+33,Araucanía,11,José García,RN
+34,Los Ríos,12,Alfonso De Urresti,PS
+35,Los Ríos,12,Ena Von Baer,UDI
+36,Los Lagos,13,Iván Moreira,UDI
+37,Los Lagos,13,Rabindranath Quinteros,PS
+38,Aysén,14,David Sandoval,UDI
+39,Aysén,14,Ximena Órdenes,PPD
+40,Magallanes,15,Carlos Bianchi,IND
+41,Magallanes,15,Carolina Goic,DC
+42,Ñuble,16,Claudio Alvarado*,UDI
+43,Ñuble,16,Loreto Carvajal*,PPD
