@@ -1,0 +1,50 @@
+﻿id,nombre,partido,entrada,salida,reemplazo,partido
+1,Hugo Gutiérrez,PC,Diputado,Convencional,Rubén Moraga,PC
+2,Patricio Melero,UDI,Diputado,Min. Trabajo,Cristián Labbé,UDI
+3,Mario Desbordes,RN,Diputado,Min. Defensa,Camilo Morán,RN
+4,Marcela Sabat,RN,Diputado,Senado,Tomás Fuentes,RN
+5,Jaime Bellolio,UDI,Diputado,Min. SEGEGOB,Nora Cuevas,UDI
+6,Renato Garín,IND,Diputado,Convencional,Marcela Sandoval,RD
+7,Loreto Carvajal,PPD,Diputado,Senado,Patricia Rubio,PPD
+8,Andrés Allamand,RN,Senado,Min. RR.EE,Marcela Sabat,RN
+9,Felipe Harboe,PPD,Senado,Convencional,Loreto Carvajal,PPD
+10,Víctor Pérez,UDI,Senado,Min. Interior,Claudio Alvarado,UDI
+11,Antonio Walker,IND,Min. Agricultura,Convencional,Maria E. Undurraga,EVO
+12,Felipe Ward,UDI,Min. Bienes Nacionales,Min. SEGPRES,Julio Isamit,IND
+13,Alejandra Pérez,IND,Min. Cultura,,Mauricio Rojas,IND
+14,Mauricio Rojas,IND,Min. Cultura,,Consuelo Valdés,IND
+15,Alberto Espina,RN,Min. Defensa,,Mario Debordes,RN
+16,Mario Desbordes,RN,Min. Defensa,Presidencial,Baldo Prokurica,RN
+17,Pauline Kantor,EVO,Min. Deporte,Convencional,Cecilia Pérez,RN
+18,Alfredo Moreno,IND,Min. Desarrollo Social,Min. Obras Públicas,Sebastián Sichel,IND
+19,Sebastián Sichel,IND,Min. Desarrollo Social,Pres. Banco Estado,Cristián Monckeberg,RN
+20,Cristián Monckeberg,RN,Min. Desarrollo Social,Min. SEGPRES,Karla Rubilar,IND
+21,Gerardo Varela,IND,Min. Educación,,Marcela Cubillos,IND
+22,Marcela Cubillos,IND,Min. Educación,Convencional,Raúl Figueroa,IND
+23,Susana Jiménez,IND,Min. Energía,,Juan Carlos Jobet,RN
+24,Felipe Larraín,IND,Min. Hacienda,,Ignacio Briones,EVO
+25,Ignacio Briones,EVO,Min. Hacienda,Presidencial,Rodrigo Cerda,IND
+26,Andrés Chadwick,UDI,Min. Interior,,Gonzalo Blumel,EVO
+27,Gonzalo Blumel,EVO,Min. Interior,Min. SEGPRES,Víctor Pérez,UDI
+28,Víctor Pérez,UDI,Min. Interior,,Rodrigo Delgado,UDI
+29,Marcela Cubillos,IND,Min. Medioambiente,Min. Educación,Carolina Schmidt,IND
+30,Baldo Prokurica,RN,Min. Minería,Min. Defensa,Juan Carlos Jobet,RN
+31,José Valente,IND,Min. Economía,,Juan A. Fontaine,IND
+32,Juan A. Fontaine,IND,Min. Economía,,Lucas Palacios,UDI
+33,Isabel Plá,UDI,Min. Mujer,,Carolina Cuevas,RN
+34,Carolina Cuevas,RN,Min. Mujer,,Macarena Santelices,UDI
+35,Macarena Santelices,UDI,Min. Mujer,,Mónica Zalaquett,UDI
+36,Juan A. Fontaine,IND,Min. Obras Públicas,Min. Economía,Alfredo Moreno,IND
+37,Roberto Ampuero,IND,Min. RR.EE,,Teodoro Ribera,RN
+38,Teodoro Ribera,RN,Min. RR.EE,,Andrés Allamand,RN
+39,Emilio Santelices,IND,Min. Salud,,Jaime Mañalich,IND
+40,Jaime Mañalich,IND,Min. Salud,,Enrique Paris,IND
+41,Cecilia Pérez,IND,Min. SEGEGOB,Min. Deporte,Karla Rubilar,IND
+42,Karla Rubilar,IND,Min. SEGEGOB,Min. Desarrollo Social,Jaime Bellolio,UDI
+43,Gonzalo Blumel,EVO,Min. SEGPRES,Min. Interior,Felipe Ward,UDI
+44,Felipe Ward,UDI,Min. SEGPRES,Min. Vivienda,Claudio Alvarado,UDI
+45,Claudio Alvarado,UDI,Min. SEGPRES,Senado,Cristián Monckeberg,RN
+46,Cristián Monckeberg,RN,Min. SEGPRES,Convencional,Juan José Ossa,RN
+47,Nicolás Monckeberg,RN,Min. Trabajo,Embajador,María J. Zaldívar,IND
+48,María J. Zaldívar,IND,Min. Trabajo,,Patricio Melero,UDI
+49,Cristián Monckeberg,RN,Min. Vivienda,Min. Desarrollo Social,Felipe Ward,UDI
