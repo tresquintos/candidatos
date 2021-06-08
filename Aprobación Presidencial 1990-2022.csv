@@ -1,32 +1,46 @@
-﻿id,año,presidente,partido,NET_Smoothed
-1,1990,Patricio Aylwin,DC,42.17
-2,1991,Patricio Aylwin,DC,38.33
-3,1992,Patricio Aylwin,DC,31.26
-4,1993,Patricio Aylwin,DC,29.68
-5,1994,Eduardo Frei,DC,34.18
-6,1995,Eduardo Frei,DC,23.95
-7,1996,Eduardo Frei,DC,14.79
-8,1997,Eduardo Frei,DC,8.70
-9,1998,Eduardo Frei,DC,5.90
-10,1999,Eduardo Frei,DC,-2.19
-11,2000,Ricardo Lagos,PPD,9.44
-12,2001,Ricardo Lagos,PPD,5.38
-13,2002,Ricardo Lagos,PPD,5.67
-14,2003,Ricardo Lagos,PPD,8.30
-15,2004,Ricardo Lagos,PPD,17.62
-16,2005,Ricardo Lagos,PPD,23.07
-17,2006,Michelle Bachelet,PS,19.38
-18,2007,Michelle Bachelet,PS,6.15
-19,2008,Michelle Bachelet,PS,3.62
-20,2009,Michelle Bachelet,PS,23.64
-21,2010,Sebastián Piñera,IND,14.24
-22,2011,Sebastián Piñera,IND,-11.68
-23,2012,Sebastián Piñera,IND,-20.16
-24,2013,Sebastián Piñera,IND,-19.59
-25,2014,Michelle Bachelet,PS,-7.38
-26,2015,Michelle Bachelet,PS,-17.38
-27,2016,Michelle Bachelet,PS,-29.43
-28,2017,Michelle Bachelet,PS,-28.85
-29,2018,Sebastián Piñera,IND,-10.86
-30,2019,Sebastián Piñera,IND,-8.22
-31,2020,Sebastián Piñera,IND,15.00
+﻿fecha,encuesta,n,presidente,aprueba,desaprueba
+04-01-2021,Data Influye,1.568,Sebastián Piñera,11.00,74.00
+05-01-2021,Criteria Research,1.550,Sebastián Piñera,15.00,77.00
+08-01-2021,Cadem,703,Sebastián Piñera,18.00,69.00
+15-01-2021,Activa Research,1.003,Sebastián Piñera,13.90,74.50
+15-01-2021,Cadem,704,Sebastián Piñera,17.00,72.00
+22-01-2021,Cadem,710,Sebastián Piñera,19.00,71.00
+29-01-2021,Activa Research,1.041,Sebastián Piñera,12.40,73.60
+29-01-2021,Cadem,702,Sebastián Piñera,19.00,71.00
+01-02-2021,Criteria Research,1.000,Sebastián Piñera,13.00,80.00
+01-02-2021,Data Influye,1.613,Sebastián Piñera,11.00,71.00
+05-02-2021,Cadem,704,Sebastián Piñera,22.00,69.00
+12-02-2021,Activa Research,1.003,Sebastián Piñera,14.50,70.00
+12-02-2021,Cadem,705,Sebastián Piñera,23.00,66.00
+19-02-2021,Cadem,702,Sebastián Piñera,24.00,65.00
+26-02-2021,Activa Research,1.083,Sebastián Piñera,14.90,64.80
+26-02-2021,Cadem,703,Sebastián Piñera,24.00,65.00
+28-02-2021,Data Influye,1.637,Sebastián Piñera,13.00,71.00
+02-03-2021,Criteria Research,1.185,Sebastián Piñera,14.00,77.00
+05-03-2021,Cadem,705,Sebastián Piñera,20.00,70.00
+12-03-2021,Activa Research,1.235,Sebastián Piñera,10.70,78.10
+12-03-2021,Cadem,704,Sebastián Piñera,20.00,67.00
+19-03-2021,Cadem,705,Sebastián Piñera,20.00,71.00
+26-03-2021,Cadem,705,Sebastián Piñera,19.00,70.00
+29-03-2021,Activa Research,1.255,Sebastián Piñera,12.20,77.20
+29-03-2021,Data Influye,1.890,Sebastián Piñera,9.00,76.00
+30-03-2021,Criteria Research,1.641,Sebastián Piñera,13.00,80.00
+01-04-2021,Cadem,702,Sebastián Piñera,20.00,70.00
+08-04-2021,Cadem,703,Sebastián Piñera,14.00,73.00
+16-04-2021,Activa Research,1.054,Sebastián Piñera,12.40,79.10
+16-04-2021,Cadem,707,Sebastián Piñera,16.00,73.00
+22-04-2021,Cadem,701,Sebastián Piñera,9.00,82.00
+23-04-2021,CEP,1.655,Sebastián Piñera,9.00,74.00
+26-04-2021,Data Influye,2.014,Sebastián Piñera,7.00,81.00
+30-04-2021,Activa Research,1.184,Sebastián Piñera,11.90,80.70
+30-04-2021,Cadem,702,Sebastián Piñera,11.00,79.00
+03-05-2021,Criteria Research,1.592,Sebastián Piñera,11.00,83.00
+07-05-2021,Cadem,707,Sebastián Piñera,15.00,76.00
+14-05-2021,Cadem,711,Sebastián Piñera,16.00,76.00
+18-05-2021,Activa Research,1.047,Sebastián Piñera,9.80,79.10
+20-05-2021,Cadem,705,Sebastián Piñera,13.00,79.00
+28-05-2021,Activa Research,1.522,Sebastián Piñera,12.60,75.30
+28-05-2021,Cadem,708,Sebastián Piñera,17.00,73.00
+31-05-2021,Data Influye,1.365,Sebastián Piñera,10.00,76.00
+01-06-2021,Criteria Research,1.532,Sebastián Piñera,14.00,78.00
+03-06-2021,Cadem,702,Sebastián Piñera,18.00,72.00
