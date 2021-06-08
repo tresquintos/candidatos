@@ -1,27 +1,27 @@
-﻿id,año,cargo,nombre,partido,interpelador,partido,resultado
-1,2006,Min. de Educación,Martín Zilic,DC,Marcela Cubillos,UDI,Aprobada
-2,2006,Min. de Salud,María Soledad Barría,PS,Roberto Sepúlveda,RN,
-3,2007,Min. del Interior,Belisario Velasco,DC,Rodrigo Álvarez,UDI,
-4,2008,Min. SEGPRES,Francisco Vidal,PPD,Nicolás Monckeberg,RN,
-5,2008,Min. de Justicia,Carlos Maldonado,PR,Edmundo Eluchans,UDI,
-6,2009,Min. de Transportes,René Cortázar,DC,Patricio Melero,UDI,
-7,2009,Min. del Interior,Edmundo Pérez Yoma,DC,Cristián Monckeberg,RN,
-8,2010,Min. de Vivienda,Magdalena Matte,UDI,Juan Carlos Latorre,DC,Aprobada
-9,2011,Min. de Energía,Ricardo Raineri,RN,SUSPENDIDA,,
-10,2013,Min. de Salud,Jaime Mañalich,IND,Victor Torres,DC,
-11,2014,Min. de Vivienda,Paulina Saball,PPD,Joaquín Godoy,RN,
-12,2014,Min. del Interior,Rodrigo Peñailillo,PPD,Rojo Edwards,RN,
-13,2014,Min. de Educación,Nicolás Eyzaguirre,PPD,Maria José Hoffman,UDI,
-14,2015,Min. de Salud,Carmen Castillo,IND,Javier Macaya,UDI,
-15,2016,Min. de Justicia,Javiera Blanco,IND,Marcela Sabat,RN,Aprobada
-16,2017,Min. del Interior,Mario Fernandez,PPD,Juan Antonio Coloma,UDI,Aprobada
-17,2017,Min. del Trabajo,Alejandra Krauss,DC,Ernesto Silva,UDI,Aprobada
-18,2018,Min. de Salud,Emilio Santelices,IND,Marcela Hernando,PR,Aprobada
-19,2018,Min. de Justicia,Hernán Larraín,UDI,Carmén Hertz,PC,Aprobada
-20,2018,Min. del Interior,Andrés Chadwick,UDI,Emilia Nuyado,PD,Aprobada
-21,2020,Min. del Trabajo,María José Zaldívar,IND,Marcelo Díaz,IND,Aprobada
-22,2020,Min. de Salud,Jaime Mañalich,IND,Miguel Crispi,RD,Aprobada
-23,2020,Min. de Hacienda,Ignacio Briones,EVO,Marcelo Díaz,IND,Aprobada
-24,2020,Min. del Medioambiente,Carolina Schmidt,IND,Félix González,PEV,Aprobada
-25,2020,Min. de la Mujer,Isabel Plá,UDI,Camila Rojas,COM,
-26,2020,Min. De Defensa,Baldo Prokurica,RN,Jorge Brito,RD,
+﻿id,año,cargo,nombre,partido,resultado
+1,2006,Min. de Educación,Martín Zilic,DC,Aprobada
+2,2006,Min. de Salud,María Soledad Barría,PS,
+3,2007,Min. del Interior,Belisario Velasco,DC,
+4,2008,Min. SEGPRES,Francisco Vidal,PPD,
+5,2008,Min. de Justicia,Carlos Maldonado,PR,
+6,2009,Min. de Transportes,René Cortázar,DC,
+7,2009,Min. del Interior,Edmundo Pérez Yoma,DC,
+8,2010,Min. de Vivienda,Magdalena Matte,UDI,Aprobada
+9,2011,Min. de Energía,Ricardo Raineri,RN,
+10,2013,Min. de Salud,Jaime Mañalich,IND,
+11,2014,Min. de Vivienda,Paulina Saball,PPD,
+12,2014,Min. del Interior,Rodrigo Peñailillo,PPD,
+13,2014,Min. de Educación,Nicolás Eyzaguirre,PPD,
+14,2015,Min. de Salud,Carmen Castillo,IND,
+15,2016,Min. de Justicia,Javiera Blanco,IND,Aprobada
+16,2017,Min. del Interior,Mario Fernandez,PPD,Aprobada
+17,2017,Min. del Trabajo,Alejandra Krauss,DC,Aprobada
+18,2018,Min. de Salud,Emilio Santelices,IND,Aprobada
+19,2018,Min. de Justicia,Hernán Larraín,UDI,Aprobada
+20,2018,Min. del Interior,Andrés Chadwick,UDI,Aprobada
+21,2020,Min. del Trabajo,María José Zaldívar,IND,Aprobada
+22,2020,Min. de Salud,Jaime Mañalich,IND,Aprobada
+23,2020,Min. de Hacienda,Ignacio Briones,EVO,Aprobada
+24,2020,Min. del Medioambiente,Carolina Schmidt,IND,Aprobada
+25,2020,Min. de la Mujer,Isabel Plá,UDI,
+26,2020,Min. De Defensa,Baldo Prokurica,RN,
