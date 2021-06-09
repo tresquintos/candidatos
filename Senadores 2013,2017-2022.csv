@@ -1,44 +1,44 @@
-﻿id,región,circunscripción,nombre,partido,periodo
-1,Arica,1,José Durana,UDI,2018-2026
-2,Arica,1,José Miguel Insulza,PS,2018-2026
-3,Tarapacá,2,Jorge Soria,PPD,2018-2026
-4,Tarapacá,2,Luz Ebensperger,UDI,2018-2026
-5,Antofagasta,3,Alejandro Guillier,IND,2014-2022
-6,Antofagasta,3,Pedro Araya,IND,2014-2022
-7,Atacama,4,Rafael Prohens,RN,2018-2026
-8,Atacama,4,Yasna Provoste,DC,2018-2026
-9,Coquimbo,5,Adriana Muñoz,PPD,2014-2022
-10,Coquimbo,5,Jorge Pizarro,DC,2014-2022
-11,Valparaíso,6,Francisco Chahuan,RN,2018-2026
-12,Valparaíso,6,Isabel Allende,PS,2018-2026
-13,Valparaíso,6,Juan Ignacio Latorre,RD,2018-2026
-14,Valparaíso,6,Kenneth Pugh,IND,2018-2026
-15,Valparaíso,6,Ricardo Lagos,PPD,2018-2026
-18,Metropolitana,7,Carlos Montes,PS,2014-2022
-16,Metropolitana,7,Guido Girardi,PPD,2014-2022
-19,Metropolitana,7,Manuel José Ossandón,RN,2014-2022
-17,Metropolitana,7,Marcela Sabat*,RN,2014-2022
-20,O´Higgins,8,Alejandro García-Huidobro,UDI,2014-2022
-21,O´Higgins,8,Juan Pablo Letelier,PS,2014-2022
-22,Maule,9,Álvaro Elizalde,PS,2018-2026
-23,Maule,9,Juan Antonio Coloma,UDI,2018-2026
-24,Maule,9,Juan Castro,IND,2018-2026
-25,Maule,9,Rodrigo Galilea,RN,2018-2026
-26,Maule,9,Ximena Rincón,DC,2018-2026
-27,Biobío,10,Alejandro Navarro,MAS,2014-2022
-28,Biobío,10,Jacqueline Van Rysselberghe,UDI,2014-2022
-29,Araucanía,11,Carmen Aravena,EVO,2018-2026
-30,Araucanía,11,Felipe Kast,EVO,2018-2026
-31,Araucanía,11,Francisco Huenchumilla,DC,2018-2026
-32,Araucanía,11,Jaime Quintana,PPD,2018-2026
-33,Araucanía,11,José García,RN,2018-2026
-34,Los Ríos,12,Alfonso De Urresti,PS,2014-2022
-35,Los Ríos,12,Ena Von Baer,UDI,2014-2022
-36,Los Lagos,13,Iván Moreira,UDI,2014-2022
-37,Los Lagos,13,Rabindranath Quinteros,PS,2014-2022
-38,Aysén,14,David Sandoval,UDI,2018-2026
-39,Aysén,14,Ximena Órdenes,PPD,2018-2026
-40,Magallanes,15,Carlos Bianchi,IND,2014-2022
-41,Magallanes,15,Carolina Goic,DC,2014-2022
-42,Ñuble,16,Claudio Alvarado*,UDI,2014-2022
-43,Ñuble,16,Loreto Carvajal*,PPD,2014-2022
+﻿id,region2,región,circunscripción,nombre,lista,partido
+1,0.5,Arica,1,José Durana**,Chile Vamos,UDI
+2,0.5,Arica,1,José Miguel Insulza**,Unidad Constituyente,PS
+3,1,Tarapacá,2,Jorge Soria**,Unidad Constituyente,PPD
+4,1,Tarapacá,2,Luz Ebensperger**,Chile Vamos,UDI
+5,2,Antofagasta,3,Alejandro Guillier,Unidad Constituyente,IND
+6,2,Antofagasta,3,Pedro Araya,Unidad Constituyente,IND
+7,3,Atacama,4,Rafael Prohens**,Chile Vamos,RN
+8,3,Atacama,4,Yasna Provoste**,Unidad Constituyente,DC
+9,4,Coquimbo,5,Adriana Muñoz,Unidad Constituyente,PPD
+10,4,Coquimbo,5,Jorge Pizarro,Unidad Constituyente,DC
+11,5,Valparaíso,6,Francisco Chahuan**,Chile Vamos,RN
+12,5,Valparaíso,6,Isabel Allende**,Unidad Constituyente,PS
+13,5,Valparaíso,6,Juan Ignacio Latorre**,Apruebo Dignidad,RD
+14,5,Valparaíso,6,Kenneth Pugh**,Chile Vamos,IND
+15,5,Valparaíso,6,Ricardo Lagos**,Unidad Constituyente,PPD
+16,5.5,Metropolitana,7,Guido Girardi,Unidad Constituyente,PPD
+17,5.5,Metropolitana,7,Marcela Sabat*,Chile Vamos,RN
+18,5.5,Metropolitana,7,Carlos Montes,Unidad Constituyente,PS
+19,5.5,Metropolitana,7,Manuel José Ossandón,Chile Vamos,RN
+20,6,O´Higgins,8,Alejandro García-Huidobro,Chile Vamos,UDI
+21,6,O´Higgins,8,Juan Pablo Letelier,Unidad Constituyente,PS
+22,7,Maule,9,Álvaro Elizalde**,Unidad Constituyente,PS
+23,7,Maule,9,Juan Antonio Coloma**,Chile Vamos,UDI
+24,7,Maule,9,Juan Castro**,Chile Vamos,IND
+25,7,Maule,9,Rodrigo Galilea**,Chile Vamos,RN
+26,7,Maule,9,Ximena Rincón**,Unidad Constituyente,DC
+42,7.5,Ñuble,16,Claudio Alvarado*,Chile Vamos,UDI
+43,7.5,Ñuble,16,Loreto Carvajal*,Unidad Constituyente,PPD
+27,8,Biobío,10,Alejandro Navarro,Unidad Constituyente,MAS
+28,8,Biobío,10,Jacqueline Van Rysselberghe,Chile Vamos,UDI
+29,9,Araucanía,11,Carmen Aravena**,Chile Vamos,EVO
+30,9,Araucanía,11,Felipe Kast**,Chile Vamos,EVO
+31,9,Araucanía,11,Francisco Huenchumilla**,Unidad Constituyente,DC
+32,9,Araucanía,11,Jaime Quintana**,Unidad Constituyente,PPD
+33,9,Araucanía,11,José García**,Chile Vamos,RN
+34,9.5,Los Ríos,12,Alfonso De Urresti,Unidad Constituyente,PS
+35,9.5,Los Ríos,12,Ena Von Baer,Chile Vamos,UDI
+36,10,Los Lagos,13,Iván Moreira,Chile Vamos,UDI
+37,10,Los Lagos,13,Rabindranath Quinteros,Unidad Constituyente,PS
+38,11,Aysén,14,David Sandoval**,Chile Vamos,UDI
+39,11,Aysén,14,Ximena Órdenes**,Unidad Constituyente,PPD
+40,12,Magallanes,15,Carlos Bianchi,Unidad Constituyente,IND
+41,12,Magallanes,15,Carolina Goic,Unidad Constituyente,DC
