@@ -6,14 +6,14 @@
 5,2,Alvaro Jofre,Vamos por Chile,RN,6131,7.79
 6,2,Hugo Gutierrez,Apruebo Dignidad,PC,6773,8.61
 7,3,Hernan Velasquez,Apruebo Dignidad,FRVS,3946,2.54
-8,3,Pablo Toloza,Vamos por Chile,UDI,5443,3.5
+8,3,Pablo Toloza,Vamos por Chile,UDI,5443,3.50
 9,3,Dayyana Gonzalez,Lista del Pueblo,IND,10245,6.59
 10,3,Cristina Dorador,Movimientos Sociales,IND,19751,12.71
 11,4,Maximiliano Hurtado,Lista del Apruebo,PS ,3084,3.75
 12,4,Guillermo Namor,No Neutrales,IND,4047,4.92
 13,4,Constanza Juan,Lista del Pueblo,IND,7913,9.61
 14,4,Ericka Portilla,Apruebo Dignidad,PC,10141,12.32
-15,5,Maria Castillo,Ind. por la Región de Coq.,IND,6080,2.7
+15,5,Maria Castillo,Ind. por la Región de Coq.,IND,6080,2.70
 16,5,Roberto Vega,Vamos por Chile,RN,7990,3.55
 17,5,Daniel Bravo,Lista del Pueblo,IND,11061,4.91
 18,5,Carlos Calvo,Lista del Apruebo,PS-IND,12514,5.55
@@ -21,7 +21,7 @@
 20,5,Ivanna Olivares,Lista del Pueblo,IND,22480,9.98
 21,6,Miguel Botto,No Neutrales,IND,3779,1.15
 22,6,Cristobal Andrade,Lista del Pueblo,IND,6767,2.06
-23,6,Claudio Gomez,Lista del Apruebo,PS-IND,8209,2.5
+23,6,Claudio Gomez,Lista del Apruebo,PS-IND,8209,2.50
 24,6,Janis Meneses,Movimientos Sociales,IND,8689,2.65
 25,6,Ruggero Cozzi,Vamos por Chile,RN-IND,10814,3.29
 26,6,Lisette Vergara,Lista del Pueblo,IND,11354,3.46
@@ -38,7 +38,7 @@
 37,8,Bessy Gallardo,Lista del Apruebo,PRO-IND,9601,2.12
 38,8,Valentina Miranda,Apruebo Dignidad,PC,10931,2.42
 39,8,Maria Rivera,Lista del Pueblo,IND,18691,4.13
-40,8,Marco Arellano,Lista del Pueblo,IND,20367,4.5
+40,8,Marco Arellano,Lista del Pueblo,IND,20367,4.50
 41,8,Bernardo Maza,Vamos por Chile,EVO-IND,28327,6.29
 42,8,Daniel Stingo,Apruebo Dignidad,RD-IND,111578,24.65
 43,9,Cesar Valenzuela,Lista del Apruebo,PS ,9592,3.03
@@ -57,7 +57,7 @@
 56,11,Patricio Fernandez,Lista del Apruebo,PL-IND,11882,3.09
 57,11,Bernardo Fontaine,Vamos por Chile,RN-IND,16728,4.35
 58,11,Constanza Hube,Vamos por Chile,UDI,18806,4.89
-59,11,Constanza Schonhaut,Apruebo Dignidad,CS,21536,5.6
+59,11,Constanza Schonhaut,Apruebo Dignidad,CS,21536,5.60
 60,11,Hernan Larrain,Vamos por Chile,EVO,29373,7.64
 61,11,Marcela Cubillos,Vamos por Chile,UDI-IND,84040,21.85
 62,12,Juan Martin,No Neutrales,IND,2702,0.73
@@ -78,7 +78,7 @@
 77,15,Damaris Abarca,Apruebo Dignidad,CS-IND,6011,3.32
 78,15,Matias Orellana,Lista del Apruebo,PS ,7229,3.99
 79,15,Carol Bown,Vamos por Chile,UDI,7402,4.09
-80,15,Alvin Saldaña,Movimientos Sociales,IND,8870,4.9
+80,15,Alvin Saldaña,Movimientos Sociales,IND,8870,4.90
 81,15,Loreto Vallejos,Lista del Pueblo,IND,17061,9.42
 82,16,Adriana Cancino,Lista del Apruebo,PS-IND,3731,2.63
 83,16,Gloria Alvarado,Corrientes Ind.,IND,6352,4.48
@@ -90,12 +90,12 @@
 89,17,Alfredo Moreno,Vamos por Chile,UDI-IND,11343,4.98
 90,17,Maria Quinteros,A. Popular por la Dig.,IND,12507,5.49
 91,17,Barbara Rebolledo,Vamos por Chile,EVO-IND,18096,7.94
-92,17,Roberto Celedon,Apruebo Dignidad,FRVS-IND,23468,10.3
+92,17,Roberto Celedon,Apruebo Dignidad,FRVS-IND,23468,10.30
 93,18,Ricardo Montero,Lista del Apruebo,PS ,6113,5.49
 94,18,Fernando Salinas,Lista del Pueblo,IND,7416,6.66
 95,18,Francisca Arauna,Lista del Pueblo,IND,11776,10.57
 96,18,Patricia Labra,Vamos por Chile,RN,11888,10.67
-97,19,Margarita Letelier,Vamos por Chile,UDI,6109,3.9
+97,19,Margarita Letelier,Vamos por Chile,UDI,6109,3.90
 98,19,Carolina Sepulveda,No Neutrales,IND,6986,4.46
 99,19,Felipe Harboe,Lista del Apruebo,PPD ,11046,7.05
 100,19,Cesar Uribe,Lista del Pueblo,IND,16105,10.28
@@ -108,9 +108,9 @@
 107,20,Rocio Cantuarias,Vamos por Chile,EVO-IND,16957,5.56
 108,20,Amaya Alvez,Apruebo Dignidad,RD,18459,6.05
 109,21,Javier Fuchslocher,No Neutrales,IND,5946,3.53
-110,21,Luis Barcelo,Lista del Apruebo,PPD-IND,7581,4.5
+110,21,Luis Barcelo,Lista del Apruebo,PPD-IND,7581,4.50
 111,21,Paulina Veloso,Vamos por Chile,RN,8547,5.07
-112,21,Vanessa Hoppe,Apruebo Dignidad,PC-IND,11131,6.6
+112,21,Vanessa Hoppe,Apruebo Dignidad,PC-IND,11131,6.60
 113,22,Ruth Hurtado,Vamos por Chile,RN-IND,2013,2.53
 114,22,Eduardo Cretton,Vamos por Chile,UDI,7925,9.96
 115,22,Fuad Chahin,Lista del Apruebo,DC ,11413,14.34
@@ -125,7 +125,7 @@
 124,24,Pedro Muñoz,Lista del Apruebo,PS ,11204,9.81
 125,24,Ramona Reyes,Lista del Apruebo,PS ,12087,10.58
 126,25,Maria Ubilla,Vamos por Chile,UDI-IND,4264,4.24
-127,25,Mario Vargas,Lista del Apruebo,PS ,5828,5.8
+127,25,Mario Vargas,Lista del Apruebo,PS ,5828,5.80
 128,25,Harry Jurgensen,Vamos por Chile,RN,19464,19.35
 129,26,Katerine Montealegre,Vamos por Chile,UDI,5045,3.84
 130,26,Gaspar Dominguez,No Neutrales,IND,6398,4.87
@@ -139,18 +139,18 @@
 138,28,Mauricio Daza,Regionalismo Ciud. Ind.,IND,6194,11.38
 139,,Luis Jimenez,Aimara,,2318,12.05
 140,,Isabella Mamani,Aimara,,2414,15.55
-141,,Felix Galleguillos,Atacameño,,1402,20.7
+141,,Felix Galleguillos,Atacameño,,1402,20.70
 142,,Fernando Tirado,Chango,,395,43.41
 143,,Isabel Godoy,Colla,,631,29.51
 144,,Eric Chinga,Diaguita,,3663,32.59
 145,,Margarita Vargas,Kawesqar,,95,38.15
 146,,Alexis Caiguan,Mapuche,,6294,2.89
 147,,Victorino Antilef,Mapuche,,7494,3.44
-148,,Rosa Catrileo,Mapuche,,10448,4.8
+148,,Rosa Catrileo,Mapuche,,10448,4.80
 149,,Elisa Loncon,Mapuche,,11714,5.38
 150,,Adolfo Millabur,Mapuche,,12288,5.64
 151,,Natividad Llanquileo,Mapuche,,13124,6.02
 152,,Francisca Linconao,Mapuche,,15621,7.17
 153,,Wilfredo Bacian,Quechua,,632,30.44
 154,,Tiare Aguilera,Rapa Nui,,749,40.03
-155,,Lidia Gonzalez,Yagan,,61,100
+155,,Lidia Gonzalez,Yagan,,61,100.00
