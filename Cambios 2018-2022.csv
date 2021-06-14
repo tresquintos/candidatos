@@ -1,49 +1,11 @@
-﻿id,fecha_entrada,cargo,nombre,partido,fecha_salida,reemplazo,partido
-48,28-10-2019,Min. Trabajo,María J. Zaldívar,IND,07-04-2021,Patricio Melero,UDI
-2,11-03-2018,Diputado,Patricio Melero,UDI,07-04-2021,Cristián Labbé,UDI
-7,11-03-2018,Diputado,Loreto Carvajal,PPD,03-03-2021,Patricia Rubio,PPD
-25,28-10-2019,Min. Hacienda,Ignacio Briones,EVO,26-01-2021,Rodrigo Cerda,IND
-1,11-03-2018,Diputado,Hugo Gutiérrez,PC,11-01-2021,Rubén Moraga,PC
-6,11-03-2018,Diputado,Renato Garín,IND,11-01-2021,Marcela Sandoval,RD
-9,11-03-2014,Senado,Felipe Harboe,PPD,11-01-2021,Loreto Carvajal,PPD
-46,28-07-2020,Min. SEGPRES,Cristián Monckeberg,RN,06-01-2021,Juan José Ossa,RN
-11,11-03-2018,Min. Agricultura,Antonio Walker,IND,06-01-2021,Maria E. Undurraga,EVO
-16,28-07-2020,Min. Defensa,Mario Desbordes,RN,17-12-2020,Baldo Prokurica,RN
-30,11-03-2018,Min. Minería,Baldo Prokurica,RN,17-12-2020,Juan Carlos Jobet,RN
-28,28-07-2020,Min. Interior,Víctor Pérez,UDI,03-11-2020,Rodrigo Delgado,UDI
-4,11-03-2018,Diputado,Marcela Sabat,RN,04-08-2020,Tomás Fuentes,RN
-20,04-06-2020,Min. Desarrollo Social,Cristián Monckeberg,RN,28-07-2020,Karla Rubilar,IND
-45,04-06-2020,Min. SEGPRES,Claudio Alvarado,UDI,28-07-2020,Cristián Monckeberg,RN
-27,28-10-2019,Min. Interior,Gonzalo Blumel,EVO,28-07-2020,Víctor Pérez,UDI
-42,28-10-2019,Min. SEGEGOB,Karla Rubilar,IND,28-07-2020,Jaime Bellolio,UDI
-38,13-06-2019,Min. RR.EE,Teodoro Ribera,RN,28-07-2020,Andrés Allamand,RN
-3,11-03-2018,Diputado,Mario Desbordes,RN,28-07-2020,Camilo Morán,RN
-5,11-03-2018,Diputado,Jaime Bellolio,UDI,28-07-2020,Nora Cuevas,UDI
-15,11-03-2018,Min. Defensa,Alberto Espina,RN,28-07-2020,Mario Debordes,RN
-8,11-03-2014,Senado,Andrés Allamand,RN,28-07-2020,Marcela Sabat,RN
-10,11-03-2014,Senado,Víctor Pérez,UDI,28-07-2020,Claudio Alvarado,UDI
-40,13-06-2019,Min. Salud,Jaime Mañalich,IND,13-06-2020,Enrique Paris,IND
-35,06-05-2020,Min. Mujer,Macarena Santelices,UDI,09-06-2020,Mónica Zalaquett,UDI
-44,28-10-2019,Min. SEGPRES,Felipe Ward,UDI,04-06-2020,Claudio Alvarado,UDI
-19,13-06-2019,Min. Desarrollo Social,Sebastián Sichel,IND,04-06-2020,Cristián Monckeberg,RN
-49,11-03-2018,Min. Vivienda,Cristián Monckeberg,RN,04-06-2020,Felipe Ward,UDI
-33,11-03-2018,Min. Mujer,Isabel Plá,UDI,13-03-2020,Carolina Cuevas,RN
-22,09-08-2018,Min. Educación,Marcela Cubillos,IND,28-02-2020,Raúl Figueroa,IND
-32,13-06-2019,Min. Economía,Juan A. Fontaine,IND,28-10-2019,Lucas Palacios,UDI
-12,11-03-2018,Min. Bienes Nacionales,Felipe Ward,UDI,28-10-2019,Julio Isamit,IND
-17,11-03-2018,Min. Deporte,Pauline Kantor,EVO,28-10-2019,Cecilia Pérez,RN
-24,11-03-2018,Min. Hacienda,Felipe Larraín,IND,28-10-2019,Ignacio Briones,EVO
-26,11-03-2018,Min. Interior,Andrés Chadwick,UDI,28-10-2019,Gonzalo Blumel,EVO
-41,11-03-2018,Min. SEGEGOB,Cecilia Pérez,IND,28-10-2019,Karla Rubilar,IND
-43,11-03-2018,Min. SEGPRES,Gonzalo Blumel,EVO,28-10-2019,Felipe Ward,UDI
-47,11-03-2018,Min. Trabajo,Nicolás Monckeberg,RN,28-10-2019,María J. Zaldívar,IND
-23,11-03-2018,Min. Energía,Susana Jiménez,IND,13-06-2019,Juan Carlos Jobet,RN
-31,11-03-2018,Min. Economía,José Valente,IND,13-06-2019,Juan A. Fontaine,IND
-36,11-03-2018,Min. Obras Públicas,Juan A. Fontaine,IND,13-06-2019,Alfredo Moreno,IND
-37,11-03-2018,Min. RR.EE,Roberto Ampuero,IND,13-06-2019,Teodoro Ribera,RN
-39,11-03-2018,Min. Salud,Emilio Santelices,IND,13-06-2019,Jaime Mañalich,IND
-14,09-08-2018,Min. Cultura,Mauricio Rojas,IND,13-08-2018,Consuelo Valdés,IND
-13,11-03-2018,Min. Cultura,Alejandra Pérez,IND,09-08-2018,Mauricio Rojas,IND
-21,11-03-2018,Min. Educación,Gerardo Varela,IND,09-08-2018,Marcela Cubillos,IND
-29,11-03-2018,Min. Medioambiente,Marcela Cubillos,IND,09-08-2018,Carolina Schmidt,IND
-18,11-03-2018,Min. Desarrollo Social,Alfredo Moreno,IND,13-06-2018,Sebastián Sichel,IND
+﻿id,año,cargo,nombre,partido,salida,reemplazo,partido
+2,2018,Diputado,Patricio Melero,UDI,07-04-2021,Cristián Labbé,UDI
+7,2018,Diputada,Loreto Carvajal,PPD,03-03-2021,Patricia Rubio,PPD
+9,2014,Senador,Felipe Harboe,PPD,11-01-2021,Loreto Carvajal,PPD
+1,2018,Diputado,Hugo Gutiérrez,PC,11-01-2021,Rubén Moraga,PC
+6,2018,Diputado,Renato Garín,IND,11-01-2021,Marcela Sandoval,RD
+4,2018,Diputada,Marcela Sabat,RN,04-08-2020,Tomás Fuentes,RN
+8,2014,Senador,Andrés Allamand,RN,28-07-2020,Marcela Sabat,RN
+10,2014,Senador,Víctor Pérez,UDI,28-07-2020,Claudio Alvarado,UDI
+3,2018,Diputado,Mario Desbordes,RN,28-07-2020,Camilo Morán,RN
+5,2018,Diputado,Jaime Bellolio,UDI,28-07-2020,Nora Cuevas,UDI
