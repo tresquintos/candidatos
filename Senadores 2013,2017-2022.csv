@@ -1,44 +1,44 @@
-﻿id,region2,región,circunscripción,nombre,lista,partido
-1,0.5,Arica,1,José Durana,Chile Vamos,UDI
-2,0.5,Arica,1,José M. Insulza,Unidad Constituyente,PS
-3,1,Tarapacá,2,Jorge Soria,Unidad Constituyente,PPD
-4,1,Tarapacá,2,Luz Ebensperger,Chile Vamos,UDI
-5,2,Antofagasta,3,Alejandro Guillier,Unidad Constituyente,IND
-6,2,Antofagasta,3,Pedro Araya,Unidad Constituyente,IND
-7,3,Atacama,4,Rafael Prohens,Chile Vamos,RN
-8,3,Atacama,4,Yasna Provoste,Unidad Constituyente,DC
-9,4,Coquimbo,5,Adriana Muñoz,Unidad Constituyente,PPD
-10,4,Coquimbo,5,Jorge Pizarro,Unidad Constituyente,DC
-11,5,Valparaíso,6,Francisco Chahuan,Chile Vamos,RN
-12,5,Valparaíso,6,Isabel Allende,Unidad Constituyente,PS
-13,5,Valparaíso,6,Juan I. Latorre,Apruebo Dignidad,RD
-14,5,Valparaíso,6,Kenneth Pugh,Chile Vamos,IND
-15,5,Valparaíso,6,Ricardo Lagos,Unidad Constituyente,PPD
-16,5.5,Metropolitana,7,Guido Girardi,Unidad Constituyente,PPD
-17,5.5,Metropolitana,7,Marcela Sabat*,Chile Vamos,RN
-18,5.5,Metropolitana,7,Carlos Montes,Unidad Constituyente,PS
-19,5.5,Metropolitana,7,Manuel J. Ossandón,Chile Vamos,RN
-20,6,O´Higgins,8,Alejandro García-Huidobro,Chile Vamos,UDI
-21,6,O´Higgins,8,Juan P. Letelier,Unidad Constituyente,PS
-22,7,Maule,9,Álvaro Elizalde,Unidad Constituyente,PS
-23,7,Maule,9,Juan A. Coloma,Chile Vamos,UDI
-24,7,Maule,9,Juan Castro,Chile Vamos,IND
-25,7,Maule,9,Rodrigo Galilea,Chile Vamos,RN
-26,7,Maule,9,Ximena Rincón,Unidad Constituyente,DC
-42,7.5,Ñuble,16,Claudio Alvarado*,Chile Vamos,UDI
-43,7.5,Ñuble,16,Loreto Carvajal*,Unidad Constituyente,PPD
-27,8,Biobío,10,Alejandro Navarro,Unidad Constituyente,MAS
-28,8,Biobío,10,Jacqueline v. Rysselberghe,Chile Vamos,UDI
-29,9,Araucanía,11,Carmen Aravena,Chile Vamos,EVO
-30,9,Araucanía,11,Felipe Kast,Chile Vamos,EVO
-31,9,Araucanía,11,Francisco Huenchumilla,Unidad Constituyente,DC
-32,9,Araucanía,11,Jaime Quintana,Unidad Constituyente,PPD
-33,9,Araucanía,11,José García,Chile Vamos,RN
-34,9.5,Los Ríos,12,Alfonso De Urresti,Unidad Constituyente,PS
-35,9.5,Los Ríos,12,Ena von Baer,Chile Vamos,UDI
-36,10,Los Lagos,13,Iván Moreira,Chile Vamos,UDI
-37,10,Los Lagos,13,Rabindranath Quinteros,Unidad Constituyente,PS
-38,11,Aysén,14,David Sandoval,Chile Vamos,UDI
-39,11,Aysén,14,Ximena Órdenes,Unidad Constituyente,PPD
-40,12,Magallanes,15,Carlos Bianchi,Unidad Constituyente,IND
-41,12,Magallanes,15,Carolina Goic,Unidad Constituyente,DC
+﻿id,region2,región,circunscripción,nombre,lista,partido,n_votos,p_votos
+1,0.5,Arica,1,José Durana,Chile Vamos,UDI,9639,13.4
+2,0.5,Arica,1,José M. Insulza,Unidad Constituyente,PS,14501,29.2
+3,1,Tarapacá,2,Jorge Soria,Unidad Constituyente,PPD,31594,34.1
+4,1,Tarapacá,2,Luz Ebensperger,Chile Vamos,UDI,21155,22.8
+5,2,Antofagasta,3,Alejandro Guillier,Unidad Constituyente,IND,61911,37.08
+6,2,Antofagasta,3,Pedro Araya,Unidad Constituyente,IND,29201,17.49
+7,3,Atacama,4,Rafael Prohens,Chile Vamos,RN,17574,18.4
+8,3,Atacama,4,Yasna Provoste,Unidad Constituyente,DC,32583,34.2
+9,4,Coquimbo,5,Adriana Muñoz,Unidad Constituyente,PPD,73562,30.61
+10,4,Coquimbo,5,Jorge Pizarro,Unidad Constituyente,DC,78713,32.75
+11,5,Valparaíso,6,Francisco Chahuan,Chile Vamos,RN,150031,22.6
+12,5,Valparaíso,6,Isabel Allende,Unidad Constituyente,PS,59147,8.91
+13,5,Valparaíso,6,Juan I. Latorre,Apruebo Dignidad,RD,30528,4.6
+14,5,Valparaíso,6,Kenneth Pugh,Chile Vamos,IND,14241,2.14
+15,5,Valparaíso,6,Ricardo Lagos,Unidad Constituyente,PPD,74015,11.1
+18,5.5,Metropolitana,7,Carlos Montes,Unidad Constituyente,PS,279196,21.57
+16,5.5,Metropolitana,7,Guido Girardi,Unidad Constituyente,PPD,360949,30.31
+19,5.5,Metropolitana,7,Manuel J. Ossandón,Chile Vamos,RN,317311,24.51
+17,5.5,Metropolitana,7,Marcela Sabat*,Chile Vamos,RN,240483,20.19
+20,6,O´Higgins,8,Alejandro García-Huidobro,Chile Vamos,UDI,69061,20.35
+21,6,O´Higgins,8,Juan P. Letelier,Unidad Constituyente,PS,156230,46.03
+22,7,Maule,9,Álvaro Elizalde,Unidad Constituyente,PS,30900,8.35
+23,7,Maule,9,Juan A. Coloma,Chile Vamos,UDI,58595,15.8
+24,7,Maule,9,Juan Castro,Chile Vamos,IND,54433,14.7
+25,7,Maule,9,Rodrigo Galilea,Chile Vamos,RN,28268,7.64
+26,7,Maule,9,Ximena Rincón,Unidad Constituyente,DC,38697,10.4
+42,7.5,Ñuble,16,Claudio Alvarado*,Chile Vamos,UDI,79298,24.65
+43,7.5,Ñuble,16,Loreto Carvajal*,Unidad Constituyente,PPD,121620,37.8
+27,8,Biobío,10,Alejandro Navarro,Unidad Constituyente,MAS,156372,33.92
+28,8,Biobío,10,Jacqueline v. Rysselberghe,Chile Vamos,UDI,128451,27.87
+29,9,Araucanía,11,Carmen Aravena,Chile Vamos,EVO,4200,1.24
+30,9,Araucanía,11,Felipe Kast,Chile Vamos,EVO,63601,18.8
+31,9,Araucanía,11,Francisco Huenchumilla,Unidad Constituyente,DC,38185,11.3
+32,9,Araucanía,11,Jaime Quintana,Unidad Constituyente,PPD,34285,10.1
+33,9,Araucanía,11,José García,Chile Vamos,RN,33456,9.91
+34,9.5,Los Ríos,12,Alfonso De Urresti,Unidad Constituyente,PS,70179,46.86
+35,9.5,Los Ríos,12,Ena von Baer,Chile Vamos,UDI,34192,22.83
+36,10,Los Lagos,13,Iván Moreira,Chile Vamos,UDI,54459,19.11
+37,10,Los Lagos,13,Rabindranath Quinteros,Unidad Constituyente,PS,135372,47.5
+38,11,Aysén,14,David Sandoval,Chile Vamos,UDI,7311,20.5
+39,11,Aysén,14,Ximena Órdenes,Unidad Constituyente,PPD,5405,15.1
+40,12,Magallanes,15,Carlos Bianchi,Unidad Constituyente,IND,16330,27.46
+41,12,Magallanes,15,Carolina Goic,Unidad Constituyente,DC,22714,38.19

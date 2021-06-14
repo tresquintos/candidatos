@@ -1,156 +1,156 @@
-﻿id,región,distrito,nombre,lista,partido
-1,Arica,1,Vlado Mirosevic,Unidad Constituyente,PL
-2,Arica,1,Nino Baltolú,Chile Vamos,UDI
-3,Arica,1,Luis Rocafull,Unidad Constituyente,PS
-4,Tarapacá,2,Renzo Trisotti,Chile Vamos,UDI
-5,Tarapacá,2,Ramón Galleguillos,Chile Vamos,RN
-6,Tarapacá,2,Rubén Moraga*,Apruebo Dignidad,PC
-7,Antofagasta,3,Paulina Núñez,Chile Vamos,RN
-8,Antofagasta,3,Marcela Hernando,Unidad Constituyente,PR
-9,Antofagasta,3,Esteban Velásquez,Apruebo Dignidad,FRVS
-10,Antofagasta,3,Catalina Pérez,Apruebo Dignidad,RD
-11,Antofagasta,3,José M. Castro,Chile Vamos,RN
-12,Atacama,4,Daniella Cicardini,Unidad Constituyente,PS
-13,Atacama,4,Sofía Cid,Chile Vamos,RN
-14,Atacama,4,Jaime Mulet,Apruebo Dignidad,FRVS
-15,Atacama,4,Juan Santana,Unidad Constituyente,PS
-16,Atacama,4,Nicolás Noman,Chile Vamos,UDI
-17,Coquimbo,5,Sergio Gahona,Chile Vamos,UDI
-18,Coquimbo,5,Pedro Velasquez,Apruebo Dignidad,FRVS
-19,Coquimbo,5,Matias Walker,Unidad Constituyente,DC
-20,Coquimbo,5,Daniel Núñez,Apruebo Dignidad,PC
-21,Coquimbo,5,Francisco Eguiguren,Chile Vamos,RN
-22,Coquimbo,5,Raúl Saldívar,Unidad Constituyente,PS
-23,Coquimbo,5,Juan M. Fuenzalida,Chile Vamos,UDI
-24,Valparaíso,6,Andrés Longton,Chile Vamos,RN
-25,Valparaíso,6,Pablo Kast,Chile Vamos,EVO
-26,Valparaíso,6,Marcelo Schilling,Unidad Constituyente,PS
-27,Valparaíso,6,Luis Pardo,Chile Vamos,RN
-28,Valparaíso,6,Camila Flores,Chile Vamos,RN
-29,Valparaíso,6,Carolina Marzán,Unidad Constituyente,PPD
-30,Valparaíso,6,Daniel Verdessi,Unidad Constituyente,DC
-31,Valparaíso,6,Diego Ibañez,Apruebo Dignidad,PH
-32,Valparaíso,7,María J. Hoffmann,Chile Vamos,UDI
-33,Valparaíso,7,Andrés Celis,Chile Vamos,RN
-34,Valparaíso,7,Osvaldo Urrutia,Chile Vamos,UDI
-35,Valparaíso,7,Rodrigo González,Unidad Constituyente,PPD
-36,Valparaíso,7,Marcelo Díaz,Unidad Constituyente,PS
-37,Valparaíso,7,Víctor Torres,Unidad Constituyente,DC
-38,Valparaíso,7,Camila Rojas,Apruebo Dignidad,PI
-39,Valparaíso,7,Jorge Brito,Apruebo Dignidad,RD
-40,Metropolitana,8,Joaquín Lavín,Chile Vamos,UDI
-41,Metropolitana,8,Gabriel Silber,Unidad Constituyente,DC
-42,Metropolitana,8,Pepe Auth,Unidad Constituyente,PR
-43,Metropolitana,8,Cristián Labbé*,Chile Vamos,UDI
-44,Metropolitana,8,Claudia Mix,Apruebo Dignidad,PODER
-45,Metropolitana,8,Camilo Morán*,Chile Vamos,RN
-46,Metropolitana,8,Carmen Hertz,Apruebo Dignidad,PC
-47,Metropolitana,8,Pablo Vidal,Unidad Constituyente,RD
-48,Metropolitana,9,Karol Cariola,Apruebo Dignidad,PC
-49,Metropolitana,9,Erika Olivera,Chile Vamos,RN
-50,Metropolitana,9,Sebastián Keitel,Chile Vamos,EVO
-51,Metropolitana,9,Maite Orsini,Apruebo Dignidad,RD
-52,Metropolitana,9,Jorge Durán,Chile Vamos,RN
-53,Metropolitana,9,Cristina Girardi,Unidad Constituyente,PPD
-54,Metropolitana,9,Boris Barrera,Apruebo Dignidad,PC
-55,Metropolitana,10,Giorgio Jackson,Apruebo Dignidad,RD
-56,Metropolitana,10,Tomás Fuentes*,Chile Vamos,RN
-57,Metropolitana,10,Luciano Cruz-Coke,Chile Vamos,EVO
-58,Metropolitana,10,Jorge Alessandri,Chile Vamos,UDI
-59,Metropolitana,10,Maya Fernández,Unidad Constituyente,PS
-60,Metropolitana,10,Sebastián Torrealba,Chile Vamos,RN
-61,Metropolitana,10,Gonzalo Winter,Apruebo Dignidad,RD
-62,Metropolitana,10,Natalia Castillo,Unidad Constituyente,RD
-63,Metropolitana,11,Gonzalo Fuenzalida,Chile Vamos,RN
-64,Metropolitana,11,Francisco Undurraga,Chile Vamos,EVO
-65,Metropolitana,11,Catalina Del Real,Chile Vamos,RN
-66,Metropolitana,11,Guillermo Ramírez,Chile Vamos,UDI
-67,Metropolitana,11,Tomás Hirsch,Humanistas,PH
-68,Metropolitana,11,Karin Luck,Chile Vamos,RN
-69,Metropolitana,12,Ximena Ossandón,Chile Vamos,RN
-70,Metropolitana,12,Camila Vallejo,Apruebo Dignidad,PC
-71,Metropolitana,12,Pamela Jiles,Humanistas,PH
-72,Metropolitana,12,Leopoldo Pérez,Chile Vamos,RN
-73,Metropolitana,12,Álvaro Carter,Chile Vamos,UDI
-74,Metropolitana,12,Miguel Crispi,Apruebo Dignidad,RD
-75,Metropolitana,12,Amaro Labra,Apruebo Dignidad,PC
-76,Metropolitana,13,Guillermo Teillier,Apruebo Dignidad,PC
-77,Metropolitana,13,Tucapel Jiménez,Unidad Constituyente,PPD
-78,Metropolitana,13,Eduardo Durán,Chile Vamos,RN
-79,Metropolitana,13,Cristián Moreira,Chile Vamos,UDI
-80,Metropolitana,13,Gael Yeomans,Apruebo Dignidad,RD
-81,Metropolitana,14,Raúl Leiva,Unidad Constituyente,PS
-82,Metropolitana,14,Marisela Santibáñez,Unidad Constituyente,PRO
-83,Metropolitana,14,Juan A. Coloma,Chile Vamos,UDI
-84,Metropolitana,14,Nora Cuevas*,Chile Vamos,UDI
-85,Metropolitana,14,Leonardo Soto,Unidad Constituyente,PS
-86,Metropolitana,14,Marcela Sandoval*,Apruebo Dignidad,RD
-87,O' Higgins,15,Javier Macaya,Chile Vamos,UDI
-88,O' Higgins,15,Diego Schalper,Chile Vamos,RN
-89,O' Higgins,15,Juan Luis Castro,Unidad Constituyente,PS
-90,O' Higgins,15,Isaa Kort,Chile Vamos,UDI
-91,O' Higgins,15,Raúl Soto,Unidad Constituyente,DC
-92,O' Higgins,16,Alejandra Sepúlveda,Apruebo Dignidad,FRVS
-93,O' Higgins,16,Ramón Barros,Chile Vamos,UDI
-94,O' Higgins,16,Cosme Mellado,Unidad Constituyente,PR
-95,O' Higgins,16,Virginia Troncoso,Chile Vamos,UDI
-96,Maule,17,Celso Morales,Chile Vamos,UDI
-97,Maule,17,Pedro Alvarez-Salamanca,Chile Vamos,UDI
-98,Maule,17,Hugo Rey,Chile Vamos,RN
-99,Maule,17,Pablo Lorenzini,Unidad Constituyente,DC
-100,Maule,17,Alexis Sepúlveda,Unidad Constituyente,PR
-101,Maule,17,Pablo Prieto,Chile Vamos,RN
-102,Maule,17,Raúl Florcita Alarcón,Humanistas,PH
-103,Maule,18,Ignacio Urrutia,Republicanos,UDI
-104,Maule,18,Rolando Rentería,Chile Vamos,UDI
-105,Maule,18,Jaime Naranjo,Unidad Constituyente,PS
-106,Maule,18,Manuel Matta,Unidad Constituyente,DC
-107,Ñuble,19,Jorge Sabag,Unidad Constituyente,DC
-108,Ñuble,19,Frank Sauerbaum,Chile Vamos,RN
-109,Ñuble,19,Gustavo Sanhueza,Chile Vamos,UDI
-110,Ñuble,19,Carlos Abel Jarpa,Unidad Constituyente,PR
-111,Ñuble,19,Patricia Rubio,Unidad Constituyente,PPD
-112,Biobío,20,Gastón Saavedra,Unidad Constituyente,PS
-113,Biobío,20,José Miguel Ortiz,Unidad Constituyente,DC
-114,Biobío,20,Enrique v. Rysselberghe,Chile Vamos,UDI
-115,Biobío,20,Francesca Muñoz,Chile Vamos,RN
-116,Biobío,20,Sergio Bobadilla,Chile Vamos,UDI
-117,Biobío,20,Félix González,Ecologistas,PEV
-118,Biobío,20,Laonidas Romero,Chile Vamos,RN
-119,Biobío,20,Jaime Tohá,Unidad Constituyente,PS
-120,Biobío,21,Iván Norambuena,Chile Vamos,UDI
-121,Biobío,21,José Pérez,Unidad Constituyente,PR
-122,Biobío,21,Cristobal Urruticoechea,Chile Vamos,RN
-123,Biobío,21,Manuel Monsalve,Unidad Constituyente,PS
-124,Biobío,21,Joanna Pérez,Unidad Constituyente,DC
-125,Araucanía,22,Diego Paulsen,Chile Vamos,RN
-126,Araucanía,22,Jorge Rathgeb,Chile Vamos,RN
-127,Araucanía,22,Mario Venegas,Unidad Constituyente,DC
-128,Araucanía,22,Andrea Parra,Unidad Constituyente,PPD
-129,Araucanía,23,Rene Saffirio,Independiente,IND
-130,Araucanía,23,Andrés Molina,Chile Vamos,EVO
-131,Araucanía,23,René M. García,Chile Vamos,RN
-132,Araucanía,23,Ricardo Celis,Unidad Constituyente,PPD
-133,Araucanía,23,Miguel Mellado,Chile Vamos,RN
-134,Araucanía,23,Fernando Meza,Unidad Constituyente,PR
-135,Araucanía,23,Sebastían Álvarez,Chile Vamos,EVO
-136,Los Ríos,24,Bernardo Berger,Chile Vamos,RN
-137,Los Ríos,24,Marcos Ilabaca,Unidad Constituyente,PS
-138,Los Ríos,24,Patricio Rosas,Unidad Constituyente,PS
-139,Los Ríos,24,Iván Flores,Unidad Constituyente,DC
-140,Los Ríos,24,Gastón v. Muhlenbrock,Chile Vamos,UDI
-141,Los Lagos,25,Fidel Espinoza,Unidad Constituyente,PS
-142,Los Lagos,25,Harry Jurgensen,Chile Vamos,RN
-143,Los Lagos,25,Javier Hernández,Chile Vamos,UDI
-144,Los Lagos,25,Emilia Nuyado,Unidad Constituyente,PS
-145,Los Lagos,26,Alejandro Santana,Chile Vamos,RN
-146,Los Lagos,26,Carlos Kuschel,Chile Vamos,RN
-147,Los Lagos,26,Jenny Álvarez,Unidad Constituyente,PS
-148,Los Lagos,26,Gabriel Ascencio,Unidad Constituyente,DC
-149,Los Lagos,26,Alejandro Bernales,Unidad Constituyente,PL
-150,Aysén,27,Miguel Calisto,Unidad Constituyente,DC
-151,Aysén,27,Aracely Leuquén,Chile Vamos,RN
-152,Aysén,27,Rene Alinco,Unidad Constituyente,PPD
-153,Magallanes,28,Gabriel Boric,Apruebo Dignidad,PH
-154,Magallanes,28,Sandra Amar,Chile Vamos,UDI
-155,Magallanes,28,Karim Bianchi,Unidad Constituyente,IND
+﻿id,región,distrito,nombre,lista,partido,n_votos,p_votos,,,
+1,Arica,1,Vlado Mirosevic,Unidad Constituyente,PL,24273,34.10,,,
+2,Arica,1,Nino Baltolú,Chile Vamos,UDI,9272,13.03,,,
+3,Arica,1,Luis Rocafull,Unidad Constituyente,PS,6427,9.03,,,
+4,Tarapacá,2,Renzo Trisotti,Chile Vamos,UDI,20039,22.21,,,
+5,Tarapacá,2,Ramón Galleguillos,Chile Vamos,RN,17159,19.02,,,
+6,Tarapacá,2,Rubén Moraga*,Apruebo Dignidad,PC,14318,15.87,,,
+7,Antofagasta,3,Paulina Núñez,Chile Vamos,RN,37764,23.27,,,
+8,Antofagasta,3,Marcela Hernando,Unidad Constituyente,PR,14823,9.13,,,
+9,Antofagasta,3,Esteban Velásquez,Apruebo Dignidad,FRVS,10063,6.20,,,
+10,Antofagasta,3,Catalina Pérez,Apruebo Dignidad,RD,6098,3.76,,,
+11,Antofagasta,3,José M. Castro,Chile Vamos,RN,5181,3.19,,,
+12,Atacama,4,Daniella Cicardini,Unidad Constituyente,PS,16457,17.55,,,
+13,Atacama,4,Sofía Cid,Chile Vamos,RN,13318,14.20,,,
+14,Atacama,4,Jaime Mulet,Apruebo Dignidad,FRVS,9437,10.06,,,
+15,Atacama,4,Juan Santana,Unidad Constituyente,PS,6247,6.66,,,
+16,Atacama,4,Nicolás Noman,Chile Vamos,UDI,5979,6.37,,,
+17,Coquimbo,5,Sergio Gahona,Chile Vamos,UDI,27327,11.77,,,
+18,Coquimbo,5,Pedro Velasquez,Apruebo Dignidad,FRVS,22485,9.68,,,
+19,Coquimbo,5,Matias Walker,Unidad Constituyente,DC,15473,6.66,,,
+20,Coquimbo,5,Daniel Núñez,Apruebo Dignidad,PC,15349,6.61,,,
+21,Coquimbo,5,Francisco Eguiguren,Chile Vamos,RN,11144,4.80,,,
+22,Coquimbo,5,Raúl Saldívar,Unidad Constituyente,PS,11099,4.78,,,
+23,Coquimbo,5,Juan M. Fuenzalida,Chile Vamos,UDI,4342,1.87,,,
+24,Valparaíso,6,Andrés Longton,Chile Vamos,RN,38812,12.21,,,
+25,Valparaíso,6,Pablo Kast,Chile Vamos,EVO,28439,8.94,,,
+26,Valparaíso,6,Marcelo Schilling,Unidad Constituyente,PS,20058,6.31,,,
+27,Valparaíso,6,Luis Pardo,Chile Vamos,RN,15787,4.96,,,
+28,Valparaíso,6,Camila Flores,Chile Vamos,RN,15283,4.81,,,
+29,Valparaíso,6,Carolina Marzán,Unidad Constituyente,PPD,14420,4.53,,,
+30,Valparaíso,6,Daniel Verdessi,Unidad Constituyente,DC,11592,3.65,,,
+31,Valparaíso,6,Diego Ibañez,Apruebo Dignidad,PH,9197,2.89,,,
+32,Valparaíso,7,María J. Hoffmann,Chile Vamos,UDI,34787,10.78,,,
+33,Valparaíso,7,Andrés Celis,Chile Vamos,RN,21375,6.62,,,
+34,Valparaíso,7,Osvaldo Urrutia,Chile Vamos,UDI,18290,5.67,,,
+35,Valparaíso,7,Rodrigo González,Unidad Constituyente,PPD,16833,5.21,,,
+36,Valparaíso,7,Marcelo Díaz,Unidad Constituyente,PS,15236,4.72,,,
+37,Valparaíso,7,Víctor Torres,Unidad Constituyente,DC,14930,4.62,,,
+38,Valparaíso,7,Camila Rojas,Apruebo Dignidad,PI,14893,4.61,,,
+39,Valparaíso,7,Jorge Brito,Apruebo Dignidad,RD,13345,4.13,,,
+40,Metropolitana,8,Joaquín Lavín,Chile Vamos,UDI,75564,17.84,,,
+41,Metropolitana,8,Gabriel Silber,Unidad Constituyente,DC,29175,6.89,,,
+42,Metropolitana,8,Pepe Auth,Unidad Constituyente,PR,26784,6.32,,,
+43,Metropolitana,8,Cristián Labbé*,Chile Vamos,UDI,22956,5.42,,,
+44,Metropolitana,8,Claudia Mix,Apruebo Dignidad,PODER,20927,4.94,,,
+45,Metropolitana,8,Camilo Morán*,Chile Vamos,RN,17776,4.20,,,
+46,Metropolitana,8,Carmen Hertz,Apruebo Dignidad,PC,15999,3.78,,,
+47,Metropolitana,8,Pablo Vidal,Unidad Constituyente,RD,12225,2.89,,,
+48,Metropolitana,9,Karol Cariola,Apruebo Dignidad,PC,50449,14.95,,,
+49,Metropolitana,9,Erika Olivera,Chile Vamos,RN,30784,9.13,,,
+50,Metropolitana,9,Sebastián Keitel,Chile Vamos,EVO,30233,8.96,,,
+51,Metropolitana,9,Maite Orsini,Apruebo Dignidad,RD,21850,6.48,,,
+52,Metropolitana,9,Jorge Durán,Chile Vamos,RN,19485,5.78,,,
+53,Metropolitana,9,Cristina Girardi,Unidad Constituyente,PPD,16183,4.80,,,
+54,Metropolitana,9,Boris Barrera,Apruebo Dignidad,PC,4347,1.29,,,
+55,Metropolitana,10,Giorgio Jackson,Apruebo Dignidad,RD,103337,23.68,,,
+56,Metropolitana,10,Tomás Fuentes*,Chile Vamos,RN,54573,12.50,,,
+57,Metropolitana,10,Luciano Cruz-Coke,Chile Vamos,EVO,38105,8.73,,,
+58,Metropolitana,10,Jorge Alessandri,Chile Vamos,UDI,30820,7.06,,,
+59,Metropolitana,10,Maya Fernández,Unidad Constituyente,PS,28377,6.50,,,
+60,Metropolitana,10,Sebastián Torrealba,Chile Vamos,RN,10196,2.34,,,
+61,Metropolitana,10,Gonzalo Winter,Apruebo Dignidad,RD,5238,1.20,,,
+62,Metropolitana,10,Natalia Castillo,Unidad Constituyente,RD,4442,1.02,,,
+63,Metropolitana,11,Gonzalo Fuenzalida,Chile Vamos,RN,60112,15.96,,,
+64,Metropolitana,11,Francisco Undurraga,Chile Vamos,EVO,58613,15.56,,,
+65,Metropolitana,11,Catalina del Real,Chile Vamos,RN,43499,11.55,,,
+66,Metropolitana,11,Guillermo Ramírez,Chile Vamos,UDI,30733,8.16,,,
+67,Metropolitana,11,Tomás Hirsch,Humanistas,PH,23605,6.27,,,
+68,Metropolitana,11,Karin Luck,Chile Vamos,RN,6881,1.83,,,
+69,Metropolitana,12,Ximena Ossandón,Chile Vamos,RN,52310,14.99,,,
+70,Metropolitana,12,Camila Vallejo,Apruebo Dignidad,PC,47784,13.70,,,
+71,Metropolitana,12,Pamela Jiles,Humanistas,PH,45026,12.91,,,
+72,Metropolitana,12,Leopoldo Pérez,Chile Vamos,RN,29947,8.58,,,
+73,Metropolitana,12,Álvaro Carter,Chile Vamos,UDI,27353,7.84,,,
+74,Metropolitana,12,Miguel Crispi,Apruebo Dignidad,RD,25609,7.34,,,
+75,Metropolitana,12,Amaro Labra,Apruebo Dignidad,PC,6382,1.83,,,
+76,Metropolitana,13,Guillermo Teillier,Apruebo Dignidad,PC,28780,11.75,,,
+77,Metropolitana,13,Tucapel Jiménez,Unidad Constituyente,PPD,22580,9.21,,,
+78,Metropolitana,13,Eduardo Durán,Chile Vamos,RN,19708,8.04,,,
+79,Metropolitana,13,Cristián Moreira,Chile Vamos,UDI,18127,7.40,,,
+80,Metropolitana,13,Gael Yeomans,Apruebo Dignidad,RD,13686,5.59,,,
+81,Metropolitana,14,Raúl Leiva,Unidad Constituyente,PS,44764,14.77,,,
+82,Metropolitana,14,Marisela Santibáñez,Unidad Constituyente,PRO,35966,11.87,,,
+83,Metropolitana,14,Juan A. Coloma,Chile Vamos,UDI,35717,11.78,,,
+84,Metropolitana,14,Nora Cuevas*,Chile Vamos,UDI,31885,10.52,,,
+85,Metropolitana,14,Leonardo Soto,Unidad Constituyente,PS,22128,7.30,,,
+86,Metropolitana,14,Marcela Sandoval*,Apruebo Dignidad,RD,11593,3.82,,,
+87,O' Higgins,15,Javier Macaya,Chile Vamos,UDI,25198,13.98,,,
+88,O' Higgins,15,Diego Schalper,Chile Vamos,RN,19305,10.71,,,
+89,O' Higgins,15,Juan Luis Castro,Unidad Constituyente,PS,17777,9.86,,,
+90,O' Higgins,15,Isaa Kort,Chile Vamos,UDI,16754,9.29,,,
+91,O' Higgins,15,Raúl Soto,Unidad Constituyente,DC,9024,5.01,,,
+92,O' Higgins,16,Alejandra Sepúlveda,Apruebo Dignidad,FRVS,31685,23.05,,,
+93,O' Higgins,16,Ramón Barros,Chile Vamos,UDI,21867,15.91,,,
+94,O' Higgins,16,Cosme Mellado,Unidad Constituyente,PR,8864,6.45,,,
+95,O' Higgins,16,Virginia Troncoso,Chile Vamos,UDI,7977,5.80,,,
+96,Maule,17,Celso Morales,Chile Vamos,UDI,22049,9.03,,,
+97,Maule,17,Pedro Alvarez-Salamanca,Chile Vamos,UDI,20521,8.40,,,
+98,Maule,17,Hugo Rey,Chile Vamos,RN,20440,8.37,,,
+99,Maule,17,Pablo Lorenzini,Unidad Constituyente,DC,19881,8.14,,,
+100,Maule,17,Alexis Sepúlveda,Unidad Constituyente,PR,18360,7.52,,,
+101,Maule,17,Pablo Prieto,Chile Vamos,RN,14348,5.87,,,
+102,Maule,17,Florcita Alarcón,Humanistas,PH,6535,2.68,,,
+103,Maule,18,Ignacio Urrutia,Republicanos,UDI,17809,14.76,,,
+104,Maule,18,Rolando Rentería,Chile Vamos,UDI,16625,13.78,,,
+105,Maule,18,Jaime Naranjo,Unidad Constituyente,PS,13370,11.08,,,
+106,Maule,18,Manuel Matta,Unidad Constituyente,DC,12825,10.63,,,
+107,Ñuble,19,Jorge Sabag,Unidad Constituyente,DC,28932,14.95,,,
+108,Ñuble,19,Frank Sauerbaum,Chile Vamos,RN,18093,9.35,,,
+109,Ñuble,19,Gustavo Sanhueza,Chile Vamos,UDI,15636,8.08,,,
+110,Ñuble,19,Carlos Abel Jarpa,Unidad Constituyente,PR,15347,7.93,,,
+111,Ñuble,19,Patricia Rubio,Unidad Constituyente,PPD,12711,6.57,,,
+112,Biobío,20,Gastón Saavedra,Unidad Constituyente,PS,30497,9.05,,,
+113,Biobío,20,José Miguel Ortiz,Unidad Constituyente,DC,29441,8.74,,,
+114,Biobío,20,Enrique v. Rysselberghe,Chile Vamos,UDI,28788,8.54,,,
+115,Biobío,20,Francesca Muñoz,Chile Vamos,RN,23133,6.86,,,
+116,Biobío,20,Sergio Bobadilla,Chile Vamos,UDI,18448,5.47,,,
+117,Biobío,20,Félix González,Ecologistas,PEV,18377,5.45,,,
+118,Biobío,20,Leonidas Romero,Chile Vamos,RN,11378,3.38,,,
+119,Biobío,20,Jaime Tohá,Unidad Constituyente,PS,8136,2.41,,,
+120,Biobío,21,Iván Norambuena,Chile Vamos,UDI,33198,17.42,,,
+121,Biobío,21,José Pérez,Unidad Constituyente,PR,27080,14.21,,,
+122,Biobío,21,Cristobal Urruticoechea,Chile Vamos,RN,22159,11.63,,,
+123,Biobío,21,Manuel Monsalve,Unidad Constituyente,PS,19626,10.30,,,
+124,Biobío,21,Joanna Pérez,Unidad Constituyente,DC,11936,6.26,,,
+125,Araucanía,22,Diego Paulsen,Chile Vamos,RN,24317,22.49,,,
+126,Araucanía,22,Jorge Rathgeb,Chile Vamos,RN,21491,19.87,,,
+127,Araucanía,22,Mario Venegas,Unidad Constituyente,DC,14989,13.86 ,,,
+128,Araucanía,22,Andrea Parra,Unidad Constituyente,PPD,10312,9.54,,,
+129,Araucanía,23,Rene Saffirio,Independiente,IND,38486,17.15,,,
+130,Araucanía,23,Andrés Molina,Chile Vamos,EVO,23887,10.64,,,
+131,Araucanía,23,René M. García,Chile Vamos,RN,23064,10.28,,,
+132,Araucanía,23,Ricardo Celis,Unidad Constituyente,PPD,16319,7.27,,,
+133,Araucanía,23,Miguel Mellado,Chile Vamos,RN,13698,6.10,,,
+134,Araucanía,23,Fernando Meza,Unidad Constituyente,PR,13587,6.05,,,
+135,Araucanía,23,Sebastían Álvarez,Chile Vamos,EVO,5312,2.37,,,
+136,Los Ríos,24,Bernardo Berger,Chile Vamos,RN,24096,17.29,,,
+137,Los Ríos,24,Marcos Ilabaca,Unidad Constituyente,PS,15739,11.29,,,
+138,Los Ríos,24,Patricio Rosas,Unidad Constituyente,PS,13299,9.54,,,
+139,Los Ríos,24,Iván Flores,Unidad Constituyente,DC,13242,9.50,,,
+140,Los Ríos,24,Gastón v. Muhlenbrock,Chile Vamos,UDI,12541,9.00,,,
+141,Los Lagos,25,Fidel Espinoza,Unidad Constituyente,PS,27997,21.54,,,
+142,Los Lagos,25,Harry Jurgensen,Chile Vamos,RN,20489,15.76,,,
+143,Los Lagos,25,Javier Hernández,Chile Vamos,UDI,16350,12.58,,,
+144,Los Lagos,25,Emilia Nuyado,Unidad Constituyente,PS,8147,6.27,,,
+145,Los Lagos,26,Alejandro Santana,Chile Vamos,RN,23556,17.10,,,
+146,Los Lagos,26,Carlos Kuschel,Chile Vamos,RN,11259,8.17,,,
+147,Los Lagos,26,Jenny Álvarez,Unidad Constituyente,PS,10169,7.38,,,
+148,Los Lagos,26,Gabriel Ascencio,Unidad Constituyente,DC,9346,6.78,,,
+149,Los Lagos,26,Alejandro Bernales,Unidad Constituyente,PL,6194,4.50,,,
+150,Aysén,27,Miguel Calisto,Unidad Constituyente,DC,8728,24.96,,,
+151,Aysén,27,Aracely Leuquén,Chile Vamos,RN,3901,11.16,,,
+152,Aysén,27,Rene Alinco,Unidad Constituyente,PPD,3095,8.85,,,
+153,Magallanes,28,Gabriel Boric,Apruebo Dignidad,PH,18626,32.82,,,
+154,Magallanes,28,Sandra Amar,Chile Vamos,UDI,6856,12.08,,,
+155,Magallanes,28,Karim Bianchi,Unidad Constituyente,IND,4190,7.38,,,
