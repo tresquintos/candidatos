@@ -1,11 +1,12 @@
 ﻿id,año,cargo,nombre,partido,salida,reemplazo,partido
+1,2018,Diputado,Issa Kort,UDI,15-06-2021,Juan Masferrer,UDI
 2,2018,Diputado,Patricio Melero,UDI,07-04-2021,Cristián Labbé,UDI
-7,2018,Diputada,Loreto Carvajal,PPD,03-03-2021,Patricia Rubio,PPD
-9,2014,Senador,Felipe Harboe,PPD,11-01-2021,Loreto Carvajal,PPD
-1,2018,Diputado,Hugo Gutiérrez,PC,11-01-2021,Rubén Moraga,PC
+3,2018,Diputada,Loreto Carvajal,PPD,03-03-2021,Patricia Rubio,PPD
+4,2014,Senador,Felipe Harboe,PPD,11-01-2021,Loreto Carvajal,PPD
+5,2018,Diputado,Hugo Gutiérrez,PC,11-01-2021,Rubén Moraga,PC
 6,2018,Diputado,Renato Garín,IND,11-01-2021,Marcela Sandoval,RD
-4,2018,Diputada,Marcela Sabat,RN,04-08-2020,Tomás Fuentes,RN
+7,2018,Diputada,Marcela Sabat,RN,04-08-2020,Tomás Fuentes,RN
 8,2014,Senador,Andrés Allamand,RN,28-07-2020,Marcela Sabat,RN
-10,2014,Senador,Víctor Pérez,UDI,28-07-2020,Claudio Alvarado,UDI
-3,2018,Diputado,Mario Desbordes,RN,28-07-2020,Camilo Morán,RN
-5,2018,Diputado,Jaime Bellolio,UDI,28-07-2020,Nora Cuevas,UDI
+9,2014,Senador,Víctor Pérez,UDI,28-07-2020,Claudio Alvarado,UDI
+10,2018,Diputado,Mario Desbordes,RN,28-07-2020,Camilo Morán,RN
+11,2018,Diputado,Jaime Bellolio,UDI,28-07-2020,Nora Cuevas,UDI
